@@ -1,0 +1,663 @@
+[
+  {
+    "state": "Maharashtra",
+    "place_name": "Ajanta Caves",
+    "city_town": "Aurangabad",
+    "type": "Heritage / Archaeology",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 6000,
+    "latitude": 20.5521,
+    "longitude": 75.7033,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Aurangabad Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Cave View Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Vivanta Aurangabad", "price_per_night": 7500},
+        {"hotel_name": "The Gateway Hotel Aurangabad", "price_per_night": 8200}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Ellora Caves",
+    "city_town": "Aurangabad",
+    "type": "Heritage / Archaeology",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 6500,
+    "latitude": 20.0260,
+    "longitude": 75.1793,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Ellora Budget Stay", "price_per_night": 950},
+        {"hotel_name": "Cave Side Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Hotel Rama International", "price_per_night": 7200},
+        {"hotel_name": "Vivanta Aurangabad", "price_per_night": 8000}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Shirdi",
+    "city_town": "Shirdi",
+    "type": "Religious / Pilgrimage",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 5000,
+    "latitude": 19.7669,
+    "longitude": 74.4770,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Shirdi Budget Inn", "price_per_night": 800},
+        {"hotel_name": "Sai Comfort Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Sun-n-Sand Shirdi", "price_per_night": 6000},
+        {"hotel_name": "St Laurn Shirdi", "price_per_night": 6500}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Matheran",
+    "city_town": "Matheran",
+    "type": "Hill Station / Nature",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 5500,
+    "latitude": 18.9883,
+    "longitude": 73.2700,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Matheran Budget Lodge", "price_per_night": 850},
+        {"hotel_name": "Hilltop Guest House", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Fariyas Resort Matheran", "price_per_night": 7200},
+        {"hotel_name": "Radisson Blu Matheran", "price_per_night": 8000}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Lonavala",
+    "city_town": "Lonavala",
+    "type": "Hill Station / Nature",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 6000,
+    "latitude": 18.7500,
+    "longitude": 73.4000,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Lonavala Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Hill View Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Fariyas Resort Lonavala", "price_per_night": 7500},
+        {"hotel_name": "Hilton Shillim Estate", "price_per_night": 9500}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Mahabaleshwar",
+    "city_town": "Mahabaleshwar",
+    "type": "Hill Station / Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Days",
+    "budget_in_inr": 7000,
+    "latitude": 17.9230,
+    "longitude": 73.6583,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Mahabaleshwar Budget Lodge", "price_per_night": 900},
+        {"hotel_name": "Hilltop Guest House", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Le Méridien Mahabaleshwar", "price_per_night": 8000},
+        {"hotel_name": "Evershine Resort", "price_per_night": 8500}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Panchgani",
+    "city_town": "Panchgani",
+    "type": "Hill Station / Nature",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 5000,
+    "latitude": 17.9230,
+    "longitude": 73.8140,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Panchgani Budget Inn", "price_per_night": 850},
+        {"hotel_name": "Table Land Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Brightland Resort Panchgani", "price_per_night": 6500},
+        {"hotel_name": "Evershine Palace Resort", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Tadoba Andhari Tiger Reserve",
+    "city_town": "Chandrapur",
+    "type": "Wildlife / Nature",
+    "hidden_gem": false,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 8000,
+    "latitude": 20.3400,
+    "longitude": 79.3000,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Tadoba Budget Lodge", "price_per_night": 900},
+        {"hotel_name": "Wildlife Guest House", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Tadoba Tiger Resort", "price_per_night": 7500},
+        {"hotel_name": "Wilderness Resort Chandrapur", "price_per_night": 8200}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Shani Shingnapur",
+    "city_town": "Ahmednagar",
+    "type": "Religious / Pilgrimage",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4000,
+    "latitude": 19.8667,
+    "longitude": 74.6167,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Shani Shingnapur Budget Inn", "price_per_night": 750},
+        {"hotel_name": "Shani Guest House", "price_per_night": 800}
+      ],
+      "luxury": [
+        {"hotel_name": "Shingnapur Heritage Stay", "price_per_night": 5500},
+        {"hotel_name": "Royal Pilgrim Resort", "price_per_night": 6200}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Malshej Ghat",
+    "city_town": "Thane",
+    "type": "Hill Station / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 4500,
+    "latitude": 19.3470,
+    "longitude": 73.6050,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Malshej Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Hill View Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Malshej Ghat Resort", "price_per_night": 6500},
+        {"hotel_name": "Royal Hill Retreat", "price_per_night": 7200}
+      ]
+    }
+  },
+  
+  {
+    "state": "Maharashtra",
+    "place_name": "Gateway of India",
+    "city_town": "Mumbai",
+    "type": "Monument / Tourist Attraction",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 7000,
+    "latitude": 18.9218,
+    "longitude": 72.8347,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Mumbai Budget Inn", "price_per_night": 950},
+        {"hotel_name": "Marine Drive Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "The Taj Mahal Palace", "price_per_night": 12000},
+        {"hotel_name": "Trident Nariman Point", "price_per_night": 11000}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Chhatrapati Shivaji Terminus",
+    "city_town": "Mumbai",
+    "type": "Heritage / Architecture",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 6000,
+    "latitude": 18.9402,
+    "longitude": 72.8356,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Fort Area Budget Stay", "price_per_night": 900},
+        {"hotel_name": "CST Comfort Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "ITC Maratha", "price_per_night": 9500},
+        {"hotel_name": "Hotel Marine Plaza", "price_per_night": 9000}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Sanjay Gandhi National Park",
+    "city_town": "Mumbai",
+    "type": "Nature / Wildlife",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4000,
+    "latitude": 19.2155,
+    "longitude": 72.9106,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Borivali Budget Lodge", "price_per_night": 800},
+        {"hotel_name": "Wildlife Guest House", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "National Park Resort", "price_per_night": 6000},
+        {"hotel_name": "Royal Wildlife Stay", "price_per_night": 6800}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Elephanta Caves",
+    "city_town": "Mumbai",
+    "type": "Heritage / Island",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 5000,
+    "latitude": 18.9630,
+    "longitude": 72.9310,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Mumbai Budget Stay", "price_per_night": 850},
+        {"hotel_name": "Gateway Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Elephanta Island Resort", "price_per_night": 6500},
+        {"hotel_name": "Luxury Waterfront Stay", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Pune City",
+    "city_town": "Pune",
+    "type": "City / Cultural",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Days",
+    "budget_in_inr": 7000,
+    "latitude": 18.5204,
+    "longitude": 73.8567,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Pune Budget Stay", "price_per_night": 900},
+        {"hotel_name": "City Comfort Lodge", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "JW Marriott Pune", "price_per_night": 10000},
+        {"hotel_name": "The Westin Pune", "price_per_night": 9500}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Sahyadri Forts (Raigad, Torna)",
+    "city_town": "Raigad",
+    "type": "Fort / Trekking",
+    "hidden_gem": true,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 4500,
+    "latitude": 18.2345,
+    "longitude": 73.4345,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Raigad Budget Lodge", "price_per_night": 800},
+        {"hotel_name": "Fort View Guest House", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Sahyadri Heritage Resort", "price_per_night": 6500},
+        {"hotel_name": "Luxury Trek Stay", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Nashik Vineyards",
+    "city_town": "Nashik",
+    "type": "Nature / Wine Tourism",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 6000,
+    "latitude": 19.9975,
+    "longitude": 73.7898,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Nashik Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Vineyard Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Marriott Resort Nashik", "price_per_night": 7800},
+        {"hotel_name": "Radisson Nashik", "price_per_night": 8200}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Alibaug Beach",
+    "city_town": "Alibaug",
+    "type": "Beach / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 5000,
+    "latitude": 18.6419,
+    "longitude": 72.8756,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Alibaug Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Beachside Guest House", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Radisson Blu Resort Alibaug", "price_per_night": 6500},
+        {"hotel_name": "Sea View Luxury Stay", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Kolhapur Mahalakshmi Temple",
+    "city_town": "Kolhapur",
+    "type": "Religious / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4000,
+    "latitude": 16.7050,
+    "longitude": 74.2433,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Kolhapur Budget Stay", "price_per_night": 750},
+        {"hotel_name": "Temple View Lodge", "price_per_night": 800}
+      ],
+      "luxury": [
+        {"hotel_name": "The Fern Kolhapur", "price_per_night": 5500},
+        {"hotel_name": "Royal Heritage Resort", "price_per_night": 6200}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Aurangabad Bibi Ka Maqbara",
+    "city_town": "Aurangabad",
+    "type": "Heritage / Monument",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 3500,
+    "latitude": 19.8840,
+    "longitude": 75.3515,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Aurangabad Budget Lodge", "price_per_night": 750},
+        {"hotel_name": "Heritage Guest House", "price_per_night": 800}
+      ],
+      "luxury": [
+        {"hotel_name": "Vivanta Aurangabad", "price_per_night": 6000},
+        {"hotel_name": "The Gateway Hotel Aurangabad", "price_per_night": 6500}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Murud-Janjira Fort",
+    "city_town": "Murud",
+    "type": "Heritage / Fort",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 5000,
+    "latitude": 18.9790,
+    "longitude": 72.9950,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Murud Budget Stay", "price_per_night": 850},
+        {"hotel_name": "Fort View Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Murud Luxury Resort", "price_per_night": 6500},
+        {"hotel_name": "Sea View Heritage Stay", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Tungareshwar Wildlife Sanctuary",
+    "city_town": "Vasai",
+    "type": "Wildlife / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 3500,
+    "latitude": 19.3920,
+    "longitude": 72.8640,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Vasai Budget Lodge", "price_per_night": 700},
+        {"hotel_name": "Sanctuary Guest House", "price_per_night": 750}
+      ],
+      "luxury": [
+        {"hotel_name": "Tungareshwar Eco Resort", "price_per_night": 5500},
+        {"hotel_name": "Royal Nature Retreat", "price_per_night": 6200}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Lonar Crater Lake",
+    "city_town": "Lonar",
+    "type": "Nature / Geological",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4000,
+    "latitude": 19.9833,
+    "longitude": 76.5167,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Lonar Budget Inn", "price_per_night": 750},
+        {"hotel_name": "Lake View Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Lonar Heritage Resort", "price_per_night": 6000},
+        {"hotel_name": "Luxury Eco Stay", "price_per_night": 6800}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Sindhudurg Fort",
+    "city_town": "Malvan",
+    "type": "Heritage / Fort",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4500,
+    "latitude": 16.2690,
+    "longitude": 73.4250,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Malvan Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Fort View Guest House", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Sindhudurg Luxury Resort", "price_per_night": 6500},
+        {"hotel_name": "Royal Coastal Retreat", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Karnala Bird Sanctuary",
+    "city_town": "Panvel",
+    "type": "Wildlife / Nature",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 3000,
+    "latitude": 18.9000,
+    "longitude": 73.2000,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Panvel Budget Stay", "price_per_night": 700},
+        {"hotel_name": "Bird Sanctuary Lodge", "price_per_night": 750}
+      ],
+      "luxury": [
+        {"hotel_name": "Karnala Eco Resort", "price_per_night": 5500},
+        {"hotel_name": "Luxury Bird Retreat", "price_per_night": 6200}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Bhandardara",
+    "city_town": "Ahmednagar",
+    "type": "Hill Station / Nature",
+    "hidden_gem": true,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 5000,
+    "latitude": 19.4960,
+    "longitude": 73.7260,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Bhandardara Budget Lodge", "price_per_night": 800},
+        {"hotel_name": "Lake View Guest House", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Bhandardara Luxury Resort", "price_per_night": 6500},
+        {"hotel_name": "Royal Hilltop Stay", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Ratnagiri Beaches",
+    "city_town": "Ratnagiri",
+    "type": "Beach / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 4000,
+    "latitude": 16.9900,
+    "longitude": 73.3000,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Ratnagiri Budget Stay", "price_per_night": 750},
+        {"hotel_name": "Beachside Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Ratnagiri Luxury Resort", "price_per_night": 6000},
+        {"hotel_name": "Royal Coastal Stay", "price_per_night": 6800}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Chorla Ghat",
+    "city_town": "Sahyadri",
+    "type": "Hill / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 4500,
+    "latitude": 15.8000,
+    "longitude": 74.4500,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Chorla Budget Lodge", "price_per_night": 800},
+        {"hotel_name": "Hill View Guest House", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Chorla Ghat Luxury Stay", "price_per_night": 6500},
+        {"hotel_name": "Royal Forest Retreat", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Kanheri Caves",
+    "city_town": "Mumbai",
+    "type": "Heritage / Nature",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 3500,
+    "latitude": 19.2110,
+    "longitude": 72.9100,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Borivali Budget Stay", "price_per_night": 700},
+        {"hotel_name": "Kanheri Guest Lodge", "price_per_night": 750}
+      ],
+      "luxury": [
+        {"hotel_name": "Kanheri Heritage Resort", "price_per_night": 5500},
+        {"hotel_name": "Luxury Nature Retreat", "price_per_night": 6200}
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "place_name": "Patgaon Dam",
+    "city_town": "Kolhapur",
+    "type": "Nature / Waterbody",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4000,
+    "latitude": 16.8000,
+    "longitude": 74.2500,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Patgaon Budget Stay", "price_per_night": 750},
+        {"hotel_name": "Lake View Lodge", "price_per_night": 800}
+      ],
+      "luxury": [
+        {"hotel_name": "Patgaon Luxury Resort", "price_per_night": 6000},
+        {"hotel_name": "Royal Waterfront Retreat", "price_per_night": 6800}
+      ]
+    }
+  }
+]

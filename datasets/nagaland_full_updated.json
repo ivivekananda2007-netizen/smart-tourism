@@ -1,0 +1,1770 @@
+[
+    {
+        "state": "Nagaland",
+        "place_name": "Kohima",
+        "city_town": "Kohima",
+        "type": "Capital City / Cultural",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.6743,
+        "longitude": 94.1108,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kohima Budget Stay",
+                    "price_per_night": 459
+                },
+                {
+                    "hotel_name": "Kohima Comfort Lodge",
+                    "price_per_night": 450
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kohima Grand Resort",
+                    "price_per_night": 4555
+                },
+                {
+                    "hotel_name": "Kohima Royal Palace Hotel",
+                    "price_per_night": 5773
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Dimapur",
+        "city_town": "Dimapur",
+        "type": "Commercial Hub / Entry City",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.904,
+        "longitude": 93.7256,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Dimapur Budget Stay",
+                    "price_per_night": 848
+                },
+                {
+                    "hotel_name": "Dimapur Comfort Lodge",
+                    "price_per_night": 726
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Dimapur Grand Resort",
+                    "price_per_night": 8363
+                },
+                {
+                    "hotel_name": "Dimapur Royal Palace Hotel",
+                    "price_per_night": 11823
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Mokokchung",
+        "city_town": "Mokokchung",
+        "type": "Tribal Town / Culture",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 26.318,
+        "longitude": 94.793,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mokokchung Budget Stay",
+                    "price_per_night": 753
+                },
+                {
+                    "hotel_name": "Mokokchung Comfort Lodge",
+                    "price_per_night": 546
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mokokchung Grand Resort",
+                    "price_per_night": 3556
+                },
+                {
+                    "hotel_name": "Mokokchung Royal Palace Hotel",
+                    "price_per_night": 6324
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Mon Town",
+        "city_town": "Mon",
+        "type": "Tribal Town / Culture",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 26.83,
+        "longitude": 95.095,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mon Budget Stay",
+                    "price_per_night": 694
+                },
+                {
+                    "hotel_name": "Mon Comfort Lodge",
+                    "price_per_night": 602
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mon Grand Resort",
+                    "price_per_night": 8789
+                },
+                {
+                    "hotel_name": "Mon Royal Palace Hotel",
+                    "price_per_night": 5781
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Tuensang",
+        "city_town": "Tuensang",
+        "type": "Hill Town / Tribal",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.269,
+        "longitude": 94.82,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tuensang Budget Stay",
+                    "price_per_night": 895
+                },
+                {
+                    "hotel_name": "Tuensang Comfort Lodge",
+                    "price_per_night": 724
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tuensang Grand Resort",
+                    "price_per_night": 7310
+                },
+                {
+                    "hotel_name": "Tuensang Royal Palace Hotel",
+                    "price_per_night": 7209
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Wokha",
+        "city_town": "Wokha",
+        "type": "Hills / Nature",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.106,
+        "longitude": 94.297,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Wokha Budget Stay",
+                    "price_per_night": 838
+                },
+                {
+                    "hotel_name": "Wokha Comfort Lodge",
+                    "price_per_night": 727
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Wokha Grand Resort",
+                    "price_per_night": 7488
+                },
+                {
+                    "hotel_name": "Wokha Royal Palace Hotel",
+                    "price_per_night": 8452
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Phek Town",
+        "city_town": "Phek",
+        "type": "Town / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.665,
+        "longitude": 94.242,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Phek Budget Stay",
+                    "price_per_night": 632
+                },
+                {
+                    "hotel_name": "Phek Comfort Lodge",
+                    "price_per_night": 676
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Phek Grand Resort",
+                    "price_per_night": 7684
+                },
+                {
+                    "hotel_name": "Phek Royal Palace Hotel",
+                    "price_per_night": 11957
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Kisama Heritage Village",
+        "city_town": "Kisama",
+        "type": "Heritage / Cultural Village",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.6,
+        "longitude": 94.1,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kisama Budget Stay",
+                    "price_per_night": 659
+                },
+                {
+                    "hotel_name": "Kisama Comfort Lodge",
+                    "price_per_night": 928
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kisama Grand Resort",
+                    "price_per_night": 8893
+                },
+                {
+                    "hotel_name": "Kisama Royal Palace Hotel",
+                    "price_per_night": 4638
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Hornbill Festival (seasonal)",
+        "city_town": "Kisama (near Kohima)",
+        "type": "Cultural Festival",
+        "hidden_gem": false,
+        "visit_duration": "1-10 days",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.6,
+        "longitude": 94.1,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kisama (near Kohima) Budget Stay",
+                    "price_per_night": 929
+                },
+                {
+                    "hotel_name": "Kisama (near Kohima) Comfort Lodge",
+                    "price_per_night": 672
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kisama (near Kohima) Grand Resort",
+                    "price_per_night": 8721
+                },
+                {
+                    "hotel_name": "Kisama (near Kohima) Royal Palace Hotel",
+                    "price_per_night": 7125
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Nagaland State Museum",
+        "city_town": "Kohima",
+        "type": "Museum",
+        "hidden_gem": false,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.66,
+        "longitude": 94.11,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kohima Budget Stay",
+                    "price_per_night": 758
+                },
+                {
+                    "hotel_name": "Kohima Comfort Lodge",
+                    "price_per_night": 868
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kohima Grand Resort",
+                    "price_per_night": 8869
+                },
+                {
+                    "hotel_name": "Kohima Royal Palace Hotel",
+                    "price_per_night": 8543
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Nagaland Zoological Park",
+        "city_town": "Chümoukedima",
+        "type": "Zoo / Wildlife",
+        "hidden_gem": true,
+        "visit_duration": "2-4 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.92,
+        "longitude": 93.76,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Chümoukedima Budget Stay",
+                    "price_per_night": 848
+                },
+                {
+                    "hotel_name": "Chümoukedima Comfort Lodge",
+                    "price_per_night": 906
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Chümoukedima Grand Resort",
+                    "price_per_night": 4387
+                },
+                {
+                    "hotel_name": "Chümoukedima Royal Palace Hotel",
+                    "price_per_night": 9551
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Kohima Botanical Garden",
+        "city_town": "Kohima",
+        "type": "Botanical Garden",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.663,
+        "longitude": 94.105,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kohima Budget Stay",
+                    "price_per_night": 451
+                },
+                {
+                    "hotel_name": "Kohima Comfort Lodge",
+                    "price_per_night": 646
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kohima Grand Resort",
+                    "price_per_night": 4206
+                },
+                {
+                    "hotel_name": "Kohima Royal Palace Hotel",
+                    "price_per_night": 8834
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "War Cemetery",
+        "city_town": "Kohima",
+        "type": "Historical Site",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.658,
+        "longitude": 94.106,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kohima Budget Stay",
+                    "price_per_night": 960
+                },
+                {
+                    "hotel_name": "Kohima Comfort Lodge",
+                    "price_per_night": 579
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kohima Grand Resort",
+                    "price_per_night": 3795
+                },
+                {
+                    "hotel_name": "Kohima Royal Palace Hotel",
+                    "price_per_night": 4279
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Kachari Ruins",
+        "city_town": "Dimapur",
+        "type": "Historical Ruins",
+        "hidden_gem": true,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.9,
+        "longitude": 93.734,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Dimapur Budget Stay",
+                    "price_per_night": 729
+                },
+                {
+                    "hotel_name": "Dimapur Comfort Lodge",
+                    "price_per_night": 554
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Dimapur Grand Resort",
+                    "price_per_night": 6905
+                },
+                {
+                    "hotel_name": "Dimapur Royal Palace Hotel",
+                    "price_per_night": 6359
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Triple Falls",
+        "city_town": "Dimapur",
+        "type": "Waterfall",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.91,
+        "longitude": 93.74,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Dimapur Budget Stay",
+                    "price_per_night": 762
+                },
+                {
+                    "hotel_name": "Dimapur Comfort Lodge",
+                    "price_per_night": 724
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Dimapur Grand Resort",
+                    "price_per_night": 5510
+                },
+                {
+                    "hotel_name": "Dimapur Royal Palace Hotel",
+                    "price_per_night": 6495
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Dzükou Valley",
+        "city_town": "On Nagaland–Manipur border",
+        "type": "Valley / Trekking",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 6500,
+        "budget_category": "High",
+        "latitude": 25.75,
+        "longitude": 94.23,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "On Nagaland–Manipur border Budget Stay",
+                    "price_per_night": 673
+                },
+                {
+                    "hotel_name": "On Nagaland–Manipur border Comfort Lodge",
+                    "price_per_night": 656
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "On Nagaland–Manipur border Grand Resort",
+                    "price_per_night": 8716
+                },
+                {
+                    "hotel_name": "On Nagaland–Manipur border Royal Palace Hotel",
+                    "price_per_night": 7647
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Japfu Peak",
+        "city_town": "Kohima District",
+        "type": "Peak / Trekking",
+        "hidden_gem": true,
+        "visit_duration": "2-3 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.75,
+        "longitude": 94.1,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kohima District Budget Stay",
+                    "price_per_night": 754
+                },
+                {
+                    "hotel_name": "Kohima District Comfort Lodge",
+                    "price_per_night": 977
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kohima District Grand Resort",
+                    "price_per_night": 8395
+                },
+                {
+                    "hotel_name": "Kohima District Royal Palace Hotel",
+                    "price_per_night": 7932
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Khonoma Village",
+        "city_town": "Khonoma",
+        "type": "Village / Eco Tourism",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.57,
+        "longitude": 94.11,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Khonoma Budget Stay",
+                    "price_per_night": 924
+                },
+                {
+                    "hotel_name": "Khonoma Comfort Lodge",
+                    "price_per_night": 458
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Khonoma Grand Resort",
+                    "price_per_night": 4306
+                },
+                {
+                    "hotel_name": "Khonoma Royal Palace Hotel",
+                    "price_per_night": 6248
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Pulie Badze",
+        "city_town": "Kohima District",
+        "type": "Nature Retreat / Trek",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.67,
+        "longitude": 94.11,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kohima District Budget Stay",
+                    "price_per_night": 823
+                },
+                {
+                    "hotel_name": "Kohima District Comfort Lodge",
+                    "price_per_night": 872
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kohima District Grand Resort",
+                    "price_per_night": 8268
+                },
+                {
+                    "hotel_name": "Kohima District Royal Palace Hotel",
+                    "price_per_night": 5673
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Longwa Village",
+        "city_town": "Mon District",
+        "type": "Border Village / Tribal heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.0,
+        "longitude": 95.09,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mon District Budget Stay",
+                    "price_per_night": 524
+                },
+                {
+                    "hotel_name": "Mon District Comfort Lodge",
+                    "price_per_night": 805
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mon District Grand Resort",
+                    "price_per_night": 7044
+                },
+                {
+                    "hotel_name": "Mon District Royal Palace Hotel",
+                    "price_per_night": 4967
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Ungma Village",
+        "city_town": "Mokokchung",
+        "type": "Tribal Village",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.33,
+        "longitude": 94.78,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mokokchung Budget Stay",
+                    "price_per_night": 989
+                },
+                {
+                    "hotel_name": "Mokokchung Comfort Lodge",
+                    "price_per_night": 568
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mokokchung Grand Resort",
+                    "price_per_night": 6552
+                },
+                {
+                    "hotel_name": "Mokokchung Royal Palace Hotel",
+                    "price_per_night": 8151
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Longkhum Village",
+        "city_town": "Mokokchung",
+        "type": "Village / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.32,
+        "longitude": 94.8,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mokokchung Budget Stay",
+                    "price_per_night": 956
+                },
+                {
+                    "hotel_name": "Mokokchung Comfort Lodge",
+                    "price_per_night": 864
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mokokchung Grand Resort",
+                    "price_per_night": 4105
+                },
+                {
+                    "hotel_name": "Mokokchung Royal Palace Hotel",
+                    "price_per_night": 6665
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Chuchuyimlang Village",
+        "city_town": "Mokokchung",
+        "type": "Cultural Village",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.31,
+        "longitude": 94.79,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mokokchung Budget Stay",
+                    "price_per_night": 494
+                },
+                {
+                    "hotel_name": "Mokokchung Comfort Lodge",
+                    "price_per_night": 775
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mokokchung Grand Resort",
+                    "price_per_night": 8971
+                },
+                {
+                    "hotel_name": "Mokokchung Royal Palace Hotel",
+                    "price_per_night": 11571
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Doyang River",
+        "city_town": "Wokha",
+        "type": "River / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.1,
+        "longitude": 94.29,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Wokha Budget Stay",
+                    "price_per_night": 930
+                },
+                {
+                    "hotel_name": "Wokha Comfort Lodge",
+                    "price_per_night": 679
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Wokha Grand Resort",
+                    "price_per_night": 8356
+                },
+                {
+                    "hotel_name": "Wokha Royal Palace Hotel",
+                    "price_per_night": 8796
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Mount Tiyi",
+        "city_town": "Wokha",
+        "type": "Hills / Trekking",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.11,
+        "longitude": 94.3,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Wokha Budget Stay",
+                    "price_per_night": 755
+                },
+                {
+                    "hotel_name": "Wokha Comfort Lodge",
+                    "price_per_night": 980
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Wokha Grand Resort",
+                    "price_per_night": 8901
+                },
+                {
+                    "hotel_name": "Wokha Royal Palace Hotel",
+                    "price_per_night": 6864
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Tsadang",
+        "city_town": "Tuensang",
+        "type": "Hill / Panoramic Views",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.28,
+        "longitude": 94.81,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tuensang Budget Stay",
+                    "price_per_night": 534
+                },
+                {
+                    "hotel_name": "Tuensang Comfort Lodge",
+                    "price_per_night": 641
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tuensang Grand Resort",
+                    "price_per_night": 5736
+                },
+                {
+                    "hotel_name": "Tuensang Royal Palace Hotel",
+                    "price_per_night": 11949
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Noklak Town",
+        "city_town": "Noklak",
+        "type": "Remote Town / Tribal Culture",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.76,
+        "longitude": 95.12,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Noklak Budget Stay",
+                    "price_per_night": 494
+                },
+                {
+                    "hotel_name": "Noklak Comfort Lodge",
+                    "price_per_night": 468
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Noklak Grand Resort",
+                    "price_per_night": 6963
+                },
+                {
+                    "hotel_name": "Noklak Royal Palace Hotel",
+                    "price_per_night": 8498
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Changsangmongko",
+        "city_town": "Tuensang District",
+        "type": "Forest / Nature",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.27,
+        "longitude": 94.82,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tuensang District Budget Stay",
+                    "price_per_night": 747
+                },
+                {
+                    "hotel_name": "Tuensang District Comfort Lodge",
+                    "price_per_night": 587
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tuensang District Grand Resort",
+                    "price_per_night": 7758
+                },
+                {
+                    "hotel_name": "Tuensang District Royal Palace Hotel",
+                    "price_per_night": 4114
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Peren Caves (Rani Gaidinliu Caves)",
+        "city_town": "Peren",
+        "type": "Cave / Historical",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.6,
+        "longitude": 93.5,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Peren Budget Stay",
+                    "price_per_night": 445
+                },
+                {
+                    "hotel_name": "Peren Comfort Lodge",
+                    "price_per_night": 783
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Peren Grand Resort",
+                    "price_per_night": 4564
+                },
+                {
+                    "hotel_name": "Peren Royal Palace Hotel",
+                    "price_per_night": 4208
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Wawade Waterfall",
+        "city_town": "Kiphire District",
+        "type": "Waterfall / Nature",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.45,
+        "longitude": 94.65,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kiphire District Budget Stay",
+                    "price_per_night": 441
+                },
+                {
+                    "hotel_name": "Kiphire District Comfort Lodge",
+                    "price_per_night": 901
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kiphire District Grand Resort",
+                    "price_per_night": 8052
+                },
+                {
+                    "hotel_name": "Kiphire District Royal Palace Hotel",
+                    "price_per_night": 9713
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Mimi Village",
+        "city_town": "Phek District",
+        "type": "Village / Nature",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.66,
+        "longitude": 94.25,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Phek District Budget Stay",
+                    "price_per_night": 681
+                },
+                {
+                    "hotel_name": "Phek District Comfort Lodge",
+                    "price_per_night": 746
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Phek District Grand Resort",
+                    "price_per_night": 8647
+                },
+                {
+                    "hotel_name": "Phek District Royal Palace Hotel",
+                    "price_per_night": 8208
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Siphi Salt River",
+        "city_town": "Phek District",
+        "type": "Scenic River",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.64,
+        "longitude": 94.27,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Phek District Budget Stay",
+                    "price_per_night": 955
+                },
+                {
+                    "hotel_name": "Phek District Comfort Lodge",
+                    "price_per_night": 897
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Phek District Grand Resort",
+                    "price_per_night": 4134
+                },
+                {
+                    "hotel_name": "Phek District Royal Palace Hotel",
+                    "price_per_night": 11944
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Aghunato Village",
+        "city_town": "Zunheboto District",
+        "type": "Heritage Village / Tribal",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.05,
+        "longitude": 94.55,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Zunheboto District Budget Stay",
+                    "price_per_night": 856
+                },
+                {
+                    "hotel_name": "Zunheboto District Comfort Lodge",
+                    "price_per_night": 435
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Zunheboto District Grand Resort",
+                    "price_per_night": 8445
+                },
+                {
+                    "hotel_name": "Zunheboto District Royal Palace Hotel",
+                    "price_per_night": 10917
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Chokri Village",
+        "city_town": "Phek District",
+        "type": "Tribal Village / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.64,
+        "longitude": 94.22,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Phek District Budget Stay",
+                    "price_per_night": 499
+                },
+                {
+                    "hotel_name": "Phek District Comfort Lodge",
+                    "price_per_night": 681
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Phek District Grand Resort",
+                    "price_per_night": 4620
+                },
+                {
+                    "hotel_name": "Phek District Royal Palace Hotel",
+                    "price_per_night": 6958
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Meluri Town",
+        "city_town": "Phek District",
+        "type": "Hill Town / Cultural",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.62,
+        "longitude": 94.21,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Phek District Budget Stay",
+                    "price_per_night": 416
+                },
+                {
+                    "hotel_name": "Phek District Comfort Lodge",
+                    "price_per_night": 905
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Phek District Grand Resort",
+                    "price_per_night": 7974
+                },
+                {
+                    "hotel_name": "Phek District Royal Palace Hotel",
+                    "price_per_night": 9854
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Tsurung Village",
+        "city_town": "Mon District",
+        "type": "Remote Village / Culture",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.85,
+        "longitude": 95.08,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mon District Budget Stay",
+                    "price_per_night": 529
+                },
+                {
+                    "hotel_name": "Mon District Comfort Lodge",
+                    "price_per_night": 644
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mon District Grand Resort",
+                    "price_per_night": 8943
+                },
+                {
+                    "hotel_name": "Mon District Royal Palace Hotel",
+                    "price_per_night": 4145
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Changkikong",
+        "city_town": "Tuensang District",
+        "type": "Village / Tribal Culture",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.29,
+        "longitude": 94.83,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tuensang District Budget Stay",
+                    "price_per_night": 430
+                },
+                {
+                    "hotel_name": "Tuensang District Comfort Lodge",
+                    "price_per_night": 925
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tuensang District Grand Resort",
+                    "price_per_night": 8421
+                },
+                {
+                    "hotel_name": "Tuensang District Royal Palace Hotel",
+                    "price_per_night": 8665
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Atoizu Village",
+        "city_town": "Wokha District",
+        "type": "Heritage Village / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.1,
+        "longitude": 94.28,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Wokha District Budget Stay",
+                    "price_per_night": 684
+                },
+                {
+                    "hotel_name": "Wokha District Comfort Lodge",
+                    "price_per_night": 630
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Wokha District Grand Resort",
+                    "price_per_night": 3943
+                },
+                {
+                    "hotel_name": "Wokha District Royal Palace Hotel",
+                    "price_per_night": 8866
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Zunheboto Town",
+        "city_town": "Zunheboto",
+        "type": "Hill Town / Cultural",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.05,
+        "longitude": 94.53,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Zunheboto Budget Stay",
+                    "price_per_night": 643
+                },
+                {
+                    "hotel_name": "Zunheboto Comfort Lodge",
+                    "price_per_night": 681
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Zunheboto Grand Resort",
+                    "price_per_night": 7179
+                },
+                {
+                    "hotel_name": "Zunheboto Royal Palace Hotel",
+                    "price_per_night": 9511
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Noksen Village",
+        "city_town": "Tuensang District",
+        "type": "Village / Tribal Culture",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.28,
+        "longitude": 94.84,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tuensang District Budget Stay",
+                    "price_per_night": 548
+                },
+                {
+                    "hotel_name": "Tuensang District Comfort Lodge",
+                    "price_per_night": 554
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tuensang District Grand Resort",
+                    "price_per_night": 5232
+                },
+                {
+                    "hotel_name": "Tuensang District Royal Palace Hotel",
+                    "price_per_night": 11664
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Mangkolemba",
+        "city_town": "Mokokchung District",
+        "type": "Town / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.31,
+        "longitude": 94.8,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mokokchung District Budget Stay",
+                    "price_per_night": 432
+                },
+                {
+                    "hotel_name": "Mokokchung District Comfort Lodge",
+                    "price_per_night": 979
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mokokchung District Grand Resort",
+                    "price_per_night": 8013
+                },
+                {
+                    "hotel_name": "Mokokchung District Royal Palace Hotel",
+                    "price_per_night": 7200
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Pfütsero",
+        "city_town": "Phek District",
+        "type": "Hill Town / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.68,
+        "longitude": 94.22,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Phek District Budget Stay",
+                    "price_per_night": 463
+                },
+                {
+                    "hotel_name": "Phek District Comfort Lodge",
+                    "price_per_night": 525
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Phek District Grand Resort",
+                    "price_per_night": 5030
+                },
+                {
+                    "hotel_name": "Phek District Royal Palace Hotel",
+                    "price_per_night": 6384
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Akuluto",
+        "city_town": "Zunheboto District",
+        "type": "Village / Cultural",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.04,
+        "longitude": 94.54,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Zunheboto District Budget Stay",
+                    "price_per_night": 860
+                },
+                {
+                    "hotel_name": "Zunheboto District Comfort Lodge",
+                    "price_per_night": 803
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Zunheboto District Grand Resort",
+                    "price_per_night": 3987
+                },
+                {
+                    "hotel_name": "Zunheboto District Royal Palace Hotel",
+                    "price_per_night": 7322
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Jotsoma",
+        "city_town": "Kohima District",
+        "type": "Village / Viewpoint",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.67,
+        "longitude": 94.11,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kohima District Budget Stay",
+                    "price_per_night": 760
+                },
+                {
+                    "hotel_name": "Kohima District Comfort Lodge",
+                    "price_per_night": 799
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kohima District Grand Resort",
+                    "price_per_night": 8882
+                },
+                {
+                    "hotel_name": "Kohima District Royal Palace Hotel",
+                    "price_per_night": 6997
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Phomching Village",
+        "city_town": "Mokokchung",
+        "type": "Tribal Village",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.33,
+        "longitude": 94.79,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mokokchung Budget Stay",
+                    "price_per_night": 728
+                },
+                {
+                    "hotel_name": "Mokokchung Comfort Lodge",
+                    "price_per_night": 903
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mokokchung Grand Resort",
+                    "price_per_night": 4969
+                },
+                {
+                    "hotel_name": "Mokokchung Royal Palace Hotel",
+                    "price_per_night": 7584
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Wokha Viewpoint",
+        "city_town": "Wokha",
+        "type": "Hill / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.11,
+        "longitude": 94.3,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Wokha Budget Stay",
+                    "price_per_night": 486
+                },
+                {
+                    "hotel_name": "Wokha Comfort Lodge",
+                    "price_per_night": 755
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Wokha Grand Resort",
+                    "price_per_night": 6403
+                },
+                {
+                    "hotel_name": "Wokha Royal Palace Hotel",
+                    "price_per_night": 9409
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Longleng Town",
+        "city_town": "Longleng",
+        "type": "Hill Town / Tribal Culture",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.11,
+        "longitude": 94.86,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Longleng Budget Stay",
+                    "price_per_night": 962
+                },
+                {
+                    "hotel_name": "Longleng Comfort Lodge",
+                    "price_per_night": 809
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Longleng Grand Resort",
+                    "price_per_night": 4817
+                },
+                {
+                    "hotel_name": "Longleng Royal Palace Hotel",
+                    "price_per_night": 9412
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Khezhakeno Village",
+        "city_town": "Phek District",
+        "type": "Heritage Village / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.65,
+        "longitude": 94.24,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Phek District Budget Stay",
+                    "price_per_night": 973
+                },
+                {
+                    "hotel_name": "Phek District Comfort Lodge",
+                    "price_per_night": 630
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Phek District Grand Resort",
+                    "price_per_night": 5210
+                },
+                {
+                    "hotel_name": "Phek District Royal Palace Hotel",
+                    "price_per_night": 10771
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Hosehe Village",
+        "city_town": "Mokokchung District",
+        "type": "Tribal Village / Culture",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.32,
+        "longitude": 94.78,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mokokchung District Budget Stay",
+                    "price_per_night": 666
+                },
+                {
+                    "hotel_name": "Mokokchung District Comfort Lodge",
+                    "price_per_night": 602
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mokokchung District Grand Resort",
+                    "price_per_night": 3684
+                },
+                {
+                    "hotel_name": "Mokokchung District Royal Palace Hotel",
+                    "price_per_night": 5922
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Tseminyu",
+        "city_town": "Phek District",
+        "type": "Hill Town / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.65,
+        "longitude": 94.23,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Phek District Budget Stay",
+                    "price_per_night": 655
+                },
+                {
+                    "hotel_name": "Phek District Comfort Lodge",
+                    "price_per_night": 737
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Phek District Grand Resort",
+                    "price_per_night": 5611
+                },
+                {
+                    "hotel_name": "Phek District Royal Palace Hotel",
+                    "price_per_night": 6617
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Rünguzu Village",
+        "city_town": "Phek District",
+        "type": "Village / Heritage",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.64,
+        "longitude": 94.22,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Phek District Budget Stay",
+                    "price_per_night": 460
+                },
+                {
+                    "hotel_name": "Phek District Comfort Lodge",
+                    "price_per_night": 569
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Phek District Grand Resort",
+                    "price_per_night": 4128
+                },
+                {
+                    "hotel_name": "Phek District Royal Palace Hotel",
+                    "price_per_night": 4555
+                }
+            ]
+        }
+    },
+    {
+        "state": "Nagaland",
+        "place_name": "Sangtam Villages Cluster",
+        "city_town": "Tuensang District",
+        "type": "Heritage / Tribal Culture",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 26.27,
+        "longitude": 94.82,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tuensang District Budget Stay",
+                    "price_per_night": 882
+                },
+                {
+                    "hotel_name": "Tuensang District Comfort Lodge",
+                    "price_per_night": 695
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tuensang District Grand Resort",
+                    "price_per_night": 4383
+                },
+                {
+                    "hotel_name": "Tuensang District Royal Palace Hotel",
+                    "price_per_night": 8744
+                }
+            ]
+        }
+    }
+]

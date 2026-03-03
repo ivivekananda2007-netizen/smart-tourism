@@ -1,0 +1,976 @@
+[
+  {
+    "state": "Delhi",
+    "place_name": "India Gate",
+    "city_town": "New Delhi",
+    "type": "Historical / Memorial",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 300,
+    "latitude": 28.6129,
+    "longitude": 77.2295,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "New Delhi Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "New Delhi Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "New Delhi Grand Resort", "price_per_night": 8500 },
+        { "hotel_name": "New Delhi Royal Palace Hotel", "price_per_night": 9600 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Red Fort",
+    "city_town": "Old Delhi",
+    "type": "Historical Fort",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 500,
+    "latitude": 28.6562,
+    "longitude": 77.2410,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Old Delhi Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Old Delhi Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Old Delhi Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Old Delhi Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Qutub Minar",
+    "city_town": "Mehrauli",
+    "type": "Historical / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 400,
+    "latitude": 28.5244,
+    "longitude": 77.1855,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Mehrauli Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Mehrauli Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Mehrauli Grand Resort", "price_per_night": 8500 },
+        { "hotel_name": "Mehrauli Royal Palace Hotel", "price_per_night": 9600 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Lotus Temple",
+    "city_town": "South Delhi",
+    "type": "Religious / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 300,
+    "latitude": 28.5535,
+    "longitude": 77.2588,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "South Delhi Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "South Delhi Comfort Lodge", "price_per_night": 1300 }
+      ],
+      "luxury": [
+        { "hotel_name": "South Delhi Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "South Delhi Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Humayun’s Tomb",
+    "city_town": "Nizamuddin",
+    "type": "Historical / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 400,
+    "latitude": 28.5933,
+    "longitude": 77.2507,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Nizamuddin Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Nizamuddin Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Nizamuddin Grand Resort", "price_per_night": 8500 },
+        { "hotel_name": "Nizamuddin Royal Palace Hotel", "price_per_night": 9700 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Chandni Chowk",
+    "city_town": "Old Delhi",
+    "type": "Market / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 200,
+    "latitude": 28.6560,
+    "longitude": 77.2300,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Old Delhi Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Old Delhi Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Old Delhi Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Old Delhi Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Raj Ghat",
+    "city_town": "New Delhi",
+    "type": "Memorial / Historical",
+    "hidden_gem": false,
+    "visit_duration": "1 Hour",
+    "budget_in_inr": 250,
+    "latitude": 28.6400,
+    "longitude": 77.2450,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "New Delhi Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "New Delhi Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "New Delhi Grand Resort", "price_per_night": 8500 },
+        { "hotel_name": "New Delhi Royal Palace Hotel", "price_per_night": 9600 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Connaught Place",
+    "city_town": "New Delhi",
+    "type": "Market / Leisure",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 400,
+    "latitude": 28.6315,
+    "longitude": 77.2167,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "New Delhi Budget Stay", "price_per_night": 1000 },
+        { "hotel_name": "New Delhi Comfort Lodge", "price_per_night": 1300 }
+      ],
+      "luxury": [
+        { "hotel_name": "New Delhi Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "New Delhi Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Lodhi Gardens",
+    "city_town": "Central Delhi",
+    "type": "Park / Historical",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 200,
+    "latitude": 28.5935,
+    "longitude": 77.2190,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Central Delhi Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Central Delhi Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Central Delhi Grand Resort", "price_per_night": 8500 },
+        { "hotel_name": "Central Delhi Royal Palace Hotel", "price_per_night": 9600 }
+      ]
+    }
+  }
+]
+[
+  {
+    "state": "Delhi",
+    "place_name": "Jama Masjid",
+    "city_town": "Old Delhi",
+    "type": "Religious / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 300,
+    "latitude": 28.6507,
+    "longitude": 77.2334,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Old Delhi Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Old Delhi Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Old Delhi Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Old Delhi Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Red Fort Archaeological Museum",
+    "city_town": "Old Delhi",
+    "type": "Historical / Museum",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 350,
+    "latitude": 28.6565,
+    "longitude": 77.2415,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Old Delhi Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Old Delhi Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Old Delhi Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Old Delhi Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Agrasen ki Baoli",
+    "city_town": "Connaught Place",
+    "type": "Historical / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "30-60 Minutes",
+    "budget_in_inr": 200,
+    "latitude": 28.6323,
+    "longitude": 77.2197,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Connaught Place Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Connaught Place Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Connaught Place Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "Connaught Place Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Hauz Khas Village",
+    "city_town": "South Delhi",
+    "type": "Leisure / Historical",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 500,
+    "latitude": 28.5494,
+    "longitude": 77.2003,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "South Delhi Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "South Delhi Comfort Lodge", "price_per_night": 1300 }
+      ],
+      "luxury": [
+        { "hotel_name": "South Delhi Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "South Delhi Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "National Rail Museum",
+    "city_town": "Chanakyapuri",
+    "type": "Museum / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 300,
+    "latitude": 28.6011,
+    "longitude": 77.1888,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chanakyapuri Budget Stay", "price_per_night": 1000 },
+        { "hotel_name": "Chanakyapuri Comfort Lodge", "price_per_night": 1300 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chanakyapuri Grand Resort", "price_per_night": 8800 },
+        { "hotel_name": "Chanakyapuri Royal Palace Hotel", "price_per_night": 9600 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Purana Qila",
+    "city_town": "Mathura Road",
+    "type": "Historical Fort",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 350,
+    "latitude": 28.6085,
+    "longitude": 77.2433,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Mathura Road Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Mathura Road Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Mathura Road Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "Mathura Road Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Rashtrapati Bhavan (Visitor Area)",
+    "city_town": "New Delhi",
+    "type": "Government / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2 Hours",
+    "budget_in_inr": 300,
+    "latitude": 28.6143,
+    "longitude": 77.1995,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "New Delhi Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "New Delhi Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "New Delhi Grand Resort", "price_per_night": 8500 },
+        { "hotel_name": "New Delhi Royal Palace Hotel", "price_per_night": 9600 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Dilli Haat",
+    "city_town": "INA",
+    "type": "Market / Cultural",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 400,
+    "latitude": 28.5883,
+    "longitude": 77.2170,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "INA Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "INA Comfort Lodge", "price_per_night": 1300 }
+      ],
+      "luxury": [
+        { "hotel_name": "INA Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "INA Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Akshardham Temple",
+    "city_town": "Noida / East Delhi",
+    "type": "Religious / Cultural",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 500,
+    "latitude": 28.6123,
+    "longitude": 77.2773,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "East Delhi Budget Stay", "price_per_night": 1000 },
+        { "hotel_name": "East Delhi Comfort Lodge", "price_per_night": 1300 }
+      ],
+      "luxury": [
+        { "hotel_name": "East Delhi Grand Resort", "price_per_night": 8800 },
+        { "hotel_name": "East Delhi Royal Palace Hotel", "price_per_night": 9600 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "National Museum",
+    "city_town": "Janpath",
+    "type": "Museum / Cultural",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 400,
+    "latitude": 28.6129,
+    "longitude": 77.2160,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Janpath Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Janpath Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Janpath Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "Janpath Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  }
+]
+[
+  {
+    "state": "Delhi",
+    "place_name": "Indira Gandhi Memorial Museum",
+    "city_town": "Safdarjung",
+    "type": "Historical / Museum",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 300,
+    "latitude": 28.5847,
+    "longitude": 77.1885,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Safdarjung Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Safdarjung Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Safdarjung Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "Safdarjung Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Jantar Mantar",
+    "city_town": "Connaught Place",
+    "type": "Historical / Science",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 250,
+    "latitude": 28.6272,
+    "longitude": 77.2161,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Connaught Place Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Connaught Place Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Connaught Place Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "Connaught Place Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Kamala Nehru Park",
+    "city_town": "Civil Lines",
+    "type": "Park / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 150,
+    "latitude": 28.6495,
+    "longitude": 77.2142,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Civil Lines Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Civil Lines Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Civil Lines Grand Resort", "price_per_night": 8500 },
+        { "hotel_name": "Civil Lines Royal Palace Hotel", "price_per_night": 9600 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Purana Qila Museum",
+    "city_town": "Mathura Road",
+    "type": "Museum / Historical",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 300,
+    "latitude": 28.6085,
+    "longitude": 77.2433,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Mathura Road Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Mathura Road Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Mathura Road Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "Mathura Road Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Yamuna Biodiversity Park",
+    "city_town": "Wazirabad",
+    "type": "Nature / Park",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 200,
+    "latitude": 28.7000,
+    "longitude": 77.2330,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Wazirabad Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Wazirabad Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Wazirabad Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "Wazirabad Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Bangla Sahib Gurudwara",
+    "city_town": "Connaught Place",
+    "type": "Religious / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 250,
+    "latitude": 28.6320,
+    "longitude": 77.2177,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Connaught Place Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Connaught Place Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Connaught Place Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "Connaught Place Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Safdarjung Tomb",
+    "city_town": "Safdarjung",
+    "type": "Historical / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 300,
+    "latitude": 28.5850,
+    "longitude": 77.2080,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Safdarjung Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Safdarjung Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Safdarjung Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "Safdarjung Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Crafts Museum",
+    "city_town": "Bhuli Bhatiyari",
+    "type": "Museum / Cultural",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 350,
+    "latitude": 28.6165,
+    "longitude": 77.2175,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Bhuli Bhatiyari Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Bhuli Bhatiyari Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Bhuli Bhatiyari Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "Bhuli Bhatiyari Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Majnu ka Tilla",
+    "city_town": "North Delhi",
+    "type": "Cultural / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 300,
+    "latitude": 28.7078,
+    "longitude": 77.1881,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "North Delhi Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "North Delhi Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "North Delhi Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "North Delhi Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Tughlaqabad Fort",
+    "city_town": "South Delhi",
+    "type": "Historical Fort",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 400,
+    "latitude": 28.5265,
+    "longitude": 77.2662,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "South Delhi Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "South Delhi Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "South Delhi Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "South Delhi Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  }
+]
+[
+  {
+    "state": "Delhi",
+    "place_name": "Mirza Ghalib Museum",
+    "city_town": "Nizamuddin",
+    "type": "Museum / Literary Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 250,
+    "latitude": 28.5915,
+    "longitude": 77.2470,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Nizamuddin Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Nizamuddin Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Nizamuddin Grand Resort", "price_per_night": 8500 },
+        { "hotel_name": "Nizamuddin Royal Palace Hotel", "price_per_night": 9600 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Feroz Shah Kotla Fort",
+    "city_town": "Central Delhi",
+    "type": "Historical Fort",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 300,
+    "latitude": 28.6435,
+    "longitude": 77.2345,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Central Delhi Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Central Delhi Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Central Delhi Grand Resort", "price_per_night": 8500 },
+        { "hotel_name": "Central Delhi Royal Palace Hotel", "price_per_night": 9600 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Chhatarpur Temple",
+    "city_town": "South Delhi",
+    "type": "Religious / Cultural",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 200,
+    "latitude": 28.5401,
+    "longitude": 77.1852,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "South Delhi Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "South Delhi Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "South Delhi Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "South Delhi Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Majnu ka Tila Gurudwara",
+    "city_town": "North Delhi",
+    "type": "Religious / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1 Hour",
+    "budget_in_inr": 200,
+    "latitude": 28.7080,
+    "longitude": 77.1883,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "North Delhi Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "North Delhi Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "North Delhi Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "North Delhi Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Delhi Ridge",
+    "city_town": "North Delhi",
+    "type": "Nature / Park",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 150,
+    "latitude": 28.6800,
+    "longitude": 77.1800,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "North Delhi Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "North Delhi Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "North Delhi Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "North Delhi Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Sulabh International Museum of Toilets",
+    "city_town": "Palam",
+    "type": "Museum / Quirky",
+    "hidden_gem": true,
+    "visit_duration": "1 Hour",
+    "budget_in_inr": 100,
+    "latitude": 28.5500,
+    "longitude": 77.1200,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Palam Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Palam Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Palam Grand Resort", "price_per_night": 8500 },
+        { "hotel_name": "Palam Royal Palace Hotel", "price_per_night": 9600 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Bhuli Bhatiyari Ka Mahal",
+    "city_town": "Central Delhi",
+    "type": "Historical / Ruins",
+    "hidden_gem": true,
+    "visit_duration": "30-60 Minutes",
+    "budget_in_inr": 150,
+    "latitude": 28.6125,
+    "longitude": 77.2200,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Central Delhi Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Central Delhi Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Central Delhi Grand Resort", "price_per_night": 8500 },
+        { "hotel_name": "Central Delhi Royal Palace Hotel", "price_per_night": 9600 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Asola Bhatti Wildlife Sanctuary",
+    "city_town": "South Delhi",
+    "type": "Nature / Wildlife",
+    "hidden_gem": true,
+    "visit_duration": "2-4 Hours",
+    "budget_in_inr": 200,
+    "latitude": 28.4700,
+    "longitude": 77.3000,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "South Delhi Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "South Delhi Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "South Delhi Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "South Delhi Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Mughal Gardens",
+    "city_town": "Rashtrapati Bhavan",
+    "type": "Heritage / Garden",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 300,
+    "latitude": 28.6142,
+    "longitude": 77.1997,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "New Delhi Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "New Delhi Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "New Delhi Grand Resort", "price_per_night": 8500 },
+        { "hotel_name": "New Delhi Royal Palace Hotel", "price_per_night": 9600 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Tibetan Market / Majnu ka Tilla",
+    "city_town": "North Delhi",
+    "type": "Market / Cultural",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 300,
+    "latitude": 28.7078,
+    "longitude": 77.1881,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "North Delhi Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "North Delhi Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "North Delhi Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "North Delhi Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Hastsal Village / Fort",
+    "city_town": "West Delhi",
+    "type": "Historical / Ruins",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 200,
+    "latitude": 28.6480,
+    "longitude": 77.0800,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "West Delhi Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "West Delhi Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "West Delhi Grand Resort", "price_per_night": 8500 },
+        { "hotel_name": "West Delhi Royal Palace Hotel", "price_per_night": 9600 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Deer Park",
+    "city_town": "South Delhi",
+    "type": "Nature / Park",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 150,
+    "latitude": 28.5670,
+    "longitude": 77.2080,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "South Delhi Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "South Delhi Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "South Delhi Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "South Delhi Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Nehru Planetarium",
+    "city_town": "South Delhi",
+    "type": "Science / Educational",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 250,
+    "latitude": 28.5670,
+    "longitude": 77.2085,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "South Delhi Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "South Delhi Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "South Delhi Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "South Delhi Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "National Zoological Park",
+    "city_town": "Mathura Road",
+    "type": "Nature / Wildlife",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 300,
+    "latitude": 28.6035,
+    "longitude": 77.2430,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Mathura Road Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Mathura Road Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Mathura Road Grand Resort", "price_per_night": 8700 },
+        { "hotel_name": "Mathura Road Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Delhi",
+    "place_name": "Rashtrapati Bhavan Museum",
+    "city_town": "New Delhi",
+    "type": "Museum / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 350,
+    "latitude": 28.6143,
+    "longitude": 77.1995,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "New Delhi Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "New Delhi Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "New Delhi Grand Resort", "price_per_night": 8500 },
+        { "hotel_name": "New Delhi Royal Palace Hotel", "price_per_night": 9600 }
+      ]
+    }
+  }
+]

@@ -1,0 +1,1838 @@
+[
+    {
+        "state": "Manipur",
+        "place_name": "Imphal",
+        "city_town": "Imphal",
+        "type": "Capital City / Cultural",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 24.817,
+        "longitude": 93.9368,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Imphal Budget Stay",
+                    "price_per_night": 725
+                },
+                {
+                    "hotel_name": "Imphal Comfort Lodge",
+                    "price_per_night": 700
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Imphal Grand Resort",
+                    "price_per_night": 4732
+                },
+                {
+                    "hotel_name": "Imphal Royal Palace Hotel",
+                    "price_per_night": 4459
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Loktak Lake",
+        "city_town": "Bishnupur",
+        "type": "Freshwater Lake",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 24.587,
+        "longitude": 93.945,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Bishnupur Budget Stay",
+                    "price_per_night": 467
+                },
+                {
+                    "hotel_name": "Bishnupur Comfort Lodge",
+                    "price_per_night": 996
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Bishnupur Grand Resort",
+                    "price_per_night": 8687
+                },
+                {
+                    "hotel_name": "Bishnupur Royal Palace Hotel",
+                    "price_per_night": 10865
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Keibul Lamjao National Park",
+        "city_town": "Bishnupur",
+        "type": "Wildlife / National Park",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 6000,
+        "budget_category": "High",
+        "latitude": 24.625,
+        "longitude": 93.938,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Bishnupur Budget Stay",
+                    "price_per_night": 419
+                },
+                {
+                    "hotel_name": "Bishnupur Comfort Lodge",
+                    "price_per_night": 927
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Bishnupur Grand Resort",
+                    "price_per_night": 4403
+                },
+                {
+                    "hotel_name": "Bishnupur Royal Palace Hotel",
+                    "price_per_night": 7981
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Kangla Fort",
+        "city_town": "Imphal",
+        "type": "Historical Fort",
+        "hidden_gem": false,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 24.81,
+        "longitude": 93.938,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Imphal Budget Stay",
+                    "price_per_night": 890
+                },
+                {
+                    "hotel_name": "Imphal Comfort Lodge",
+                    "price_per_night": 889
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Imphal Grand Resort",
+                    "price_per_night": 8838
+                },
+                {
+                    "hotel_name": "Imphal Royal Palace Hotel",
+                    "price_per_night": 9255
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Thangjing Temple",
+        "city_town": "Moirang",
+        "type": "Religious / Cultural",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 24.625,
+        "longitude": 93.84,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Moirang Budget Stay",
+                    "price_per_night": 540
+                },
+                {
+                    "hotel_name": "Moirang Comfort Lodge",
+                    "price_per_night": 813
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Moirang Grand Resort",
+                    "price_per_night": 7139
+                },
+                {
+                    "hotel_name": "Moirang Royal Palace Hotel",
+                    "price_per_night": 4374
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Sekta Archaeological Living Museum",
+        "city_town": "Sekta",
+        "type": "Archaeological Museum",
+        "hidden_gem": true,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.833,
+        "longitude": 94.08,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Sekta Budget Stay",
+                    "price_per_night": 938
+                },
+                {
+                    "hotel_name": "Sekta Comfort Lodge",
+                    "price_per_night": 490
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Sekta Grand Resort",
+                    "price_per_night": 5458
+                },
+                {
+                    "hotel_name": "Sekta Royal Palace Hotel",
+                    "price_per_night": 6472
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Marjing Polo Complex",
+        "city_town": "Imphal East",
+        "type": "Cultural / Sports Complex",
+        "hidden_gem": true,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.848,
+        "longitude": 93.967,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Imphal East Budget Stay",
+                    "price_per_night": 694
+                },
+                {
+                    "hotel_name": "Imphal East Comfort Lodge",
+                    "price_per_night": 743
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Imphal East Grand Resort",
+                    "price_per_night": 6303
+                },
+                {
+                    "hotel_name": "Imphal East Royal Palace Hotel",
+                    "price_per_night": 11622
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Nongmaiching Hill",
+        "city_town": "Imphal",
+        "type": "Hill / Pilgrimage",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.82,
+        "longitude": 93.97,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Imphal Budget Stay",
+                    "price_per_night": 886
+                },
+                {
+                    "hotel_name": "Imphal Comfort Lodge",
+                    "price_per_night": 910
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Imphal Grand Resort",
+                    "price_per_night": 3850
+                },
+                {
+                    "hotel_name": "Imphal Royal Palace Hotel",
+                    "price_per_night": 11110
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Sadu Chiru Waterfall",
+        "city_town": "Senapati",
+        "type": "Waterfall",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.95,
+        "longitude": 94.15,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Senapati Budget Stay",
+                    "price_per_night": 664
+                },
+                {
+                    "hotel_name": "Senapati Comfort Lodge",
+                    "price_per_night": 618
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Senapati Grand Resort",
+                    "price_per_night": 7258
+                },
+                {
+                    "hotel_name": "Senapati Royal Palace Hotel",
+                    "price_per_night": 8821
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Kangchup",
+        "city_town": "Imphal West",
+        "type": "Hill / Picnic Spot",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.83,
+        "longitude": 93.85,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Imphal West Budget Stay",
+                    "price_per_night": 929
+                },
+                {
+                    "hotel_name": "Imphal West Comfort Lodge",
+                    "price_per_night": 840
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Imphal West Grand Resort",
+                    "price_per_night": 4135
+                },
+                {
+                    "hotel_name": "Imphal West Royal Palace Hotel",
+                    "price_per_night": 4945
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Shirui Hills",
+        "city_town": "Ukhrul",
+        "type": "Hill Station / Trekking",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.0667,
+        "longitude": 94.2333,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Ukhrul Budget Stay",
+                    "price_per_night": 920
+                },
+                {
+                    "hotel_name": "Ukhrul Comfort Lodge",
+                    "price_per_night": 849
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Ukhrul Grand Resort",
+                    "price_per_night": 4260
+                },
+                {
+                    "hotel_name": "Ukhrul Royal Palace Hotel",
+                    "price_per_night": 5732
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Khughrai Valley",
+        "city_town": "Ukhrul",
+        "type": "Valley / Nature",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.08,
+        "longitude": 94.24,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Ukhrul Budget Stay",
+                    "price_per_night": 904
+                },
+                {
+                    "hotel_name": "Ukhrul Comfort Lodge",
+                    "price_per_night": 697
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Ukhrul Grand Resort",
+                    "price_per_night": 8691
+                },
+                {
+                    "hotel_name": "Ukhrul Royal Palace Hotel",
+                    "price_per_night": 6201
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Shirui Lily Location",
+        "city_town": "Ukhrul",
+        "type": "Floral / Nature",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.07,
+        "longitude": 94.23,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Ukhrul Budget Stay",
+                    "price_per_night": 869
+                },
+                {
+                    "hotel_name": "Ukhrul Comfort Lodge",
+                    "price_per_night": 882
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Ukhrul Grand Resort",
+                    "price_per_night": 4254
+                },
+                {
+                    "hotel_name": "Ukhrul Royal Palace Hotel",
+                    "price_per_night": 4885
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Dzuko Valley",
+        "city_town": "Senapati",
+        "type": "Valley / Trekking",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.0,
+        "longitude": 94.35,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Senapati Budget Stay",
+                    "price_per_night": 928
+                },
+                {
+                    "hotel_name": "Senapati Comfort Lodge",
+                    "price_per_night": 944
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Senapati Grand Resort",
+                    "price_per_night": 4147
+                },
+                {
+                    "hotel_name": "Senapati Royal Palace Hotel",
+                    "price_per_night": 4659
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Khoupum Valley",
+        "city_town": "Tamenglong",
+        "type": "Valley / Nature",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.7167,
+        "longitude": 93.1667,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tamenglong Budget Stay",
+                    "price_per_night": 539
+                },
+                {
+                    "hotel_name": "Tamenglong Comfort Lodge",
+                    "price_per_night": 941
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tamenglong Grand Resort",
+                    "price_per_night": 5541
+                },
+                {
+                    "hotel_name": "Tamenglong Royal Palace Hotel",
+                    "price_per_night": 4922
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Tharon Cave",
+        "city_town": "Tamenglong",
+        "type": "Cave / Adventure",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.7,
+        "longitude": 93.15,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tamenglong Budget Stay",
+                    "price_per_night": 466
+                },
+                {
+                    "hotel_name": "Tamenglong Comfort Lodge",
+                    "price_per_night": 781
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tamenglong Grand Resort",
+                    "price_per_night": 4922
+                },
+                {
+                    "hotel_name": "Tamenglong Royal Palace Hotel",
+                    "price_per_night": 11693
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Andaro Village",
+        "city_town": "Tamenglong",
+        "type": "Heritage / Culture",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.7,
+        "longitude": 93.2,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tamenglong Budget Stay",
+                    "price_per_night": 531
+                },
+                {
+                    "hotel_name": "Tamenglong Comfort Lodge",
+                    "price_per_night": 640
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tamenglong Grand Resort",
+                    "price_per_night": 4004
+                },
+                {
+                    "hotel_name": "Tamenglong Royal Palace Hotel",
+                    "price_per_night": 9958
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Phangrei Hill",
+        "city_town": "Ukhrul",
+        "type": "Hill / Nature",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.07,
+        "longitude": 94.24,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Ukhrul Budget Stay",
+                    "price_per_night": 646
+                },
+                {
+                    "hotel_name": "Ukhrul Comfort Lodge",
+                    "price_per_night": 544
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Ukhrul Grand Resort",
+                    "price_per_night": 5873
+                },
+                {
+                    "hotel_name": "Ukhrul Royal Palace Hotel",
+                    "price_per_night": 8926
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Ningshing Khun (Memorial Park)",
+        "city_town": "Jiribam",
+        "type": "Memorial / Biodiversity Park",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.9,
+        "longitude": 93.7,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Jiribam Budget Stay",
+                    "price_per_night": 431
+                },
+                {
+                    "hotel_name": "Jiribam Comfort Lodge",
+                    "price_per_night": 491
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Jiribam Grand Resort",
+                    "price_per_night": 8682
+                },
+                {
+                    "hotel_name": "Jiribam Royal Palace Hotel",
+                    "price_per_night": 8102
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Sendra Island",
+        "city_town": "Bishnupur",
+        "type": "Island / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.58,
+        "longitude": 93.94,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Bishnupur Budget Stay",
+                    "price_per_night": 950
+                },
+                {
+                    "hotel_name": "Bishnupur Comfort Lodge",
+                    "price_per_night": 932
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Bishnupur Grand Resort",
+                    "price_per_night": 4075
+                },
+                {
+                    "hotel_name": "Bishnupur Royal Palace Hotel",
+                    "price_per_night": 9589
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Loukoipat Lake",
+        "city_town": "Bishnupur",
+        "type": "Lake",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.58,
+        "longitude": 93.94,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Bishnupur Budget Stay",
+                    "price_per_night": 605
+                },
+                {
+                    "hotel_name": "Bishnupur Comfort Lodge",
+                    "price_per_night": 432
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Bishnupur Grand Resort",
+                    "price_per_night": 6048
+                },
+                {
+                    "hotel_name": "Bishnupur Royal Palace Hotel",
+                    "price_per_night": 9947
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "INA War Museum",
+        "city_town": "Moirang",
+        "type": "Museum",
+        "hidden_gem": false,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 24.62,
+        "longitude": 93.84,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Moirang Budget Stay",
+                    "price_per_night": 490
+                },
+                {
+                    "hotel_name": "Moirang Comfort Lodge",
+                    "price_per_night": 824
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Moirang Grand Resort",
+                    "price_per_night": 4907
+                },
+                {
+                    "hotel_name": "Moirang Royal Palace Hotel",
+                    "price_per_night": 8370
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Moirang Cultural Town",
+        "city_town": "Moirang",
+        "type": "Cultural Town",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 24.62,
+        "longitude": 93.84,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Moirang Budget Stay",
+                    "price_per_night": 661
+                },
+                {
+                    "hotel_name": "Moirang Comfort Lodge",
+                    "price_per_night": 458
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Moirang Grand Resort",
+                    "price_per_night": 5381
+                },
+                {
+                    "hotel_name": "Moirang Royal Palace Hotel",
+                    "price_per_night": 10536
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Imphal War Cemeteries",
+        "city_town": "Imphal",
+        "type": "Historical Site",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 24.81,
+        "longitude": 93.937,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Imphal Budget Stay",
+                    "price_per_night": 852
+                },
+                {
+                    "hotel_name": "Imphal Comfort Lodge",
+                    "price_per_night": 413
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Imphal Grand Resort",
+                    "price_per_night": 7084
+                },
+                {
+                    "hotel_name": "Imphal Royal Palace Hotel",
+                    "price_per_night": 9786
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Ima Keithel (Women’s Market)",
+        "city_town": "Imphal",
+        "type": "Market / Cultural",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 24.817,
+        "longitude": 93.94,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Imphal Budget Stay",
+                    "price_per_night": 881
+                },
+                {
+                    "hotel_name": "Imphal Comfort Lodge",
+                    "price_per_night": 783
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Imphal Grand Resort",
+                    "price_per_night": 3856
+                },
+                {
+                    "hotel_name": "Imphal Royal Palace Hotel",
+                    "price_per_night": 8289
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Imphal War Cemeteries",
+        "city_town": "Imphal",
+        "type": "Historical / War Memorial",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 24.81,
+        "longitude": 93.937,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Imphal Budget Stay",
+                    "price_per_night": 823
+                },
+                {
+                    "hotel_name": "Imphal Comfort Lodge",
+                    "price_per_night": 751
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Imphal Grand Resort",
+                    "price_per_night": 6665
+                },
+                {
+                    "hotel_name": "Imphal Royal Palace Hotel",
+                    "price_per_night": 8555
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Manipur State Museum",
+        "city_town": "Imphal",
+        "type": "Museum",
+        "hidden_gem": false,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 24.815,
+        "longitude": 93.944,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Imphal Budget Stay",
+                    "price_per_night": 539
+                },
+                {
+                    "hotel_name": "Imphal Comfort Lodge",
+                    "price_per_night": 444
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Imphal Grand Resort",
+                    "price_per_night": 6701
+                },
+                {
+                    "hotel_name": "Imphal Royal Palace Hotel",
+                    "price_per_night": 5381
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Manipur Zoological Garden",
+        "city_town": "Iroisemba",
+        "type": "Zoo / Wildlife",
+        "hidden_gem": false,
+        "visit_duration": "2-4 hours",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 24.82,
+        "longitude": 93.93,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Iroisemba Budget Stay",
+                    "price_per_night": 817
+                },
+                {
+                    "hotel_name": "Iroisemba Comfort Lodge",
+                    "price_per_night": 727
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Iroisemba Grand Resort",
+                    "price_per_night": 8527
+                },
+                {
+                    "hotel_name": "Iroisemba Royal Palace Hotel",
+                    "price_per_night": 6165
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Khonghampat Orchidarium",
+        "city_town": "Imphal",
+        "type": "Botanical Garden",
+        "hidden_gem": true,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.82,
+        "longitude": 93.94,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Imphal Budget Stay",
+                    "price_per_night": 778
+                },
+                {
+                    "hotel_name": "Imphal Comfort Lodge",
+                    "price_per_night": 787
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Imphal Grand Resort",
+                    "price_per_night": 4561
+                },
+                {
+                    "hotel_name": "Imphal Royal Palace Hotel",
+                    "price_per_night": 8654
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Shaheed Minar",
+        "city_town": "Imphal",
+        "type": "Monument",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 24.81,
+        "longitude": 93.9385,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Imphal Budget Stay",
+                    "price_per_night": 612
+                },
+                {
+                    "hotel_name": "Imphal Comfort Lodge",
+                    "price_per_night": 768
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Imphal Grand Resort",
+                    "price_per_night": 4194
+                },
+                {
+                    "hotel_name": "Imphal Royal Palace Hotel",
+                    "price_per_night": 4354
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Khongjom War Memorial",
+        "city_town": "Thoubal",
+        "type": "War Memorial / Historic Site",
+        "hidden_gem": true,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.653,
+        "longitude": 94.055,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Thoubal Budget Stay",
+                    "price_per_night": 570
+                },
+                {
+                    "hotel_name": "Thoubal Comfort Lodge",
+                    "price_per_night": 578
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Thoubal Grand Resort",
+                    "price_per_night": 6454
+                },
+                {
+                    "hotel_name": "Thoubal Royal Palace Hotel",
+                    "price_per_night": 7884
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Maibam Lotpa Ching (Red Hill)",
+        "city_town": "Nambol",
+        "type": "Historical Site",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.75,
+        "longitude": 93.9,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Nambol Budget Stay",
+                    "price_per_night": 619
+                },
+                {
+                    "hotel_name": "Nambol Comfort Lodge",
+                    "price_per_night": 746
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Nambol Grand Resort",
+                    "price_per_night": 6663
+                },
+                {
+                    "hotel_name": "Nambol Royal Palace Hotel",
+                    "price_per_night": 10994
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Kaina",
+        "city_town": "Imphal-West",
+        "type": "Sacred Hillock",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.78,
+        "longitude": 93.9,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Imphal-West Budget Stay",
+                    "price_per_night": 638
+                },
+                {
+                    "hotel_name": "Imphal-West Comfort Lodge",
+                    "price_per_night": 728
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Imphal-West Grand Resort",
+                    "price_per_night": 4268
+                },
+                {
+                    "hotel_name": "Imphal-West Royal Palace Hotel",
+                    "price_per_night": 9080
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Loukoi Pat (Tiny Lake)",
+        "city_town": "Bishnupur",
+        "type": "Lake",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.59,
+        "longitude": 93.945,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Bishnupur Budget Stay",
+                    "price_per_night": 755
+                },
+                {
+                    "hotel_name": "Bishnupur Comfort Lodge",
+                    "price_per_night": 926
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Bishnupur Grand Resort",
+                    "price_per_night": 3958
+                },
+                {
+                    "hotel_name": "Bishnupur Royal Palace Hotel",
+                    "price_per_night": 7844
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Singda Dam",
+        "city_town": "Imphal-West",
+        "type": "Scenic Dam / Picnic Spot",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.84,
+        "longitude": 93.85,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Imphal-West Budget Stay",
+                    "price_per_night": 766
+                },
+                {
+                    "hotel_name": "Imphal-West Comfort Lodge",
+                    "price_per_night": 935
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Imphal-West Grand Resort",
+                    "price_per_night": 6971
+                },
+                {
+                    "hotel_name": "Imphal-West Royal Palace Hotel",
+                    "price_per_night": 11018
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Moreh Border Town",
+        "city_town": "Moreh",
+        "type": "Cultural / Border Market",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.289,
+        "longitude": 97.372,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Moreh Budget Stay",
+                    "price_per_night": 799
+                },
+                {
+                    "hotel_name": "Moreh Comfort Lodge",
+                    "price_per_night": 423
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Moreh Grand Resort",
+                    "price_per_night": 6521
+                },
+                {
+                    "hotel_name": "Moreh Royal Palace Hotel",
+                    "price_per_night": 9766
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Churachandpur Town",
+        "city_town": "Churachandpur",
+        "type": "Tribal Town / Market",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.333,
+        "longitude": 93.7,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Churachandpur Budget Stay",
+                    "price_per_night": 449
+                },
+                {
+                    "hotel_name": "Churachandpur Comfort Lodge",
+                    "price_per_night": 662
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Churachandpur Grand Resort",
+                    "price_per_night": 8307
+                },
+                {
+                    "hotel_name": "Churachandpur Royal Palace Hotel",
+                    "price_per_night": 8391
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Ukhrul Town",
+        "city_town": "Ukhrul",
+        "type": "Hill Town / Culture",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.0,
+        "longitude": 94.283,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Ukhrul Budget Stay",
+                    "price_per_night": 733
+                },
+                {
+                    "hotel_name": "Ukhrul Comfort Lodge",
+                    "price_per_night": 981
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Ukhrul Grand Resort",
+                    "price_per_night": 8711
+                },
+                {
+                    "hotel_name": "Ukhrul Royal Palace Hotel",
+                    "price_per_night": 9858
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Khangkhui Lime Caves",
+        "city_town": "Ukhrul",
+        "type": "Cave",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.03,
+        "longitude": 94.25,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Ukhrul Budget Stay",
+                    "price_per_night": 626
+                },
+                {
+                    "hotel_name": "Ukhrul Comfort Lodge",
+                    "price_per_night": 621
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Ukhrul Grand Resort",
+                    "price_per_night": 7149
+                },
+                {
+                    "hotel_name": "Ukhrul Royal Palace Hotel",
+                    "price_per_night": 7378
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Ango Ching Forest",
+        "city_town": "Ukhrul District",
+        "type": "Forest / Nature",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.02,
+        "longitude": 94.3,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Ukhrul District Budget Stay",
+                    "price_per_night": 693
+                },
+                {
+                    "hotel_name": "Ukhrul District Comfort Lodge",
+                    "price_per_night": 430
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Ukhrul District Grand Resort",
+                    "price_per_night": 6084
+                },
+                {
+                    "hotel_name": "Ukhrul District Royal Palace Hotel",
+                    "price_per_night": 9447
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Kachouphung Lake",
+        "city_town": "Ukhrul Area",
+        "type": "Lake",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.01,
+        "longitude": 94.26,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Ukhrul Area Budget Stay",
+                    "price_per_night": 476
+                },
+                {
+                    "hotel_name": "Ukhrul Area Comfort Lodge",
+                    "price_per_night": 649
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Ukhrul Area Grand Resort",
+                    "price_per_night": 6131
+                },
+                {
+                    "hotel_name": "Ukhrul Area Royal Palace Hotel",
+                    "price_per_night": 6187
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Saline Springs at Rajal & Marem",
+        "city_town": "Senapati",
+        "type": "Natural Springs",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.15,
+        "longitude": 94.1,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Senapati Budget Stay",
+                    "price_per_night": 537
+                },
+                {
+                    "hotel_name": "Senapati Comfort Lodge",
+                    "price_per_night": 464
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Senapati Grand Resort",
+                    "price_per_night": 5277
+                },
+                {
+                    "hotel_name": "Senapati Royal Palace Hotel",
+                    "price_per_night": 9585
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Haolaipai Supao Deikulu Cave",
+        "city_town": "Phuba Thapham",
+        "type": "Cave",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.08,
+        "longitude": 94.15,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Phuba Thapham Budget Stay",
+                    "price_per_night": 826
+                },
+                {
+                    "hotel_name": "Phuba Thapham Comfort Lodge",
+                    "price_per_night": 515
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Phuba Thapham Grand Resort",
+                    "price_per_night": 6436
+                },
+                {
+                    "hotel_name": "Phuba Thapham Royal Palace Hotel",
+                    "price_per_night": 10385
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Yangkhullen Village",
+        "city_town": "Senapati",
+        "type": "Heritage Village",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.12,
+        "longitude": 94.12,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Senapati Budget Stay",
+                    "price_per_night": 582
+                },
+                {
+                    "hotel_name": "Senapati Comfort Lodge",
+                    "price_per_night": 596
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Senapati Grand Resort",
+                    "price_per_night": 5263
+                },
+                {
+                    "hotel_name": "Senapati Royal Palace Hotel",
+                    "price_per_night": 8990
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Mao Town",
+        "city_town": "Senapati",
+        "type": "Hill Town / Cultural",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.06,
+        "longitude": 94.09,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Senapati Budget Stay",
+                    "price_per_night": 819
+                },
+                {
+                    "hotel_name": "Senapati Comfort Lodge",
+                    "price_per_night": 689
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Senapati Grand Resort",
+                    "price_per_night": 5610
+                },
+                {
+                    "hotel_name": "Senapati Royal Palace Hotel",
+                    "price_per_night": 6207
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Zilad Lakes",
+        "city_town": "Tamenglong",
+        "type": "Lake / Nature",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.68,
+        "longitude": 93.15,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tamenglong Budget Stay",
+                    "price_per_night": 403
+                },
+                {
+                    "hotel_name": "Tamenglong Comfort Lodge",
+                    "price_per_night": 782
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tamenglong Grand Resort",
+                    "price_per_night": 6337
+                },
+                {
+                    "hotel_name": "Tamenglong Royal Palace Hotel",
+                    "price_per_night": 10338
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Buning Meadow",
+        "city_town": "Tamenglong",
+        "type": "Meadow / Nature",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.69,
+        "longitude": 93.16,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tamenglong Budget Stay",
+                    "price_per_night": 532
+                },
+                {
+                    "hotel_name": "Tamenglong Comfort Lodge",
+                    "price_per_night": 609
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tamenglong Grand Resort",
+                    "price_per_night": 6476
+                },
+                {
+                    "hotel_name": "Tamenglong Royal Palace Hotel",
+                    "price_per_night": 10605
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Barak Waterfalls",
+        "city_town": "Tamenglong",
+        "type": "Waterfall",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.7,
+        "longitude": 93.14,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tamenglong Budget Stay",
+                    "price_per_night": 636
+                },
+                {
+                    "hotel_name": "Tamenglong Comfort Lodge",
+                    "price_per_night": 592
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tamenglong Grand Resort",
+                    "price_per_night": 4431
+                },
+                {
+                    "hotel_name": "Tamenglong Royal Palace Hotel",
+                    "price_per_night": 6413
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Hundung Mangva Falls",
+        "city_town": "Senapati",
+        "type": "Waterfall",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.14,
+        "longitude": 94.12,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Senapati Budget Stay",
+                    "price_per_night": 473
+                },
+                {
+                    "hotel_name": "Senapati Comfort Lodge",
+                    "price_per_night": 775
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Senapati Grand Resort",
+                    "price_per_night": 7524
+                },
+                {
+                    "hotel_name": "Senapati Royal Palace Hotel",
+                    "price_per_night": 7189
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Khangkhui Mangsor Falls",
+        "city_town": "Ukhrul",
+        "type": "Waterfall",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.03,
+        "longitude": 94.24,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Ukhrul Budget Stay",
+                    "price_per_night": 417
+                },
+                {
+                    "hotel_name": "Ukhrul Comfort Lodge",
+                    "price_per_night": 794
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Ukhrul Grand Resort",
+                    "price_per_night": 6089
+                },
+                {
+                    "hotel_name": "Ukhrul Royal Palace Hotel",
+                    "price_per_night": 10602
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Tharon Cave",
+        "city_town": "Tamenglong",
+        "type": "Cave / Adventure",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.7,
+        "longitude": 93.15,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tamenglong Budget Stay",
+                    "price_per_night": 851
+                },
+                {
+                    "hotel_name": "Tamenglong Comfort Lodge",
+                    "price_per_night": 999
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tamenglong Grand Resort",
+                    "price_per_night": 6538
+                },
+                {
+                    "hotel_name": "Tamenglong Royal Palace Hotel",
+                    "price_per_night": 4103
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "INA War Museum",
+        "city_town": "Moirang",
+        "type": "War Museum",
+        "hidden_gem": false,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 24.62,
+        "longitude": 93.84,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Moirang Budget Stay",
+                    "price_per_night": 671
+                },
+                {
+                    "hotel_name": "Moirang Comfort Lodge",
+                    "price_per_night": 480
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Moirang Grand Resort",
+                    "price_per_night": 6987
+                },
+                {
+                    "hotel_name": "Moirang Royal Palace Hotel",
+                    "price_per_night": 7989
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Govindajee Temple",
+        "city_town": "Imphal",
+        "type": "Temple / Religious",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 24.815,
+        "longitude": 93.938,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Imphal Budget Stay",
+                    "price_per_night": 516
+                },
+                {
+                    "hotel_name": "Imphal Comfort Lodge",
+                    "price_per_night": 956
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Imphal Grand Resort",
+                    "price_per_night": 8005
+                },
+                {
+                    "hotel_name": "Imphal Royal Palace Hotel",
+                    "price_per_night": 10397
+                }
+            ]
+        }
+    },
+    {
+        "state": "Manipur",
+        "place_name": "Ima Keithel (Women’s Market)",
+        "city_town": "Imphal",
+        "type": "Market / Cultural",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 24.817,
+        "longitude": 93.94,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Imphal Budget Stay",
+                    "price_per_night": 532
+                },
+                {
+                    "hotel_name": "Imphal Comfort Lodge",
+                    "price_per_night": 517
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Imphal Grand Resort",
+                    "price_per_night": 7094
+                },
+                {
+                    "hotel_name": "Imphal Royal Palace Hotel",
+                    "price_per_night": 9063
+                }
+            ]
+        }
+    }
+]

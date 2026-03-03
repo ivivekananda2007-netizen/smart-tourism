@@ -1,0 +1,1178 @@
+[
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "Charminar",
+    "city_town": "Hyderabad",
+    "type": "Heritage / Monument",
+    "importance": "Iconic 16th‑century Indo‑Islamic monument and cultural symbol of Hyderabad",
+    "hidden_gem": false,
+    "visit_duration": "2-4 Hours",
+    "best_season": "October to March",
+    "annual_visitors_est": 1500000,
+    "latitude": 17.3616,
+    "longitude": 78.4747,
+    "average_budget_in_inr": 2500,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi International Airport (HYD)",
+    "nearest_railway_station": "Hyderabad Deccan",
+    "accommodation": {
+      "budget": [{ "name": "Budget Stay Near Charminar", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Hotel Pearl Continental", "avg_price_per_night": 3500 }],
+      "luxury": [{ "name": "Taj Krishna, Hyderabad", "avg_price_per_night": 12000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "Golconda Fort",
+    "city_town": "Hyderabad",
+    "type": "Fort / Heritage",
+    "importance": "Historic fort of Qutb Shahi dynasty, famed for its acoustics and light show",
+    "hidden_gem": false,
+    "visit_duration": "3-5 Hours",
+    "best_season": "October to March",
+    "annual_visitors_est": 1550000,
+    "latitude": 17.3833,
+    "longitude": 78.4011,
+    "average_budget_in_inr": 2800,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi International Airport (HYD)",
+    "nearest_railway_station": "Moula Ali",
+    "accommodation": {
+      "budget": [{ "name": "Budget Fort Stay Hyderabad", "avg_price_per_night": 1100 }],
+      "mid_range": [{ "name": "Fort Guest House", "avg_price_per_night": 3200 }],
+      "luxury": [{ "name": "Treebo Trend Grande", "avg_price_per_night": 6800 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "Salar Jung Museum",
+    "city_town": "Hyderabad",
+    "type": "Museum / Cultural",
+    "importance": "World‑class museum with a vast collection of artefacts and art from around the world",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "best_season": "October to March",
+    "annual_visitors_est": 550000,
+    "latitude": 17.3850,
+    "longitude": 78.4027,
+    "average_budget_in_inr": 2200,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi International Airport (HYD)",
+    "nearest_railway_station": "Kacheguda",
+    "accommodation": {
+      "budget": [{ "name": "Kacheguda Budget Inn", "avg_price_per_night": 1500 }],
+      "mid_range": [{ "name": "Hotel Shilton", "avg_price_per_night": 3800 }],
+      "luxury": [{ "name": "Taj Deccan", "avg_price_per_night": 12500 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "Hussain Sagar Lake",
+    "city_town": "Hyderabad",
+    "type": "Lake / Urban Nature",
+    "importance": "Historic artificial lake with large Buddha statue and boating activities",
+    "hidden_gem": false,
+    "visit_duration": "3-4 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 1200000,
+    "latitude": 17.4239,
+    "longitude": 78.4738,
+    "average_budget_in_inr": 2500,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi International Airport (HYD)",
+    "nearest_railway_station": "Secunderabad Junction",
+    "accommodation": {
+      "budget": [{ "name": "Lake View Budget Stay", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Hotel Pearl Continental", "avg_price_per_night": 3900 }],
+      "luxury": [{ "name": "Novotel Hyderabad Convention Centre", "avg_price_per_night": 8500 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "Chowmahalla Palace",
+    "city_town": "Hyderabad",
+    "type": "Palace / Heritage",
+    "importance": "Royal palace complex of the Nizams with elegant courtyards and royal collections",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "best_season": "October to March",
+    "annual_visitors_est": 820000,
+    "latitude": 17.3611,
+    "longitude": 78.4788,
+    "average_budget_in_inr": 3000,
+    "budget_category": "Medium",
+    "nearest_airport": "Rajiv Gandhi International Airport (HYD)",
+    "nearest_railway_station": "Hyderabad Deccan",
+    "accommodation": {
+      "budget": [{ "name": "Old City Budget Stay", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Hotel Sarovar Premiere", "avg_price_per_night": 4200 }],
+      "luxury": [{ "name": "ITC Kohenur", "avg_price_per_night": 14000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "Ramoji Film City",
+    "city_town": "Hyderabad",
+    "type": "Entertainment / Studio Park",
+    "importance": "World’s largest film studio complex with entertainment zones and live sets",
+    "hidden_gem": false,
+    "visit_duration": "Full Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 1150000,
+    "latitude": 17.2547,
+    "longitude": 78.6041,
+    "average_budget_in_inr": 9000,
+    "budget_category": "High",
+    "nearest_airport": "Rajiv Gandhi International Airport (HYD)",
+    "nearest_railway_station": "Shamshabad",
+    "accommodation": {
+      "budget": [{ "name": "Ramoji Film City Guest House", "avg_price_per_night": 2000 }],
+      "mid_range": [{ "name": "Ramoji Resort", "avg_price_per_night": 5500 }],
+      "luxury": [{ "name": "Vivanta Hyderabad", "avg_price_per_night": 12000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "Mecca Masjid",
+    "city_town": "Hyderabad",
+    "type": "Religious / Mosque",
+    "importance": "One of the largest mosques in India with striking stone architecture",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Hours",
+    "best_season": "October to March",
+    "annual_visitors_est": 900000,
+    "latitude": 17.3610,
+    "longitude": 78.4725,
+    "average_budget_in_inr": 1800,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi International Airport (HYD)",
+    "nearest_railway_station": "Hyderabad Deccan",
+    "accommodation": {
+      "budget": [{ "name": "Old City Guest House", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Hotel La Tableau", "avg_price_per_night": 2600 }],
+      "luxury": [{ "name": "Hotel Sitara Grand", "avg_price_per_night": 6500 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "Birla Mandir",
+    "city_town": "Hyderabad",
+    "type": "Temple / Religious",
+    "importance": "Marble temple dedicated to Lord Venkateswara with scenic city views",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Hours",
+    "best_season": "October to March",
+    "annual_visitors_est": 600000,
+    "latitude": 17.4065,
+    "longitude": 78.4692,
+    "average_budget_in_inr": 1500,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi International Airport (HYD)",
+    "nearest_railway_station": "Secunderabad Junction",
+    "accommodation": {
+      "budget": [{ "name": "Budget Stay near Mandir", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Hotel Swagath Grand", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Marriott Hotel & Convention Centre", "avg_price_per_night": 11000 }]
+    }
+  }
+]
+[
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "Nehru Zoological Park",
+    "city_town": "Hyderabad",
+    "type": "Wildlife / Zoo",
+    "importance": "One of India’s largest zoos, home to diverse wildlife species",
+    "hidden_gem": false,
+    "visit_duration": "3-4 Hours",
+    "best_season": "October to March",
+    "annual_visitors_est": 600000,
+    "latitude": 17.3472,
+    "longitude": 78.4560,
+    "average_budget_in_inr": 2200,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Hyderabad Deccan",
+    "accommodation": {
+      "budget": [{ "name": "Zoo Area Budget Stay", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Hotel Green Park", "avg_price_per_night": 3900 }],
+      "luxury": [{ "name": "Trident Hyderabad", "avg_price_per_night": 12000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "Lumbini Park",
+    "city_town": "Hyderabad",
+    "type": "Urban Park / Recreation",
+    "importance": "Popular family park near Hussain Sagar with musical fountain and boat rides",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 400000,
+    "latitude": 17.4225,
+    "longitude": 78.4747,
+    "average_budget_in_inr": 1500,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Hyderabad Deccan",
+    "accommodation": {
+      "budget": [{ "name": "Lumbini Budget Stay", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Hotel Mount View", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Novotel Hyderabad Convention Centre", "avg_price_per_night": 8500 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "Snow World",
+    "city_town": "Hyderabad",
+    "type": "Entertainment / Theme Park",
+    "importance": "Indoor snow theme park popular for family visits and kids",
+    "hidden_gem": false,
+    "visit_duration": "2-4 Hours",
+    "best_season": "All year",
+    "annual_visitors_est": 300000,
+    "latitude": 17.4238,
+    "longitude": 78.4736,
+    "average_budget_in_inr": 3000,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Hyderabad Deccan",
+    "accommodation": {
+      "budget": [{ "name": "Nearby Budget Stay", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Hotel Sitara Grand", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Taj Krishna", "avg_price_per_night": 12000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "Shilparamam",
+    "city_town": "Hyderabad",
+    "type": "Arts & Culture Village",
+    "importance": "Craft village showcasing traditional arts, crafts, cultural performances",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "best_season": "October to March",
+    "annual_visitors_est": 200000,
+    "latitude": 17.4153,
+    "longitude": 78.4277,
+    "average_budget_in_inr": 2500,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Hitech City",
+    "accommodation": {
+      "budget": [{ "name": "Shilparamam Budget Stay", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Hotel N Convention", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Westin Hyderabad Mindspace", "avg_price_per_night": 10000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "NTR Garden",
+    "city_town": "Hyderabad",
+    "type": "Public Garden / Recreation",
+    "importance": "Large landscaped public garden with fountains and walking tracks",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 350000,
+    "latitude": 17.4220,
+    "longitude": 78.4660,
+    "average_budget_in_inr": 1500,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Hyderabad Deccan",
+    "accommodation": {
+      "budget": [{ "name": "NTR Garden Budget Stay", "avg_price_per_night": 900 }],
+      "mid_range": [{ "name": "Hotel Marigold", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Trident Hyderabad", "avg_price_per_night": 12000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "KBR National Park",
+    "city_town": "Hyderabad",
+    "type": "Nature / Urban Forest",
+    "importance": "Urban wildlife sanctuary and forested area for jogging, birding & trekking",
+    "hidden_gem": false,
+    "visit_duration": "2-4 Hours",
+    "best_season": "October to March",
+    "annual_visitors_est": 450000,
+    "latitude": 17.4141,
+    "longitude": 78.4050,
+    "average_budget_in_inr": 1800,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Begumpet",
+    "accommodation": {
+      "budget": [{ "name": "Budget Stay Near KBR Park", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Hotel Swagath Grand", "avg_price_per_night": 3200 }],
+      "luxury": [{ "name": "ITC Kohenur", "avg_price_per_night": 14000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "Hyderabad Botanical Garden",
+    "city_town": "Hyderabad",
+    "type": "Botanical Garden / Nature",
+    "importance": "Large botanical garden with themed plant collections and nature trails",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "best_season": "October to March",
+    "annual_visitors_est": 120000,
+    "latitude": 17.5050,
+    "longitude": 78.5330,
+    "average_budget_in_inr": 2000,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Secunderabad Junction",
+    "accommodation": {
+      "budget": [{ "name": "Botanical Garden Budget Stay", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Hotel City Park", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Taj Residency", "avg_price_per_night": 10000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "Shamirpet Lake",
+    "city_town": "Shamirpet",
+    "type": "Lake / Nature",
+    "importance": "Calm lake area perfect for picnics, boating and bird watching",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 180000,
+    "latitude": 17.5830,
+    "longitude": 78.5130,
+    "average_budget_in_inr": 3000,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Secunderabad Junction",
+    "accommodation": {
+      "budget": [{ "name": "Shamirpet Budget Stay", "avg_price_per_night": 800 }],
+      "mid_range": [{ "name": "Shamirpet Resort", "avg_price_per_night": 2500 }],
+      "luxury": [{ "name": "Luxury Lake Resort", "avg_price_per_night": 7000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "Lakeside Park (Hussain Sagar)",
+    "city_town": "Hyderabad",
+    "type": "Urban Park / Recreation",
+    "importance": "Popular waterfront park alongside Hussain Sagar Lake with views of Buddha Statue",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "best_season": "October to March",
+    "annual_visitors_est": 250000,
+    "latitude": 17.4240,
+    "longitude": 78.4740,
+    "average_budget_in_inr": 1800,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Secunderabad Junction",
+    "accommodation": {
+      "budget": [{ "name": "Lakeside Budget Stay", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Hotel Lakeview", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Trident Hyderabad", "avg_price_per_night": 12000 }]
+    }
+  }
+]
+[
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "Charminar",
+    "city_town": "Hyderabad",
+    "type": "Heritage / Monument",
+    "importance": "Iconic 16th-century mosque and symbol of Hyderabad",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 2500000,
+    "latitude": 17.3616,
+    "longitude": 78.4747,
+    "average_budget_in_inr": 2000,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Hyderabad Deccan",
+    "accommodation": {
+      "budget": [{ "name": "Charminar Guest House", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Hotel Shadab", "avg_price_per_night": 2800 }],
+      "luxury": [{ "name": "Taj Falaknuma Palace", "avg_price_per_night": 25000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "Golconda Fort",
+    "city_town": "Hyderabad",
+    "type": "Fort / Heritage",
+    "importance": "Historic fort known for its acoustics, palaces, and defense architecture",
+    "hidden_gem": false,
+    "visit_duration": "3-4 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 1800000,
+    "latitude": 17.3833,
+    "longitude": 78.4011,
+    "average_budget_in_inr": 2200,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Hyderabad Deccan",
+    "accommodation": {
+      "budget": [{ "name": "Golconda Budget Stay", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Hotel Golconda", "avg_price_per_night": 3500 }],
+      "luxury": [{ "name": "Taj Falaknuma Palace", "avg_price_per_night": 25000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "Qutb Shahi Tombs",
+    "city_town": "Hyderabad",
+    "type": "Heritage / Monument",
+    "importance": "Royal necropolis with stunning domed structures of Qutb Shahi dynasty",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 1500000,
+    "latitude": 17.3856,
+    "longitude": 78.4025,
+    "average_budget_in_inr": 1800,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Hyderabad Deccan",
+    "accommodation": {
+      "budget": [{ "name": "Tombs Budget Stay", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Hotel Heritage Inn", "avg_price_per_night": 3200 }],
+      "luxury": [{ "name": "Taj Falaknuma Palace", "avg_price_per_night": 25000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal",
+    "place_name": "Warangal Fort",
+    "city_town": "Warangal",
+    "type": "Fort / Heritage",
+    "importance": "Kakatiya dynasty fort known for stone gateways and historical ruins",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 500000,
+    "latitude": 17.9781,
+    "longitude": 79.5988,
+    "average_budget_in_inr": 1500,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Warangal",
+    "accommodation": {
+      "budget": [{ "name": "Warangal Budget Stay", "avg_price_per_night": 900 }],
+      "mid_range": [{ "name": "Hotel Kakatiya Residency", "avg_price_per_night": 2500 }],
+      "luxury": [{ "name": "Grand Kakatiya Hotel", "avg_price_per_night": 8000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "place_name": "Elgandal Fort",
+    "city_town": "Karimnagar",
+    "type": "Fort / Heritage",
+    "importance": "Historical fort built during Qutb Shahi era overlooking Manair River",
+    "hidden_gem": true,
+    "visit_duration": "2 Hours",
+    "best_season": "October to March",
+    "annual_visitors_est": 150000,
+    "latitude": 18.4402,
+    "longitude": 79.1283,
+    "average_budget_in_inr": 1200,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Karimnagar",
+    "accommodation": {
+      "budget": [{ "name": "Elgandal Budget Stay", "avg_price_per_night": 800 }],
+      "mid_range": [{ "name": "Hotel Elgandal", "avg_price_per_night": 2200 }],
+      "luxury": [{ "name": "Luxury Heritage Hotel", "avg_price_per_night": 7000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "place_name": "Bhongir Fort",
+    "city_town": "Bhongir",
+    "type": "Fort / Heritage",
+    "importance": "Historic hill fort with panoramic views of surrounding plains",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 200000,
+    "latitude": 17.5158,
+    "longitude": 78.8885,
+    "average_budget_in_inr": 1300,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Bhongir",
+    "accommodation": {
+      "budget": [{ "name": "Bhongir Budget Stay", "avg_price_per_night": 900 }],
+      "mid_range": [{ "name": "Hotel Bhongir Inn", "avg_price_per_night": 2500 }],
+      "luxury": [{ "name": "Heritage Luxury Stay", "avg_price_per_night": 7000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Medak",
+    "place_name": "Medak Cathedral",
+    "city_town": "Medak",
+    "type": "Religious / Heritage",
+    "importance": "Largest cathedral in India with Gothic-style architecture",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 150000,
+    "latitude": 18.0167,
+    "longitude": 78.2667,
+    "average_budget_in_inr": 1200,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Medak",
+    "accommodation": {
+      "budget": [{ "name": "Medak Budget Stay", "avg_price_per_night": 800 }],
+      "mid_range": [{ "name": "Hotel Medak Residency", "avg_price_per_night": 2200 }],
+      "luxury": [{ "name": "Luxury Cathedral Stay", "avg_price_per_night": 7000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "Falaknuma Palace",
+    "city_town": "Hyderabad",
+    "type": "Palace / Heritage",
+    "importance": "Historic palace-turned-luxury hotel showcasing Nizam-era architecture",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 500000,
+    "latitude": 17.3620,
+    "longitude": 78.4718,
+    "average_budget_in_inr": 25000,
+    "budget_category": "Luxury",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Hyderabad Deccan",
+    "accommodation": {
+      "budget": [],
+      "mid_range": [],
+      "luxury": [{ "name": "Falaknuma Palace Stay", "avg_price_per_night": 25000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "place_name": "Nizamabad Fort",
+    "city_town": "Nizamabad",
+    "type": "Fort / Heritage",
+    "importance": "Historic fort known for its strategic location and architecture",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 120000,
+    "latitude": 18.6726,
+    "longitude": 78.0941,
+    "average_budget_in_inr": 1200,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Nizamabad",
+    "accommodation": {
+      "budget": [{ "name": "Nizamabad Budget Stay", "avg_price_per_night": 800 }],
+      "mid_range": [{ "name": "Hotel Nizamabad", "avg_price_per_night": 2500 }],
+      "luxury": [{ "name": "Luxury Fort Stay", "avg_price_per_night": 7000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "place_name": "Ujwala Park Fort Area",
+    "city_town": "Karimnagar",
+    "type": "Fort / Heritage",
+    "importance": "Local heritage site with historic significance in Karimnagar",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 80000,
+    "latitude": 18.4380,
+    "longitude": 79.1280,
+    "average_budget_in_inr": 1000,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Karimnagar",
+    "accommodation": {
+      "budget": [{ "name": "Ujwala Budget Stay", "avg_price_per_night": 700 }],
+      "mid_range": [{ "name": "Hotel Ujwala Residency", "avg_price_per_night": 2200 }],
+      "luxury": []
+    }
+  }
+]
+[
+  {
+    "state": "Telangana",
+    "district": "Warangal",
+    "place_name": "Thousand Pillar Temple",
+    "city_town": "Hanamakonda",
+    "type": "Temple / Heritage",
+    "importance": "Historic Kakatiya-era temple with intricately carved pillars",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 400000,
+    "latitude": 17.9800,
+    "longitude": 79.5990,
+    "average_budget_in_inr": 1500,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Warangal",
+    "accommodation": {
+      "budget": [{ "name": "Warangal Budget Stay", "avg_price_per_night": 900 }],
+      "mid_range": [{ "name": "Hotel Kakatiya Residency", "avg_price_per_night": 2500 }],
+      "luxury": [{ "name": "Grand Kakatiya Hotel", "avg_price_per_night": 8000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahbubnagar",
+    "place_name": "Koilsagar Dam & Temple",
+    "city_town": "Koilsagar",
+    "type": "Temple / Nature",
+    "importance": "Scenic dam area with a historic temple and serene surroundings",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 120000,
+    "latitude": 16.7340,
+    "longitude": 78.0225,
+    "average_budget_in_inr": 1000,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Mahbubnagar",
+    "accommodation": {
+      "budget": [{ "name": "Koilsagar Budget Stay", "avg_price_per_night": 800 }],
+      "mid_range": [{ "name": "Hotel Koilsagar", "avg_price_per_night": 2200 }],
+      "luxury": []
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Khammam",
+    "place_name": "Khammam Fort",
+    "city_town": "Khammam",
+    "type": "Fort / Heritage",
+    "importance": "Well-preserved fort with historical architecture and panoramic views",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 150000,
+    "latitude": 17.2470,
+    "longitude": 80.1510,
+    "average_budget_in_inr": 1300,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Khammam",
+    "accommodation": {
+      "budget": [{ "name": "Khammam Budget Stay", "avg_price_per_night": 900 }],
+      "mid_range": [{ "name": "Hotel Khammam Residency", "avg_price_per_night": 2500 }],
+      "luxury": []
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Medak",
+    "place_name": "Pocharam Wildlife Sanctuary",
+    "city_town": "Medak",
+    "type": "Nature / Heritage",
+    "importance": "Scenic wildlife sanctuary with natural ponds and rare bird species",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "best_season": "November to February",
+    "annual_visitors_est": 100000,
+    "latitude": 18.0150,
+    "longitude": 78.2350,
+    "average_budget_in_inr": 1200,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Medak",
+    "accommodation": {
+      "budget": [{ "name": "Pocharam Guest House", "avg_price_per_night": 900 }],
+      "mid_range": [{ "name": "Hotel Pocharam Inn", "avg_price_per_night": 2500 }],
+      "luxury": []
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "Mecca Masjid",
+    "city_town": "Hyderabad",
+    "type": "Religious / Heritage",
+    "importance": "One of the oldest and largest mosques in India",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 2000000,
+    "latitude": 17.3613,
+    "longitude": 78.4717,
+    "average_budget_in_inr": 2000,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Hyderabad Deccan",
+    "accommodation": {
+      "budget": [{ "name": "Hyderabad Budget Stay", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Hotel Shadab", "avg_price_per_night": 2800 }],
+      "luxury": [{ "name": "Taj Falaknuma Palace", "avg_price_per_night": 25000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "place_name": "Lower Manair Dam",
+    "city_town": "Karimnagar",
+    "type": "Nature / Heritage",
+    "importance": "Popular picnic spot with scenic views and historical significance",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "best_season": "October to February",
+    "annual_visitors_est": 100000,
+    "latitude": 18.4385,
+    "longitude": 79.1240,
+    "average_budget_in_inr": 1000,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Karimnagar",
+    "accommodation": {
+      "budget": [{ "name": "Lower Manair Budget Stay", "avg_price_per_night": 800 }],
+      "mid_range": [{ "name": "Hotel Manair Residency", "avg_price_per_night": 2200 }],
+      "luxury": []
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "place_name": "Chowmahalla Palace",
+    "city_town": "Hyderabad",
+    "type": "Palace / Heritage",
+    "importance": "Former seat of the Nizams, famous for its grand architecture and courtyards",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 400000,
+    "latitude": 17.3600,
+    "longitude": 78.4745,
+    "average_budget_in_inr": 2000,
+    "budget_category": "Medium",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Hyderabad Deccan",
+    "accommodation": {
+      "budget": [{ "name": "Budget Stay Near Palace", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Hotel Chowmahalla Inn", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Taj Falaknuma Palace", "avg_price_per_night": 25000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal",
+    "place_name": "Padmakshi Temple",
+    "city_town": "Hanamakonda",
+    "type": "Temple / Heritage",
+    "importance": "Ancient temple with beautiful carvings, part of Warangal heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 120000,
+    "latitude": 17.9770,
+    "longitude": 79.5995,
+    "average_budget_in_inr": 1200,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Warangal",
+    "accommodation": {
+      "budget": [{ "name": "Warangal Budget Stay", "avg_price_per_night": 900 }],
+      "mid_range": [{ "name": "Hotel Kakatiya Residency", "avg_price_per_night": 2500 }],
+      "luxury": []
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "place_name": "Kasu Brahmananda Reddy National Park",
+    "city_town": "Hyderabad",
+    "type": "Nature / Heritage",
+    "importance": "Urban park offering lush greenery and birdwatching opportunities",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "best_season": "October to March",
+    "annual_visitors_est": 150000,
+    "latitude": 17.3860,
+    "longitude": 78.4385,
+    "average_budget_in_inr": 1000,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Hyderabad Deccan",
+    "accommodation": {
+      "budget": [{ "name": "Budget Stay Near Park", "avg_price_per_night": 800 }],
+      "mid_range": [{ "name": "Hotel Greenview", "avg_price_per_night": 2500 }],
+      "luxury": []
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahbubnagar",
+    "place_name": "Jatmai Temple",
+    "city_town": "Mahbubnagar",
+    "type": "Temple / Heritage",
+    "importance": "Historic temple set in a serene natural environment",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 90000,
+    "latitude": 16.7400,
+    "longitude": 78.0200,
+    "average_budget_in_inr": 1000,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Mahbubnagar",
+    "accommodation": {
+      "budget": [{ "name": "Temple Budget Stay", "avg_price_per_night": 800 }],
+      "mid_range": [{ "name": "Hotel Jatmai Residency", "avg_price_per_night": 2200 }],
+      "luxury": []
+    }
+  }
+]
+[
+  {
+    "state": "Telangana",
+    "district": "Adilabad",
+    "place_name": "Kuntala Waterfall",
+    "city_town": "Adilabad",
+    "type": "Waterfall / Nature",
+    "importance": "Tallest waterfall in Telangana with scenic forest surroundings", 
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "best_season": "June to November",
+    "annual_visitors_est": 200000,
+    "latitude": 19.2850,
+    "longitude": 78.4675,
+    "average_budget_in_inr": 1800,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Adilabad",
+    "accommodation": {
+      "budget": [{ "name": "Kuntala Budget Stay", "avg_price_per_night": 800 }],
+      "mid_range": [{ "name": "Hotel Kuntala Inn", "avg_price_per_night": 2200 }],
+      "luxury": [
+        { "name": "Haritha Resort Adilabad", "avg_price_per_night": 7000 }
+      ]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Adilabad",
+    "place_name": "Pochera Waterfalls",
+    "city_town": "Adilabad",
+    "type": "Waterfall / Nature",
+    "importance": "Beautiful multi‑step falls ideal for picnics and trek", 
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "best_season": "June to October",
+    "annual_visitors_est": 120000,
+    "latitude": 19.1250,
+    "longitude": 78.4350,
+    "average_budget_in_inr": 1500,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Adilabad",
+    "accommodation": {
+      "budget": [{ "name": "Pochera Budget Stay", "avg_price_per_night": 800 }],
+      "mid_range": [{ "name": "Hotel Pochera Inn", "avg_price_per_night": 2000 }],
+      "luxury": [
+        { "name": "Sri Vinayaka Farmhouse & Resort", "avg_price_per_night": 6500 }
+      ]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Mulugu",
+    "place_name": "Bogatha Waterfall",
+    "city_town": "Mulugu",
+    "type": "Waterfall / Nature",
+    "importance": "Multi‑tiered dramatic cascade amidst forest", 
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "best_season": "June to October",
+    "annual_visitors_est": 80000,
+    "latitude": 18.3500,
+    "longitude": 80.4500,
+    "average_budget_in_inr": 1600,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Mulugu",
+    "accommodation": {
+      "budget": [{ "name": "Bogatha Budget Stay", "avg_price_per_night": 700 }],
+      "mid_range": [{ "name": "Hotel Bogatha Inn", "avg_price_per_night": 1800 }],
+      "luxury": [
+        { "name": "Laknavaram Lake Resort", "avg_price_per_night": 9000 }
+      ]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Medak",
+    "place_name": "Pocharam Lake & Wildlife Sanctuary",
+    "city_town": "Medak",
+    "type": "Nature / Wildlife",
+    "importance": "Lake and sanctuary with birdwatching and boating", 
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 120000,
+    "latitude": 18.0100,
+    "longitude": 78.2400,
+    "average_budget_in_inr": 1500,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Medak",
+    "accommodation": {
+      "budget": [{ "name": "Pocharam Budget Stay", "avg_price_per_night": 900 }],
+      "mid_range": [{ "name": "Hotel Pocharam Inn", "avg_price_per_night": 2500 }],
+      "luxury": [
+        { "name": "Haritha Resort Medak", "avg_price_per_night": 7500 }
+      ]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal",
+    "place_name": "Pakhal Lake",
+    "city_town": "Warangal",
+    "type": "Lake / Nature",
+    "importance": "Historic lake surrounded by forest", 
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 80000,
+    "latitude": 17.9500,
+    "longitude": 79.8200,
+    "average_budget_in_inr": 1400,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Warangal",
+    "accommodation": {
+      "budget": [{ "name": "Pakhal Budget Stay", "avg_price_per_night": 800 }],
+      "mid_range": [{ "name": "Hotel Pakhal Residency", "avg_price_per_night": 2200 }],
+      "luxury": [
+        { "name": "Warangal Heritage Resort", "avg_price_per_night": 11000 }
+      ]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Siddipet",
+    "place_name": "Komuravelli Mallanna Temple & Hills",
+    "city_town": "Siddipet",
+    "type": "Hill Station / Temple",
+    "importance": "Hill temple with scenic surroundings", 
+    "hidden_gem": true,
+    "visit_duration": "Half Day to 1 Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 90000,
+    "latitude": 17.9900,
+    "longitude": 78.9900,
+    "average_budget_in_inr": 1400,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Siddipet",
+    "accommodation": {
+      "budget": [{ "name": "Komuravelli Budget Stay", "avg_price_per_night": 800 }],
+      "mid_range": [{ "name": "Hotel Mallanna Residency", "avg_price_per_night": 2200 }],
+      "luxury": [
+        { "name": "Sree Residency Siddipet", "avg_price_per_night": 7000 }
+      ]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Jayashankar Bhupalpally",
+    "place_name": "Kawal Wildlife Sanctuary",
+    "city_town": "Bhupalpally",
+    "type": "Wildlife / Nature",
+    "importance": "Tiger reserve and biodiversity hotspot", 
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 50000,
+    "latitude": 18.7500,
+    "longitude": 79.5000,
+    "average_budget_in_inr": 1800,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Bhupalpally",
+    "accommodation": {
+      "budget": [{ "name": "Kawal Budget Stay", "avg_price_per_night": 900 }],
+      "mid_range": [{ "name": "Hotel Kawal Inn", "avg_price_per_night": 2200 }],
+      "luxury": [
+        { "name": "Wildlife Retreat Resort", "avg_price_per_night": 9000 }
+      ]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "place_name": "Nizam Sagar Dam",
+    "city_town": "Nizamabad",
+    "type": "Dam / Nature",
+    "importance": "Historic reservoir and scenic picnic spot", 
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 150000,
+    "latitude": 18.6700,
+    "longitude": 78.1000,
+    "average_budget_in_inr": 1400,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Nizamabad",
+    "accommodation": {
+      "budget": [{ "name": "Nizam Budget Stay", "avg_price_per_night": 900 }],
+      "mid_range": [{ "name": "Hotel Nizam Residency", "avg_price_per_night": 2500 }],
+      "luxury": [
+        { "name": "Haritha Resort Nizamabad", "avg_price_per_night": 7500 }
+      ]
+    }
+  }
+]
+[
+  {
+    "state": "Telangana",
+    "district": "Medak",
+    "place_name": "Medak Cathedral",
+    "city_town": "Medak",
+    "type": "Heritage / Church",
+    "importance": "One of the largest churches in Asia, Gothic architecture",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "best_season": "October to March",
+    "annual_visitors_est": 200000,
+    "latitude": 17.9900,
+    "longitude": 78.2700,
+    "average_budget_in_inr": 1500,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Medak",
+    "accommodation": {
+      "budget": [{ "name": "Medak Budget Stay", "avg_price_per_night": 800 }],
+      "mid_range": [{ "name": "Hotel Medak Residency", "avg_price_per_night": 2200 }],
+      "luxury": [{ "name": "Haritha Resort Medak", "avg_price_per_night": 7500 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "place_name": "Bhongir Fort",
+    "city_town": "Bhongir",
+    "type": "Heritage / Fort",
+    "importance": "Historic fort atop monolithic rock, trekking spot",
+    "hidden_gem": true,
+    "visit_duration": "Half Day to 1 Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 100000,
+    "latitude": 17.5150,
+    "longitude": 78.8900,
+    "average_budget_in_inr": 1300,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Bhongir",
+    "accommodation": {
+      "budget": [{ "name": "Bhongir Budget Stay", "avg_price_per_night": 700 }],
+      "mid_range": [{ "name": "Hotel Bhongir Inn", "avg_price_per_night": 2000 }],
+      "luxury": [{ "name": "Haritha Resort Bhongir", "avg_price_per_night": 7000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "place_name": "Elgandal Fort",
+    "city_town": "Karimnagar",
+    "type": "Heritage / Fort",
+    "importance": "Historic fort on a hill with scenic view of Karimnagar",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 80000,
+    "latitude": 18.4300,
+    "longitude": 79.1400,
+    "average_budget_in_inr": 1400,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Karimnagar",
+    "accommodation": {
+      "budget": [{ "name": "Elgandal Budget Stay", "avg_price_per_night": 800 }],
+      "mid_range": [{ "name": "Hotel Elgandal Residency", "avg_price_per_night": 2200 }],
+      "luxury": [{ "name": "Haritha Resort Karimnagar", "avg_price_per_night": 7500 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal",
+    "place_name": "Warangal Fort",
+    "city_town": "Warangal",
+    "type": "Heritage / Fort",
+    "importance": "Kakatiya-era fort with iconic gateways and ruins",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "best_season": "October to March",
+    "annual_visitors_est": 500000,
+    "latitude": 17.9750,
+    "longitude": 79.5990,
+    "average_budget_in_inr": 1800,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Warangal",
+    "accommodation": {
+      "budget": [{ "name": "Warangal Budget Stay", "avg_price_per_night": 900 }],
+      "mid_range": [{ "name": "Hotel Kakatiya Residency", "avg_price_per_night": 2500 }],
+      "luxury": [{ "name": "Haritha Resort Warangal", "avg_price_per_night": 9000 }]
+    }
+  },
+  {
+    "state": "Telangana",
+    "district": "Jagtial",
+    "place_name": "Kondagattu Anjaneya Swamy Temple",
+    "city_town": "Jagtial",
+    "type": "Pilgrimage",
+    "importance": "Famous Hanuman temple attracting thousands of devotees",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "best_season": "October to February",
+    "annual_visitors_est": 200000,
+    "latitude": 18.7900,
+    "longitude": 78.9200,
+    "average_budget_in_inr": 1500,
+    "budget_category": "Low",
+    "nearest_airport": "Rajiv Gandhi Intl Airport (HYD)",
+    "nearest_railway_station": "Jagtial",
+    "accommodation": {
+      "budget": [{ "name": "Kondagattu Budget Stay", "avg_price_per_night": 800 }],
+      "mid_range": [{ "name": "Hotel Anjaneya Inn", "avg_price_per_night": 2200 }],
+      "luxury": [{ "name": "Haritha Resort Jagtial", "avg_price_per_night": 7000 }]
+    }
+  }
+]

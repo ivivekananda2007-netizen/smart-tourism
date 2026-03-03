@@ -1,0 +1,5 @@
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=change-me-in-production
+WEATHER_API_KEY=your_openweather_api_key
+DNS_SERVERS=8.8.8.8,1.1.1.1

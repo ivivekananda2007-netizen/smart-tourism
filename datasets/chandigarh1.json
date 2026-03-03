@@ -1,0 +1,822 @@
+[
+  {
+    "state": "Chandigarh",
+    "place_name": "Rock Garden",
+    "city_town": "Chandigarh",
+    "type": "Art / Sculpture Garden",
+    "hidden_gem": false,
+    "visit_duration": "2 Hours",
+    "budget_in_inr": 1500,
+    "latitude": 30.7520,
+    "longitude": 76.8101,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 1000 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1600 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 8500 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 9200 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Sukhna Lake",
+    "city_town": "Chandigarh",
+    "type": "Lake / Leisure",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 1200,
+    "latitude": 30.7421,
+    "longitude": 76.8188,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1500 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 8800 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 9600 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Elante Mall",
+    "city_town": "Chandigarh",
+    "type": "Shopping / Leisure",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 800,
+    "latitude": 30.7075,
+    "longitude": 76.7080,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 1000 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1400 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 8500 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 9200 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Chandigarh Rose Garden",
+    "city_town": "Chandigarh",
+    "type": "Garden / Leisure",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 500,
+    "latitude": 30.7353,
+    "longitude": 76.7756,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Punjab University Campus",
+    "city_town": "Chandigarh",
+    "type": "Heritage / Campus",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 300,
+    "latitude": 30.7430,
+    "longitude": 76.7800,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Sector 17 Plaza",
+    "city_town": "Chandigarh",
+    "type": "Shopping / Landmark",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 600,
+    "latitude": 30.7333,
+    "longitude": 76.7794,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7600 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Capitol Complex",
+    "city_town": "Chandigarh",
+    "type": "Architectural / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 800,
+    "latitude": 30.7415,
+    "longitude": 76.7715,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1250 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7600 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8800 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Le Corbusier Centre",
+    "city_town": "Chandigarh",
+    "type": "Museum / Architecture",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 500,
+    "latitude": 30.7350,
+    "longitude": 76.7800,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  }
+]
+[
+  {
+    "state": "Chandigarh",
+    "place_name": "Terraced Garden",
+    "city_town": "Chandigarh",
+    "type": "Garden / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 500,
+    "latitude": 30.7510,
+    "longitude": 76.8080,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Pinjore Gardens",
+    "city_town": "Pinjore",
+    "type": "Mughal Garden / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 800,
+    "latitude": 30.8442,
+    "longitude": 76.9270,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Pinjore Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Pinjore Comfort Lodge", "price_per_night": 1250 }
+      ],
+      "luxury": [
+        { "hotel_name": "Pinjore Grand Resort", "price_per_night": 7600 },
+        { "hotel_name": "Pinjore Royal Palace Hotel", "price_per_night": 8800 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Leisure Valley",
+    "city_town": "Chandigarh",
+    "type": "Park / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 400,
+    "latitude": 30.7420,
+    "longitude": 76.7880,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Chhatbir Zoo",
+    "city_town": "Chhatbir",
+    "type": "Wildlife / Zoo",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 700,
+    "latitude": 30.8000,
+    "longitude": 76.8150,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Garden of Silence",
+    "city_town": "Chandigarh",
+    "type": "Meditation / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "1 Hour",
+    "budget_in_inr": 300,
+    "latitude": 30.7550,
+    "longitude": 76.8100,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Terraced Garden Rose Festival",
+    "city_town": "Chandigarh",
+    "type": "Event / Leisure",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 600,
+    "latitude": 30.7510,
+    "longitude": 76.8080,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Sector 22 Market",
+    "city_town": "Chandigarh",
+    "type": "Shopping / Local Market",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 500,
+    "latitude": 30.7350,
+    "longitude": 76.7850,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Government Museum and Art Gallery",
+    "city_town": "Chandigarh",
+    "type": "Museum / Art",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 700,
+    "latitude": 30.7430,
+    "longitude": 76.7740,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1250 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7600 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8800 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "International Dolls Museum",
+    "city_town": "Chandigarh",
+    "type": "Museum / Kids",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 400,
+    "latitude": 30.7525,
+    "longitude": 76.7760,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  }
+]
+[
+  {
+    "state": "Chandigarh",
+    "place_name": "Terraced Garden Fountain",
+    "city_town": "Chandigarh",
+    "type": "Garden / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 400,
+    "latitude": 30.7515,
+    "longitude": 76.8085,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Open Hand Monument",
+    "city_town": "Chandigarh",
+    "type": "Architectural Landmark",
+    "hidden_gem": false,
+    "visit_duration": "30-45 Minutes",
+    "budget_in_inr": 300,
+    "latitude": 30.7410,
+    "longitude": 76.7710,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Terraced Garden Musical Fountain",
+    "city_town": "Chandigarh",
+    "type": "Garden / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "1 Hour",
+    "budget_in_inr": 400,
+    "latitude": 30.7520,
+    "longitude": 76.8080,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Terraced Garden Rose Beds",
+    "city_town": "Chandigarh",
+    "type": "Garden / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 400,
+    "latitude": 30.7510,
+    "longitude": 76.8090,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Le Corbusier Centre Exhibition Hall",
+    "city_town": "Chandigarh",
+    "type": "Museum / Architecture",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 500,
+    "latitude": 30.7350,
+    "longitude": 76.7800,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Bougainvillea Garden",
+    "city_town": "Chandigarh",
+    "type": "Garden / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "1 Hour",
+    "budget_in_inr": 400,
+    "latitude": 30.7530,
+    "longitude": 76.8120,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Rose Festival Ground",
+    "city_town": "Chandigarh",
+    "type": "Event / Leisure",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 600,
+    "latitude": 30.7515,
+    "longitude": 76.8085,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7600 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Bougainvillea Festival Area",
+    "city_town": "Chandigarh",
+    "type": "Garden / Event",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 400,
+    "latitude": 30.7530,
+    "longitude": 76.8120,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Chandigarh Botanical Garden",
+    "city_town": "Chandigarh",
+    "type": "Botanical Garden / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 500,
+    "latitude": 30.7500,
+    "longitude": 76.8100,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  }
+]
+[
+  {
+    "state": "Chandigarh",
+    "place_name": "Japanese Garden",
+    "city_town": "Chandigarh",
+    "type": "Garden / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 400,
+    "latitude": 30.7470,
+    "longitude": 76.7820,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Cactus Garden",
+    "city_town": "Chandigarh",
+    "type": "Botanical Garden / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "1 Hour",
+    "budget_in_inr": 350,
+    "latitude": 30.7490,
+    "longitude": 76.7850,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Sector 26 Market",
+    "city_town": "Chandigarh",
+    "type": "Shopping / Local Market",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 500,
+    "latitude": 30.7330,
+    "longitude": 76.7870,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Government Botanical Garden",
+    "city_town": "Chandigarh",
+    "type": "Botanical Garden / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 400,
+    "latitude": 30.7510,
+    "longitude": 76.8110,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Chandigarh Haat",
+    "city_town": "Chandigarh",
+    "type": "Cultural Market / Shopping",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 500,
+    "latitude": 30.7350,
+    "longitude": 76.7800,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Terraced Garden Light Show",
+    "city_town": "Chandigarh",
+    "type": "Event / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 400,
+    "latitude": 30.7515,
+    "longitude": 76.8085,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Garden of Fragrance",
+    "city_town": "Chandigarh",
+    "type": "Botanical Garden / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "1 Hour",
+    "budget_in_inr": 350,
+    "latitude": 30.7525,
+    "longitude": 76.8100,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Terraced Garden Walkway",
+    "city_town": "Chandigarh",
+    "type": "Garden / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "30-45 Minutes",
+    "budget_in_inr": 300,
+    "latitude": 30.7520,
+    "longitude": 76.8085,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Sector 10 Market",
+    "city_town": "Chandigarh",
+    "type": "Shopping / Local Market",
+    "hidden_gem": false,
+    "visit_duration": "1 Hour",
+    "budget_in_inr": 400,
+    "latitude": 30.7350,
+    "longitude": 76.7800,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Terraced Garden Viewing Point",
+    "city_town": "Chandigarh",
+    "type": "Garden / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "30-45 Minutes",
+    "budget_in_inr": 300,
+    "latitude": 30.7510,
+    "longitude": 76.8090,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "place_name": "Bougainvillea Garden Sunset Point",
+    "city_town": "Chandigarh",
+    "type": "Garden / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "1 Hour",
+    "budget_in_inr": 350,
+    "latitude": 30.7530,
+    "longitude": 76.8120,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  }
+]

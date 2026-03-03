@@ -1,0 +1,1542 @@
+[
+  {
+    "state": "Odisha",
+    "place_name": "Jagannath Temple",
+    "city": "Puri",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.25,
+    "longitude": 85.8,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Puri",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Puri",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Konark Sun Temple",
+    "city": "Konark",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.26,
+    "longitude": 85.81,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Konark",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Konark",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Lingaraj Temple",
+    "city": "Bhubaneswar",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.27,
+    "longitude": 85.82,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Bhubaneswar",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Bhubaneswar",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Mukteswar Temple",
+    "city": "Bhubaneswar",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.28,
+    "longitude": 85.83,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Bhubaneswar",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Bhubaneswar",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Rajarani Temple",
+    "city": "Bhubaneswar",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.29,
+    "longitude": 85.84,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Bhubaneswar",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Bhubaneswar",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Udayagiri Caves",
+    "city": "Bhubaneswar",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.3,
+    "longitude": 85.85,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Bhubaneswar",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Bhubaneswar",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Khandagiri Caves",
+    "city": "Bhubaneswar",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.31,
+    "longitude": 85.86,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Bhubaneswar",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Bhubaneswar",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Nandankanan Zoo",
+    "city": "Bhubaneswar",
+    "type": "Wildlife",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.32,
+    "longitude": 85.87,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Bhubaneswar",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Bhubaneswar",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Dhauli Shanti Stupa",
+    "city": "Bhubaneswar",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.33,
+    "longitude": 85.88,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Bhubaneswar",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Bhubaneswar",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Chilika Lake",
+    "city": "Puri",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.34,
+    "longitude": 85.89,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Puri",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Puri",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Satapada",
+    "city": "Puri",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.35,
+    "longitude": 85.9,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Puri",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Puri",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Ramachandi Temple",
+    "city": "Konark",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.36,
+    "longitude": 85.91,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Konark",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Konark",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Pipili",
+    "city": "Puri",
+    "type": "Market",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.37,
+    "longitude": 85.92,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Puri",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Puri",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Raghurajpur",
+    "city": "Puri",
+    "type": "Village",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.38,
+    "longitude": 85.93,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Puri",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Puri",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Baliharachandi Beach",
+    "city": "Puri",
+    "type": "Beach",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.39,
+    "longitude": 85.94,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Puri",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Puri",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Gopalpur Beach",
+    "city": "Ganjam",
+    "type": "Beach",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.4,
+    "longitude": 85.95,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Ganjam",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Ganjam",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Taptapani",
+    "city": "Ganjam",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.41,
+    "longitude": 85.96,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Ganjam",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Ganjam",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Jirang Monastery",
+    "city": "Gajapati",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.42,
+    "longitude": 85.97,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Gajapati",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Gajapati",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Mahendragiri Hills",
+    "city": "Gajapati",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.43,
+    "longitude": 85.98,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Gajapati",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Gajapati",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Barabati Fort",
+    "city": "Cuttack",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.44,
+    "longitude": 85.99,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Cuttack",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Cuttack",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Naraj Barrage",
+    "city": "Cuttack",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.45,
+    "longitude": 86.0,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Cuttack",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Cuttack",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Ansupa Lake",
+    "city": "Cuttack",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.46,
+    "longitude": 86.01,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Cuttack",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Cuttack",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Bhattarika Temple",
+    "city": "Cuttack",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.47,
+    "longitude": 86.02,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Cuttack",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Cuttack",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Hirakud Dam",
+    "city": "Sambalpur",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.48,
+    "longitude": 86.03,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Sambalpur",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Sambalpur",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Debrigarh Sanctuary",
+    "city": "Sambalpur",
+    "type": "Wildlife",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.49,
+    "longitude": 86.04,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Sambalpur",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Sambalpur",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Samaleswari Temple",
+    "city": "Sambalpur",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.5,
+    "longitude": 86.05,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Sambalpur",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Sambalpur",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Satkosia Gorge",
+    "city": "Angul",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.51,
+    "longitude": 86.06,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Angul",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Angul",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Kapilash Temple",
+    "city": "Dhenkanal",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.52,
+    "longitude": 86.07,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Dhenkanal",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Dhenkanal",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Chandipur Beach",
+    "city": "Balasore",
+    "type": "Beach",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.53,
+    "longitude": 86.08,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Balasore",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Balasore",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Talasari Beach",
+    "city": "Balasore",
+    "type": "Beach",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.54,
+    "longitude": 86.09,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Balasore",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Balasore",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Simlipal National Park",
+    "city": "Mayurbhanj",
+    "type": "Wildlife",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.55,
+    "longitude": 86.1,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Mayurbhanj",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Mayurbhanj",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Barehipani Falls",
+    "city": "Mayurbhanj",
+    "type": "Waterfall",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.56,
+    "longitude": 86.11,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Mayurbhanj",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Mayurbhanj",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Joranda Falls",
+    "city": "Mayurbhanj",
+    "type": "Waterfall",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.57,
+    "longitude": 86.12,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Mayurbhanj",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Mayurbhanj",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Daringbadi",
+    "city": "Kandhamal",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.58,
+    "longitude": 86.13,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Kandhamal",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Kandhamal",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Putudi Waterfall",
+    "city": "Kandhamal",
+    "type": "Waterfall",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.59,
+    "longitude": 86.14,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Kandhamal",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Kandhamal",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Nrusinghanath Temple",
+    "city": "Bargarh",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.6,
+    "longitude": 86.15,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Bargarh",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Bargarh",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Harishankar Temple",
+    "city": "Balangir",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.61,
+    "longitude": 86.16,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Balangir",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Balangir",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Pataleswar Temple",
+    "city": "Subarnapur",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.62,
+    "longitude": 86.17,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Subarnapur",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Subarnapur",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Khandadhar Falls",
+    "city": "Sundargarh",
+    "type": "Waterfall",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.63,
+    "longitude": 86.18,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Sundargarh",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Sundargarh",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Vedavyas",
+    "city": "Rourkela",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.64,
+    "longitude": 86.19,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Rourkela",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Rourkela",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Mandira Dam",
+    "city": "Rourkela",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.65,
+    "longitude": 86.2,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Rourkela",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Rourkela",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Panchalingeswar",
+    "city": "Balasore",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.66,
+    "longitude": 86.21,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Balasore",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Balasore",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Atri Hot Springs",
+    "city": "Khordha",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.67,
+    "longitude": 86.22,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Khordha",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Khordha",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Dhabaleswar Island",
+    "city": "Cuttack",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.68,
+    "longitude": 86.23,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Cuttack",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Cuttack",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Ratnagiri",
+    "city": "Jajpur",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.69,
+    "longitude": 86.24,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Jajpur",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Jajpur",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Lalitgiri",
+    "city": "Jajpur",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.7,
+    "longitude": 86.25,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Jajpur",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Jajpur",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Udayagiri Buddhist Complex",
+    "city": "Jajpur",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.71,
+    "longitude": 86.26,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Jajpur",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Jajpur",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Parsurameswar Temple",
+    "city": "Bhubaneswar",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.72,
+    "longitude": 86.27,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Bhubaneswar",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Bhubaneswar",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Ananta Vasudeva Temple",
+    "city": "Bhubaneswar",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.73,
+    "longitude": 86.28,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Bhubaneswar",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Bhubaneswar",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Ekakra Kanan",
+    "city": "Bhubaneswar",
+    "type": "Park",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.74,
+    "longitude": 86.29,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Bhubaneswar",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Bhubaneswar",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Bhitarkanika National Park",
+    "city": "Kendrapara",
+    "type": "Wildlife",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.75,
+    "longitude": 86.3,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Kendrapara",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Kendrapara",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Gupteswar Cave",
+    "city": "Koraput",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.76,
+    "longitude": 86.31,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Koraput",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Koraput",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Deomali Hills",
+    "city": "Koraput",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.77,
+    "longitude": 86.32,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Koraput",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Koraput",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Onkadelli Market",
+    "city": "Koraput",
+    "type": "Market",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.78,
+    "longitude": 86.33,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Koraput",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Koraput",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Kolab Dam",
+    "city": "Koraput",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.79,
+    "longitude": 86.34,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Koraput",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Koraput",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Duduma Falls",
+    "city": "Malkangiri",
+    "type": "Waterfall",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.8,
+    "longitude": 86.35,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Malkangiri",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Malkangiri",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Chandragiri",
+    "city": "Gajapati",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.81,
+    "longitude": 86.36,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Gajapati",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Gajapati",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Sonepur Riverbank",
+    "city": "Subarnapur",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.82,
+    "longitude": 86.37,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Subarnapur",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Subarnapur",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Taratarini Temple",
+    "city": "Ganjam",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.83,
+    "longitude": 86.38,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Ganjam",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Ganjam",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Brahmapur Beach",
+    "city": "Ganjam",
+    "type": "Beach",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.84,
+    "longitude": 86.39,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Ganjam",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Ganjam",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Baladev Jew Temple",
+    "city": "Kendrapara",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.85,
+    "longitude": 86.4,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Kendrapara",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Kendrapara",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Kakolat Falls",
+    "city": "Keonjhar",
+    "type": "Waterfall",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.86,
+    "longitude": 86.41,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Keonjhar",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Keonjhar",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Badaghagara Falls",
+    "city": "Keonjhar",
+    "type": "Waterfall",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.87,
+    "longitude": 86.42,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Keonjhar",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Keonjhar",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Sana Ghagara",
+    "city": "Keonjhar",
+    "type": "Waterfall",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.88,
+    "longitude": 86.43,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Keonjhar",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Keonjhar",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Chandaka Sanctuary",
+    "city": "Bhubaneswar",
+    "type": "Wildlife",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.89,
+    "longitude": 86.44,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Bhubaneswar",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Bhubaneswar",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Jayadev Vatika",
+    "city": "Bhubaneswar",
+    "type": "Park",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.9,
+    "longitude": 86.45,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Bhubaneswar",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Bhubaneswar",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Museum of Tribal Arts",
+    "city": "Bhubaneswar",
+    "type": "Museum",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.91,
+    "longitude": 86.46,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Bhubaneswar",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Bhubaneswar",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Pathani Samanta Planetarium",
+    "city": "Bhubaneswar",
+    "type": "Science",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.92,
+    "longitude": 86.47,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Bhubaneswar",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Bhubaneswar",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Kala Bhoomi",
+    "city": "Bhubaneswar",
+    "type": "Museum",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 20.93,
+    "longitude": 86.48,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Bhubaneswar",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Bhubaneswar",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Odisha",
+    "place_name": "Rama Mandir",
+    "city": "Bhubaneswar",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 20.94,
+    "longitude": 86.49,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Green View Bhubaneswar",
+        "price_per_night_inr": 700
+      },
+      "luxury": {
+        "hotel_name": "Luxury Palace Bhubaneswar",
+        "price_per_night_inr": 5000
+      }
+    }
+  }
+]

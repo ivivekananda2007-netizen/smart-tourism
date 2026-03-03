@@ -1,0 +1,2620 @@
+[
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Hatu Peak",
+        "city_town": "Narkanda",
+        "type": "Peak/Viewpoint",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 6500,
+        "budget_category": "High",
+        "latitude": 31.25,
+        "longitude": 77.54,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Narkanda Budget Stay",
+                    "price_per_night": 836
+                },
+                {
+                    "hotel_name": "Narkanda Comfort Lodge",
+                    "price_per_night": 565
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Narkanda Grand Resort",
+                    "price_per_night": 7513
+                },
+                {
+                    "hotel_name": "Narkanda Royal Palace Hotel",
+                    "price_per_night": 8704
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Tannu Jubbar Lake",
+        "city_town": "Near Narkanda",
+        "type": "Lake",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.27,
+        "longitude": 77.57,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Near Narkanda Budget Stay",
+                    "price_per_night": 924
+                },
+                {
+                    "hotel_name": "Near Narkanda Comfort Lodge",
+                    "price_per_night": 469
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Near Narkanda Grand Resort",
+                    "price_per_night": 8444
+                },
+                {
+                    "hotel_name": "Near Narkanda Royal Palace Hotel",
+                    "price_per_night": 11750
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Stokes Farm",
+        "city_town": "Thanedar",
+        "type": "Orchard",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.3,
+        "longitude": 77.52,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Thanedar Budget Stay",
+                    "price_per_night": 820
+                },
+                {
+                    "hotel_name": "Thanedar Comfort Lodge",
+                    "price_per_night": 540
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Thanedar Grand Resort",
+                    "price_per_night": 9614
+                },
+                {
+                    "hotel_name": "Thanedar Royal Palace Hotel",
+                    "price_per_night": 8324
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Sutlej View Point",
+        "city_town": "Near Narkanda",
+        "type": "Viewpoint",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.24,
+        "longitude": 77.56,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Near Narkanda Budget Stay",
+                    "price_per_night": 766
+                },
+                {
+                    "hotel_name": "Near Narkanda Comfort Lodge",
+                    "price_per_night": 736
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Near Narkanda Grand Resort",
+                    "price_per_night": 6215
+                },
+                {
+                    "hotel_name": "Near Narkanda Royal Palace Hotel",
+                    "price_per_night": 5356
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Rashtrapati Niwas",
+        "city_town": "Mashobra",
+        "type": "Heritage Site",
+        "hidden_gem": false,
+        "visit_duration": "Half day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 31.12,
+        "longitude": 77.2,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mashobra Budget Stay",
+                    "price_per_night": 538
+                },
+                {
+                    "hotel_name": "Mashobra Comfort Lodge",
+                    "price_per_night": 427
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mashobra Grand Resort",
+                    "price_per_night": 9168
+                },
+                {
+                    "hotel_name": "Mashobra Royal Palace Hotel",
+                    "price_per_night": 5131
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Craignano Nature Park",
+        "city_town": "Mashobra",
+        "type": "Park",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.13,
+        "longitude": 77.22,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mashobra Budget Stay",
+                    "price_per_night": 936
+                },
+                {
+                    "hotel_name": "Mashobra Comfort Lodge",
+                    "price_per_night": 811
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mashobra Grand Resort",
+                    "price_per_night": 4011
+                },
+                {
+                    "hotel_name": "Mashobra Royal Palace Hotel",
+                    "price_per_night": 7944
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Reserve Forest Sanctuary",
+        "city_town": "Mashobra",
+        "type": "Wildlife/Nature",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.12,
+        "longitude": 77.2,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mashobra Budget Stay",
+                    "price_per_night": 950
+                },
+                {
+                    "hotel_name": "Mashobra Comfort Lodge",
+                    "price_per_night": 819
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mashobra Grand Resort",
+                    "price_per_night": 5010
+                },
+                {
+                    "hotel_name": "Mashobra Royal Palace Hotel",
+                    "price_per_night": 13592
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Yula Kanda Lake",
+        "city_town": "Kinnaur",
+        "type": "Lake/Trek",
+        "hidden_gem": true,
+        "visit_duration": "2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.55,
+        "longitude": 78.25,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kinnaur Budget Stay",
+                    "price_per_night": 725
+                },
+                {
+                    "hotel_name": "Kinnaur Comfort Lodge",
+                    "price_per_night": 571
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kinnaur Grand Resort",
+                    "price_per_night": 7815
+                },
+                {
+                    "hotel_name": "Kinnaur Royal Palace Hotel",
+                    "price_per_night": 6411
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Chitkul Village",
+        "city_town": "Kinnaur",
+        "type": "Village",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.35,
+        "longitude": 78.55,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kinnaur Budget Stay",
+                    "price_per_night": 685
+                },
+                {
+                    "hotel_name": "Kinnaur Comfort Lodge",
+                    "price_per_night": 425
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kinnaur Grand Resort",
+                    "price_per_night": 7315
+                },
+                {
+                    "hotel_name": "Kinnaur Royal Palace Hotel",
+                    "price_per_night": 11725
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Nako Lake",
+        "city_town": "Kinnaur",
+        "type": "Lake/Village",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.88,
+        "longitude": 78.62,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kinnaur Budget Stay",
+                    "price_per_night": 613
+                },
+                {
+                    "hotel_name": "Kinnaur Comfort Lodge",
+                    "price_per_night": 443
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kinnaur Grand Resort",
+                    "price_per_night": 7721
+                },
+                {
+                    "hotel_name": "Kinnaur Royal Palace Hotel",
+                    "price_per_night": 11072
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Masroor Rock Temples",
+        "city_town": "Kangra",
+        "type": "Temple/Heritage",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 32.0,
+        "longitude": 76.2,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kangra Budget Stay",
+                    "price_per_night": 503
+                },
+                {
+                    "hotel_name": "Kangra Comfort Lodge",
+                    "price_per_night": 537
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kangra Grand Resort",
+                    "price_per_night": 7166
+                },
+                {
+                    "hotel_name": "Kangra Royal Palace Hotel",
+                    "price_per_night": 10551
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Kareri Lake",
+        "city_town": "Kangra",
+        "type": "Lake/Trek",
+        "hidden_gem": true,
+        "visit_duration": "2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 32.3,
+        "longitude": 76.35,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kangra Budget Stay",
+                    "price_per_night": 780
+                },
+                {
+                    "hotel_name": "Kangra Comfort Lodge",
+                    "price_per_night": 422
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kangra Grand Resort",
+                    "price_per_night": 9395
+                },
+                {
+                    "hotel_name": "Kangra Royal Palace Hotel",
+                    "price_per_night": 6236
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Tashijong Monastery",
+        "city_town": "Kangra",
+        "type": "Monastery",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 32.05,
+        "longitude": 76.25,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kangra Budget Stay",
+                    "price_per_night": 550
+                },
+                {
+                    "hotel_name": "Kangra Comfort Lodge",
+                    "price_per_night": 637
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kangra Grand Resort",
+                    "price_per_night": 6345
+                },
+                {
+                    "hotel_name": "Kangra Royal Palace Hotel",
+                    "price_per_night": 11805
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Renuka Ji Lake",
+        "city_town": "Sirmaur",
+        "type": "Lake/Temple",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 30.6,
+        "longitude": 77.5,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Sirmaur Budget Stay",
+                    "price_per_night": 553
+                },
+                {
+                    "hotel_name": "Sirmaur Comfort Lodge",
+                    "price_per_night": 506
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Sirmaur Grand Resort",
+                    "price_per_night": 5131
+                },
+                {
+                    "hotel_name": "Sirmaur Royal Palace Hotel",
+                    "price_per_night": 9723
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Churdhar Peak",
+        "city_town": "Sirmaur",
+        "type": "Peak/Trek",
+        "hidden_gem": true,
+        "visit_duration": "2 days",
+        "budget_in_inr": 6500,
+        "budget_category": "High",
+        "latitude": 30.88,
+        "longitude": 77.45,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Sirmaur Budget Stay",
+                    "price_per_night": 539
+                },
+                {
+                    "hotel_name": "Sirmaur Comfort Lodge",
+                    "price_per_night": 786
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Sirmaur Grand Resort",
+                    "price_per_night": 6506
+                },
+                {
+                    "hotel_name": "Sirmaur Royal Palace Hotel",
+                    "price_per_night": 10840
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Badolia Baba Temple",
+        "city_town": "Sirmaur",
+        "type": "Temple",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 30.65,
+        "longitude": 77.5,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Sirmaur Budget Stay",
+                    "price_per_night": 920
+                },
+                {
+                    "hotel_name": "Sirmaur Comfort Lodge",
+                    "price_per_night": 459
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Sirmaur Grand Resort",
+                    "price_per_night": 5091
+                },
+                {
+                    "hotel_name": "Sirmaur Royal Palace Hotel",
+                    "price_per_night": 8264
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Khajjiar",
+        "city_town": "Chamba",
+        "type": "Meadow/Lake",
+        "hidden_gem": false,
+        "visit_duration": "2 days",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 32.55,
+        "longitude": 76.05,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Chamba Budget Stay",
+                    "price_per_night": 574
+                },
+                {
+                    "hotel_name": "Chamba Comfort Lodge",
+                    "price_per_night": 810
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Chamba Grand Resort",
+                    "price_per_night": 6237
+                },
+                {
+                    "hotel_name": "Chamba Royal Palace Hotel",
+                    "price_per_night": 11550
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Dainkund Peak",
+        "city_town": "Chamba",
+        "type": "Peak",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 6500,
+        "budget_category": "High",
+        "latitude": 32.55,
+        "longitude": 76.0,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Chamba Budget Stay",
+                    "price_per_night": 753
+                },
+                {
+                    "hotel_name": "Chamba Comfort Lodge",
+                    "price_per_night": 939
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Chamba Grand Resort",
+                    "price_per_night": 9185
+                },
+                {
+                    "hotel_name": "Chamba Royal Palace Hotel",
+                    "price_per_night": 12620
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Saho Village",
+        "city_town": "Chamba",
+        "type": "Village",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 32.62,
+        "longitude": 76.15,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Chamba Budget Stay",
+                    "price_per_night": 884
+                },
+                {
+                    "hotel_name": "Chamba Comfort Lodge",
+                    "price_per_night": 975
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Chamba Grand Resort",
+                    "price_per_night": 5887
+                },
+                {
+                    "hotel_name": "Chamba Royal Palace Hotel",
+                    "price_per_night": 6730
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Shoja Village",
+        "city_town": "Kullu",
+        "type": "Village",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.75,
+        "longitude": 77.45,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kullu Budget Stay",
+                    "price_per_night": 845
+                },
+                {
+                    "hotel_name": "Kullu Comfort Lodge",
+                    "price_per_night": 808
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kullu Grand Resort",
+                    "price_per_night": 6922
+                },
+                {
+                    "hotel_name": "Kullu Royal Palace Hotel",
+                    "price_per_night": 8707
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Prashar Lake",
+        "city_town": "Mandi",
+        "type": "Lake",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.75,
+        "longitude": 77.1,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mandi Budget Stay",
+                    "price_per_night": 966
+                },
+                {
+                    "hotel_name": "Mandi Comfort Lodge",
+                    "price_per_night": 545
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mandi Grand Resort",
+                    "price_per_night": 4980
+                },
+                {
+                    "hotel_name": "Mandi Royal Palace Hotel",
+                    "price_per_night": 12598
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Shikari Devi Temple",
+        "city_town": "Mandi",
+        "type": "Temple",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.65,
+        "longitude": 77.1,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mandi Budget Stay",
+                    "price_per_night": 797
+                },
+                {
+                    "hotel_name": "Mandi Comfort Lodge",
+                    "price_per_night": 504
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mandi Grand Resort",
+                    "price_per_night": 8452
+                },
+                {
+                    "hotel_name": "Mandi Royal Palace Hotel",
+                    "price_per_night": 9362
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Pandoh Dam",
+        "city_town": "Mandi",
+        "type": "Dam/Lake",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.55,
+        "longitude": 77.0,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mandi Budget Stay",
+                    "price_per_night": 882
+                },
+                {
+                    "hotel_name": "Mandi Comfort Lodge",
+                    "price_per_night": 737
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mandi Grand Resort",
+                    "price_per_night": 5763
+                },
+                {
+                    "hotel_name": "Mandi Royal Palace Hotel",
+                    "price_per_night": 10611
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Gobind Sagar Lake",
+        "city_town": "Bilaspur",
+        "type": "Reservoir/Lake",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 31.35,
+        "longitude": 76.75,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Bilaspur Budget Stay",
+                    "price_per_night": 978
+                },
+                {
+                    "hotel_name": "Bilaspur Comfort Lodge",
+                    "price_per_night": 978
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Bilaspur Grand Resort",
+                    "price_per_night": 5704
+                },
+                {
+                    "hotel_name": "Bilaspur Royal Palace Hotel",
+                    "price_per_night": 13053
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Koldam Dam",
+        "city_town": "Bilaspur",
+        "type": "Dam",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.35,
+        "longitude": 76.75,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Bilaspur Budget Stay",
+                    "price_per_night": 486
+                },
+                {
+                    "hotel_name": "Bilaspur Comfort Lodge",
+                    "price_per_night": 532
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Bilaspur Grand Resort",
+                    "price_per_night": 7616
+                },
+                {
+                    "hotel_name": "Bilaspur Royal Palace Hotel",
+                    "price_per_night": 11103
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Sujanpur Tira Fort",
+        "city_town": "Hamirpur",
+        "type": "Fort/Heritage",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.78,
+        "longitude": 76.5,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Hamirpur Budget Stay",
+                    "price_per_night": 947
+                },
+                {
+                    "hotel_name": "Hamirpur Comfort Lodge",
+                    "price_per_night": 522
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Hamirpur Grand Resort",
+                    "price_per_night": 8855
+                },
+                {
+                    "hotel_name": "Hamirpur Royal Palace Hotel",
+                    "price_per_night": 10778
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Deotsidh Temple",
+        "city_town": "Hamirpur",
+        "type": "Temple",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.75,
+        "longitude": 76.5,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Hamirpur Budget Stay",
+                    "price_per_night": 491
+                },
+                {
+                    "hotel_name": "Hamirpur Comfort Lodge",
+                    "price_per_night": 679
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Hamirpur Grand Resort",
+                    "price_per_night": 7029
+                },
+                {
+                    "hotel_name": "Hamirpur Royal Palace Hotel",
+                    "price_per_night": 13143
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Chintpurni Temple",
+        "city_town": "Una",
+        "type": "Temple",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 31.47,
+        "longitude": 76.38,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Una Budget Stay",
+                    "price_per_night": 640
+                },
+                {
+                    "hotel_name": "Una Comfort Lodge",
+                    "price_per_night": 802
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Una Grand Resort",
+                    "price_per_night": 9399
+                },
+                {
+                    "hotel_name": "Una Royal Palace Hotel",
+                    "price_per_night": 9063
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Pong Dam Wetlands",
+        "city_town": "Una",
+        "type": "Lake/Wildlife",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.5,
+        "longitude": 76.2,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Una Budget Stay",
+                    "price_per_night": 489
+                },
+                {
+                    "hotel_name": "Una Comfort Lodge",
+                    "price_per_night": 578
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Una Grand Resort",
+                    "price_per_night": 5635
+                },
+                {
+                    "hotel_name": "Una Royal Palace Hotel",
+                    "price_per_night": 8568
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Dera Baba Rudru",
+        "city_town": "Una",
+        "type": "Temple",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.47,
+        "longitude": 76.38,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Una Budget Stay",
+                    "price_per_night": 649
+                },
+                {
+                    "hotel_name": "Una Comfort Lodge",
+                    "price_per_night": 501
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Una Grand Resort",
+                    "price_per_night": 4890
+                },
+                {
+                    "hotel_name": "Una Royal Palace Hotel",
+                    "price_per_night": 7314
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Kasauli",
+        "city_town": "Solan",
+        "type": "Hill Station",
+        "hidden_gem": false,
+        "visit_duration": "2 days",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 30.9,
+        "longitude": 76.95,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Solan Budget Stay",
+                    "price_per_night": 503
+                },
+                {
+                    "hotel_name": "Solan Comfort Lodge",
+                    "price_per_night": 753
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Solan Grand Resort",
+                    "price_per_night": 5629
+                },
+                {
+                    "hotel_name": "Solan Royal Palace Hotel",
+                    "price_per_night": 8628
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Karol Tibba",
+        "city_town": "Solan",
+        "type": "Peak/Trek",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 6500,
+        "budget_category": "High",
+        "latitude": 30.9,
+        "longitude": 76.95,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Solan Budget Stay",
+                    "price_per_night": 557
+                },
+                {
+                    "hotel_name": "Solan Comfort Lodge",
+                    "price_per_night": 641
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Solan Grand Resort",
+                    "price_per_night": 7960
+                },
+                {
+                    "hotel_name": "Solan Royal Palace Hotel",
+                    "price_per_night": 7593
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Jatoli Shiv Temple",
+        "city_town": "Solan",
+        "type": "Temple",
+        "hidden_gem": false,
+        "visit_duration": "Half day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 30.92,
+        "longitude": 77.0,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Solan Budget Stay",
+                    "price_per_night": 538
+                },
+                {
+                    "hotel_name": "Solan Comfort Lodge",
+                    "price_per_night": 869
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Solan Grand Resort",
+                    "price_per_night": 7382
+                },
+                {
+                    "hotel_name": "Solan Royal Palace Hotel",
+                    "price_per_night": 9914
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Key Monastery",
+        "city_town": "Spiti Valley",
+        "type": "Monastery",
+        "hidden_gem": true,
+        "visit_duration": "2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 32.25,
+        "longitude": 78.0,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Spiti Valley Budget Stay",
+                    "price_per_night": 982
+                },
+                {
+                    "hotel_name": "Spiti Valley Comfort Lodge",
+                    "price_per_night": 580
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Spiti Valley Grand Resort",
+                    "price_per_night": 7826
+                },
+                {
+                    "hotel_name": "Spiti Valley Royal Palace Hotel",
+                    "price_per_night": 8018
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Chicham Bridge",
+        "city_town": "Spiti Valley",
+        "type": "Bridge/Viewpoint",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 32.3,
+        "longitude": 78.05,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Spiti Valley Budget Stay",
+                    "price_per_night": 928
+                },
+                {
+                    "hotel_name": "Spiti Valley Comfort Lodge",
+                    "price_per_night": 681
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Spiti Valley Grand Resort",
+                    "price_per_night": 8838
+                },
+                {
+                    "hotel_name": "Spiti Valley Royal Palace Hotel",
+                    "price_per_night": 8033
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Demul Village",
+        "city_town": "Spiti Valley",
+        "type": "Village",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 32.25,
+        "longitude": 78.1,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Spiti Valley Budget Stay",
+                    "price_per_night": 730
+                },
+                {
+                    "hotel_name": "Spiti Valley Comfort Lodge",
+                    "price_per_night": 821
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Spiti Valley Grand Resort",
+                    "price_per_night": 5856
+                },
+                {
+                    "hotel_name": "Spiti Valley Royal Palace Hotel",
+                    "price_per_night": 10886
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Chandratal Lake",
+        "city_town": "Lahaul-Spiti",
+        "type": "Lake/Trek",
+        "hidden_gem": true,
+        "visit_duration": "2-3 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 32.47,
+        "longitude": 77.62,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Lahaul-Spiti Budget Stay",
+                    "price_per_night": 494
+                },
+                {
+                    "hotel_name": "Lahaul-Spiti Comfort Lodge",
+                    "price_per_night": 633
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Lahaul-Spiti Grand Resort",
+                    "price_per_night": 4155
+                },
+                {
+                    "hotel_name": "Lahaul-Spiti Royal Palace Hotel",
+                    "price_per_night": 13576
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Suraj Tal",
+        "city_town": "Lahaul-Spiti",
+        "type": "Lake",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 32.47,
+        "longitude": 77.62,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Lahaul-Spiti Budget Stay",
+                    "price_per_night": 918
+                },
+                {
+                    "hotel_name": "Lahaul-Spiti Comfort Lodge",
+                    "price_per_night": 897
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Lahaul-Spiti Grand Resort",
+                    "price_per_night": 4922
+                },
+                {
+                    "hotel_name": "Lahaul-Spiti Royal Palace Hotel",
+                    "price_per_night": 11167
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Shashur Monastery",
+        "city_town": "Lahaul-Spiti",
+        "type": "Monastery",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 32.57,
+        "longitude": 77.55,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Lahaul-Spiti Budget Stay",
+                    "price_per_night": 819
+                },
+                {
+                    "hotel_name": "Lahaul-Spiti Comfort Lodge",
+                    "price_per_night": 520
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Lahaul-Spiti Grand Resort",
+                    "price_per_night": 6306
+                },
+                {
+                    "hotel_name": "Lahaul-Spiti Royal Palace Hotel",
+                    "price_per_night": 12323
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Bijli Mahadev Temple",
+        "city_town": "Kullu",
+        "type": "Temple",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.98,
+        "longitude": 77.12,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kullu Budget Stay",
+                    "price_per_night": 703
+                },
+                {
+                    "hotel_name": "Kullu Comfort Lodge",
+                    "price_per_night": 731
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kullu Grand Resort",
+                    "price_per_night": 4317
+                },
+                {
+                    "hotel_name": "Kullu Royal Palace Hotel",
+                    "price_per_night": 12964
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Manikaran Sahib",
+        "city_town": "Kullu",
+        "type": "Pilgrimage/Hot Springs",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 31.88,
+        "longitude": 77.35,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kullu Budget Stay",
+                    "price_per_night": 985
+                },
+                {
+                    "hotel_name": "Kullu Comfort Lodge",
+                    "price_per_night": 739
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kullu Grand Resort",
+                    "price_per_night": 4438
+                },
+                {
+                    "hotel_name": "Kullu Royal Palace Hotel",
+                    "price_per_night": 14013
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Solang Valley",
+        "city_town": "Kullu",
+        "type": "Adventure Valley",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 32.32,
+        "longitude": 77.16,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kullu Budget Stay",
+                    "price_per_night": 816
+                },
+                {
+                    "hotel_name": "Kullu Comfort Lodge",
+                    "price_per_night": 967
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kullu Grand Resort",
+                    "price_per_night": 6704
+                },
+                {
+                    "hotel_name": "Kullu Royal Palace Hotel",
+                    "price_per_night": 9741
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Rohtang Pass",
+        "city_town": "Kullu",
+        "type": "Mountain Pass",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget_in_inr": 6500,
+        "budget_category": "High",
+        "latitude": 32.37,
+        "longitude": 77.24,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kullu Budget Stay",
+                    "price_per_night": 878
+                },
+                {
+                    "hotel_name": "Kullu Comfort Lodge",
+                    "price_per_night": 402
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kullu Grand Resort",
+                    "price_per_night": 6418
+                },
+                {
+                    "hotel_name": "Kullu Royal Palace Hotel",
+                    "price_per_night": 6329
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Barot Valley",
+        "city_town": "Mandi",
+        "type": "Valley",
+        "hidden_gem": true,
+        "visit_duration": "2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 32.05,
+        "longitude": 76.9,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mandi Budget Stay",
+                    "price_per_night": 489
+                },
+                {
+                    "hotel_name": "Mandi Comfort Lodge",
+                    "price_per_night": 516
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mandi Grand Resort",
+                    "price_per_night": 6692
+                },
+                {
+                    "hotel_name": "Mandi Royal Palace Hotel",
+                    "price_per_night": 14280
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Rewalsar Lake",
+        "city_town": "Mandi",
+        "type": "Lake/Pilgrimage",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 31.63,
+        "longitude": 76.67,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mandi Budget Stay",
+                    "price_per_night": 435
+                },
+                {
+                    "hotel_name": "Mandi Comfort Lodge",
+                    "price_per_night": 962
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mandi Grand Resort",
+                    "price_per_night": 7985
+                },
+                {
+                    "hotel_name": "Mandi Royal Palace Hotel",
+                    "price_per_night": 6679
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Bhakra Dam",
+        "city_town": "Bilaspur",
+        "type": "Dam",
+        "hidden_gem": false,
+        "visit_duration": "Half day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 31.41,
+        "longitude": 76.43,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Bilaspur Budget Stay",
+                    "price_per_night": 961
+                },
+                {
+                    "hotel_name": "Bilaspur Comfort Lodge",
+                    "price_per_night": 784
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Bilaspur Grand Resort",
+                    "price_per_night": 7185
+                },
+                {
+                    "hotel_name": "Bilaspur Royal Palace Hotel",
+                    "price_per_night": 14844
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Naina Devi Temple",
+        "city_town": "Bilaspur",
+        "type": "Temple",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 31.4,
+        "longitude": 76.6,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Bilaspur Budget Stay",
+                    "price_per_night": 919
+                },
+                {
+                    "hotel_name": "Bilaspur Comfort Lodge",
+                    "price_per_night": 908
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Bilaspur Grand Resort",
+                    "price_per_night": 8354
+                },
+                {
+                    "hotel_name": "Bilaspur Royal Palace Hotel",
+                    "price_per_night": 11062
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Nadaun",
+        "city_town": "Hamirpur",
+        "type": "Historic Town",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.78,
+        "longitude": 76.35,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Hamirpur Budget Stay",
+                    "price_per_night": 717
+                },
+                {
+                    "hotel_name": "Hamirpur Comfort Lodge",
+                    "price_per_night": 990
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Hamirpur Grand Resort",
+                    "price_per_night": 8011
+                },
+                {
+                    "hotel_name": "Hamirpur Royal Palace Hotel",
+                    "price_per_night": 6922
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Tauni Devi Temple",
+        "city_town": "Hamirpur",
+        "type": "Temple",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.7,
+        "longitude": 76.52,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Hamirpur Budget Stay",
+                    "price_per_night": 909
+                },
+                {
+                    "hotel_name": "Hamirpur Comfort Lodge",
+                    "price_per_night": 988
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Hamirpur Grand Resort",
+                    "price_per_night": 6996
+                },
+                {
+                    "hotel_name": "Hamirpur Royal Palace Hotel",
+                    "price_per_night": 12343
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Kutlehar Fort",
+        "city_town": "Una",
+        "type": "Fort",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.48,
+        "longitude": 76.28,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Una Budget Stay",
+                    "price_per_night": 736
+                },
+                {
+                    "hotel_name": "Una Comfort Lodge",
+                    "price_per_night": 713
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Una Grand Resort",
+                    "price_per_night": 8299
+                },
+                {
+                    "hotel_name": "Una Royal Palace Hotel",
+                    "price_per_night": 9375
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Solan Brewery",
+        "city_town": "Solan",
+        "type": "Historic Brewery",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 30.91,
+        "longitude": 76.95,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Solan Budget Stay",
+                    "price_per_night": 686
+                },
+                {
+                    "hotel_name": "Solan Comfort Lodge",
+                    "price_per_night": 473
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Solan Grand Resort",
+                    "price_per_night": 7282
+                },
+                {
+                    "hotel_name": "Solan Royal Palace Hotel",
+                    "price_per_night": 11227
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Shoolini Mata Temple",
+        "city_town": "Solan",
+        "type": "Temple",
+        "hidden_gem": false,
+        "visit_duration": "Half day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 30.91,
+        "longitude": 76.95,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Solan Budget Stay",
+                    "price_per_night": 993
+                },
+                {
+                    "hotel_name": "Solan Comfort Lodge",
+                    "price_per_night": 453
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Solan Grand Resort",
+                    "price_per_night": 9988
+                },
+                {
+                    "hotel_name": "Solan Royal Palace Hotel",
+                    "price_per_night": 5081
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Dhankar Monastery",
+        "city_town": "Spiti Valley",
+        "type": "Monastery",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 32.09,
+        "longitude": 78.06,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Spiti Valley Budget Stay",
+                    "price_per_night": 933
+                },
+                {
+                    "hotel_name": "Spiti Valley Comfort Lodge",
+                    "price_per_night": 597
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Spiti Valley Grand Resort",
+                    "price_per_night": 8185
+                },
+                {
+                    "hotel_name": "Spiti Valley Royal Palace Hotel",
+                    "price_per_night": 7259
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Pin Valley National Park",
+        "city_town": "Spiti Valley",
+        "type": "National Park",
+        "hidden_gem": true,
+        "visit_duration": "2 days",
+        "budget_in_inr": 6500,
+        "budget_category": "High",
+        "latitude": 32.05,
+        "longitude": 78.05,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Spiti Valley Budget Stay",
+                    "price_per_night": 962
+                },
+                {
+                    "hotel_name": "Spiti Valley Comfort Lodge",
+                    "price_per_night": 486
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Spiti Valley Grand Resort",
+                    "price_per_night": 9850
+                },
+                {
+                    "hotel_name": "Spiti Valley Royal Palace Hotel",
+                    "price_per_night": 11282
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Kibber Village",
+        "city_town": "Spiti Valley",
+        "type": "Village",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 32.32,
+        "longitude": 78.06,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Spiti Valley Budget Stay",
+                    "price_per_night": 406
+                },
+                {
+                    "hotel_name": "Spiti Valley Comfort Lodge",
+                    "price_per_night": 747
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Spiti Valley Grand Resort",
+                    "price_per_night": 4428
+                },
+                {
+                    "hotel_name": "Spiti Valley Royal Palace Hotel",
+                    "price_per_night": 6881
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Trilokinath Temple",
+        "city_town": "Lahaul-Spiti",
+        "type": "Temple",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 32.57,
+        "longitude": 76.93,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Lahaul-Spiti Budget Stay",
+                    "price_per_night": 770
+                },
+                {
+                    "hotel_name": "Lahaul-Spiti Comfort Lodge",
+                    "price_per_night": 793
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Lahaul-Spiti Grand Resort",
+                    "price_per_night": 8734
+                },
+                {
+                    "hotel_name": "Lahaul-Spiti Royal Palace Hotel",
+                    "price_per_night": 8400
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Keylong",
+        "city_town": "Lahaul-Spiti",
+        "type": "Town",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 32.57,
+        "longitude": 77.03,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Lahaul-Spiti Budget Stay",
+                    "price_per_night": 878
+                },
+                {
+                    "hotel_name": "Lahaul-Spiti Comfort Lodge",
+                    "price_per_night": 935
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Lahaul-Spiti Grand Resort",
+                    "price_per_night": 8629
+                },
+                {
+                    "hotel_name": "Lahaul-Spiti Royal Palace Hotel",
+                    "price_per_night": 7063
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Gondhla Fort",
+        "city_town": "Lahaul-Spiti",
+        "type": "Fort",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 32.57,
+        "longitude": 77.07,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Lahaul-Spiti Budget Stay",
+                    "price_per_night": 719
+                },
+                {
+                    "hotel_name": "Lahaul-Spiti Comfort Lodge",
+                    "price_per_night": 444
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Lahaul-Spiti Grand Resort",
+                    "price_per_night": 6355
+                },
+                {
+                    "hotel_name": "Lahaul-Spiti Royal Palace Hotel",
+                    "price_per_night": 6401
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Jakhoo Temple",
+        "city_town": "Shimla",
+        "type": "Temple",
+        "hidden_gem": false,
+        "visit_duration": "Half day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 31.1,
+        "longitude": 77.17,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Shimla Budget Stay",
+                    "price_per_night": 782
+                },
+                {
+                    "hotel_name": "Shimla Comfort Lodge",
+                    "price_per_night": 519
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Shimla Grand Resort",
+                    "price_per_night": 6041
+                },
+                {
+                    "hotel_name": "Shimla Royal Palace Hotel",
+                    "price_per_night": 10821
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Christ Church",
+        "city_town": "Shimla",
+        "type": "Church",
+        "hidden_gem": false,
+        "visit_duration": "Half day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 31.1,
+        "longitude": 77.17,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Shimla Budget Stay",
+                    "price_per_night": 921
+                },
+                {
+                    "hotel_name": "Shimla Comfort Lodge",
+                    "price_per_night": 903
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Shimla Grand Resort",
+                    "price_per_night": 7838
+                },
+                {
+                    "hotel_name": "Shimla Royal Palace Hotel",
+                    "price_per_night": 12403
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Kufri",
+        "city_town": "Shimla",
+        "type": "Hill Station",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 31.1,
+        "longitude": 77.25,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Shimla Budget Stay",
+                    "price_per_night": 723
+                },
+                {
+                    "hotel_name": "Shimla Comfort Lodge",
+                    "price_per_night": 836
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Shimla Grand Resort",
+                    "price_per_night": 4946
+                },
+                {
+                    "hotel_name": "Shimla Royal Palace Hotel",
+                    "price_per_night": 8304
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Annandale Ground",
+        "city_town": "Shimla",
+        "type": "Ground/Viewpoint",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.09,
+        "longitude": 77.16,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Shimla Budget Stay",
+                    "price_per_night": 721
+                },
+                {
+                    "hotel_name": "Shimla Comfort Lodge",
+                    "price_per_night": 890
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Shimla Grand Resort",
+                    "price_per_night": 9086
+                },
+                {
+                    "hotel_name": "Shimla Royal Palace Hotel",
+                    "price_per_night": 9192
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Tara Devi Temple",
+        "city_town": "Shimla",
+        "type": "Temple",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.07,
+        "longitude": 77.13,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Shimla Budget Stay",
+                    "price_per_night": 627
+                },
+                {
+                    "hotel_name": "Shimla Comfort Lodge",
+                    "price_per_night": 605
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Shimla Grand Resort",
+                    "price_per_night": 7458
+                },
+                {
+                    "hotel_name": "Shimla Royal Palace Hotel",
+                    "price_per_night": 7046
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Summer Hill",
+        "city_town": "Shimla",
+        "type": "Hill Station",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.09,
+        "longitude": 77.14,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Shimla Budget Stay",
+                    "price_per_night": 730
+                },
+                {
+                    "hotel_name": "Shimla Comfort Lodge",
+                    "price_per_night": 913
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Shimla Grand Resort",
+                    "price_per_night": 7233
+                },
+                {
+                    "hotel_name": "Shimla Royal Palace Hotel",
+                    "price_per_night": 13936
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Mall Road",
+        "city_town": "Shimla",
+        "type": "Shopping Street",
+        "hidden_gem": false,
+        "visit_duration": "Half day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 31.1,
+        "longitude": 77.17,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Shimla Budget Stay",
+                    "price_per_night": 494
+                },
+                {
+                    "hotel_name": "Shimla Comfort Lodge",
+                    "price_per_night": 930
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Shimla Grand Resort",
+                    "price_per_night": 5070
+                },
+                {
+                    "hotel_name": "Shimla Royal Palace Hotel",
+                    "price_per_night": 14945
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Viceregal Lodge",
+        "city_town": "Shimla",
+        "type": "Heritage Building",
+        "hidden_gem": false,
+        "visit_duration": "Half day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 31.11,
+        "longitude": 77.16,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Shimla Budget Stay",
+                    "price_per_night": 577
+                },
+                {
+                    "hotel_name": "Shimla Comfort Lodge",
+                    "price_per_night": 650
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Shimla Grand Resort",
+                    "price_per_night": 4872
+                },
+                {
+                    "hotel_name": "Shimla Royal Palace Hotel",
+                    "price_per_night": 10504
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Mashobra Valley",
+        "city_town": "Mashobra",
+        "type": "Valley",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.12,
+        "longitude": 77.2,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mashobra Budget Stay",
+                    "price_per_night": 500
+                },
+                {
+                    "hotel_name": "Mashobra Comfort Lodge",
+                    "price_per_night": 668
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mashobra Grand Resort",
+                    "price_per_night": 8243
+                },
+                {
+                    "hotel_name": "Mashobra Royal Palace Hotel",
+                    "price_per_night": 7340
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Naldehra Golf Course",
+        "city_town": "Naldehra",
+        "type": "Golf Course",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.2,
+        "longitude": 77.2,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Naldehra Budget Stay",
+                    "price_per_night": 863
+                },
+                {
+                    "hotel_name": "Naldehra Comfort Lodge",
+                    "price_per_night": 725
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Naldehra Grand Resort",
+                    "price_per_night": 5670
+                },
+                {
+                    "hotel_name": "Naldehra Royal Palace Hotel",
+                    "price_per_night": 6190
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Hatkoti Temple",
+        "city_town": "Jubbal",
+        "type": "Temple",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.08,
+        "longitude": 77.73,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Jubbal Budget Stay",
+                    "price_per_night": 879
+                },
+                {
+                    "hotel_name": "Jubbal Comfort Lodge",
+                    "price_per_night": 793
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Jubbal Grand Resort",
+                    "price_per_night": 6370
+                },
+                {
+                    "hotel_name": "Jubbal Royal Palace Hotel",
+                    "price_per_night": 8467
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Sarahan Bhimakali Temple",
+        "city_town": "Sarahan",
+        "type": "Temple",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 31.52,
+        "longitude": 77.79,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Sarahan Budget Stay",
+                    "price_per_night": 628
+                },
+                {
+                    "hotel_name": "Sarahan Comfort Lodge",
+                    "price_per_night": 976
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Sarahan Grand Resort",
+                    "price_per_night": 9159
+                },
+                {
+                    "hotel_name": "Sarahan Royal Palace Hotel",
+                    "price_per_night": 5262
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Rampur Bushahr Palace",
+        "city_town": "Rampur",
+        "type": "Palace",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 31.45,
+        "longitude": 77.63,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Rampur Budget Stay",
+                    "price_per_night": 726
+                },
+                {
+                    "hotel_name": "Rampur Comfort Lodge",
+                    "price_per_night": 810
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Rampur Grand Resort",
+                    "price_per_night": 4177
+                },
+                {
+                    "hotel_name": "Rampur Royal Palace Hotel",
+                    "price_per_night": 5991
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Bhuri Singh Museum",
+        "city_town": "Chamba",
+        "type": "Museum",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 32.55,
+        "longitude": 76.13,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Chamba Budget Stay",
+                    "price_per_night": 554
+                },
+                {
+                    "hotel_name": "Chamba Comfort Lodge",
+                    "price_per_night": 824
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Chamba Grand Resort",
+                    "price_per_night": 9614
+                },
+                {
+                    "hotel_name": "Chamba Royal Palace Hotel",
+                    "price_per_night": 13905
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Chamunda Devi Temple",
+        "city_town": "Kangra",
+        "type": "Temple",
+        "hidden_gem": false,
+        "visit_duration": "Half day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 32.1,
+        "longitude": 76.27,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kangra Budget Stay",
+                    "price_per_night": 638
+                },
+                {
+                    "hotel_name": "Kangra Comfort Lodge",
+                    "price_per_night": 460
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kangra Grand Resort",
+                    "price_per_night": 9694
+                },
+                {
+                    "hotel_name": "Kangra Royal Palace Hotel",
+                    "price_per_night": 12730
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Baijnath Temple",
+        "city_town": "Kangra",
+        "type": "Temple",
+        "hidden_gem": false,
+        "visit_duration": "Half day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 32.05,
+        "longitude": 76.65,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kangra Budget Stay",
+                    "price_per_night": 728
+                },
+                {
+                    "hotel_name": "Kangra Comfort Lodge",
+                    "price_per_night": 623
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kangra Grand Resort",
+                    "price_per_night": 6557
+                },
+                {
+                    "hotel_name": "Kangra Royal Palace Hotel",
+                    "price_per_night": 9297
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Andretta Artists Village",
+        "city_town": "Kangra",
+        "type": "Village/Art Hub",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 32.1,
+        "longitude": 76.55,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kangra Budget Stay",
+                    "price_per_night": 682
+                },
+                {
+                    "hotel_name": "Kangra Comfort Lodge",
+                    "price_per_night": 766
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kangra Grand Resort",
+                    "price_per_night": 7476
+                },
+                {
+                    "hotel_name": "Kangra Royal Palace Hotel",
+                    "price_per_night": 9812
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Palampur Tea Gardens",
+        "city_town": "Palampur",
+        "type": "Tea Estate",
+        "hidden_gem": false,
+        "visit_duration": "Half day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 32.11,
+        "longitude": 76.53,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Palampur Budget Stay",
+                    "price_per_night": 548
+                },
+                {
+                    "hotel_name": "Palampur Comfort Lodge",
+                    "price_per_night": 459
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Palampur Grand Resort",
+                    "price_per_night": 9009
+                },
+                {
+                    "hotel_name": "Palampur Royal Palace Hotel",
+                    "price_per_night": 8273
+                }
+            ]
+        }
+    },
+    {
+        "state": "Himachal Pradesh",
+        "place_name": "Bir Billing",
+        "city_town": "Kangra",
+        "type": "Adventure/Paragliding",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 32.05,
+        "longitude": 76.72,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kangra Budget Stay",
+                    "price_per_night": 683
+                },
+                {
+                    "hotel_name": "Kangra Comfort Lodge",
+                    "price_per_night": 932
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kangra Grand Resort",
+                    "price_per_night": 9908
+                },
+                {
+                    "hotel_name": "Kangra Royal Palace Hotel",
+                    "price_per_night": 8027
+                }
+            ]
+        }
+    }
+]

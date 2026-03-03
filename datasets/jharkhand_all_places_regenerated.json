@@ -1,0 +1,1212 @@
+[
+  {
+    "state": "Jharkhand",
+    "place_name": "Rock Garden",
+    "city": "Ranchi",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.36,
+    "longitude": 85.33,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Ranchi",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Ranchi",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Birsa Zoological Park",
+    "city": "Ranchi",
+    "type": "Wildlife",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.37,
+    "longitude": 85.34,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Ranchi",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Ranchi",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Dassam Falls",
+    "city": "Ranchi",
+    "type": "Waterfall",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.38,
+    "longitude": 85.35,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Ranchi",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Ranchi",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Hundru Falls",
+    "city": "Ranchi",
+    "type": "Waterfall",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.39,
+    "longitude": 85.36,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Ranchi",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Ranchi",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Jonha Falls",
+    "city": "Ranchi",
+    "type": "Waterfall",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.4,
+    "longitude": 85.37,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Ranchi",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Ranchi",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Patratu Valley",
+    "city": "Ranchi",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.41,
+    "longitude": 85.38,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Ranchi",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Ranchi",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Patratu Dam",
+    "city": "Ranchi",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.42,
+    "longitude": 85.39,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Ranchi",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Ranchi",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Birsa Munda Park",
+    "city": "Ranchi",
+    "type": "Park",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.43,
+    "longitude": 85.4,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Ranchi",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Ranchi",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Tagore Hill",
+    "city": "Ranchi",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.44,
+    "longitude": 85.41,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Ranchi",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Ranchi",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Pahari Mandir",
+    "city": "Ranchi",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.45,
+    "longitude": 85.42,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Ranchi",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Ranchi",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Netarhat",
+    "city": "Latehar",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.46,
+    "longitude": 85.43,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Latehar",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Latehar",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Magnolia Point",
+    "city": "Latehar",
+    "type": "Scenic",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.47,
+    "longitude": 85.44,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Latehar",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Latehar",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Upper Ghaghri Falls",
+    "city": "Latehar",
+    "type": "Waterfall",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.48,
+    "longitude": 85.45,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Latehar",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Latehar",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Lower Ghaghri Falls",
+    "city": "Latehar",
+    "type": "Waterfall",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.49,
+    "longitude": 85.46,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Latehar",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Latehar",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Betla National Park",
+    "city": "Palamu",
+    "type": "Wildlife",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.5,
+    "longitude": 85.47,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Palamu",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Palamu",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Betla Fort",
+    "city": "Palamu",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.51,
+    "longitude": 85.48,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Palamu",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Palamu",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Palamu Fort",
+    "city": "Palamu",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.52,
+    "longitude": 85.49,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Palamu",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Palamu",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Lodh Falls",
+    "city": "Latehar",
+    "type": "Waterfall",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.53,
+    "longitude": 85.5,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Latehar",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Latehar",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Chhinda Falls",
+    "city": "Hazaribagh",
+    "type": "Waterfall",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.54,
+    "longitude": 85.51,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Hazaribagh",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Hazaribagh",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Canary Hill",
+    "city": "Hazaribagh",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.55,
+    "longitude": 85.52,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Hazaribagh",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Hazaribagh",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Hazaribagh Lake",
+    "city": "Hazaribagh",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.56,
+    "longitude": 85.53,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Hazaribagh",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Hazaribagh",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Hazaribagh Wildlife Sanctuary",
+    "city": "Hazaribagh",
+    "type": "Wildlife",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.57,
+    "longitude": 85.54,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Hazaribagh",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Hazaribagh",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Tilaiya Dam",
+    "city": "Koderma",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.58,
+    "longitude": 85.55,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Koderma",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Koderma",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Koderma Wildlife Sanctuary",
+    "city": "Koderma",
+    "type": "Wildlife",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.59,
+    "longitude": 85.56,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Koderma",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Koderma",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Usri Falls",
+    "city": "Giridih",
+    "type": "Waterfall",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.6,
+    "longitude": 85.57,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Giridih",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Giridih",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Parasnath Hill",
+    "city": "Giridih",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.61,
+    "longitude": 85.58,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Giridih",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Giridih",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Shikharji",
+    "city": "Giridih",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.62,
+    "longitude": 85.59,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Giridih",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Giridih",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Parasnath Wildlife Sanctuary",
+    "city": "Giridih",
+    "type": "Wildlife",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.63,
+    "longitude": 85.6,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Giridih",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Giridih",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Rajrappa Chhinnamasta Temple",
+    "city": "Ramgarh",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.64,
+    "longitude": 85.61,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Ramgarh",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Ramgarh",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Damodar River Bank",
+    "city": "Ramgarh",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.65,
+    "longitude": 85.62,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Ramgarh",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Ramgarh",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Bokaro Steel City Park",
+    "city": "Bokaro",
+    "type": "Park",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.66,
+    "longitude": 85.63,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Bokaro",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Bokaro",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "City Park Bokaro",
+    "city": "Bokaro",
+    "type": "Park",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.67,
+    "longitude": 85.64,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Bokaro",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Bokaro",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Garga Dam",
+    "city": "Bokaro",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.68,
+    "longitude": 85.65,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Bokaro",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Bokaro",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Birsa Institute Museum",
+    "city": "Ranchi",
+    "type": "Museum",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.69,
+    "longitude": 85.66,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Ranchi",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Ranchi",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Jharkhand War Memorial",
+    "city": "Ranchi",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.7,
+    "longitude": 85.67,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Ranchi",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Ranchi",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Dimna Lake",
+    "city": "Jamshedpur",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.71,
+    "longitude": 85.68,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Jamshedpur",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Jamshedpur",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Dalma Wildlife Sanctuary",
+    "city": "Jamshedpur",
+    "type": "Wildlife",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.72,
+    "longitude": 85.69,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Jamshedpur",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Jamshedpur",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Hudco Lake",
+    "city": "Jamshedpur",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.73,
+    "longitude": 85.7,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Jamshedpur",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Jamshedpur",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Sir Dorabji Tata Park",
+    "city": "Jamshedpur",
+    "type": "Park",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.74,
+    "longitude": 85.71,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Jamshedpur",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Jamshedpur",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Rankini Temple",
+    "city": "Jamshedpur",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.75,
+    "longitude": 85.72,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Jamshedpur",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Jamshedpur",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Birsa Munda Birthplace",
+    "city": "Khunti",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.76,
+    "longitude": 85.73,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Khunti",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Khunti",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Khunti Hill Areas",
+    "city": "Khunti",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.77,
+    "longitude": 85.74,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Khunti",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Khunti",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Saranda Forest",
+    "city": "West Singhbhum",
+    "type": "Forest",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.78,
+    "longitude": 85.75,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View West Singhbhum",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort West Singhbhum",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Kiriburu Hills",
+    "city": "West Singhbhum",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.79,
+    "longitude": 85.76,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View West Singhbhum",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort West Singhbhum",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Noamundi Hills",
+    "city": "West Singhbhum",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.8,
+    "longitude": 85.77,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View West Singhbhum",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort West Singhbhum",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Chandil Dam",
+    "city": "Seraikela",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.81,
+    "longitude": 85.78,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Seraikela",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Seraikela",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Seraikela Palace",
+    "city": "Seraikela",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.82,
+    "longitude": 85.79,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Seraikela",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Seraikela",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Ichagarh Fort",
+    "city": "Seraikela",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.83,
+    "longitude": 85.8,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Seraikela",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Seraikela",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Rajmahal Hills",
+    "city": "Sahibganj",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.84,
+    "longitude": 85.81,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Sahibganj",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Sahibganj",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Udhwa Bird Sanctuary",
+    "city": "Sahibganj",
+    "type": "Wildlife",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.85,
+    "longitude": 85.82,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Sahibganj",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Sahibganj",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Taljhari Hills",
+    "city": "Sahibganj",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.86,
+    "longitude": 85.83,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Sahibganj",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Sahibganj",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Nakti Dam",
+    "city": "Godda",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.87,
+    "longitude": 85.84,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Godda",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Godda",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Basukinath Temple",
+    "city": "Dumka",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.88,
+    "longitude": 85.85,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Dumka",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Dumka",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Massanjore Dam",
+    "city": "Dumka",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.89,
+    "longitude": 85.86,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Dumka",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Dumka",
+        "price_per_night_inr": 4800
+      }
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "place_name": "Mayurakshi River Bank",
+    "city": "Dumka",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.9,
+    "longitude": 85.87,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Hill View Dumka",
+        "price_per_night_inr": 750
+      },
+      "luxury": {
+        "hotel_name": "Grand Royal Resort Dumka",
+        "price_per_night_inr": 4800
+      }
+    }
+  }
+]

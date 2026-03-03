@@ -1,0 +1,732 @@
+[
+  {
+    "state": "Punjab",
+    "place_name": "Golden Temple",
+    "city_town": "Amritsar",
+    "type": "Religious / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 4000,
+    "latitude": 31.6200,
+    "longitude": 74.8765,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Amritsar Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Amritsar Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Amritsar Grand Resort", "price_per_night": 7500 },
+        { "hotel_name": "Amritsar Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Jallianwala Bagh",
+    "city_town": "Amritsar",
+    "type": "Historical Memorial",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 800,
+    "latitude": 31.6207,
+    "longitude": 74.8801,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Amritsar Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Amritsar Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Amritsar Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Amritsar Royal Palace Hotel", "price_per_night": 8300 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Wagah Border",
+    "city_town": "Near Amritsar",
+    "type": "Border Ceremony",
+    "hidden_gem": false,
+    "visit_duration": "3-4 Hours",
+    "budget_in_inr": 1200,
+    "latitude": 31.6044,
+    "longitude": 74.5720,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Amritsar Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Amritsar Comfort Lodge", "price_per_night": 1150 }
+      ],
+      "luxury": [
+        { "hotel_name": "Amritsar Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Amritsar Royal Palace Hotel", "price_per_night": 8800 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Rock Garden",
+    "city_town": "Chandigarh",
+    "type": "Art / Sculpture Garden",
+    "hidden_gem": false,
+    "visit_duration": "2 Hours",
+    "budget_in_inr": 1500,
+    "latitude": 30.7520,
+    "longitude": 76.8101,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 1000 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1600 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 8500 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 9200 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Sukhna Lake",
+    "city_town": "Chandigarh",
+    "type": "Lake / Leisure",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 1200,
+    "latitude": 30.7421,
+    "longitude": 76.8188,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1500 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 8800 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 9600 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Anandpur Sahib",
+    "city_town": "Rupnagar",
+    "type": "Religious / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 2500,
+    "latitude": 31.2190,
+    "longitude": 76.5215,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Rupnagar Budget Stay", "price_per_night": 700 },
+        { "hotel_name": "Rupnagar Comfort Lodge", "price_per_night": 950 }
+      ],
+      "luxury": [
+        { "hotel_name": "Rupnagar Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Rupnagar Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Gobindgarh Fort",
+    "city_town": "Amritsar",
+    "type": "Historical Fort",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 1000,
+    "latitude": 31.6110,
+    "longitude": 74.9300,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Amritsar Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Amritsar Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Amritsar Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Amritsar Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Sheesh Mahal",
+    "city_town": "Patiala",
+    "type": "Historical Palace",
+    "hidden_gem": false,
+    "visit_duration": "3-4 Hours",
+    "budget_in_inr": 1500,
+    "latitude": 30.3280,
+    "longitude": 76.3860,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Patiala Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Patiala Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Patiala Grand Resort", "price_per_night": 7000 },
+        { "hotel_name": "Patiala Royal Palace Hotel", "price_per_night": 8200 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Moti Bagh Palace",
+    "city_town": "Patiala",
+    "type": "Heritage Palace",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 1800,
+    "latitude": 30.3235,
+    "longitude": 76.3830,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Patiala Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Patiala Comfort Lodge", "price_per_night": 1150 }
+      ],
+      "luxury": [
+        { "hotel_name": "Patiala Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Patiala Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Pul Kanjari",
+    "city_town": "Amritsar",
+    "type": "Historical / Cultural Site",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 600,
+    "latitude": 31.5580,
+    "longitude": 74.8900,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Amritsar Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Amritsar Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Amritsar Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Amritsar Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Ranjit Sagar Dam",
+    "city_town": "Gurdaspur",
+    "type": "Nature / Engineering",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 2200,
+    "latitude": 32.3240,
+    "longitude": 75.2180,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Gurdaspur Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Gurdaspur Comfort Lodge", "price_per_night": 950 }
+      ],
+      "luxury": [
+        { "hotel_name": "Gurdaspur Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Gurdaspur Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Harike Wetland",
+    "city_town": "Ferozepur",
+    "type": "Nature / Bird Sanctuary",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 1200,
+    "latitude": 31.1100,
+    "longitude": 74.8200,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Ferozepur Budget Stay", "price_per_night": 750 },
+        { "hotel_name": "Ferozepur Comfort Lodge", "price_per_night": 950 }
+      ],
+      "luxury": [
+        { "hotel_name": "Ferozepur Grand Resort", "price_per_night": 7000 },
+        { "hotel_name": "Ferozepur Royal Palace Hotel", "price_per_night": 8200 }
+      ]
+    }
+  }
+]
+[
+  {
+    "state": "Punjab",
+    "place_name": "Bathinda Fort",
+    "city_town": "Bathinda",
+    "type": "Historical Fort",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 1500,
+    "latitude": 30.2110,
+    "longitude": 74.9450,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Bathinda Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Bathinda Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Bathinda Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Bathinda Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Mansa Devi Temple",
+    "city_town": "Chandigarh",
+    "type": "Religious Site",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 1200,
+    "latitude": 30.7435,
+    "longitude": 76.8120,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 1000 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1600 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 8500 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 9200 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Gobindgarh Fort Light & Sound Show",
+    "city_town": "Amritsar",
+    "type": "Cultural / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 1000,
+    "latitude": 31.6110,
+    "longitude": 74.9300,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Amritsar Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Amritsar Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Amritsar Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Amritsar Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Sheesh Mahal Gardens",
+    "city_town": "Patiala",
+    "type": "Heritage Garden",
+    "hidden_gem": true,
+    "visit_duration": "2 Hours",
+    "budget_in_inr": 1300,
+    "latitude": 30.3280,
+    "longitude": 76.3860,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Patiala Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Patiala Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Patiala Grand Resort", "price_per_night": 7000 },
+        { "hotel_name": "Patiala Royal Palace Hotel", "price_per_night": 8200 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Durgiana Temple",
+    "city_town": "Amritsar",
+    "type": "Religious / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2 Hours",
+    "budget_in_inr": 800,
+    "latitude": 31.6195,
+    "longitude": 74.8768,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Amritsar Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Amritsar Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Amritsar Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Amritsar Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Fateh Burj",
+    "city_town": "Mohali",
+    "type": "Historical Monument",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 1200,
+    "latitude": 30.7194,
+    "longitude": 76.7061,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Mohali Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Mohali Comfort Lodge", "price_per_night": 1300 }
+      ],
+      "luxury": [
+        { "hotel_name": "Mohali Grand Resort", "price_per_night": 8000 },
+        { "hotel_name": "Mohali Royal Palace Hotel", "price_per_night": 9200 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Kila Raipur Sports Festival",
+    "city_town": "Ludhiana",
+    "type": "Cultural / Sports",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 2000,
+    "latitude": 30.8510,
+    "longitude": 75.7840,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Ludhiana Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Ludhiana Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Ludhiana Grand Resort", "price_per_night": 7600 },
+        { "hotel_name": "Ludhiana Royal Palace Hotel", "price_per_night": 8800 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Phillaur Fort",
+    "city_town": "Phillaur",
+    "type": "Historical Fort",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 1000,
+    "latitude": 31.0180,
+    "longitude": 75.7870,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Phillaur Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Phillaur Comfort Lodge", "price_per_night": 1050 }
+      ],
+      "luxury": [
+        { "hotel_name": "Phillaur Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Phillaur Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Sheikhupura Bagh",
+    "city_town": "Ludhiana",
+    "type": "Nature / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 1300,
+    "latitude": 30.9000,
+    "longitude": 75.8500,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Ludhiana Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Ludhiana Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Ludhiana Grand Resort", "price_per_night": 7600 },
+        { "hotel_name": "Ludhiana Royal Palace Hotel", "price_per_night": 8800 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Kapurthala Jagatjit Palace",
+    "city_town": "Kapurthala",
+    "type": "Heritage Palace",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 1800,
+    "latitude": 31.3800,
+    "longitude": 75.3840,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Kapurthala Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Kapurthala Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Kapurthala Grand Resort", "price_per_night": 7500 },
+        { "hotel_name": "Kapurthala Royal Palace Hotel", "price_per_night": 8800 }
+      ]
+    }
+  }
+]
+[
+  {
+    "state": "Punjab",
+    "place_name": "Wagah Border Ceremony",
+    "city_town": "Amritsar",
+    "type": "Cultural / Border Event",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 800,
+    "latitude": 31.6170,
+    "longitude": 74.5780,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Amritsar Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Amritsar Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Amritsar Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Amritsar Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Anandpur Sahib",
+    "city_town": "Rupnagar",
+    "type": "Religious / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 2500,
+    "latitude": 31.2810,
+    "longitude": 76.5030,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Rupnagar Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Rupnagar Comfort Lodge", "price_per_night": 1300 }
+      ],
+      "luxury": [
+        { "hotel_name": "Rupnagar Grand Resort", "price_per_night": 7800 },
+        { "hotel_name": "Rupnagar Royal Palace Hotel", "price_per_night": 8900 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Gobindgarh Fort Museum",
+    "city_town": "Amritsar",
+    "type": "Heritage Museum",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 1200,
+    "latitude": 31.6110,
+    "longitude": 74.9300,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Amritsar Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Amritsar Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Amritsar Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Amritsar Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Harike Wetland & Bird Sanctuary",
+    "city_town": "Firozpur",
+    "type": "Nature / Wildlife",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 2000,
+    "latitude": 31.0620,
+    "longitude": 74.8800,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Firozpur Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Firozpur Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Firozpur Grand Resort", "price_per_night": 7700 },
+        { "hotel_name": "Firozpur Royal Palace Hotel", "price_per_night": 8800 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Jallianwala Bagh",
+    "city_town": "Amritsar",
+    "type": "Historical / Memorial",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 700,
+    "latitude": 31.6120,
+    "longitude": 74.8765,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Amritsar Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Amritsar Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Amritsar Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Amritsar Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Rock Garden, Chandigarh",
+    "city_town": "Chandigarh",
+    "type": "Art / Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 1500,
+    "latitude": 30.7190,
+    "longitude": 76.7680,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chandigarh Budget Stay", "price_per_night": 1000 },
+        { "hotel_name": "Chandigarh Comfort Lodge", "price_per_night": 1600 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chandigarh Grand Resort", "price_per_night": 8500 },
+        { "hotel_name": "Chandigarh Royal Palace Hotel", "price_per_night": 9200 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Sadda Pind Village Museum",
+    "city_town": "Mohali",
+    "type": "Cultural / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 1200,
+    "latitude": 30.6750,
+    "longitude": 76.7150,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Mohali Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Mohali Comfort Lodge", "price_per_night": 1300 }
+      ],
+      "luxury": [
+        { "hotel_name": "Mohali Grand Resort", "price_per_night": 8000 },
+        { "hotel_name": "Mohali Royal Palace Hotel", "price_per_night": 9200 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Pushpa Gujral Science City",
+    "city_town": "Jalandhar",
+    "type": "Science & Technology",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 1500,
+    "latitude": 31.3210,
+    "longitude": 75.5790,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Jalandhar Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Jalandhar Comfort Lodge", "price_per_night": 1300 }
+      ],
+      "luxury": [
+        { "hotel_name": "Jalandhar Grand Resort", "price_per_night": 7800 },
+        { "hotel_name": "Jalandhar Royal Palace Hotel", "price_per_night": 9000 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Patiala Baradari Gardens",
+    "city_town": "Patiala",
+    "type": "Heritage Garden",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 1300,
+    "latitude": 30.3320,
+    "longitude": 76.3920,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Patiala Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Patiala Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Patiala Grand Resort", "price_per_night": 7000 },
+        { "hotel_name": "Patiala Royal Palace Hotel", "price_per_night": 8200 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Gobindgarh Fort Sound & Light Show",
+    "city_town": "Amritsar",
+    "type": "Cultural / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 1000,
+    "latitude": 31.6110,
+    "longitude": 74.9300,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Amritsar Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Amritsar Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Amritsar Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Amritsar Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "place_name": "Harike Bird Sanctuary",
+    "city_town": "Firozpur",
+    "type": "Nature / Wildlife",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 2000,
+    "latitude": 31.0620,
+    "longitude": 74.8800,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Firozpur Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Firozpur Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Firozpur Grand Resort", "price_per_night": 7700 },
+        { "hotel_name": "Firozpur Royal Palace Hotel", "price_per_night": 8800 }
+      ]
+    }
+  }
+]

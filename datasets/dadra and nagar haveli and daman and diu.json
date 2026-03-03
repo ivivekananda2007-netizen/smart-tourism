@@ -1,0 +1,442 @@
+[
+  {
+    "state": "Dadra and Nagar Haveli",
+    "place_name": "Hirwavan",
+    "city_town": "Silvassa",
+    "type": "Wildlife / Nature",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 4500,
+    "latitude": 20.2850,
+    "longitude": 73.0090,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Hirwavan Budget Lodge", "price_per_night": 800},
+        {"hotel_name": "Nature View Lodge Silvassa", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Hirwavan Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Jungle Stay Silvassa", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Dadra and Nagar Haveli",
+    "place_name": "Lion Safari",
+    "city_town": "Silvassa",
+    "type": "Wildlife / Nature",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 5000,
+    "latitude": 20.2830,
+    "longitude": 73.0060,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Safari Budget Lodge Silvassa", "price_per_night": 900},
+        {"hotel_name": "Nature View Lodge Silvassa", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Royal Safari Resort", "price_per_night": 8000},
+        {"hotel_name": "Luxury Jungle Stay Silvassa", "price_per_night": 8500}
+      ]
+    }
+  },
+  {
+    "state": "Dadra and Nagar Haveli",
+    "place_name": "Vanganga Lake Garden",
+    "city_town": "Silvassa",
+    "type": "Nature / Garden",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 4500,
+    "latitude": 20.2880,
+    "longitude": 73.0070,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Vanganga Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Garden View Lodge Silvassa", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Vanganga Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Garden Stay Silvassa", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Dadra and Nagar Haveli",
+    "place_name": "Sutrapada Waterfall",
+    "city_town": "Silvassa",
+    "type": "Nature / Waterfall",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 4500,
+    "latitude": 20.2890,
+    "longitude": 73.0110,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Waterfall Budget Lodge", "price_per_night": 800},
+        {"hotel_name": "Nature Stay Silvassa", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Sutrapada Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Waterfall Stay Silvassa", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Dadra and Nagar Haveli",
+    "place_name": "Kanheri Daman Sanctuary",
+    "city_town": "Silvassa",
+    "type": "Wildlife / Sanctuary",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 5000,
+    "latitude": 20.2905,
+    "longitude": 73.0120,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Sanctuary Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Nature Lodge Silvassa", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Kanheri Luxury Resort", "price_per_night": 8000},
+        {"hotel_name": "Royal Wildlife Stay Silvassa", "price_per_night": 8500}
+      ]
+    }
+  },
+  {
+    "state": "Daman and Diu",
+    "place_name": "Moti Daman Fort",
+    "city_town": "Daman",
+    "type": "Heritage / Fort",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 5000,
+    "latitude": 20.4175,
+    "longitude": 72.8325,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Fort View Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Daman Lodge Fort", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Moti Daman Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Heritage Stay Daman", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Daman and Diu",
+    "place_name": "Jampore Beach Adventure",
+    "city_town": "Daman",
+    "type": "Beach / Adventure",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 5000,
+    "latitude": 20.4105,
+    "longitude": 72.8410,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Adventure Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Seaside Lodge Adventure Daman", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Jampore Luxury Adventure Resort", "price_per_night": 8000},
+        {"hotel_name": "Royal Beach Stay Daman Adventure", "price_per_night": 8500}
+      ]
+    }
+  },
+  {
+    "state": "Daman and Diu",
+    "place_name": "Nani Daman Church",
+    "city_town": "Daman",
+    "type": "Heritage / Religious",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 4500,
+    "latitude": 20.4165,
+    "longitude": 72.8315,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Church View Budget Stay", "price_per_night": 850},
+        {"hotel_name": "Daman Lodge Church", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Nani Daman Luxury Stay", "price_per_night": 7000},
+        {"hotel_name": "Royal Church Stay Daman", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Daman and Diu",
+    "place_name": "Ghoghla Beach",
+    "city_town": "Diu",
+    "type": "Beach / Nature",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 5500,
+    "latitude": 20.7210,
+    "longitude": 70.9870,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Ghoghla Budget Stay", "price_per_night": 950},
+        {"hotel_name": "Seaside Lodge Ghoghla", "price_per_night": 1000}
+      ],
+      "luxury": [
+        {"hotel_name": "Ghoghla Luxury Resort", "price_per_night": 8000},
+        {"hotel_name": "Royal Beach Stay Ghoghla", "price_per_night": 8500}
+      ]
+    }
+  },
+  {
+    "state": "Daman and Diu",
+    "place_name": "Nagoa Adventure Beach",
+    "city_town": "Diu",
+    "type": "Beach / Adventure",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 5000,
+    "latitude": 20.7175,
+    "longitude": 70.9855,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Nagoa Adventure Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Seaside Lodge Adventure Nagoa", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Nagoa Luxury Adventure Resort", "price_per_night": 8000},
+        {"hotel_name": "Royal Beach Stay Nagoa Adventure", "price_per_night": 8500}
+      ]
+    }
+  },
+  {
+    "state": "Dadra and Nagar Haveli",
+    "place_name": "Dudhni Lake",
+    "city_town": "Silvassa",
+    "type": "Lake / Nature",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4000,
+    "latitude": 20.2860,
+    "longitude": 73.0080,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Silvassa Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Lakeview Lodge Dudhni", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Dudhni Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Stay Silvassa", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Dadra and Nagar Haveli",
+    "place_name": "Vasona Lion Safari",
+    "city_town": "Silvassa",
+    "type": "Wildlife / Nature",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 4500,
+    "latitude": 20.2840,
+    "longitude": 73.0050,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Vasona Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Safari Lodge Silvassa", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Vasona Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Safari Stay", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Dadra and Nagar Haveli",
+    "place_name": "Malguni River",
+    "city_town": "Silvassa",
+    "type": "Nature / River",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 4000,
+    "latitude": 20.2900,
+    "longitude": 73.0150,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "River View Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Nature Lodge Malguni", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Malguni Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Stay Malguni", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Dadra and Nagar Haveli",
+    "place_name": "Silvassa Tribal Museum",
+    "city_town": "Silvassa",
+    "type": "Heritage / Museum",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 4500,
+    "latitude": 20.2700,
+    "longitude": 73.0080,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Museum View Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Silvassa Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Luxury Resort Silvassa", "price_per_night": 7000},
+        {"hotel_name": "Royal Heritage Stay Silvassa", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Dadra and Nagar Haveli",
+    "place_name": "Gardens of Silvassa",
+    "city_town": "Silvassa",
+    "type": "Nature / Garden",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 4500,
+    "latitude": 20.2850,
+    "longitude": 73.0100,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Garden View Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Silvassa Lodge Garden", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Luxury Garden Resort Silvassa", "price_per_night": 7000},
+        {"hotel_name": "Royal Garden Stay Silvassa", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Daman and Diu",
+    "place_name": "Devka Beach",
+    "city_town": "Daman",
+    "type": "Beach / Nature",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 5000,
+    "latitude": 20.4170,
+    "longitude": 72.8330,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Devka Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Beach View Lodge Daman", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Devka Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Beach Stay Daman", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Daman and Diu",
+    "place_name": "Jampore Beach",
+    "city_town": "Daman",
+    "type": "Beach / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4500,
+    "latitude": 20.4100,
+    "longitude": 72.8400,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Jampore Budget Stay", "price_per_night": 850},
+        {"hotel_name": "Seaside Lodge Daman", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Jampore Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Beach Resort Daman", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Daman and Diu",
+    "place_name": "Diu Fort",
+    "city_town": "Diu",
+    "type": "Heritage / Fort",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 5000,
+    "latitude": 20.7160,
+    "longitude": 70.9850,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Diu Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Fort View Lodge Diu", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Diu Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Heritage Stay Diu", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Daman and Diu",
+    "place_name": "Nagoa Beach",
+    "city_town": "Diu",
+    "type": "Beach / Nature",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 5500,
+    "latitude": 20.7170,
+    "longitude": 70.9855,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Nagoa Budget Stay", "price_per_night": 950},
+        {"hotel_name": "Seaside Lodge Nagoa", "price_per_night": 1000}
+      ],
+      "luxury": [
+        {"hotel_name": "Nagoa Luxury Resort", "price_per_night": 8000},
+        {"hotel_name": "Royal Beach Stay Nagoa", "price_per_night": 8500}
+      ]
+    }
+  },
+  {
+    "state": "Daman and Diu",
+    "place_name": "St. Paul’s Church",
+    "city_town": "Diu",
+    "type": "Heritage / Religious",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 4500,
+    "latitude": 20.7180,
+    "longitude": 70.9840,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Diu Budget Stay", "price_per_night": 850},
+        {"hotel_name": "Church View Lodge Diu", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Luxury Stay Diu", "price_per_night": 7000},
+        {"hotel_name": "Royal Heritage Stay Diu", "price_per_night": 7500}
+      ]
+    }
+  }
+]

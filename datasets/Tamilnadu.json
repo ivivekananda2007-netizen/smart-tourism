@@ -1,0 +1,2405 @@
+[
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Ooty",
+    "city_town": "Ooty",
+    "type": "Hill Station / Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Days",
+    "budget_in_inr": 5000,
+    "latitude": 11.4064,
+    "longitude": 76.6932,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Ooty Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Hill View Lodge Ooty", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Savoy IHCL Ooty", "price_per_night": 11000},
+        {"hotel_name": "Sterling Ooty Elk Hill", "price_per_night": 8500}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Kodaikanal",
+    "city_town": "Kodaikanal",
+    "type": "Hill Station / Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Days",
+    "budget_in_inr": 5500,
+    "latitude": 10.2381,
+    "longitude": 77.4892,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Kodai Budget Inn", "price_per_night": 950},
+        {"hotel_name": "Lake View Budget Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "The Tamara Kodai", "price_per_night": 12000},
+        {"hotel_name": "Sterling Kodai Lake", "price_per_night": 9000}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Rameswaram",
+    "city_town": "Rameswaram",
+    "type": "Religious / Pilgrimage",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 3000,
+    "latitude": 9.2881,
+    "longitude": 79.3174,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Temple View Budget Stay", "price_per_night": 600},
+        {"hotel_name": "Rameswaram Guest House", "price_per_night": 750}
+      ],
+      "luxury": [
+        {"hotel_name": "Daiwik Hotels Rameswaram", "price_per_night": 7500},
+        {"hotel_name": "Hyatt Place Rameswaram", "price_per_night": 9500}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Kanyakumari",
+    "city_town": "Kanyakumari",
+    "type": "Beach / Nature",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 2500,
+    "latitude": 8.0883,
+    "longitude": 77.5385,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Sea View Budget Inn", "price_per_night": 500},
+        {"hotel_name": "Sunrise Lodge", "price_per_night": 700}
+      ],
+      "luxury": [
+        {"hotel_name": "Sparsa Resort Kanyakumari", "price_per_night": 8000},
+        {"hotel_name": "Annai Resorts & Spa", "price_per_night": 9000}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Chennai Marina Beach",
+    "city_town": "Chennai",
+    "type": "Beach / City",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 6500,
+    "latitude": 13.0500,
+    "longitude": 80.2824,
+    "budget_category": "High",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Chennai Budget Stay", "price_per_night": 950},
+        {"hotel_name": "Marina Guest House", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Taj Coromandel Chennai", "price_per_night": 13000},
+        {"hotel_name": "ITC Grand Chola Chennai", "price_per_night": 15000}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Madurai Meenakshi Temple",
+    "city_town": "Madurai",
+    "type": "Religious / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 3500,
+    "latitude": 9.9195,
+    "longitude": 78.1193,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Madurai Budget Lodge", "price_per_night": 700},
+        {"hotel_name": "Temple City Inn", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Heritage Madurai", "price_per_night": 9500},
+        {"hotel_name": "Gateway Madurai", "price_per_night": 8500}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Yercaud",
+    "city_town": "Salem",
+    "type": "Hill Station / Nature",
+    "hidden_gem": true,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 3000,
+    "latitude": 11.7753,
+    "longitude": 78.2090,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Yercaud Budget Stay", "price_per_night": 600},
+        {"hotel_name": "Lake View Lodge Yercaud", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Grand Palace Hotel & Spa Yercaud", "price_per_night": 8000},
+        {"hotel_name": "Sterling Yercaud", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Hogenakkal Falls",
+    "city_town": "Dharmapuri",
+    "type": "Waterfall / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 2000,
+    "latitude": 12.1181,
+    "longitude": 77.7740,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Hogenakkal Budget Inn", "price_per_night": 500},
+        {"hotel_name": "Falls View Lodge", "price_per_night": 750}
+      ],
+      "luxury": [
+        {"hotel_name": "Hogenakkal River Resort", "price_per_night": 6500},
+        {"hotel_name": "Nature Bliss Resort", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Mahabalipuram",
+    "city_town": "Mahabalipuram",
+    "type": "Heritage / Beach",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 4500,
+    "latitude": 12.6208,
+    "longitude": 80.1931,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Mahabalipuram Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Shore Temple Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Radisson Blu Temple Bay", "price_per_night": 12000},
+        {"hotel_name": "InterContinental Mahabalipuram", "price_per_night": 14000}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Thanjavur",
+    "city_town": "Thanjavur",
+    "type": "Heritage / Temple",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 2500,
+    "latitude": 10.7867,
+    "longitude": 79.1378,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Thanjavur Budget Inn", "price_per_night": 650},
+        {"hotel_name": "Temple Heritage Lodge", "price_per_night": 800}
+      ],
+      "luxury": [
+        {"hotel_name": "Svatma Thanjavur", "price_per_night": 9000},
+        {"hotel_name": "Great Trails River View", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Coimbatore",
+    "city_town": "Coimbatore",
+    "type": "City / Nature",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 4000,
+    "latitude": 11.0168,
+    "longitude": 76.9558,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Coimbatore Budget Stay", "price_per_night": 900},
+        {"hotel_name": "City Comfort Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Vivanta Coimbatore", "price_per_night": 9500},
+        {"hotel_name": "Le Meridien Coimbatore", "price_per_night": 10500}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Coonoor",
+    "city_town": "Coonoor",
+    "type": "Hill Station / Nature",
+    "hidden_gem": true,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 3500,
+    "latitude": 11.3530,
+    "longitude": 76.7950,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Coonoor Budget Inn", "price_per_night": 700},
+        {"hotel_name": "Tea Garden Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Gateway Coonoor", "price_per_night": 9000},
+        {"hotel_name": "Neemrana Wallwood Garden", "price_per_night": 8500}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Tiruchirappalli",
+    "city_town": "Trichy",
+    "type": "Heritage / Temple",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 2500,
+    "latitude": 10.7905,
+    "longitude": 78.7047,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Trichy Budget Lodge", "price_per_night": 600},
+        {"hotel_name": "Rockfort View Inn", "price_per_night": 800}
+      ],
+      "luxury": [
+        {"hotel_name": "Courtyard by Marriott Trichy", "price_per_night": 9000},
+        {"hotel_name": "SRM Hotel Trichy", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Chidambaram",
+    "city_town": "Chidambaram",
+    "type": "Religious / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 2000,
+    "latitude": 11.3993,
+    "longitude": 79.6935,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Chidambaram Budget Stay", "price_per_night": 500},
+        {"hotel_name": "Temple Town Lodge", "price_per_night": 750}
+      ],
+      "luxury": [
+        {"hotel_name": "Grand Palace Chidambaram", "price_per_night": 6500},
+        {"hotel_name": "Heritage Temple Resort", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Ramanathapuram",
+    "city_town": "Ramanathapuram",
+    "type": "Heritage / Coastal",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 2200,
+    "latitude": 9.3639,
+    "longitude": 78.8395,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Ramanathapuram Budget Inn", "price_per_night": 600},
+        {"hotel_name": "Coastal View Lodge", "price_per_night": 800}
+      ],
+      "luxury": [
+        {"hotel_name": "Royal Coastal Resort", "price_per_night": 7000},
+        {"hotel_name": "Sea Breeze Heritage Stay", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Vellore",
+    "city_town": "Vellore",
+    "type": "Fort / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 2500,
+    "latitude": 12.9165,
+    "longitude": 79.1325,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Vellore Budget Stay", "price_per_night": 650},
+        {"hotel_name": "Fort View Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Regency Sameera Vellore", "price_per_night": 7500},
+        {"hotel_name": "Darling Residency", "price_per_night": 8000}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Kanchipuram",
+    "city_town": "Kanchipuram",
+    "type": "Temple / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 2000,
+    "latitude": 12.8342,
+    "longitude": 79.7036,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Kanchipuram Budget Lodge", "price_per_night": 500},
+        {"hotel_name": "Silk City Inn", "price_per_night": 750}
+      ],
+      "luxury": [
+        {"hotel_name": "GRT Regency Kanchipuram", "price_per_night": 7000},
+        {"hotel_name": "Heritage Silk Resort", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Pollachi",
+    "city_town": "Pollachi",
+    "type": "Nature / Rural",
+    "hidden_gem": true,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 3000,
+    "latitude": 10.6602,
+    "longitude": 77.0087,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Pollachi Budget Stay", "price_per_night": 700},
+        {"hotel_name": "Coconut Grove Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Coco Lagoon Resort", "price_per_night": 8000},
+        {"hotel_name": "Ambrra River Resort", "price_per_night": 8500}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Tirunelveli",
+    "city_town": "Tirunelveli",
+    "type": "Temple / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 2000,
+    "latitude": 8.7139,
+    "longitude": 77.7567,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Nellai Budget Inn", "price_per_night": 500},
+        {"hotel_name": "Temple City Lodge", "price_per_night": 700}
+      ],
+      "luxury": [
+        {"hotel_name": "Hotel Applettree Tirunelveli", "price_per_night": 7000},
+        {"hotel_name": "Regency Tirunelveli", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Kolli Hills",
+    "city_town": "Namakkal",
+    "type": "Hill Station / Nature",
+    "hidden_gem": true,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 2500,
+    "latitude": 11.2480,
+    "longitude": 78.3300,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Kolli Hills Budget Stay", "price_per_night": 600},
+        {"hotel_name": "Hilltop Eco Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Kolli Hills Nature Resort", "price_per_night": 6500},
+        {"hotel_name": "Mountain Mist Retreat", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Valparai",
+    "city_town": "Valparai",
+    "type": "Hill Station / Nature",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Days",
+    "budget_in_inr": 3500,
+    "latitude": 10.3269,
+    "longitude": 76.9510,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Valparai Budget Stay", "price_per_night": 700},
+        {"hotel_name": "Tea Estate Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Green Hill Hotel Valparai", "price_per_night": 7500},
+        {"hotel_name": "Briar Tea Bungalows", "price_per_night": 9000}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Dhanushkodi",
+    "city_town": "Rameswaram",
+    "type": "Beach / Ghost Town",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 1500,
+    "latitude": 9.1792,
+    "longitude": 79.4192,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Dhanushkodi Budget Camp", "price_per_night": 500},
+        {"hotel_name": "Sea Breeze Stay", "price_per_night": 700}
+      ],
+      "luxury": [
+        {"hotel_name": "Daiwik Hotels Rameswaram", "price_per_night": 7500},
+        {"hotel_name": "Hyatt Place Rameswaram", "price_per_night": 9500}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Courtallam",
+    "city_town": "Tenkasi",
+    "type": "Waterfalls / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 2000,
+    "latitude": 8.9342,
+    "longitude": 77.2778,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Courtallam Budget Lodge", "price_per_night": 600},
+        {"hotel_name": "Falls View Inn", "price_per_night": 800}
+      ],
+      "luxury": [
+        {"hotel_name": "Five Falls Resort", "price_per_night": 7000},
+        {"hotel_name": "Western Ghats Spa Resort", "price_per_night": 8500}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Nagapattinam",
+    "city_town": "Nagapattinam",
+    "type": "Coastal / Pilgrimage",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 1800,
+    "latitude": 10.7656,
+    "longitude": 79.8428,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Nagapattinam Budget Stay", "price_per_night": 500},
+        {"hotel_name": "Coastal Lodge", "price_per_night": 750}
+      ],
+      "luxury": [
+        {"hotel_name": "Grand Coastal Resort", "price_per_night": 6500},
+        {"hotel_name": "Blue Bay Beach Resort", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Theni",
+    "city_town": "Theni",
+    "type": "Nature / Rural",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 2200,
+    "latitude": 10.0104,
+    "longitude": 77.4768,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Theni Budget Inn", "price_per_night": 600},
+        {"hotel_name": "Green Valley Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Mountain Breeze Resort", "price_per_night": 7000},
+        {"hotel_name": "Western Valley Resort", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Velankanni",
+    "city_town": "Velankanni",
+    "type": "Pilgrimage / Beach",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 2000,
+    "latitude": 10.6820,
+    "longitude": 79.8529,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Velankanni Budget Lodge", "price_per_night": 500},
+        {"hotel_name": "Pilgrim Stay Inn", "price_per_night": 700}
+      ],
+      "luxury": [
+        {"hotel_name": "Clinton Park Inn", "price_per_night": 7000},
+        {"hotel_name": "MGM Vailankanni Residency", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Mudumalai",
+    "city_town": "Nilgiris",
+    "type": "Wildlife / Nature",
+    "hidden_gem": true,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 4000,
+    "latitude": 11.5586,
+    "longitude": 76.5345,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Mudumalai Budget Camp", "price_per_night": 900},
+        {"hotel_name": "Forest View Lodge", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Jungle Hut Resort", "price_per_night": 12000},
+        {"hotel_name": "Safari Land Villa Resort", "price_per_night": 10000}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Pichavaram",
+    "city_town": "Cuddalore",
+    "type": "Backwaters / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 1500,
+    "latitude": 11.4297,
+    "longitude": 79.7832,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Pichavaram Budget Stay", "price_per_night": 500},
+        {"hotel_name": "Mangrove View Lodge", "price_per_night": 700}
+      ],
+      "luxury": [
+        {"hotel_name": "Mangrove Bay Resort", "price_per_night": 6500},
+        {"hotel_name": "Backwater Retreat", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Gingee Fort",
+    "city_town": "Villupuram",
+    "type": "Fort / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 1800,
+    "latitude": 12.2520,
+    "longitude": 79.4170,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Gingee Budget Lodge", "price_per_night": 600},
+        {"hotel_name": "Fort Heritage Stay", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Royal Fort Resort", "price_per_night": 7000},
+        {"hotel_name": "Heritage Hills Retreat", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Auroville",
+    "city_town": "Puducherry Border",
+    "type": "Spiritual / Eco Tourism",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 3500,
+    "latitude": 12.0067,
+    "longitude": 79.8106,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Auroville Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Eco Guest House", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Palais de Mahe", "price_per_night": 12000},
+        {"hotel_name": "The Promenade Puducherry", "price_per_night": 11000}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Meghamalai",
+    "city_town": "Theni",
+    "type": "Hill Station / Wildlife",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Days",
+    "budget_in_inr": 3000,
+    "latitude": 9.6826,
+    "longitude": 77.2470,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Meghamalai Budget Stay", "price_per_night": 800},
+        {"hotel_name": "High Wavy Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Meghamalai Wildlife Resort", "price_per_night": 8500},
+        {"hotel_name": "Cloud Mountain Retreat", "price_per_night": 9500}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Manapad",
+    "city_town": "Thoothukudi",
+    "type": "Coastal Village / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 2000,
+    "latitude": 8.3753,
+    "longitude": 78.0536,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Manapad Beach Lodge", "price_per_night": 600},
+        {"hotel_name": "Sea Cliff Budget Stay", "price_per_night": 750}
+      ],
+      "luxury": [
+        {"hotel_name": "Pearl Coast Resort", "price_per_night": 7000},
+        {"hotel_name": "Blue Horizon Retreat", "price_per_night": 8000}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Sirumalai",
+    "city_town": "Dindigul",
+    "type": "Hill Station / Nature",
+    "hidden_gem": true,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 2500,
+    "latitude": 10.1873,
+    "longitude": 77.9870,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Sirumalai Budget Inn", "price_per_night": 700},
+        {"hotel_name": "Green Hills Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Dindigul Mountain Resort", "price_per_night": 7500},
+        {"hotel_name": "Hill Breeze Retreat", "price_per_night": 8200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Topslip",
+    "city_town": "Anamalai",
+    "type": "Wildlife / Forest",
+    "hidden_gem": true,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 3500,
+    "latitude": 10.4736,
+    "longitude": 76.8847,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Topslip Forest Lodge", "price_per_night": 900},
+        {"hotel_name": "Anamalai Budget Camp", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Anamalai Tiger Reserve Resort", "price_per_night": 9500},
+        {"hotel_name": "Jungle Stay Eco Resort", "price_per_night": 10000}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Vattakottai Fort",
+    "city_town": "Kanyakumari",
+    "type": "Seaside Fort / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 1500,
+    "latitude": 8.1265,
+    "longitude": 77.5655,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Fort View Budget Stay", "price_per_night": 500},
+        {"hotel_name": "Ocean Breeze Lodge", "price_per_night": 700}
+      ],
+      "luxury": [
+        {"hotel_name": "Annai Resorts & Spa", "price_per_night": 9000},
+        {"hotel_name": "Sparsa Resort Kanyakumari", "price_per_night": 8500}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Sathuragiri Hills",
+    "city_town": "Virudhunagar",
+    "type": "Trekking / Spiritual",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 1800,
+    "latitude": 9.6333,
+    "longitude": 77.6333,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Sathuragiri Budget Stay", "price_per_night": 500},
+        {"hotel_name": "Hill Pilgrim Lodge", "price_per_night": 700}
+      ],
+      "luxury": [
+        {"hotel_name": "Western Ghats Retreat", "price_per_night": 7000},
+        {"hotel_name": "Sacred Hills Resort", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Kalvarayan Hills",
+    "city_town": "Kallakurichi",
+    "type": "Tribal / Nature",
+    "hidden_gem": true,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 2200,
+    "latitude": 11.7167,
+    "longitude": 78.8833,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Kalvarayan Budget Camp", "price_per_night": 600},
+        {"hotel_name": "Tribal Hills Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Hill Crown Eco Resort", "price_per_night": 7200},
+        {"hotel_name": "Forest Edge Retreat", "price_per_night": 8000}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Tharangambadi",
+    "city_town": "Mayiladuthurai",
+    "type": "Colonial Heritage / Beach",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 2500,
+    "latitude": 11.0270,
+    "longitude": 79.8540,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Tranquebar Budget Inn", "price_per_night": 700},
+        {"hotel_name": "Beach Heritage Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Bungalow on the Beach", "price_per_night": 9500},
+        {"hotel_name": "Neemrana Tranquebar", "price_per_night": 11000}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Kurangani",
+    "city_town": "Theni",
+    "type": "Trekking / Nature",
+    "hidden_gem": true,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 2000,
+    "latitude": 9.6565,
+    "longitude": 77.3445,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Kurangani Budget Camp", "price_per_night": 500},
+        {"hotel_name": "Trekker's Base Lodge", "price_per_night": 750}
+      ],
+      "luxury": [
+        {"hotel_name": "Kolukkumalai Eco Resort", "price_per_night": 8000},
+        {"hotel_name": "High Range Mountain Retreat", "price_per_night": 9000}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Uvari Beach",
+    "city_town": "Tirunelveli",
+    "type": "Isolated Beach",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 1500,
+    "latitude": 8.2502,
+    "longitude": 77.8656,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Uvari Budget Stay", "price_per_night": 500},
+        {"hotel_name": "Sea Shore Lodge", "price_per_night": 700}
+      ],
+      "luxury": [
+        {"hotel_name": "Ocean Pearl Resort", "price_per_night": 7000},
+        {"hotel_name": "Coastal Breeze Retreat", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Pichavaram Mangrove Forest",
+    "city_town": "Cuddalore",
+    "type": "Nature / Eco Tourism",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 1800,
+    "latitude": 11.4040,
+    "longitude": 79.7725,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Pichavaram Budget Lodge", "price_per_night": 600},
+        {"hotel_name": "Mangrove View Guest House", "price_per_night": 800}
+      ],
+      "luxury": [
+        {"hotel_name": "Pichavaram Eco Resort", "price_per_night": 7500},
+        {"hotel_name": "Bayview Retreat", "price_per_night": 8200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Velankanni",
+    "city_town": "Nagapattinam",
+    "type": "Religious / Pilgrimage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 2000,
+    "latitude": 10.6881,
+    "longitude": 79.8493,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Velankanni Budget Inn", "price_per_night": 600},
+        {"hotel_name": "Pilgrim Stay Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Velankanni Comfort Resort", "price_per_night": 7000},
+        {"hotel_name": "Sanctuary Retreat Velankanni", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Kolli Hills",
+    "city_town": "Namakkal",
+    "type": "Hill Station / Nature",
+    "hidden_gem": true,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 2500,
+    "latitude": 11.2000,
+    "longitude": 78.3000,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Kolli Hills Budget Stay", "price_per_night": 700},
+        {"hotel_name": "Hilltop Guest House", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Kolli Hill Luxury Resort", "price_per_night": 7500},
+        {"hotel_name": "Mist Valley Retreat", "price_per_night": 8200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Hogenakkal Falls",
+    "city_town": "Dharmapuri",
+    "type": "Waterfalls / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 2000,
+    "latitude": 12.1230,
+    "longitude": 78.2030,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Hogenakkal Budget Lodge", "price_per_night": 700},
+        {"hotel_name": "Falls View Guest House", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Hogenakkal Luxury Stay", "price_per_night": 7500},
+        {"hotel_name": "River View Retreat", "price_per_night": 8200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Kutralam (Courtallam)",
+    "city_town": "Tenkasi",
+    "type": "Waterfalls / Hill Station",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 2500,
+    "latitude": 8.9333,
+    "longitude": 77.3000,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Kutralam Budget Stay", "price_per_night": 750},
+        {"hotel_name": "Falls View Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Kutralam Spa Resort", "price_per_night": 7500},
+        {"hotel_name": "Hill View Retreat", "price_per_night": 8200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Sittanavasal Caves",
+    "city_town": "Pudukottai",
+    "type": "Heritage / Archaeology",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 1500,
+    "latitude": 10.3210,
+    "longitude": 78.8250,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Sittanavasal Budget Lodge", "price_per_night": 500},
+        {"hotel_name": "Heritage Stay Guest House", "price_per_night": 700}
+      ],
+      "luxury": [
+        {"hotel_name": "Sittanavasal Heritage Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Cave Retreat", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Anaimalai Hills Trek",
+    "city_town": "Coimbatore",
+    "type": "Trekking / Wildlife",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Days",
+    "budget_in_inr": 3500,
+    "latitude": 10.5000,
+    "longitude": 76.9833,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Anaimalai Trek Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Jungle Base Camp Lodge", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Anaimalai Luxury Eco Camp", "price_per_night": 9500},
+        {"hotel_name": "Forest Edge Retreat", "price_per_night": 10000}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Papanasam",
+    "city_town": "Tirunelveli",
+    "type": "Nature / Waterfalls",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 1800,
+    "latitude": 8.7500,
+    "longitude": 77.3000,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Papanasam Budget Lodge", "price_per_night": 600},
+        {"hotel_name": "River Side Guest House", "price_per_night": 800}
+      ],
+      "luxury": [
+        {"hotel_name": "Papanasam Eco Resort", "price_per_night": 7500},
+        {"hotel_name": "Forest Retreat Papanasam", "price_per_night": 8200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Mudumalai Wildlife Sanctuary",
+    "city_town": "Nilgiris",
+    "type": "Wildlife / Nature",
+    "hidden_gem": true,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 3500,
+    "latitude": 11.5470,
+    "longitude": 76.5980,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Mudumalai Budget Lodge", "price_per_night": 900},
+        {"hotel_name": "Wildlife Guest House", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Mudumalai Jungle Resort", "price_per_night": 9500},
+        {"hotel_name": "Tiger Trail Retreat", "price_per_night": 10000}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Kalakshetra Foundation",
+    "city_town": "Chennai",
+    "type": "Cultural / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 1500,
+    "latitude": 13.0417,
+    "longitude": 80.2397,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Kalakshetra Budget Stay", "price_per_night": 500},
+        {"hotel_name": "Cultural Guest Lodge", "price_per_night": 700}
+      ],
+      "luxury": [
+        {"hotel_name": "Kalakshetra Luxury Retreat", "price_per_night": 7500},
+        {"hotel_name": "Art & Heritage Stay", "price_per_night": 8000}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Velankanni Church",
+    "city_town": "Velankanni",
+    "type": "Religious / Pilgrimage",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 3500,
+    "latitude": 10.6843,
+    "longitude": 79.8470,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Velankanni Budget Stay", "price_per_night": 700},
+        {"hotel_name": "Church View Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Oceanic Resort Velankanni", "price_per_night": 7500},
+        {"hotel_name": "Sanctuary Grand Resort", "price_per_night": 8200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Courtallam Falls",
+    "city_town": "Tirunelveli",
+    "type": "Nature / Waterfall",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 3000,
+    "latitude": 8.9333,
+    "longitude": 77.2833,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Courtallam Budget Stay", "price_per_night": 700},
+        {"hotel_name": "Waterfall Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Sterling Courtallam", "price_per_night": 7500},
+        {"hotel_name": "Forest Hills Resort", "price_per_night": 8200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Sathyamangalam Wildlife Sanctuary",
+    "city_town": "Erode",
+    "type": "Wildlife / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 4500,
+    "latitude": 11.5200,
+    "longitude": 77.1000,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Sathyamangalam Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Wildlife Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Jungle Retreat Resort", "price_per_night": 6500},
+        {"hotel_name": "Luxury Nature Stay", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Hogenakkal Falls",
+    "city_town": "Dharmapuri",
+    "type": "Nature / Waterfall",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4000,
+    "latitude": 12.1333,
+    "longitude": 78.1167,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Hogenakkal Budget Stay", "price_per_night": 750},
+        {"hotel_name": "Falls View Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Hogenakkal Nature Resort", "price_per_night": 6000},
+        {"hotel_name": "Luxury Waterfall Stay", "price_per_night": 6800}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Kanchipuram Temples",
+    "city_town": "Kanchipuram",
+    "type": "Religious / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 3500,
+    "latitude": 12.8342,
+    "longitude": 79.7036,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Kanchipuram Budget Stay", "price_per_night": 700},
+        {"hotel_name": "Temple View Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Heritage Resort Kanchipuram", "price_per_night": 7500},
+        {"hotel_name": "Grand Temple Stay", "price_per_night": 8200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Madras Crocodile Bank",
+    "city_town": "Chennai",
+    "type": "Wildlife / Nature",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 4000,
+    "latitude": 12.8170,
+    "longitude": 80.1740,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Chennai Budget Inn", "price_per_night": 800},
+        {"hotel_name": "Wildlife Guest House", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Crocodile Bank Resort", "price_per_night": 6500},
+        {"hotel_name": "Eco Wildlife Retreat", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Yelagiri Hills",
+    "city_town": "Vellore",
+    "type": "Hill Station / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 4500,
+    "latitude": 12.6167,
+    "longitude": 78.6333,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Yelagiri Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Hill View Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Yelagiri Luxury Resort", "price_per_night": 6500},
+        {"hotel_name": "Royal Hilltop Stay", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Pichavaram Mangrove Forest",
+    "city_town": "Chidambaram",
+    "type": "Nature / Wildlife",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4000,
+    "latitude": 11.4200,
+    "longitude": 79.7750,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Pichavaram Budget Stay", "price_per_night": 750},
+        {"hotel_name": "Mangrove Guest House", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Mangrove Eco Resort", "price_per_night": 6000},
+        {"hotel_name": "Luxury Nature Retreat", "price_per_night": 6800}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Vedanthangal Bird Sanctuary",
+    "city_town": "Kanchipuram",
+    "type": "Wildlife / Nature",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 3000,
+    "latitude": 12.6067,
+    "longitude": 79.9667,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Vedanthangal Budget Stay", "price_per_night": 700},
+        {"hotel_name": "Bird Sanctuary Lodge", "price_per_night": 750}
+      ],
+      "luxury": [
+        {"hotel_name": "Vedanthangal Eco Resort", "price_per_night": 5500},
+        {"hotel_name": "Luxury Bird Retreat", "price_per_night": 6200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Pulicat Lake",
+    "city_town": "Thiruvallur",
+    "type": "Nature / Wildlife",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 3500,
+    "latitude": 13.2833,
+    "longitude": 80.3000,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Pulicat Budget Stay", "price_per_night": 700},
+        {"hotel_name": "Lake View Lodge", "price_per_night": 750}
+      ],
+      "luxury": [
+        {"hotel_name": "Pulicat Eco Resort", "price_per_night": 5500},
+        {"hotel_name": "Luxury Lake Retreat", "price_per_night": 6200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Chettinad",
+    "city_town": "Sivaganga",
+    "type": "Cultural / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 4000,
+    "latitude": 10.7625,
+    "longitude": 78.8117,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Chettinad Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Heritage Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Chettinad Heritage Resort", "price_per_night": 6500},
+        {"hotel_name": "Luxury Mansion Stay", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Nagapattinam Beaches",
+    "city_town": "Nagapattinam",
+    "type": "Beach / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 4000,
+    "latitude": 10.7650,
+    "longitude": 79.8442,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Nagapattinam Budget Stay", "price_per_night": 750},
+        {"hotel_name": "Beachside Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Nagapattinam Luxury Resort", "price_per_night": 6000},
+        {"hotel_name": "Royal Coastal Stay", "price_per_night": 6800}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Mudumalai National Park",
+    "city_town": "The Nilgiris",
+    "type": "Wildlife / Nature",
+    "hidden_gem": true,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 5000,
+    "latitude": 11.5910,
+    "longitude": 76.4250,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Mudumalai Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Wildlife Guest House", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Mudumalai Safari Resort", "price_per_night": 6500},
+        {"hotel_name": "Luxury Wildlife Lodge", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Ramanathapuram Fort",
+    "city_town": "Ramanathapuram",
+    "type": "Heritage / Fort",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4000,
+    "latitude": 9.3667,
+    "longitude": 78.8333,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Ramanathapuram Budget Stay", "price_per_night": 750},
+        {"hotel_name": "Fort View Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Ramanathapuram Luxury Resort", "price_per_night": 6000},
+        {"hotel_name": "Royal Fort Stay", "price_per_night": 6800}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Arunachaleswarar Temple",
+    "city_town": "Tiruvannamalai",
+    "type": "Religious / Spiritual",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 2500,
+    "latitude": 12.2319,
+    "longitude": 79.0677,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Arunachala Budget Stay", "price_per_night": 600},
+        {"hotel_name": "Temple View Lodge", "price_per_night": 800}
+      ],
+      "luxury": [
+        {"hotel_name": "Sparsa Resort Tiruvannamalai", "price_per_night": 7500},
+        {"hotel_name": "Arunai Anantha Resort", "price_per_night": 8200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Brihadeeswarar Temple",
+    "city_town": "Thanjavur",
+    "type": "Heritage / UNESCO",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 2500,
+    "latitude": 10.7828,
+    "longitude": 79.1318,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Thanjavur Budget Inn", "price_per_night": 700},
+        {"hotel_name": "Temple Heritage Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Svatma Thanjavur", "price_per_night": 9000},
+        {"hotel_name": "Great Trails River View", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Sri Ranganathaswamy Temple",
+    "city_town": "Srirangam",
+    "type": "Religious / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 2000,
+    "latitude": 10.8623,
+    "longitude": 78.6903,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Srirangam Budget Stay", "price_per_night": 600},
+        {"hotel_name": "Temple City Lodge", "price_per_night": 750}
+      ],
+      "luxury": [
+        {"hotel_name": "Courtyard Trichy", "price_per_night": 8500},
+        {"hotel_name": "SRM Hotel", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Pamban Bridge",
+    "city_town": "Rameswaram",
+    "type": "Engineering / Coastal",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 1500,
+    "latitude": 9.2876,
+    "longitude": 79.3129,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Rameswaram Budget Stay", "price_per_night": 700},
+        {"hotel_name": "Sea View Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Hyatt Place Rameswaram", "price_per_night": 9500},
+        {"hotel_name": "Daiwik Hotels", "price_per_night": 8200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Catherine Falls",
+    "city_town": "Coonoor",
+    "type": "Waterfall / Nature",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 2000,
+    "latitude": 11.3631,
+    "longitude": 76.7880,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Coonoor Budget Inn", "price_per_night": 750},
+        {"hotel_name": "Tea Garden Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Gateway Coonoor", "price_per_night": 9000},
+        {"hotel_name": "Neemrana Wallwood", "price_per_night": 8500}
+      ]
+    }
+  },
+
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Kumbakkarai Falls",
+    "city_town": "Theni",
+    "type": "Waterfall / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 1800,
+    "latitude": 10.1885,
+    "longitude": 77.5645,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Theni Budget Inn", "price_per_night": 650},
+        {"hotel_name": "Green Valley Lodge", "price_per_night": 800}
+      ],
+      "luxury": [
+        {"hotel_name": "Mountain Breeze Resort", "price_per_night": 7200},
+        {"hotel_name": "Western Valley Resort", "price_per_night": 7800}
+      ]
+    }
+  },
+
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Vivekananda Rock Memorial",
+    "city_town": "Kanyakumari",
+    "type": "Monument / Spiritual",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 2000,
+    "latitude": 8.0783,
+    "longitude": 77.5475,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Sea View Budget Inn", "price_per_night": 600},
+        {"hotel_name": "Sunrise Lodge", "price_per_night": 750}
+      ],
+      "luxury": [
+        {"hotel_name": "Sparsa Resort", "price_per_night": 8500},
+        {"hotel_name": "Annai Resorts & Spa", "price_per_night": 9000}
+      ]
+    }
+  },
+
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Fort St. George",
+    "city_town": "Chennai",
+    "type": "Colonial / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 3000,
+    "latitude": 13.0827,
+    "longitude": 80.2870,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Chennai Budget Stay", "price_per_night": 900},
+        {"hotel_name": "City Comfort Lodge", "price_per_night": 1000}
+      ],
+      "luxury": [
+        {"hotel_name": "Taj Coromandel", "price_per_night": 13000},
+        {"hotel_name": "ITC Grand Chola", "price_per_night": 15000}
+      ]
+    }
+  },
+
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Guindy National Park",
+    "city_town": "Chennai",
+    "type": "Wildlife / Nature",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 2500,
+    "latitude": 13.0067,
+    "longitude": 80.2206,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Green Park Stay", "price_per_night": 800},
+        {"hotel_name": "Wildlife Guest House", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Park Hyatt Chennai", "price_per_night": 12000},
+        {"hotel_name": "Le Royal Meridien", "price_per_night": 11000}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Vedanthangal Bird Sanctuary",
+    "city_town": "Kanchipuram",
+    "type": "Wildlife / Bird Sanctuary",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 2000,
+    "latitude": 12.6067,
+    "longitude": 79.9667,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Vedanthangal Budget Stay", "price_per_night": 700},
+        {"hotel_name": "Bird Sanctuary Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Eco Bird Retreat", "price_per_night": 6000},
+        {"hotel_name": "Lake View Luxury Stay", "price_per_night": 6800}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Pulicat Lake",
+    "city_town": "Thiruvallur",
+    "type": "Lake / Wildlife",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 2500,
+    "latitude": 13.2833,
+    "longitude": 80.3000,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Pulicat Budget Stay", "price_per_night": 700},
+        {"hotel_name": "Lake Side Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Pulicat Eco Resort", "price_per_night": 6500},
+        {"hotel_name": "Lagoon Luxury Retreat", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Chettinad",
+    "city_town": "Sivaganga",
+    "type": "Cultural / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 4000,
+    "latitude": 10.1620,
+    "longitude": 78.7812,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Chettinad Budget Stay", "price_per_night": 850},
+        {"hotel_name": "Heritage Lodge", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Chettinad Heritage Resort", "price_per_night": 7000},
+        {"hotel_name": "Luxury Mansion Stay", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Yelagiri Hills",
+    "city_town": "Vellore",
+    "type": "Hill Station / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 3500,
+    "latitude": 12.6167,
+    "longitude": 78.6333,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Yelagiri Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Hill View Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Yelagiri Luxury Resort", "price_per_night": 6500},
+        {"hotel_name": "Royal Hilltop Stay", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Madras Crocodile Bank",
+    "city_town": "Chennai",
+    "type": "Wildlife / Conservation",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 2500,
+    "latitude": 12.8170,
+    "longitude": 80.1740,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Chennai Budget Inn", "price_per_night": 850},
+        {"hotel_name": "Wildlife Guest House", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Eco Wildlife Retreat", "price_per_night": 7000},
+        {"hotel_name": "Coastal Luxury Stay", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Sittanavasal Caves",
+    "city_town": "Pudukottai",
+    "type": "Archaeology / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 1500,
+    "latitude": 10.3210,
+    "longitude": 78.8250,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Sittanavasal Budget Lodge", "price_per_night": 600},
+        {"hotel_name": "Heritage Stay Guest House", "price_per_night": 750}
+      ],
+      "luxury": [
+        {"hotel_name": "Royal Cave Retreat", "price_per_night": 7000},
+        {"hotel_name": "Heritage Luxury Resort", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Gangaikonda Cholapuram",
+    "city_town": "Ariyalur",
+    "type": "Heritage / Temple",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 1500,
+    "latitude": 11.2130,
+    "longitude": 79.4494,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Ariyalur Budget Stay", "price_per_night": 600},
+        {"hotel_name": "Temple View Lodge", "price_per_night": 750}
+      ],
+      "luxury": [
+        {"hotel_name": "Chola Heritage Resort", "price_per_night": 7200},
+        {"hotel_name": "Royal Temple Retreat", "price_per_night": 8000}
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "place_name": "Agasthiyar Falls",
+    "city_town": "Tirunelveli",
+    "type": "Waterfall / Nature",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 1500,
+    "latitude": 8.6460,
+    "longitude": 77.3080,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Nellai Budget Inn", "price_per_night": 650},
+        {"hotel_name": "River Side Lodge", "price_per_night": 800}
+      ],
+      "luxury": [
+        {"hotel_name": "Forest Retreat", "price_per_night": 7200},
+        {"hotel_name": "Western Ghats Resort", "price_per_night": 7800}
+      ]
+    }
+  },
+{
+  "state": "Tamil Nadu",
+  "place_name": "Hogenakkal Falls",
+  "city_town": "Dharmapuri",
+  "type": "Waterfall / Nature",
+  "hidden_gem": false,
+  "visit_duration": "1 Day",
+  "budget_in_inr": 3000,
+  "latitude": 12.1180,
+  "longitude": 77.7745,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Hogenakkal Budget Lodge", "price_per_night": 700},
+      {"hotel_name": "Cauvery View Stay", "price_per_night": 850}
+    ],
+    "luxury": [
+      {"hotel_name": "River Valley Resort", "price_per_night": 7500},
+      {"hotel_name": "Cauvery Luxury Retreat", "price_per_night": 8200}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Valparai",
+  "city_town": "Coimbatore",
+  "type": "Hill Station / Wildlife",
+  "hidden_gem": true,
+  "visit_duration": "2 Days",
+  "budget_in_inr": 5000,
+  "latitude": 10.3269,
+  "longitude": 76.9514,
+  "budget_category": "Medium",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Valparai Budget Inn", "price_per_night": 900},
+      {"hotel_name": "Tea Estate Lodge", "price_per_night": 1100}
+    ],
+    "luxury": [
+      {"hotel_name": "Green Hill Resort", "price_per_night": 8500},
+      {"hotel_name": "Luxury Tea Retreat", "price_per_night": 9200}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Thirumalai Nayakkar Mahal",
+  "city_town": "Madurai",
+  "type": "Palace / Heritage",
+  "hidden_gem": false,
+  "visit_duration": "Half Day",
+  "budget_in_inr": 2500,
+  "latitude": 9.9252,
+  "longitude": 78.1198,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Madurai Budget Stay", "price_per_night": 850},
+      {"hotel_name": "Temple City Inn", "price_per_night": 1000}
+    ],
+    "luxury": [
+      {"hotel_name": "Heritage Madurai", "price_per_night": 9500},
+      {"hotel_name": "Courtyard Madurai", "price_per_night": 8800}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Kalakad Mundanthurai Tiger Reserve",
+  "city_town": "Tirunelveli",
+  "type": "Wildlife / Tiger Reserve",
+  "hidden_gem": true,
+  "visit_duration": "2 Days",
+  "budget_in_inr": 4500,
+  "latitude": 8.5930,
+  "longitude": 77.3450,
+  "budget_category": "Medium",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Forest Guest House", "price_per_night": 1000},
+      {"hotel_name": "KMTR Eco Lodge", "price_per_night": 1200}
+    ],
+    "luxury": [
+      {"hotel_name": "Tiger Trails Resort", "price_per_night": 9000},
+      {"hotel_name": "Western Ghats Luxury Camp", "price_per_night": 9800}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Tharangambadi (Tranquebar)",
+  "city_town": "Nagapattinam",
+  "type": "Beach / Colonial Heritage",
+  "hidden_gem": true,
+  "visit_duration": "1 Day",
+  "budget_in_inr": 3500,
+  "latitude": 11.0270,
+  "longitude": 79.8540,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Tranquebar Budget Stay", "price_per_night": 900},
+      {"hotel_name": "Beach View Lodge", "price_per_night": 1000}
+    ],
+    "luxury": [
+      {"hotel_name": "Neemrana Bungalow on the Beach", "price_per_night": 10500},
+      {"hotel_name": "Danish Heritage Resort", "price_per_night": 9200}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Kalakkad Waterfalls",
+  "city_town": "Tirunelveli",
+  "type": "Waterfall / Forest",
+  "hidden_gem": true,
+  "visit_duration": "Half Day",
+  "budget_in_inr": 1800,
+  "latitude": 8.5850,
+  "longitude": 77.3330,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Forest Budget Lodge", "price_per_night": 700},
+      {"hotel_name": "Green Hills Stay", "price_per_night": 850}
+    ],
+    "luxury": [
+      {"hotel_name": "Nature Bliss Resort", "price_per_night": 7800},
+      {"hotel_name": "Eco Luxury Retreat", "price_per_night": 8600}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Kolli Hills",
+  "city_town": "Namakkal",
+  "type": "Hill Station / Trekking",
+  "hidden_gem": true,
+  "visit_duration": "2 Days",
+  "budget_in_inr": 4000,
+  "latitude": 11.2480,
+  "longitude": 78.3410,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Kolli Budget Stay", "price_per_night": 800},
+      {"hotel_name": "Hill Top Lodge", "price_per_night": 950}
+    ],
+    "luxury": [
+      {"hotel_name": "Kolli Hills Resort", "price_per_night": 8500},
+      {"hotel_name": "Mountain Edge Retreat", "price_per_night": 9200}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Manapad Beach",
+  "city_town": "Thoothukudi",
+  "type": "Beach / Scenic",
+  "hidden_gem": true,
+  "visit_duration": "1 Day",
+  "budget_in_inr": 2500,
+  "latitude": 8.3750,
+  "longitude": 78.0470,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Manapad Budget Inn", "price_per_night": 700},
+      {"hotel_name": "Sea Breeze Lodge", "price_per_night": 850}
+    ],
+    "luxury": [
+      {"hotel_name": "Ocean Cliff Resort", "price_per_night": 7800},
+      {"hotel_name": "Coastal Luxury Retreat", "price_per_night": 8500}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Avalanche Lake",
+  "city_town": "Ooty",
+  "type": "Lake / Nature",
+  "hidden_gem": true,
+  "visit_duration": "1 Day",
+  "budget_in_inr": 3500,
+  "latitude": 11.4062,
+  "longitude": 76.6046,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Avalanche Eco Stay", "price_per_night": 900},
+      {"hotel_name": "Nilgiri Budget Lodge", "price_per_night": 1100}
+    ],
+    "luxury": [
+      {"hotel_name": "Highland Nature Resort", "price_per_night": 8500},
+      {"hotel_name": "Lakeview Luxury Retreat", "price_per_night": 9200}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Upper Bhavani Lake",
+  "city_town": "Nilgiris",
+  "type": "Lake / Forest",
+  "hidden_gem": true,
+  "visit_duration": "1 Day",
+  "budget_in_inr": 3200,
+  "latitude": 11.2986,
+  "longitude": 76.5932,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Bhavani Budget Camp", "price_per_night": 800},
+      {"hotel_name": "Forest Edge Stay", "price_per_night": 950}
+    ],
+    "luxury": [
+      {"hotel_name": "Nilgiri Wilderness Resort", "price_per_night": 8700},
+      {"hotel_name": "Eco Hill Luxury Stay", "price_per_night": 9400}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Megamalai",
+  "city_town": "Theni",
+  "type": "Hill Station / Wildlife",
+  "hidden_gem": true,
+  "visit_duration": "2 Days",
+  "budget_in_inr": 4500,
+  "latitude": 9.6733,
+  "longitude": 77.3810,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Megamalai Budget Lodge", "price_per_night": 900},
+      {"hotel_name": "Green Valley Stay", "price_per_night": 1100}
+    ],
+    "luxury": [
+      {"hotel_name": "High Wavy Resort", "price_per_night": 8800},
+      {"hotel_name": "Cloud Mountain Retreat", "price_per_night": 9600}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Manjolai Hills",
+  "city_town": "Tirunelveli",
+  "type": "Hill Station / Tea Estate",
+  "hidden_gem": true,
+  "visit_duration": "2 Days",
+  "budget_in_inr": 4000,
+  "latitude": 8.7060,
+  "longitude": 77.3930,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Manjolai Budget Stay", "price_per_night": 850},
+      {"hotel_name": "Tea Estate Lodge", "price_per_night": 1000}
+    ],
+    "luxury": [
+      {"hotel_name": "Western Ghats Resort", "price_per_night": 8900},
+      {"hotel_name": "Mountain Mist Retreat", "price_per_night": 9700}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Pichavaram Mangrove Forest",
+  "city_town": "Cuddalore",
+  "type": "Mangrove / Boating",
+  "hidden_gem": true,
+  "visit_duration": "Half Day",
+  "budget_in_inr": 2200,
+  "latitude": 11.4300,
+  "longitude": 79.7900,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Mangrove Budget Inn", "price_per_night": 750},
+      {"hotel_name": "Backwater Lodge", "price_per_night": 900}
+    ],
+    "luxury": [
+      {"hotel_name": "Mangrove Bay Resort", "price_per_night": 8200},
+      {"hotel_name": "Backwater Luxury Stay", "price_per_night": 9000}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Vattakanal",
+  "city_town": "Kodaikanal",
+  "type": "Hill Village / Trekking",
+  "hidden_gem": true,
+  "visit_duration": "2 Days",
+  "budget_in_inr": 3800,
+  "latitude": 10.2342,
+  "longitude": 77.4896,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Vattakanal Budget Stay", "price_per_night": 850},
+      {"hotel_name": "Hilltop Backpackers Lodge", "price_per_night": 1000}
+    ],
+    "luxury": [
+      {"hotel_name": "Valley View Retreat", "price_per_night": 8700},
+      {"hotel_name": "Cliff Edge Resort", "price_per_night": 9500}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Thiruparappu Falls",
+  "city_town": "Kanyakumari",
+  "type": "Waterfall / Scenic",
+  "hidden_gem": true,
+  "visit_duration": "Half Day",
+  "budget_in_inr": 2000,
+  "latitude": 8.3932,
+  "longitude": 77.2445,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Thiruparappu Budget Lodge", "price_per_night": 700},
+      {"hotel_name": "Falls View Stay", "price_per_night": 850}
+    ],
+    "luxury": [
+      {"hotel_name": "Riverfront Resort", "price_per_night": 8200},
+      {"hotel_name": "Luxury Nature Retreat", "price_per_night": 9000}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Courtallam Five Falls",
+  "city_town": "Tenkasi",
+  "type": "Waterfall / Nature",
+  "hidden_gem": true,
+  "visit_duration": "1 Day",
+  "budget_in_inr": 2500,
+  "latitude": 8.9342,
+  "longitude": 77.2778,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Courtallam Budget Inn", "price_per_night": 750},
+      {"hotel_name": "Falls Side Lodge", "price_per_night": 900}
+    ],
+    "luxury": [
+      {"hotel_name": "Spa Water Resort", "price_per_night": 8500},
+      {"hotel_name": "Luxury Falls Retreat", "price_per_night": 9200}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Kurumalai Hills",
+  "city_town": "Thoothukudi",
+  "type": "Hill / Trekking",
+  "hidden_gem": true,
+  "visit_duration": "1 Day",
+  "budget_in_inr": 1800,
+  "latitude": 9.1200,
+  "longitude": 77.9800,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Kurumalai Budget Stay", "price_per_night": 650},
+      {"hotel_name": "Hill View Lodge", "price_per_night": 800}
+    ],
+    "luxury": [
+      {"hotel_name": "Mountain Breeze Resort", "price_per_night": 8000},
+      {"hotel_name": "Nature Peak Retreat", "price_per_night": 8800}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Sirumalai",
+  "city_town": "Dindigul",
+  "type": "Hill Station / Nature",
+  "hidden_gem": true,
+  "visit_duration": "2 Days",
+  "budget_in_inr": 3600,
+  "latitude": 10.1740,
+  "longitude": 77.9850,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Sirumalai Budget Inn", "price_per_night": 850},
+      {"hotel_name": "Green Hills Lodge", "price_per_night": 950}
+    ],
+    "luxury": [
+      {"hotel_name": "Sirumalai Resort", "price_per_night": 8700},
+      {"hotel_name": "Hill Crown Luxury Stay", "price_per_night": 9400}
+    ]
+  }
+},
+,
+{
+  "state": "Tamil Nadu",
+  "place_name": "Poombarai Village",
+  "city_town": "Kodaikanal",
+  "type": "Village / Scenic",
+  "hidden_gem": true,
+  "visit_duration": "Half Day",
+  "budget_in_inr": 2200,
+  "latitude": 10.3015,
+  "longitude": 77.5030,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Poombarai Budget Stay", "price_per_night": 800},
+      {"hotel_name": "Valley View Lodge", "price_per_night": 950}
+    ],
+    "luxury": [
+      {"hotel_name": "Poombarai Eco Retreat", "price_per_night": 8500},
+      {"hotel_name": "Hill Crest Luxury Resort", "price_per_night": 9200}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Kundrakudi Murugan Temple",
+  "city_town": "Karaikudi",
+  "type": "Temple / Hilltop",
+  "hidden_gem": true,
+  "visit_duration": "Half Day",
+  "budget_in_inr": 1500,
+  "latitude": 10.0675,
+  "longitude": 78.7790,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Karaikudi Budget Inn", "price_per_night": 700},
+      {"hotel_name": "Temple View Stay", "price_per_night": 850}
+    ],
+    "luxury": [
+      {"hotel_name": "Chettinad Palace Resort", "price_per_night": 8800},
+      {"hotel_name": "Royal Heritage Retreat", "price_per_night": 9500}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Elimala Hills",
+  "city_town": "Ramanathapuram",
+  "type": "Hill / Trekking",
+  "hidden_gem": true,
+  "visit_duration": "1 Day",
+  "budget_in_inr": 1800,
+  "latitude": 9.3710,
+  "longitude": 78.8300,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Elimala Budget Stay", "price_per_night": 650},
+      {"hotel_name": "Hill Base Lodge", "price_per_night": 800}
+    ],
+    "luxury": [
+      {"hotel_name": "Ramanathapuram Luxury Resort", "price_per_night": 8200},
+      {"hotel_name": "Coastal Crown Retreat", "price_per_night": 8900}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Javadi Hills",
+  "city_town": "Tirupattur",
+  "type": "Hill Range / Nature",
+  "hidden_gem": true,
+  "visit_duration": "2 Days",
+  "budget_in_inr": 3500,
+  "latitude": 12.5750,
+  "longitude": 78.8500,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Javadi Budget Camp", "price_per_night": 850},
+      {"hotel_name": "Forest Trail Lodge", "price_per_night": 950}
+    ],
+    "luxury": [
+      {"hotel_name": "Javadi Hills Resort", "price_per_night": 8700},
+      {"hotel_name": "Mountain Edge Luxury Stay", "price_per_night": 9400}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Kattabomman Memorial Fort",
+  "city_town": "Panchalankurichi",
+  "type": "Historical Fort",
+  "hidden_gem": true,
+  "visit_duration": "Half Day",
+  "budget_in_inr": 1500,
+  "latitude": 8.9315,
+  "longitude": 78.0960,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Fort View Lodge", "price_per_night": 700},
+      {"hotel_name": "Heritage Budget Stay", "price_per_night": 850}
+    ],
+    "luxury": [
+      {"hotel_name": "Royal Fort Resort", "price_per_night": 8200},
+      {"hotel_name": "Luxury Heritage Retreat", "price_per_night": 9000}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Ousteri Lake",
+  "city_town": "Villupuram",
+  "type": "Lake / Bird Watching",
+  "hidden_gem": true,
+  "visit_duration": "Half Day",
+  "budget_in_inr": 1800,
+  "latitude": 11.9570,
+  "longitude": 79.7700,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Ousteri Budget Stay", "price_per_night": 750},
+      {"hotel_name": "Lake View Lodge", "price_per_night": 900}
+    ],
+    "luxury": [
+      {"hotel_name": "Lakefront Luxury Resort", "price_per_night": 8500},
+      {"hotel_name": "Eco Bird Retreat", "price_per_night": 9200}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Arichal Munai",
+  "city_town": "Dhanushkodi",
+  "type": "Coastal / Scenic Point",
+  "hidden_gem": true,
+  "visit_duration": "Half Day",
+  "budget_in_inr": 2000,
+  "latitude": 9.1900,
+  "longitude": 79.4300,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Dhanushkodi Budget Inn", "price_per_night": 800},
+      {"hotel_name": "Sea Edge Lodge", "price_per_night": 950}
+    ],
+    "luxury": [
+      {"hotel_name": "Ocean Pearl Resort", "price_per_night": 8700},
+      {"hotel_name": "Coastal Luxury Camp", "price_per_night": 9400}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Karaiyar Dam",
+  "city_town": "Tirunelveli",
+  "type": "Dam / Scenic",
+  "hidden_gem": true,
+  "visit_duration": "1 Day",
+  "budget_in_inr": 2200,
+  "latitude": 8.7010,
+  "longitude": 77.3530,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Karaiyar Budget Lodge", "price_per_night": 750},
+      {"hotel_name": "Dam View Stay", "price_per_night": 900}
+    ],
+    "luxury": [
+      {"hotel_name": "River Valley Luxury Resort", "price_per_night": 8800},
+      {"hotel_name": "Western Ghats Retreat", "price_per_night": 9500}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Viralimalai Peacock Sanctuary",
+  "city_town": "Pudukkottai",
+  "type": "Wildlife / Sanctuary",
+  "hidden_gem": true,
+  "visit_duration": "Half Day",
+  "budget_in_inr": 1700,
+  "latitude": 10.5980,
+  "longitude": 78.5460,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "Peacock Budget Stay", "price_per_night": 700},
+      {"hotel_name": "Sanctuary Lodge", "price_per_night": 850}
+    ],
+    "luxury": [
+      {"hotel_name": "Wildlife Luxury Resort", "price_per_night": 8600},
+      {"hotel_name": "Nature Crown Retreat", "price_per_night": 9300}
+    ]
+  }
+},
+{
+  "state": "Tamil Nadu",
+  "place_name": "Thenparappu View Point",
+  "city_town": "Kanniyakumari District",
+  "type": "View Point / Scenic",
+  "hidden_gem": true,
+  "visit_duration": "Half Day",
+  "budget_in_inr": 1500,
+  "latitude": 8.4050,
+  "longitude": 77.3100,
+  "budget_category": "Low",
+  "accommodation": {
+    "normal": [
+      {"hotel_name": "View Point Budget Inn", "price_per_night": 700},
+      {"hotel_name": "Hill Breeze Lodge", "price_per_night": 850}
+    ],
+    "luxury": [
+      {"hotel_name": "Scenic Crown Resort", "price_per_night": 8200},
+      {"hotel_name": "Sunset Luxury Retreat", "price_per_night": 9000}
+    ]
+  }
+}
+]

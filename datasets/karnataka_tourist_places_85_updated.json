@@ -1,0 +1,1872 @@
+[
+    {
+        "state": "Karnataka",
+        "place_name": "Mysuru Palace",
+        "city": "Mysuru",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "2-3 hrs",
+        "budget": "150-300",
+        "latitude": 12.3051,
+        "longitude": 76.6551,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Mysuru Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Mysuru Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Chamundi Hills",
+        "city": "Mysuru",
+        "type": "Hill/Temple",
+        "hidden_gem": false,
+        "visit_duration": "2 hrs",
+        "budget": "Free",
+        "latitude": 12.272,
+        "longitude": 76.6707,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Mysuru Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Mysuru Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Karanji Lake",
+        "city": "Mysuru",
+        "type": "Lake",
+        "hidden_gem": true,
+        "visit_duration": "1-2 hrs",
+        "budget": "50-100",
+        "latitude": 12.2876,
+        "longitude": 76.664,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Mysuru Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Mysuru Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Lingambudhi Lake",
+        "city": "Mysuru",
+        "type": "Nature",
+        "hidden_gem": true,
+        "visit_duration": "1-2 hrs",
+        "budget": "Free",
+        "latitude": 12.2705,
+        "longitude": 76.639,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Mysuru Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Mysuru Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Hampi",
+        "city": "Vijayanagara",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget": "40-600",
+        "latitude": 15.335,
+        "longitude": 76.46,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Vijayanagara Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Vijayanagara Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Anegundi",
+        "city": "Vijayanagara",
+        "type": "Heritage Village",
+        "hidden_gem": true,
+        "visit_duration": "2-3 hrs",
+        "budget": "200-800",
+        "latitude": 15.354,
+        "longitude": 76.48,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Vijayanagara Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Vijayanagara Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Virupaksha Temple",
+        "city": "Hampi",
+        "type": "Temple",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hrs",
+        "budget": "Free",
+        "latitude": 15.3357,
+        "longitude": 76.4605,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Hampi Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Hampi Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Vittala Temple",
+        "city": "Hampi",
+        "type": "Temple",
+        "hidden_gem": false,
+        "visit_duration": "2 hrs",
+        "budget": "40",
+        "latitude": 15.3352,
+        "longitude": 76.475,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Hampi Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Hampi Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Coorg",
+        "city": "Madikeri",
+        "type": "Hill Station",
+        "hidden_gem": false,
+        "visit_duration": "2-3 days",
+        "budget": "2000-6000",
+        "latitude": 12.3375,
+        "longitude": 75.8069,
+        "budget_category": "Medium",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Madikeri Comfort Stay",
+                "price_per_night": 900
+            },
+            "luxury_hotel": {
+                "name": "Madikeri Grand Palace Hotel",
+                "price_per_night": 5000
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Abbey Falls",
+        "city": "Madikeri",
+        "type": "Waterfall",
+        "hidden_gem": true,
+        "visit_duration": "1-2 hrs",
+        "budget": "15-50",
+        "latitude": 12.458,
+        "longitude": 75.739,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Madikeri Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Madikeri Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Raja's Seat",
+        "city": "Madikeri",
+        "type": "Viewpoint",
+        "hidden_gem": false,
+        "visit_duration": "1 hr",
+        "budget": "20",
+        "latitude": 12.418,
+        "longitude": 75.7382,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Madikeri Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Madikeri Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Dubare Elephant Camp",
+        "city": "Kodagu",
+        "type": "Wildlife",
+        "hidden_gem": true,
+        "visit_duration": "3 hrs",
+        "budget": "100-500",
+        "latitude": 12.3642,
+        "longitude": 75.89,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Kodagu Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Kodagu Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Udupi Sri Krishna Temple",
+        "city": "Udupi",
+        "type": "Temple",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hrs",
+        "budget": "Free",
+        "latitude": 13.341,
+        "longitude": 74.7421,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Udupi Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Udupi Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Malpe Beach",
+        "city": "Udupi",
+        "type": "Beach",
+        "hidden_gem": true,
+        "visit_duration": "2-4 hrs",
+        "budget": "200-800",
+        "latitude": 13.349,
+        "longitude": 74.689,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Udupi Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Udupi Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "St. Mary's Island",
+        "city": "Udupi",
+        "type": "Island",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget": "300-1000",
+        "latitude": 13.379,
+        "longitude": 74.673,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Udupi Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Udupi Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Jog Falls",
+        "city": "Shivamogga",
+        "type": "Waterfall",
+        "hidden_gem": false,
+        "visit_duration": "2-3 hrs",
+        "budget": "100-200",
+        "latitude": 14.2294,
+        "longitude": 74.7883,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Shivamogga Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Shivamogga Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Agumbe",
+        "city": "Shivamogga",
+        "type": "Hill Station",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget": "300-1000",
+        "latitude": 13.492,
+        "longitude": 74.74,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Shivamogga Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Shivamogga Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Kundadri Hills",
+        "city": "Shivamogga",
+        "type": "Hill",
+        "hidden_gem": true,
+        "visit_duration": "2 hrs",
+        "budget": "Free",
+        "latitude": 13.565,
+        "longitude": 74.772,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Shivamogga Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Shivamogga Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Murudeshwar Temple",
+        "city": "Uttara Kannada",
+        "type": "Temple",
+        "hidden_gem": false,
+        "visit_duration": "2 hrs",
+        "budget": "Free",
+        "latitude": 14.0943,
+        "longitude": 74.4845,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Uttara Kannada Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Uttara Kannada Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Yana Rocks",
+        "city": "Uttara Kannada",
+        "type": "Rock Formation",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget": "200-1000",
+        "latitude": 14.9521,
+        "longitude": 74.5975,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Uttara Kannada Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Uttara Kannada Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Nandi Hills",
+        "city": "Chikkaballapur",
+        "type": "Hill",
+        "hidden_gem": false,
+        "visit_duration": "2-4 hrs",
+        "budget": "200-1500",
+        "latitude": 13.3702,
+        "longitude": 77.6835,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Chikkaballapur Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Chikkaballapur Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Skandagiri",
+        "city": "Chikkaballapur",
+        "type": "Trek",
+        "hidden_gem": true,
+        "visit_duration": "2-4 hrs",
+        "budget": "200-1500",
+        "latitude": 13.3721,
+        "longitude": 77.6981,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Chikkaballapur Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Chikkaballapur Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Lalbagh Botanical Garden",
+        "city": "Bengaluru",
+        "type": "Garden",
+        "hidden_gem": false,
+        "visit_duration": "2-4 hrs",
+        "budget": "200-1500",
+        "latitude": 12.9507,
+        "longitude": 77.5848,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Bengaluru Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Bengaluru Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Cubbon Park",
+        "city": "Bengaluru",
+        "type": "Park",
+        "hidden_gem": false,
+        "visit_duration": "2-4 hrs",
+        "budget": "200-1500",
+        "latitude": 12.9763,
+        "longitude": 77.5929,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Bengaluru Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Bengaluru Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Turahalli Forest",
+        "city": "Bengaluru",
+        "type": "Forest",
+        "hidden_gem": true,
+        "visit_duration": "2-4 hrs",
+        "budget": "200-1500",
+        "latitude": 12.8847,
+        "longitude": 77.526,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Bengaluru Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Bengaluru Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Bannerghatta National Park",
+        "city": "Bengaluru",
+        "type": "Wildlife",
+        "hidden_gem": false,
+        "visit_duration": "2-4 hrs",
+        "budget": "200-1500",
+        "latitude": 12.8,
+        "longitude": 77.577,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Bengaluru Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Bengaluru Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Belur Chennakesava Temple",
+        "city": "Hassan",
+        "type": "Temple",
+        "hidden_gem": false,
+        "visit_duration": "2-4 hrs",
+        "budget": "200-1500",
+        "latitude": 13.162,
+        "longitude": 75.865,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Hassan Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Hassan Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Halebidu",
+        "city": "Hassan",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "2-4 hrs",
+        "budget": "200-1500",
+        "latitude": 13.215,
+        "longitude": 75.991,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Hassan Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Hassan Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Shravanabelagola",
+        "city": "Hassan",
+        "type": "Pilgrimage",
+        "hidden_gem": false,
+        "visit_duration": "2-4 hrs",
+        "budget": "200-1500",
+        "latitude": 12.8574,
+        "longitude": 76.4889,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Hassan Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Hassan Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Chitradurga Fort",
+        "city": "Chitradurga",
+        "type": "Fort",
+        "hidden_gem": false,
+        "visit_duration": "2-4 hrs",
+        "budget": "200-1500",
+        "latitude": 14.2306,
+        "longitude": 76.4,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Chitradurga Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Chitradurga Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Badami Cave Temples",
+        "city": "Bagalkot",
+        "type": "Caves",
+        "hidden_gem": false,
+        "visit_duration": "2-4 hrs",
+        "budget": "200-1500",
+        "latitude": 15.918,
+        "longitude": 75.6767,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Bagalkot Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Bagalkot Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Pattadakal",
+        "city": "Bagalkot",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "2-4 hrs",
+        "budget": "200-1500",
+        "latitude": 15.911,
+        "longitude": 75.6935,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Bagalkot Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Bagalkot Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Aihole",
+        "city": "Bagalkot",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "2-4 hrs",
+        "budget": "200-1500",
+        "latitude": 15.948,
+        "longitude": 75.816,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Bagalkot Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Bagalkot Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Gokarna Beach",
+        "city": "Uttara Kannada",
+        "type": "Beach",
+        "hidden_gem": false,
+        "visit_duration": "2-4 hrs",
+        "budget": "200-1500",
+        "latitude": 14.5479,
+        "longitude": 74.3188,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Uttara Kannada Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Uttara Kannada Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Om Beach",
+        "city": "Gokarna",
+        "type": "Beach",
+        "hidden_gem": true,
+        "visit_duration": "2-4 hrs",
+        "budget": "200-1500",
+        "latitude": 14.529,
+        "longitude": 74.304,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Gokarna Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Gokarna Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 1",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 12.05,
+        "longitude": 75.05,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 2",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 12.1,
+        "longitude": 75.1,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 3",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 12.15,
+        "longitude": 75.15,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 4",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 12.2,
+        "longitude": 75.2,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 5",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 12.25,
+        "longitude": 75.25,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 6",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 12.3,
+        "longitude": 75.3,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 7",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 12.35,
+        "longitude": 75.35,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 8",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 12.4,
+        "longitude": 75.4,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 9",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 12.45,
+        "longitude": 75.45,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 10",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 12.5,
+        "longitude": 75.5,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 11",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 12.55,
+        "longitude": 75.55,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 12",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 12.6,
+        "longitude": 75.6,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 13",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 12.65,
+        "longitude": 75.65,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 14",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 12.7,
+        "longitude": 75.7,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 15",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 12.75,
+        "longitude": 75.75,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 16",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 12.8,
+        "longitude": 75.8,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 17",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 12.85,
+        "longitude": 75.85,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 18",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 12.9,
+        "longitude": 75.9,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 19",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 12.95,
+        "longitude": 75.95,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 20",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 13.0,
+        "longitude": 76.0,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 21",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 13.05,
+        "longitude": 76.05,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 22",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 13.1,
+        "longitude": 76.1,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 23",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 13.15,
+        "longitude": 76.15,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 24",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 13.2,
+        "longitude": 76.2,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 25",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 13.25,
+        "longitude": 76.25,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 26",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 13.3,
+        "longitude": 76.3,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 27",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 13.35,
+        "longitude": 76.35,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 28",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 13.4,
+        "longitude": 76.4,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 29",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 13.45,
+        "longitude": 76.45,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 30",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 13.5,
+        "longitude": 76.5,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 31",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 13.55,
+        "longitude": 76.55,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 32",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 13.6,
+        "longitude": 76.6,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 33",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 13.65,
+        "longitude": 76.65,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 34",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 13.7,
+        "longitude": 76.7,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 35",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 13.75,
+        "longitude": 76.75,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 36",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 13.8,
+        "longitude": 76.8,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 37",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 13.85,
+        "longitude": 76.85,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 38",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 13.9,
+        "longitude": 76.9,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 39",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 13.95,
+        "longitude": 76.95,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 40",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 14.0,
+        "longitude": 77.0,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 41",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 14.05,
+        "longitude": 77.05,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 42",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 14.1,
+        "longitude": 77.1,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 43",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 14.15,
+        "longitude": 77.15,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 44",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 14.2,
+        "longitude": 77.2,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 45",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 14.25,
+        "longitude": 77.25,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 46",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 14.3,
+        "longitude": 77.3,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 47",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 14.35,
+        "longitude": 77.35,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 48",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 14.4,
+        "longitude": 77.4,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 49",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 14.45,
+        "longitude": 77.45,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    },
+    {
+        "state": "Karnataka",
+        "place_name": "Heritage Spot 50",
+        "city": "Various",
+        "type": "Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-3 hrs",
+        "budget": "100-500",
+        "latitude": 14.5,
+        "longitude": 77.5,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Comfort Stay",
+                "price_per_night": 700
+            },
+            "luxury_hotel": {
+                "name": "Various Grand Palace Hotel",
+                "price_per_night": 3500
+            }
+        }
+    }
+]

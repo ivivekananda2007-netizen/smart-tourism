@@ -1,0 +1,992 @@
+[
+    {
+        "state": "Lakshadweep",
+        "place_name": "Agatti Island",
+        "city": "Agatti",
+        "type": "Island",
+        "hidden_gem": false,
+        "visit_duration": "2-3 days",
+        "budget": 4000,
+        "latitude": 10.849,
+        "longitude": 72.176,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Agatti Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Agatti Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Bangaram Island",
+        "city": "Bangaram",
+        "type": "Island Resort",
+        "hidden_gem": false,
+        "visit_duration": "2-3 days",
+        "budget": 6000,
+        "latitude": 10.94,
+        "longitude": 72.287,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Bangaram Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Bangaram Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Kadmat Island",
+        "city": "Kadmat",
+        "type": "Island",
+        "hidden_gem": true,
+        "visit_duration": "2 days",
+        "budget": 3500,
+        "latitude": 11.224,
+        "longitude": 72.78,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Kadmat Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Kadmat Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Kavaratti Island",
+        "city": "Kavaratti",
+        "type": "Island",
+        "hidden_gem": false,
+        "visit_duration": "2 days",
+        "budget": 3000,
+        "latitude": 10.5667,
+        "longitude": 72.6369,
+        "budget_category": "Medium",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Kavaratti Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Kavaratti Island Resort",
+                "price_per_night": 5000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Minicoy Island",
+        "city": "Minicoy",
+        "type": "Island",
+        "hidden_gem": false,
+        "visit_duration": "3 days",
+        "budget": 4500,
+        "latitude": 8.3,
+        "longitude": 73.05,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Minicoy Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Minicoy Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Kalpeni Island",
+        "city": "Kalpeni",
+        "type": "Island",
+        "hidden_gem": true,
+        "visit_duration": "2 days",
+        "budget": 2800,
+        "latitude": 10.0833,
+        "longitude": 73.65,
+        "budget_category": "Medium",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Kalpeni Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Kalpeni Island Resort",
+                "price_per_night": 5000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Thinnakara Island",
+        "city": "Bangaram",
+        "type": "Beach",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget": 2500,
+        "latitude": 10.95,
+        "longitude": 72.28,
+        "budget_category": "Medium",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Bangaram Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Bangaram Island Resort",
+                "price_per_night": 5000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Suheli Par",
+        "city": "Suheli",
+        "type": "Coral Atoll",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget": 3200,
+        "latitude": 10.1,
+        "longitude": 72.2,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Suheli Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Suheli Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Marine Aquarium Kavaratti",
+        "city": "Kavaratti",
+        "type": "Marine Life",
+        "hidden_gem": false,
+        "visit_duration": "2 hrs",
+        "budget": 1500,
+        "latitude": 10.5675,
+        "longitude": 72.64,
+        "budget_category": "Medium",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Kavaratti Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Kavaratti Island Resort",
+                "price_per_night": 5000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Pitti Bird Sanctuary",
+        "city": "Pitti",
+        "type": "Wildlife",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget": 2000,
+        "latitude": 11.4167,
+        "longitude": 72.5667,
+        "budget_category": "Medium",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Pitti Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Pitti Island Resort",
+                "price_per_night": 5000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 1",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget": 2150,
+        "latitude": 10.05,
+        "longitude": 72.05,
+        "budget_category": "Medium",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 5000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 2",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget": 2300,
+        "latitude": 10.1,
+        "longitude": 72.1,
+        "budget_category": "Medium",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 5000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 3",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget": 2450,
+        "latitude": 10.15,
+        "longitude": 72.15,
+        "budget_category": "Medium",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 5000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 4",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget": 2600,
+        "latitude": 10.2,
+        "longitude": 72.2,
+        "budget_category": "Medium",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 5000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 5",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget": 2750,
+        "latitude": 10.25,
+        "longitude": 72.25,
+        "budget_category": "Medium",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 5000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 6",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget": 2900,
+        "latitude": 10.3,
+        "longitude": 72.3,
+        "budget_category": "Medium",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 5000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 7",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget": 3050,
+        "latitude": 10.35,
+        "longitude": 72.35,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 8",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget": 3200,
+        "latitude": 10.4,
+        "longitude": 72.4,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 9",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget": 3350,
+        "latitude": 10.45,
+        "longitude": 72.45,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 10",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget": 3500,
+        "latitude": 10.5,
+        "longitude": 72.5,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 11",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget": 3650,
+        "latitude": 10.55,
+        "longitude": 72.55,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 12",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget": 3800,
+        "latitude": 10.6,
+        "longitude": 72.6,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 13",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget": 3950,
+        "latitude": 10.65,
+        "longitude": 72.65,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 14",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget": 4100,
+        "latitude": 10.7,
+        "longitude": 72.7,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 15",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget": 4250,
+        "latitude": 10.75,
+        "longitude": 72.75,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 16",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget": 4400,
+        "latitude": 10.8,
+        "longitude": 72.8,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 17",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget": 4550,
+        "latitude": 10.85,
+        "longitude": 72.85,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 18",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget": 4700,
+        "latitude": 10.9,
+        "longitude": 72.9,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 19",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget": 4850,
+        "latitude": 10.95,
+        "longitude": 72.95,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 20",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget": 5000,
+        "latitude": 11.0,
+        "longitude": 73.0,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 21",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget": 5150,
+        "latitude": 11.05,
+        "longitude": 73.05,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 22",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget": 5300,
+        "latitude": 11.1,
+        "longitude": 73.1,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 23",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget": 5450,
+        "latitude": 11.15,
+        "longitude": 73.15,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 24",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget": 5600,
+        "latitude": 11.2,
+        "longitude": 73.2,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 25",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget": 5750,
+        "latitude": 11.25,
+        "longitude": 73.25,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 26",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget": 5900,
+        "latitude": 11.3,
+        "longitude": 73.3,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 27",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget": 6050,
+        "latitude": 11.35,
+        "longitude": 73.35,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 28",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget": 6200,
+        "latitude": 11.4,
+        "longitude": 73.4,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 29",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget": 6350,
+        "latitude": 11.45,
+        "longitude": 73.45,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 30",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget": 6500,
+        "latitude": 11.5,
+        "longitude": 73.5,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 31",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget": 6650,
+        "latitude": 11.55,
+        "longitude": 73.55,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 32",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget": 6800,
+        "latitude": 11.6,
+        "longitude": 73.6,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 33",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget": 6950,
+        "latitude": 11.65,
+        "longitude": 73.65,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 34",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget": 7100,
+        "latitude": 11.7,
+        "longitude": 73.7,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    },
+    {
+        "state": "Lakshadweep",
+        "place_name": "Lagoon Spot 35",
+        "city": "Various",
+        "type": "Lagoon / Beach",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget": 7250,
+        "latitude": 11.75,
+        "longitude": 73.75,
+        "budget_category": "High",
+        "accommodation": {
+            "normal_hotel": {
+                "name": "Various Beach Stay",
+                "price_per_night": 1000
+            },
+            "luxury_hotel": {
+                "name": "Various Island Resort",
+                "price_per_night": 9000
+            }
+        }
+    }
+]

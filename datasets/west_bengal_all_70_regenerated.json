@@ -1,0 +1,1542 @@
+[
+  {
+    "state": "West Bengal",
+    "place_name": "Victoria Memorial",
+    "city": "Kolkata",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 22.5,
+    "longitude": 88.3,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Kolkata",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Kolkata",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Howrah Bridge",
+    "city": "Kolkata",
+    "type": "Landmark",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 22.51,
+    "longitude": 88.31,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Kolkata",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Kolkata",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Dakshineswar Kali Temple",
+    "city": "Kolkata",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 22.52,
+    "longitude": 88.32,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Kolkata",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Kolkata",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Belur Math",
+    "city": "Howrah",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 22.53,
+    "longitude": 88.33,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Howrah",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Howrah",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Indian Museum",
+    "city": "Kolkata",
+    "type": "Museum",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 22.54,
+    "longitude": 88.34,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Kolkata",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Kolkata",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Marble Palace",
+    "city": "Kolkata",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.55,
+    "longitude": 88.35,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Kolkata",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Kolkata",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Rabindra Sarobar",
+    "city": "Kolkata",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.56,
+    "longitude": 88.36,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Kolkata",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Kolkata",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Prinsep Ghat",
+    "city": "Kolkata",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 22.57,
+    "longitude": 88.37,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Kolkata",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Kolkata",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Eco Park",
+    "city": "New Town",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 22.58,
+    "longitude": 88.38,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge New Town",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort New Town",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Santragachi Jheel",
+    "city": "Howrah",
+    "type": "Wetland",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.59,
+    "longitude": 88.39,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Howrah",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Howrah",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Science City",
+    "city": "Kolkata",
+    "type": "Science",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 22.6,
+    "longitude": 88.4,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Kolkata",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Kolkata",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "South Park Street Cemetery",
+    "city": "Kolkata",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.61,
+    "longitude": 88.41,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Kolkata",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Kolkata",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Birla Planetarium",
+    "city": "Kolkata",
+    "type": "Science",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 22.62,
+    "longitude": 88.42,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Kolkata",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Kolkata",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Nicco Park",
+    "city": "Kolkata",
+    "type": "Park",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 22.63,
+    "longitude": 88.43,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Kolkata",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Kolkata",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Kumartuli",
+    "city": "Kolkata",
+    "type": "Village",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.64,
+    "longitude": 88.44,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Kolkata",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Kolkata",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Bishnupur Temples",
+    "city": "Bankura",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 22.65,
+    "longitude": 88.45,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Bankura",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Bankura",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Mukutmanipur Dam",
+    "city": "Bankura",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.66,
+    "longitude": 88.46,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Bankura",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Bankura",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Susunia Hills",
+    "city": "Bankura",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.67,
+    "longitude": 88.47,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Bankura",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Bankura",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Joypur Forest",
+    "city": "Bankura",
+    "type": "Forest",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.68,
+    "longitude": 88.48,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Bankura",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Bankura",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Hazarduari Palace",
+    "city": "Murshidabad",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 22.69,
+    "longitude": 88.49,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Murshidabad",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Murshidabad",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Katra Mosque",
+    "city": "Murshidabad",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.7,
+    "longitude": 88.5,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Murshidabad",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Murshidabad",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Motijheel Park",
+    "city": "Murshidabad",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.71,
+    "longitude": 88.51,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Murshidabad",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Murshidabad",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Adina Mosque",
+    "city": "Malda",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 22.72,
+    "longitude": 88.52,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Malda",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Malda",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Adina Deer Park",
+    "city": "Malda",
+    "type": "Wildlife",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.73,
+    "longitude": 88.53,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Malda",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Malda",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Darjeeling Mall",
+    "city": "Darjeeling",
+    "type": "Market",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 22.74,
+    "longitude": 88.54,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Darjeeling",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Darjeeling",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Tiger Hill",
+    "city": "Darjeeling",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 22.75,
+    "longitude": 88.55,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Darjeeling",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Darjeeling",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Rock Garden",
+    "city": "Darjeeling",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.76,
+    "longitude": 88.56,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Darjeeling",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Darjeeling",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Lebong Race Course",
+    "city": "Darjeeling",
+    "type": "Scenic",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.77,
+    "longitude": 88.57,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Darjeeling",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Darjeeling",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Gajoldoba Barrage",
+    "city": "Siliguri",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.78,
+    "longitude": 88.58,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Siliguri",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Siliguri",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Salugara Monastery",
+    "city": "Siliguri",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.79,
+    "longitude": 88.59,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Siliguri",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Siliguri",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Jaldapara National Park",
+    "city": "Alipurduar",
+    "type": "Wildlife",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 22.8,
+    "longitude": 88.6,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Alipurduar",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Alipurduar",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Totopara",
+    "city": "Alipurduar",
+    "type": "Village",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.81,
+    "longitude": 88.61,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Alipurduar",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Alipurduar",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Buxa Fort",
+    "city": "Alipurduar",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.82,
+    "longitude": 88.62,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Alipurduar",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Alipurduar",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Ayodhya Hills",
+    "city": "Purulia",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 22.83,
+    "longitude": 88.63,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Purulia",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Purulia",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Garh Panchkot",
+    "city": "Purulia",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.84,
+    "longitude": 88.64,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Purulia",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Purulia",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Joychandi Hill",
+    "city": "Purulia",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.85,
+    "longitude": 88.65,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Purulia",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Purulia",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Bakreswar",
+    "city": "Birbhum",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.86,
+    "longitude": 88.66,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Birbhum",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Birbhum",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Ballabhpur Sanctuary",
+    "city": "Birbhum",
+    "type": "Wildlife",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.87,
+    "longitude": 88.67,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Birbhum",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Birbhum",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Digha Beach",
+    "city": "East Midnapore",
+    "type": "Beach",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 22.88,
+    "longitude": 88.68,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge East Midnapore",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort East Midnapore",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Mandarmani Beach",
+    "city": "East Midnapore",
+    "type": "Beach",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 22.89,
+    "longitude": 88.69,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge East Midnapore",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort East Midnapore",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Tajpur Beach",
+    "city": "East Midnapore",
+    "type": "Beach",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.9,
+    "longitude": 88.7,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge East Midnapore",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort East Midnapore",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Chandraketugarh",
+    "city": "North 24 Parganas",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.91,
+    "longitude": 88.71,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge North 24 Parganas",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort North 24 Parganas",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Barrackpore Park",
+    "city": "North 24 Parganas",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.92,
+    "longitude": 88.72,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge North 24 Parganas",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort North 24 Parganas",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Sundarbans",
+    "city": "South 24 Parganas",
+    "type": "Wildlife",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 22.93,
+    "longitude": 88.73,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge South 24 Parganas",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort South 24 Parganas",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Gangasagar",
+    "city": "South 24 Parganas",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 22.94,
+    "longitude": 88.74,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge South 24 Parganas",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort South 24 Parganas",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Bakkhali Beach",
+    "city": "South 24 Parganas",
+    "type": "Beach",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.95,
+    "longitude": 88.75,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge South 24 Parganas",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort South 24 Parganas",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Henry Island",
+    "city": "South 24 Parganas",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.96,
+    "longitude": 88.76,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge South 24 Parganas",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort South 24 Parganas",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Chilapata Forest",
+    "city": "Alipurduar",
+    "type": "Forest",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.97,
+    "longitude": 88.77,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Alipurduar",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Alipurduar",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Lava Monastery",
+    "city": "Kalimpong",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.98,
+    "longitude": 88.78,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Kalimpong",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Kalimpong",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Rishop",
+    "city": "Kalimpong",
+    "type": "Village",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 22.99,
+    "longitude": 88.79,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Kalimpong",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Kalimpong",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Neora Valley",
+    "city": "Kalimpong",
+    "type": "Forest",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.0,
+    "longitude": 88.8,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Kalimpong",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Kalimpong",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Chapramari",
+    "city": "Jalpaiguri",
+    "type": "Wildlife",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.01,
+    "longitude": 88.81,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Jalpaiguri",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Jalpaiguri",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Mahananda Sanctuary",
+    "city": "Siliguri",
+    "type": "Wildlife",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.02,
+    "longitude": 88.82,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Siliguri",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Siliguri",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Cooch Behar Palace",
+    "city": "Cooch Behar",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.03,
+    "longitude": 88.83,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Cooch Behar",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Cooch Behar",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Rasikbil",
+    "city": "Cooch Behar",
+    "type": "Wetland",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.04,
+    "longitude": 88.84,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Cooch Behar",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Cooch Behar",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Jore Pokhri",
+    "city": "Darjeeling",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.05,
+    "longitude": 88.85,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Darjeeling",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Darjeeling",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Lamahatta",
+    "city": "Darjeeling",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.06,
+    "longitude": 88.86,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Darjeeling",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Darjeeling",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Dooars",
+    "city": "Jalpaiguri",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.07,
+    "longitude": 88.87,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Jalpaiguri",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Jalpaiguri",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Chandannagar Strand",
+    "city": "Hooghly",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.08,
+    "longitude": 88.88,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Hooghly",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Hooghly",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Bandel Church",
+    "city": "Hooghly",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.09,
+    "longitude": 88.89,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Hooghly",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Hooghly",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Tarakeswar Temple",
+    "city": "Hooghly",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.1,
+    "longitude": 88.9,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Hooghly",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Hooghly",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Kalna Rajbari",
+    "city": "Bardhaman",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.11,
+    "longitude": 88.91,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Bardhaman",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Bardhaman",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Deul Park",
+    "city": "Bardhaman",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.12,
+    "longitude": 88.92,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Bardhaman",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Bardhaman",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Maithon Dam",
+    "city": "Dhanbad",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.13,
+    "longitude": 88.93,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Dhanbad",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Dhanbad",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Panchet Dam",
+    "city": "Dhanbad",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.14,
+    "longitude": 88.94,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Dhanbad",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Dhanbad",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Gour",
+    "city": "Malda",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.15,
+    "longitude": 88.95,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Malda",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Malda",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Jhargram Palace",
+    "city": "Jhargram",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 23.16,
+    "longitude": 88.96,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Jhargram",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Jhargram",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Belpahari",
+    "city": "Jhargram",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.17,
+    "longitude": 88.97,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Jhargram",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Jhargram",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Kankrajhor",
+    "city": "Jhargram",
+    "type": "Forest",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.18,
+    "longitude": 88.98,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Jhargram",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Jhargram",
+        "price_per_night_inr": 4500
+      }
+    }
+  },
+  {
+    "state": "West Bengal",
+    "place_name": "Gadiara",
+    "city": "Howrah",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 23.19,
+    "longitude": 88.99,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Budget Lodge Howrah",
+        "price_per_night_inr": 500
+      },
+      "luxury": {
+        "hotel_name": "Premium Resort Howrah",
+        "price_per_night_inr": 4500
+      }
+    }
+  }
+]

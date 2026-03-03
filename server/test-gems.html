@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hidden Gems Test</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    .card { border: 1px solid #ddd; padding: 15px; margin: 10px 0; border-radius: 8px; }
+    .error { background: #fee; color: #c00; }
+    .success { background: #efe; color: #0a0; }
+    .gems { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 15px; margin-top: 20px; }
+    .gem { border: 1px solid #ddd; padding: 15px; border-radius: 8px; }
+  </style>
+</head>
+<body>
+  <h1>🗺️ Hidden Gems Test</h1>
+  
+  <div id="status" class="card"></div>
+  
+  <div>
+    <h2>API Test</h2>
+    <button onclick="testAPI()">Test /api/places/hidden-gems</button>
+    <button onclick="testStates()">Test /api/places/states</button>
+  </div>
+  
+  <div id="result" class="card" style="display:none;"></div>
+  
+  <div id="gems"></div>
+
+  <script>
+    const API_BASE = 'http://localhost:5000/api';
+
+    function updateStatus(msg, isError = false) {
+      const el = document.getElementById('status');
+      el.innerHTML = msg;
+      el.className = 'card ' + (isError ? 'error' : 'success');
+    }
+
+    async function testAPI() {
+      try {
+        updateStatus('Loading hidden gems...');
+        const response = await fetch(`${API_BASE}/places/hidden-gems`);
+        const data = await response.json();
+        
+        if (!Array.isArray(data)) {
+          updateStatus(`Error: Expected array, got ${typeof data}`, true);
+          return;
+        }
+        
+        updateStatus(`✅ Success! Found ${data.length} hidden gems`);
+        
+        const gemsDiv = document.getElementById('gems');
+        gemsDiv.innerHTML = '<h2>Samples:</h2>' + 
+          data.slice(0, 6).map((p, i) => `
+            <div class="gem">
+              <h3>${p.placeTown}</h3>
+              <p>${p.cityTown}, ${p.state}</p>
+              <p>Type: ${p.type} | Crowd: ${p.crowdLevel}</p>
+              <p>Budget: ₹${p.budgetINR} | Duration: ${p.visitDuration}h</p>
+            </div>
+          `).join('');
+      } catch (err) {
+        updateStatus(`❌ Error: ${err.message}`, true);
+        console.error(err);
+      }
+    }
+
+    async function testStates() {
+      try {
+        updateStatus('Loading states...');
+        const response = await fetch(`${API_BASE}/places/states`);
+        const data = await response.json();
+        
+        if (!Array.isArray(data)) {
+          updateStatus(`Error: Expected array, got ${typeof data}`, true);
+          return;
+        }
+        
+        updateStatus(`✅ Success! Found ${data.length} states: ${data.slice(0, 5).join(', ')}...`);
+      } catch (err) {
+        updateStatus(`❌ Error: ${err.message}`, true);
+      }
+    }
+
+    // Auto-test on load
+    window.onload = () => {
+      updateStatus('Testing API connection...');
+      testAPI();
+    };
+  </script>
+</body>
+</html>

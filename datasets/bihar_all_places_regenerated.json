@@ -1,0 +1,1256 @@
+[
+  {
+    "state": "Bihar",
+    "place_name": "Mahabodhi Temple",
+    "city": "Gaya",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 25.6,
+    "longitude": 85.1,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Gaya",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Gaya",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Bodh Gaya Archaeological Complex",
+    "city": "Gaya",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 25.61,
+    "longitude": 85.11,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Gaya",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Gaya",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Dungeshwari Cave Temples",
+    "city": "Gaya",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.62,
+    "longitude": 85.12,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Gaya",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Gaya",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Falgu River Ghats",
+    "city": "Gaya",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.63,
+    "longitude": 85.13,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Gaya",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Gaya",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Pretshila Hill",
+    "city": "Gaya",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.64,
+    "longitude": 85.14,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Gaya",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Gaya",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Sita Kund",
+    "city": "Gaya",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.65,
+    "longitude": 85.15,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Gaya",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Gaya",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Vishnupad Temple",
+    "city": "Gaya",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 25.66,
+    "longitude": 85.16,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Gaya",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Gaya",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Thai Monastery",
+    "city": "Gaya",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.67,
+    "longitude": 85.17,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Gaya",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Gaya",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Sujata Stupa",
+    "city": "Gaya",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.68,
+    "longitude": 85.18,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Gaya",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Gaya",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Muchalinda Lake",
+    "city": "Gaya",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.69,
+    "longitude": 85.19,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Gaya",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Gaya",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Nalanda University Ruins",
+    "city": "Nalanda",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 25.7,
+    "longitude": 85.2,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Nalanda",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Nalanda",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Nalanda Archaeological Museum",
+    "city": "Nalanda",
+    "type": "Museum",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.71,
+    "longitude": 85.21,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Nalanda",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Nalanda",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Pawapuri Jal Mandir",
+    "city": "Nalanda",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 25.72,
+    "longitude": 85.22,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Nalanda",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Nalanda",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Surajpur Baragaon Ruins",
+    "city": "Nalanda",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.73,
+    "longitude": 85.23,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Nalanda",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Nalanda",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Hiuen Tsang Memorial Hall",
+    "city": "Nalanda",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.74,
+    "longitude": 85.24,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Nalanda",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Nalanda",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Rajgir Ropeway",
+    "city": "Rajgir",
+    "type": "Attraction",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 25.75,
+    "longitude": 85.25,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Rajgir",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Rajgir",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Vishwa Shanti Stupa",
+    "city": "Rajgir",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 25.76,
+    "longitude": 85.26,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Rajgir",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Rajgir",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Son Bhandar Caves",
+    "city": "Rajgir",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.77,
+    "longitude": 85.27,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Rajgir",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Rajgir",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Cyclopean Wall",
+    "city": "Rajgir",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.78,
+    "longitude": 85.28,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Rajgir",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Rajgir",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Hot Springs Rajgir",
+    "city": "Rajgir",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.79,
+    "longitude": 85.29,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Rajgir",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Rajgir",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Griddhakuta Hill",
+    "city": "Rajgir",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.8,
+    "longitude": 85.3,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Rajgir",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Rajgir",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Takht Sri Patna Sahib",
+    "city": "Patna",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 25.81,
+    "longitude": 85.31,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Patna",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Patna",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Golghar",
+    "city": "Patna",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 25.82,
+    "longitude": 85.32,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Patna",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Patna",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Buddha Smriti Park",
+    "city": "Patna",
+    "type": "Park",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 25.83,
+    "longitude": 85.33,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Patna",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Patna",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Patna Museum",
+    "city": "Patna",
+    "type": "Museum",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 25.84,
+    "longitude": 85.34,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Patna",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Patna",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Eco Park Patna",
+    "city": "Patna",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.85,
+    "longitude": 85.35,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Patna",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Patna",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Gandhi Ghat",
+    "city": "Patna",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.86,
+    "longitude": 85.36,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Patna",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Patna",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Maner Sharif",
+    "city": "Patna",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.87,
+    "longitude": 85.37,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Patna",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Patna",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Didarganj Yakshi",
+    "city": "Patna",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.88,
+    "longitude": 85.38,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Patna",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Patna",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Agam Kuan",
+    "city": "Patna",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.89,
+    "longitude": 85.39,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Patna",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Patna",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Patthar Ki Masjid",
+    "city": "Patna",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.9,
+    "longitude": 85.4,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Patna",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Patna",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Phulwari Sharif",
+    "city": "Patna",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.91,
+    "longitude": 85.41,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Patna",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Patna",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Barabar Caves",
+    "city": "Jehanabad",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 25.92,
+    "longitude": 85.42,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Jehanabad",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Jehanabad",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Sudama Cave",
+    "city": "Jehanabad",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.93,
+    "longitude": 85.43,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Jehanabad",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Jehanabad",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Lomas Rishi Cave",
+    "city": "Jehanabad",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.94,
+    "longitude": 85.44,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Jehanabad",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Jehanabad",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Sher Shah Suri Tomb",
+    "city": "Sasaram",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 25.95,
+    "longitude": 85.45,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Sasaram",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Sasaram",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Rohtasgarh Fort",
+    "city": "Rohtas",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.96,
+    "longitude": 85.46,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Rohtas",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Rohtas",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Tutla Bhawani Waterfall",
+    "city": "Rohtas",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.97,
+    "longitude": 85.47,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Rohtas",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Rohtas",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Karkatgarh Waterfall",
+    "city": "Rohtas",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.98,
+    "longitude": 85.48,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Rohtas",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Rohtas",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Dhua Kund",
+    "city": "Rohtas",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 25.99,
+    "longitude": 85.49,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Rohtas",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Rohtas",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Vikramshila University Ruins",
+    "city": "Bhagalpur",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 26.0,
+    "longitude": 85.5,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Bhagalpur",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Bhagalpur",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Vikramshila Setu",
+    "city": "Bhagalpur",
+    "type": "Landmark",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 26.01,
+    "longitude": 85.51,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Bhagalpur",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Bhagalpur",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Mandar Hill",
+    "city": "Banka",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 26.02,
+    "longitude": 85.52,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Banka",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Banka",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Ajgaivinath Temple",
+    "city": "Banka",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 26.03,
+    "longitude": 85.53,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Banka",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Banka",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Kanwar Lake",
+    "city": "Begusarai",
+    "type": "Wetland",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 26.04,
+    "longitude": 85.54,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Begusarai",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Begusarai",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Simaria Ghat",
+    "city": "Begusarai",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 26.05,
+    "longitude": 85.55,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Begusarai",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Begusarai",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Kesaria Stupa",
+    "city": "East Champaran",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 26.06,
+    "longitude": 85.56,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency East Champaran",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel East Champaran",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Areraj Temple",
+    "city": "East Champaran",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 26.07,
+    "longitude": 85.57,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency East Champaran",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel East Champaran",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Valmiki Nagar",
+    "city": "West Champaran",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 900,
+    "budget_category": "medium",
+    "latitude": 26.08,
+    "longitude": 85.58,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency West Champaran",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel West Champaran",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Valmiki Ashram",
+    "city": "West Champaran",
+    "type": "Religious",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 26.09,
+    "longitude": 85.59,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency West Champaran",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel West Champaran",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Lauriya Nandangarh",
+    "city": "West Champaran",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 26.1,
+    "longitude": 85.6,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency West Champaran",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel West Champaran",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Ashokan Pillar Lauriya",
+    "city": "West Champaran",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 26.11,
+    "longitude": 85.61,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency West Champaran",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel West Champaran",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Kakolat Waterfall",
+    "city": "Nawada",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 26.12,
+    "longitude": 85.62,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Nawada",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Nawada",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Kakolat Kund",
+    "city": "Nawada",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 26.13,
+    "longitude": 85.63,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Nawada",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Nawada",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Baraila Tal",
+    "city": "Vaishali",
+    "type": "Wetland",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 26.14,
+    "longitude": 85.64,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Vaishali",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Vaishali",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Abhishek Pushkarini",
+    "city": "Vaishali",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 26.15,
+    "longitude": 85.65,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Vaishali",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Vaishali",
+        "price_per_night_inr": 5000
+      }
+    }
+  },
+  {
+    "state": "Bihar",
+    "place_name": "Chechar Kutir",
+    "city": "Vaishali",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 600,
+    "budget_category": "low",
+    "latitude": 26.16,
+    "longitude": 85.66,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Hotel Shanti Residency Vaishali",
+        "price_per_night_inr": 800
+      },
+      "luxury": {
+        "hotel_name": "Royal Palace Hotel Vaishali",
+        "price_per_night_inr": 5000
+      }
+    }
+  }
+]

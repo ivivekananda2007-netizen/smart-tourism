@@ -1,0 +1,1192 @@
+[
+    {
+        "state": "Meghalaya",
+        "place_name": "Shillong",
+        "city_town": "Shillong",
+        "type": "Hill Station / Capital",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.5788,
+        "longitude": 91.8933,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Shillong Budget Stay",
+                    "price_per_night": 611
+                },
+                {
+                    "hotel_name": "Shillong Comfort Lodge",
+                    "price_per_night": 958
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Shillong Grand Resort",
+                    "price_per_night": 5484
+                },
+                {
+                    "hotel_name": "Shillong Royal Palace Hotel",
+                    "price_per_night": 4583
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Umiam Lake",
+        "city_town": "Umiam",
+        "type": "Scenic Lake",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.706,
+        "longitude": 91.9165,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Umiam Budget Stay",
+                    "price_per_night": 908
+                },
+                {
+                    "hotel_name": "Umiam Comfort Lodge",
+                    "price_per_night": 757
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Umiam Grand Resort",
+                    "price_per_night": 5799
+                },
+                {
+                    "hotel_name": "Umiam Royal Palace Hotel",
+                    "price_per_night": 11857
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Ward's Lake",
+        "city_town": "Shillong",
+        "type": "Lake / Garden",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.5731,
+        "longitude": 91.8902,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Shillong Budget Stay",
+                    "price_per_night": 804
+                },
+                {
+                    "hotel_name": "Shillong Comfort Lodge",
+                    "price_per_night": 713
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Shillong Grand Resort",
+                    "price_per_night": 4801
+                },
+                {
+                    "hotel_name": "Shillong Royal Palace Hotel",
+                    "price_per_night": 6054
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Elephant Falls",
+        "city_town": "Shillong",
+        "type": "Waterfall",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.5661,
+        "longitude": 91.8921,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Shillong Budget Stay",
+                    "price_per_night": 986
+                },
+                {
+                    "hotel_name": "Shillong Comfort Lodge",
+                    "price_per_night": 508
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Shillong Grand Resort",
+                    "price_per_night": 5231
+                },
+                {
+                    "hotel_name": "Shillong Royal Palace Hotel",
+                    "price_per_night": 9596
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Laitlum Canyons",
+        "city_town": "Shillong",
+        "type": "Canyon / Viewpoint",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.5269,
+        "longitude": 91.5355,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Shillong Budget Stay",
+                    "price_per_night": 664
+                },
+                {
+                    "hotel_name": "Shillong Comfort Lodge",
+                    "price_per_night": 452
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Shillong Grand Resort",
+                    "price_per_night": 8566
+                },
+                {
+                    "hotel_name": "Shillong Royal Palace Hotel",
+                    "price_per_night": 7325
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Mawphlang Sacred Forest",
+        "city_town": "Mawphlang",
+        "type": "Sacred Grove",
+        "hidden_gem": true,
+        "visit_duration": "2-4 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.482,
+        "longitude": 91.739,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mawphlang Budget Stay",
+                    "price_per_night": 958
+                },
+                {
+                    "hotel_name": "Mawphlang Comfort Lodge",
+                    "price_per_night": 712
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mawphlang Grand Resort",
+                    "price_per_night": 7355
+                },
+                {
+                    "hotel_name": "Mawphlang Royal Palace Hotel",
+                    "price_per_night": 7982
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Cherrapunji (Sohra)",
+        "city_town": "Cherrapunji",
+        "type": "Scenic Town",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.2773,
+        "longitude": 91.7174,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Cherrapunji Budget Stay",
+                    "price_per_night": 526
+                },
+                {
+                    "hotel_name": "Cherrapunji Comfort Lodge",
+                    "price_per_night": 870
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Cherrapunji Grand Resort",
+                    "price_per_night": 6469
+                },
+                {
+                    "hotel_name": "Cherrapunji Royal Palace Hotel",
+                    "price_per_night": 11503
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Double Decker Root Bridge",
+        "city_town": "Nongriat Village",
+        "type": "Living Root Bridge / Trek",
+        "hidden_gem": false,
+        "visit_duration": "Full day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.2641,
+        "longitude": 91.7329,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Nongriat Village Budget Stay",
+                    "price_per_night": 896
+                },
+                {
+                    "hotel_name": "Nongriat Village Comfort Lodge",
+                    "price_per_night": 894
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Nongriat Village Grand Resort",
+                    "price_per_night": 5645
+                },
+                {
+                    "hotel_name": "Nongriat Village Royal Palace Hotel",
+                    "price_per_night": 10117
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Nohkalikai Falls",
+        "city_town": "Cherrapunji",
+        "type": "Waterfall",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.3836,
+        "longitude": 91.928,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Cherrapunji Budget Stay",
+                    "price_per_night": 860
+                },
+                {
+                    "hotel_name": "Cherrapunji Comfort Lodge",
+                    "price_per_night": 930
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Cherrapunji Grand Resort",
+                    "price_per_night": 4285
+                },
+                {
+                    "hotel_name": "Cherrapunji Royal Palace Hotel",
+                    "price_per_night": 6496
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Nohsngithiang Falls (Seven Sisters)",
+        "city_town": "Cherrapunji",
+        "type": "Waterfall",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.282,
+        "longitude": 91.7211,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Cherrapunji Budget Stay",
+                    "price_per_night": 685
+                },
+                {
+                    "hotel_name": "Cherrapunji Comfort Lodge",
+                    "price_per_night": 680
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Cherrapunji Grand Resort",
+                    "price_per_night": 5515
+                },
+                {
+                    "hotel_name": "Cherrapunji Royal Palace Hotel",
+                    "price_per_night": 6050
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Mawsmai Cave",
+        "city_town": "Cherrapunji",
+        "type": "Limestone Cave",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.28,
+        "longitude": 91.7179,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Cherrapunji Budget Stay",
+                    "price_per_night": 550
+                },
+                {
+                    "hotel_name": "Cherrapunji Comfort Lodge",
+                    "price_per_night": 953
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Cherrapunji Grand Resort",
+                    "price_per_night": 8177
+                },
+                {
+                    "hotel_name": "Cherrapunji Royal Palace Hotel",
+                    "price_per_night": 9242
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Arwah Cave",
+        "city_town": "Cherrapunji",
+        "type": "Cave",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.28,
+        "longitude": 91.72,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Cherrapunji Budget Stay",
+                    "price_per_night": 890
+                },
+                {
+                    "hotel_name": "Cherrapunji Comfort Lodge",
+                    "price_per_night": 592
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Cherrapunji Grand Resort",
+                    "price_per_night": 5953
+                },
+                {
+                    "hotel_name": "Cherrapunji Royal Palace Hotel",
+                    "price_per_night": 9075
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Rainbow Falls",
+        "city_town": "Cherrapunji",
+        "type": "Waterfall",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.27,
+        "longitude": 91.74,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Cherrapunji Budget Stay",
+                    "price_per_night": 768
+                },
+                {
+                    "hotel_name": "Cherrapunji Comfort Lodge",
+                    "price_per_night": 791
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Cherrapunji Grand Resort",
+                    "price_per_night": 6442
+                },
+                {
+                    "hotel_name": "Cherrapunji Royal Palace Hotel",
+                    "price_per_night": 5386
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Garden of Caves",
+        "city_town": "Cherrapunji",
+        "type": "Nature / Caves Park",
+        "hidden_gem": true,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.285,
+        "longitude": 91.71,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Cherrapunji Budget Stay",
+                    "price_per_night": 776
+                },
+                {
+                    "hotel_name": "Cherrapunji Comfort Lodge",
+                    "price_per_night": 873
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Cherrapunji Grand Resort",
+                    "price_per_night": 3662
+                },
+                {
+                    "hotel_name": "Cherrapunji Royal Palace Hotel",
+                    "price_per_night": 5825
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Dawki (Umngot River)",
+        "city_town": "Dawki",
+        "type": "River / Boating",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.0431,
+        "longitude": 92.0375,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Dawki Budget Stay",
+                    "price_per_night": 828
+                },
+                {
+                    "hotel_name": "Dawki Comfort Lodge",
+                    "price_per_night": 481
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Dawki Grand Resort",
+                    "price_per_night": 8384
+                },
+                {
+                    "hotel_name": "Dawki Royal Palace Hotel",
+                    "price_per_night": 10312
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Shnongpdeng",
+        "city_town": "Dawki",
+        "type": "River / Adventure",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.045,
+        "longitude": 92.04,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Dawki Budget Stay",
+                    "price_per_night": 766
+                },
+                {
+                    "hotel_name": "Dawki Comfort Lodge",
+                    "price_per_night": 731
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Dawki Grand Resort",
+                    "price_per_night": 4490
+                },
+                {
+                    "hotel_name": "Dawki Royal Palace Hotel",
+                    "price_per_night": 5984
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Mawlynnong Village",
+        "city_town": "Mawlynnong",
+        "type": "Cultural / Cleanest Village",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.1896,
+        "longitude": 91.7224,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mawlynnong Budget Stay",
+                    "price_per_night": 942
+                },
+                {
+                    "hotel_name": "Mawlynnong Comfort Lodge",
+                    "price_per_night": 605
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mawlynnong Grand Resort",
+                    "price_per_night": 7666
+                },
+                {
+                    "hotel_name": "Mawlynnong Royal Palace Hotel",
+                    "price_per_night": 8414
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Balpakram National Park",
+        "city_town": "South Garo Hills",
+        "type": "National Park",
+        "hidden_gem": false,
+        "visit_duration": "2-3 days",
+        "budget_in_inr": 6500,
+        "budget_category": "High",
+        "latitude": 25.144,
+        "longitude": 90.652,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "South Garo Hills Budget Stay",
+                    "price_per_night": 941
+                },
+                {
+                    "hotel_name": "South Garo Hills Comfort Lodge",
+                    "price_per_night": 561
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "South Garo Hills Grand Resort",
+                    "price_per_night": 4434
+                },
+                {
+                    "hotel_name": "South Garo Hills Royal Palace Hotel",
+                    "price_per_night": 4252
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Siju Wildlife Sanctuary",
+        "city_town": "South Garo Hills",
+        "type": "Wildlife Sanctuary",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.145,
+        "longitude": 90.505,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "South Garo Hills Budget Stay",
+                    "price_per_night": 635
+                },
+                {
+                    "hotel_name": "South Garo Hills Comfort Lodge",
+                    "price_per_night": 665
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "South Garo Hills Grand Resort",
+                    "price_per_night": 7290
+                },
+                {
+                    "hotel_name": "South Garo Hills Royal Palace Hotel",
+                    "price_per_night": 4360
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Krang Suri Falls",
+        "city_town": "Jowai",
+        "type": "Waterfall",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.336,
+        "longitude": 92.235,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Jowai Budget Stay",
+                    "price_per_night": 968
+                },
+                {
+                    "hotel_name": "Jowai Comfort Lodge",
+                    "price_per_night": 792
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Jowai Grand Resort",
+                    "price_per_night": 6816
+                },
+                {
+                    "hotel_name": "Jowai Royal Palace Hotel",
+                    "price_per_night": 5838
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Nartiang Monoliths",
+        "city_town": "Jowai",
+        "type": "Historical Site",
+        "hidden_gem": true,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.342,
+        "longitude": 92.233,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Jowai Budget Stay",
+                    "price_per_night": 542
+                },
+                {
+                    "hotel_name": "Jowai Comfort Lodge",
+                    "price_per_night": 956
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Jowai Grand Resort",
+                    "price_per_night": 4756
+                },
+                {
+                    "hotel_name": "Jowai Royal Palace Hotel",
+                    "price_per_night": 6461
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Thlumuwi Stone Bridge Pool",
+        "city_town": "West Jaintia Hills",
+        "type": "Historic Bridge / Natural Pool",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.3,
+        "longitude": 92.22,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "West Jaintia Hills Budget Stay",
+                    "price_per_night": 634
+                },
+                {
+                    "hotel_name": "West Jaintia Hills Comfort Lodge",
+                    "price_per_night": 819
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "West Jaintia Hills Grand Resort",
+                    "price_per_night": 8415
+                },
+                {
+                    "hotel_name": "West Jaintia Hills Royal Palace Hotel",
+                    "price_per_night": 7289
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Bishop Falls",
+        "city_town": "Cherrapunji",
+        "type": "Waterfall",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.283,
+        "longitude": 91.717,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Cherrapunji Budget Stay",
+                    "price_per_night": 525
+                },
+                {
+                    "hotel_name": "Cherrapunji Comfort Lodge",
+                    "price_per_night": 675
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Cherrapunji Grand Resort",
+                    "price_per_night": 5994
+                },
+                {
+                    "hotel_name": "Cherrapunji Royal Palace Hotel",
+                    "price_per_night": 10322
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Spread Eagle Falls",
+        "city_town": "Cherrapunji",
+        "type": "Waterfall",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.284,
+        "longitude": 91.716,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Cherrapunji Budget Stay",
+                    "price_per_night": 936
+                },
+                {
+                    "hotel_name": "Cherrapunji Comfort Lodge",
+                    "price_per_night": 624
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Cherrapunji Grand Resort",
+                    "price_per_night": 7416
+                },
+                {
+                    "hotel_name": "Cherrapunji Royal Palace Hotel",
+                    "price_per_night": 6253
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Liat Prah Cave",
+        "city_town": "Khasi Hills",
+        "type": "Cave",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.29,
+        "longitude": 91.72,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Khasi Hills Budget Stay",
+                    "price_per_night": 688
+                },
+                {
+                    "hotel_name": "Khasi Hills Comfort Lodge",
+                    "price_per_night": 889
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Khasi Hills Grand Resort",
+                    "price_per_night": 5305
+                },
+                {
+                    "hotel_name": "Khasi Hills Royal Palace Hotel",
+                    "price_per_night": 10711
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Krem Chympe Cave",
+        "city_town": "Khasi Hills",
+        "type": "Caving Adventure",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.28,
+        "longitude": 91.7,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Khasi Hills Budget Stay",
+                    "price_per_night": 970
+                },
+                {
+                    "hotel_name": "Khasi Hills Comfort Lodge",
+                    "price_per_night": 527
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Khasi Hills Grand Resort",
+                    "price_per_night": 7981
+                },
+                {
+                    "hotel_name": "Khasi Hills Royal Palace Hotel",
+                    "price_per_night": 11653
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Mawblang Viewpoint",
+        "city_town": "Mawphlang",
+        "type": "Viewpoint",
+        "hidden_gem": true,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.475,
+        "longitude": 91.739,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mawphlang Budget Stay",
+                    "price_per_night": 533
+                },
+                {
+                    "hotel_name": "Mawphlang Comfort Lodge",
+                    "price_per_night": 884
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mawphlang Grand Resort",
+                    "price_per_night": 4377
+                },
+                {
+                    "hotel_name": "Mawphlang Royal Palace Hotel",
+                    "price_per_night": 7477
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Mawryngkhang Bamboo Trail",
+        "city_town": "Mawphlang",
+        "type": "Trek",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.48,
+        "longitude": 91.75,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mawphlang Budget Stay",
+                    "price_per_night": 907
+                },
+                {
+                    "hotel_name": "Mawphlang Comfort Lodge",
+                    "price_per_night": 880
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mawphlang Grand Resort",
+                    "price_per_night": 8759
+                },
+                {
+                    "hotel_name": "Mawphlang Royal Palace Hotel",
+                    "price_per_night": 5403
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "David Scott Trail",
+        "city_town": "Shillong / Jowai",
+        "type": "Heritage Trek",
+        "hidden_gem": true,
+        "visit_duration": "2-3 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.55,
+        "longitude": 92.08,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Shillong / Jowai Budget Stay",
+                    "price_per_night": 634
+                },
+                {
+                    "hotel_name": "Shillong / Jowai Comfort Lodge",
+                    "price_per_night": 829
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Shillong / Jowai Grand Resort",
+                    "price_per_night": 5235
+                },
+                {
+                    "hotel_name": "Shillong / Jowai Royal Palace Hotel",
+                    "price_per_night": 9230
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Police Bazaar",
+        "city_town": "Shillong",
+        "type": "Market / Cultural",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.578,
+        "longitude": 91.893,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Shillong Budget Stay",
+                    "price_per_night": 993
+                },
+                {
+                    "hotel_name": "Shillong Comfort Lodge",
+                    "price_per_night": 553
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Shillong Grand Resort",
+                    "price_per_night": 7440
+                },
+                {
+                    "hotel_name": "Shillong Royal Palace Hotel",
+                    "price_per_night": 8924
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Don Bosco Museum",
+        "city_town": "Shillong",
+        "type": "Museum",
+        "hidden_gem": false,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.58,
+        "longitude": 91.892,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Shillong Budget Stay",
+                    "price_per_night": 882
+                },
+                {
+                    "hotel_name": "Shillong Comfort Lodge",
+                    "price_per_night": 615
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Shillong Grand Resort",
+                    "price_per_night": 4413
+                },
+                {
+                    "hotel_name": "Shillong Royal Palace Hotel",
+                    "price_per_night": 11021
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Shillong Peak",
+        "city_town": "Shillong",
+        "type": "Viewpoint",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 25.577,
+        "longitude": 91.866,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Shillong Budget Stay",
+                    "price_per_night": 615
+                },
+                {
+                    "hotel_name": "Shillong Comfort Lodge",
+                    "price_per_night": 725
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Shillong Grand Resort",
+                    "price_per_night": 7940
+                },
+                {
+                    "hotel_name": "Shillong Royal Palace Hotel",
+                    "price_per_night": 11392
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Phe Phe Falls",
+        "city_town": "Jowai",
+        "type": "Waterfall",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.327,
+        "longitude": 92.23,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Jowai Budget Stay",
+                    "price_per_night": 781
+                },
+                {
+                    "hotel_name": "Jowai Comfort Lodge",
+                    "price_per_night": 884
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Jowai Grand Resort",
+                    "price_per_night": 7030
+                },
+                {
+                    "hotel_name": "Jowai Royal Palace Hotel",
+                    "price_per_night": 11764
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Lyngksiar Falls",
+        "city_town": "Sohra Area",
+        "type": "Waterfall",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.29,
+        "longitude": 91.73,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Sohra Area Budget Stay",
+                    "price_per_night": 480
+                },
+                {
+                    "hotel_name": "Sohra Area Comfort Lodge",
+                    "price_per_night": 578
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Sohra Area Grand Resort",
+                    "price_per_night": 4300
+                },
+                {
+                    "hotel_name": "Sohra Area Royal Palace Hotel",
+                    "price_per_night": 9547
+                }
+            ]
+        }
+    },
+    {
+        "state": "Meghalaya",
+        "place_name": "Janailar Falls",
+        "city_town": "Mawlyngbna",
+        "type": "Waterfall",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 25.28,
+        "longitude": 91.75,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mawlyngbna Budget Stay",
+                    "price_per_night": 457
+                },
+                {
+                    "hotel_name": "Mawlyngbna Comfort Lodge",
+                    "price_per_night": 534
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mawlyngbna Grand Resort",
+                    "price_per_night": 8533
+                },
+                {
+                    "hotel_name": "Mawlyngbna Royal Palace Hotel",
+                    "price_per_night": 11432
+                }
+            ]
+        }
+    }
+]

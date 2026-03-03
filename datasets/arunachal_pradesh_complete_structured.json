@@ -1,0 +1,1294 @@
+[
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Tawang",
+        "city_town": "Tawang",
+        "type": "Cultural / Mountain Town",
+        "hidden_gem": false,
+        "visit_duration": "2-3 days",
+        "budget_in_inr": 3000,
+        "latitude": 27.5867,
+        "longitude": 91.8668,
+        "budget_category": "Medium",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tawang Budget Stay",
+                    "price_per_night": 856
+                },
+                {
+                    "hotel_name": "Tawang Comfort Lodge",
+                    "price_per_night": 869
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tawang Grand Resort",
+                    "price_per_night": 6667
+                },
+                {
+                    "hotel_name": "Tawang Royal Palace Hotel",
+                    "price_per_night": 8075
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Tawang Monastery",
+        "city_town": "Tawang",
+        "type": "Monastery",
+        "hidden_gem": false,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 500,
+        "latitude": 27.586,
+        "longitude": 91.8665,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tawang Budget Stay",
+                    "price_per_night": 953
+                },
+                {
+                    "hotel_name": "Tawang Comfort Lodge",
+                    "price_per_night": 738
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tawang Grand Resort",
+                    "price_per_night": 10200
+                },
+                {
+                    "hotel_name": "Tawang Royal Palace Hotel",
+                    "price_per_night": 9377
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Shonga-tser Lake (Madhuri Lake)",
+        "city_town": "Tawang",
+        "type": "Scenic Lake",
+        "hidden_gem": true,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 1000,
+        "latitude": 27.6635,
+        "longitude": 91.8645,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tawang Budget Stay",
+                    "price_per_night": 718
+                },
+                {
+                    "hotel_name": "Tawang Comfort Lodge",
+                    "price_per_night": 977
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tawang Grand Resort",
+                    "price_per_night": 8660
+                },
+                {
+                    "hotel_name": "Tawang Royal Palace Hotel",
+                    "price_per_night": 9898
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Pankang Teng Tso Lake",
+        "city_town": "Tawang",
+        "type": "Alpine Lake",
+        "hidden_gem": true,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 1000,
+        "latitude": 27.669,
+        "longitude": 91.858,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tawang Budget Stay",
+                    "price_per_night": 650
+                },
+                {
+                    "hotel_name": "Tawang Comfort Lodge",
+                    "price_per_night": 682
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tawang Grand Resort",
+                    "price_per_night": 5265
+                },
+                {
+                    "hotel_name": "Tawang Royal Palace Hotel",
+                    "price_per_night": 8676
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Bum La Pass",
+        "city_town": "Tawang",
+        "type": "Mountain Pass",
+        "hidden_gem": false,
+        "visit_duration": "3-4 hours",
+        "budget_in_inr": 1500,
+        "latitude": 27.7344,
+        "longitude": 91.6583,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tawang Budget Stay",
+                    "price_per_night": 795
+                },
+                {
+                    "hotel_name": "Tawang Comfort Lodge",
+                    "price_per_night": 617
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tawang Grand Resort",
+                    "price_per_night": 10955
+                },
+                {
+                    "hotel_name": "Tawang Royal Palace Hotel",
+                    "price_per_night": 5773
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Ziro Valley",
+        "city_town": "Ziro",
+        "type": "Valley / Cultural",
+        "hidden_gem": false,
+        "visit_duration": "2-3 days",
+        "budget_in_inr": 2000,
+        "latitude": 27.63,
+        "longitude": 93.82,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Ziro Budget Stay",
+                    "price_per_night": 506
+                },
+                {
+                    "hotel_name": "Ziro Comfort Lodge",
+                    "price_per_night": 963
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Ziro Grand Resort",
+                    "price_per_night": 7562
+                },
+                {
+                    "hotel_name": "Ziro Royal Palace Hotel",
+                    "price_per_night": 7029
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Talley Valley Wildlife Sanctuary",
+        "city_town": "Ziro",
+        "type": "Wildlife",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "latitude": 27.588,
+        "longitude": 93.81,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Ziro Budget Stay",
+                    "price_per_night": 529
+                },
+                {
+                    "hotel_name": "Ziro Comfort Lodge",
+                    "price_per_night": 781
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Ziro Grand Resort",
+                    "price_per_night": 8382
+                },
+                {
+                    "hotel_name": "Ziro Royal Palace Hotel",
+                    "price_per_night": 8292
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Meghna Cave Temple",
+        "city_town": "Ziro",
+        "type": "Religious Site",
+        "hidden_gem": true,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 500,
+        "latitude": 27.545,
+        "longitude": 93.819,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Ziro Budget Stay",
+                    "price_per_night": 923
+                },
+                {
+                    "hotel_name": "Ziro Comfort Lodge",
+                    "price_per_night": 889
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Ziro Grand Resort",
+                    "price_per_night": 10081
+                },
+                {
+                    "hotel_name": "Ziro Royal Palace Hotel",
+                    "price_per_night": 10537
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Namdapha National Park",
+        "city_town": "Miao",
+        "type": "National Park",
+        "hidden_gem": false,
+        "visit_duration": "2-4 days",
+        "budget_in_inr": 2500,
+        "latitude": 27.03,
+        "longitude": 96.07,
+        "budget_category": "Medium",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Miao Budget Stay",
+                    "price_per_night": 750
+                },
+                {
+                    "hotel_name": "Miao Comfort Lodge",
+                    "price_per_night": 538
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Miao Grand Resort",
+                    "price_per_night": 7840
+                },
+                {
+                    "hotel_name": "Miao Royal Palace Hotel",
+                    "price_per_night": 6693
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Miao Mini Zoo",
+        "city_town": "Miao",
+        "type": "Wildlife",
+        "hidden_gem": true,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 500,
+        "latitude": 27.5,
+        "longitude": 96.35,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Miao Budget Stay",
+                    "price_per_night": 745
+                },
+                {
+                    "hotel_name": "Miao Comfort Lodge",
+                    "price_per_night": 940
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Miao Grand Resort",
+                    "price_per_night": 10612
+                },
+                {
+                    "hotel_name": "Miao Royal Palace Hotel",
+                    "price_per_night": 9112
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Bomdila",
+        "city_town": "Bomdila",
+        "type": "Hill Station",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 2000,
+        "latitude": 27.25,
+        "longitude": 92.4,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Bomdila Budget Stay",
+                    "price_per_night": 450
+                },
+                {
+                    "hotel_name": "Bomdila Comfort Lodge",
+                    "price_per_night": 869
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Bomdila Grand Resort",
+                    "price_per_night": 9660
+                },
+                {
+                    "hotel_name": "Bomdila Royal Palace Hotel",
+                    "price_per_night": 5204
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Bomdila Monastery",
+        "city_town": "Bomdila",
+        "type": "Monastery",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 500,
+        "latitude": 27.2642,
+        "longitude": 92.4012,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Bomdila Budget Stay",
+                    "price_per_night": 655
+                },
+                {
+                    "hotel_name": "Bomdila Comfort Lodge",
+                    "price_per_night": 511
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Bomdila Grand Resort",
+                    "price_per_night": 7562
+                },
+                {
+                    "hotel_name": "Bomdila Royal Palace Hotel",
+                    "price_per_night": 9452
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Sessa Orchid Sanctuary",
+        "city_town": "Sessa",
+        "type": "Botanical Sanctuary",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "latitude": 27.4,
+        "longitude": 92.5833,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Sessa Budget Stay",
+                    "price_per_night": 934
+                },
+                {
+                    "hotel_name": "Sessa Comfort Lodge",
+                    "price_per_night": 816
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Sessa Grand Resort",
+                    "price_per_night": 6367
+                },
+                {
+                    "hotel_name": "Sessa Royal Palace Hotel",
+                    "price_per_night": 8658
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Dirang",
+        "city_town": "Dirang",
+        "type": "Hill Station",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 2000,
+        "latitude": 27.449,
+        "longitude": 92.404,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Dirang Budget Stay",
+                    "price_per_night": 685
+                },
+                {
+                    "hotel_name": "Dirang Comfort Lodge",
+                    "price_per_night": 911
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Dirang Grand Resort",
+                    "price_per_night": 5959
+                },
+                {
+                    "hotel_name": "Dirang Royal Palace Hotel",
+                    "price_per_night": 6956
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Sangti Valley",
+        "city_town": "Dirang",
+        "type": "Valley",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1000,
+        "latitude": 27.433,
+        "longitude": 92.396,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Dirang Budget Stay",
+                    "price_per_night": 586
+                },
+                {
+                    "hotel_name": "Dirang Comfort Lodge",
+                    "price_per_night": 681
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Dirang Grand Resort",
+                    "price_per_night": 5765
+                },
+                {
+                    "hotel_name": "Dirang Royal Palace Hotel",
+                    "price_per_night": 7504
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Hot Water Springs Dirang",
+        "city_town": "Dirang",
+        "type": "Hot Spring",
+        "hidden_gem": true,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 500,
+        "latitude": 27.4505,
+        "longitude": 92.4035,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Dirang Budget Stay",
+                    "price_per_night": 401
+                },
+                {
+                    "hotel_name": "Dirang Comfort Lodge",
+                    "price_per_night": 877
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Dirang Grand Resort",
+                    "price_per_night": 7990
+                },
+                {
+                    "hotel_name": "Dirang Royal Palace Hotel",
+                    "price_per_night": 11320
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Itanagar",
+        "city_town": "Itanagar",
+        "type": "Capital City",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "latitude": 27.0844,
+        "longitude": 93.6053,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Itanagar Budget Stay",
+                    "price_per_night": 807
+                },
+                {
+                    "hotel_name": "Itanagar Comfort Lodge",
+                    "price_per_night": 791
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Itanagar Grand Resort",
+                    "price_per_night": 6242
+                },
+                {
+                    "hotel_name": "Itanagar Royal Palace Hotel",
+                    "price_per_night": 5373
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Ita Fort",
+        "city_town": "Itanagar",
+        "type": "Historical Site",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 500,
+        "latitude": 27.102,
+        "longitude": 93.616,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Itanagar Budget Stay",
+                    "price_per_night": 627
+                },
+                {
+                    "hotel_name": "Itanagar Comfort Lodge",
+                    "price_per_night": 422
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Itanagar Grand Resort",
+                    "price_per_night": 11040
+                },
+                {
+                    "hotel_name": "Itanagar Royal Palace Hotel",
+                    "price_per_night": 7700
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Ganga Lake (Gyakar Sinyi)",
+        "city_town": "Itanagar",
+        "type": "Lake",
+        "hidden_gem": true,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 500,
+        "latitude": 27.123,
+        "longitude": 93.658,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Itanagar Budget Stay",
+                    "price_per_night": 673
+                },
+                {
+                    "hotel_name": "Itanagar Comfort Lodge",
+                    "price_per_night": 961
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Itanagar Grand Resort",
+                    "price_per_night": 10915
+                },
+                {
+                    "hotel_name": "Itanagar Royal Palace Hotel",
+                    "price_per_night": 9019
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Pasighat",
+        "city_town": "Pasighat",
+        "type": "Riverside Town",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "latitude": 28.0708,
+        "longitude": 95.33,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Pasighat Budget Stay",
+                    "price_per_night": 589
+                },
+                {
+                    "hotel_name": "Pasighat Comfort Lodge",
+                    "price_per_night": 459
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Pasighat Grand Resort",
+                    "price_per_night": 11249
+                },
+                {
+                    "hotel_name": "Pasighat Royal Palace Hotel",
+                    "price_per_night": 8746
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Daying Ering Wildlife Sanctuary",
+        "city_town": "Pasighat",
+        "type": "Wildlife Sanctuary",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1000,
+        "latitude": 28.058,
+        "longitude": 95.35,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Pasighat Budget Stay",
+                    "price_per_night": 984
+                },
+                {
+                    "hotel_name": "Pasighat Comfort Lodge",
+                    "price_per_night": 502
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Pasighat Grand Resort",
+                    "price_per_night": 11185
+                },
+                {
+                    "hotel_name": "Pasighat Royal Palace Hotel",
+                    "price_per_night": 5390
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Roing",
+        "city_town": "Roing",
+        "type": "Nature Town",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "latitude": 28.13,
+        "longitude": 95.83,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Roing Budget Stay",
+                    "price_per_night": 994
+                },
+                {
+                    "hotel_name": "Roing Comfort Lodge",
+                    "price_per_night": 669
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Roing Grand Resort",
+                    "price_per_night": 11929
+                },
+                {
+                    "hotel_name": "Roing Royal Palace Hotel",
+                    "price_per_night": 8552
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Mehao Lake",
+        "city_town": "Roing",
+        "type": "Lake",
+        "hidden_gem": true,
+        "visit_duration": "Half day",
+        "budget_in_inr": 1000,
+        "latitude": 28.156,
+        "longitude": 95.854,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Roing Budget Stay",
+                    "price_per_night": 631
+                },
+                {
+                    "hotel_name": "Roing Comfort Lodge",
+                    "price_per_night": 580
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Roing Grand Resort",
+                    "price_per_night": 8147
+                },
+                {
+                    "hotel_name": "Roing Royal Palace Hotel",
+                    "price_per_night": 6847
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Mayodia Pass",
+        "city_town": "Roing",
+        "type": "Mountain Pass",
+        "hidden_gem": true,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 1000,
+        "latitude": 28.2,
+        "longitude": 95.7,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Roing Budget Stay",
+                    "price_per_night": 914
+                },
+                {
+                    "hotel_name": "Roing Comfort Lodge",
+                    "price_per_night": 570
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Roing Grand Resort",
+                    "price_per_night": 11519
+                },
+                {
+                    "hotel_name": "Roing Royal Palace Hotel",
+                    "price_per_night": 11839
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Tezu",
+        "city_town": "Tezu",
+        "type": "Town",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "latitude": 27.9167,
+        "longitude": 96.1667,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tezu Budget Stay",
+                    "price_per_night": 791
+                },
+                {
+                    "hotel_name": "Tezu Comfort Lodge",
+                    "price_per_night": 798
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tezu Grand Resort",
+                    "price_per_night": 7650
+                },
+                {
+                    "hotel_name": "Tezu Royal Palace Hotel",
+                    "price_per_night": 7548
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Parshuram Kund",
+        "city_town": "Tezu",
+        "type": "Pilgrimage",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1000,
+        "latitude": 28.114,
+        "longitude": 96.244,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tezu Budget Stay",
+                    "price_per_night": 710
+                },
+                {
+                    "hotel_name": "Tezu Comfort Lodge",
+                    "price_per_night": 550
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tezu Grand Resort",
+                    "price_per_night": 5769
+                },
+                {
+                    "hotel_name": "Tezu Royal Palace Hotel",
+                    "price_per_night": 7636
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Glow Lake",
+        "city_town": "Tezu",
+        "type": "High Altitude Lake",
+        "hidden_gem": true,
+        "visit_duration": "1 day trek",
+        "budget_in_inr": 1500,
+        "latitude": 28.145,
+        "longitude": 96.255,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tezu Budget Stay",
+                    "price_per_night": 993
+                },
+                {
+                    "hotel_name": "Tezu Comfort Lodge",
+                    "price_per_night": 491
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tezu Grand Resort",
+                    "price_per_night": 6494
+                },
+                {
+                    "hotel_name": "Tezu Royal Palace Hotel",
+                    "price_per_night": 7804
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Mechuka Valley",
+        "city_town": "Mechuka",
+        "type": "Valley",
+        "hidden_gem": false,
+        "visit_duration": "2-4 days",
+        "budget_in_inr": 2000,
+        "latitude": 28.07,
+        "longitude": 95.34,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mechuka Budget Stay",
+                    "price_per_night": 561
+                },
+                {
+                    "hotel_name": "Mechuka Comfort Lodge",
+                    "price_per_night": 838
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mechuka Grand Resort",
+                    "price_per_night": 9125
+                },
+                {
+                    "hotel_name": "Mechuka Royal Palace Hotel",
+                    "price_per_night": 9152
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Samten Yongcha Monastery",
+        "city_town": "Mechuka",
+        "type": "Monastery",
+        "hidden_gem": true,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 500,
+        "latitude": 28.072,
+        "longitude": 95.339,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mechuka Budget Stay",
+                    "price_per_night": 628
+                },
+                {
+                    "hotel_name": "Mechuka Comfort Lodge",
+                    "price_per_night": 667
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mechuka Grand Resort",
+                    "price_per_night": 11451
+                },
+                {
+                    "hotel_name": "Mechuka Royal Palace Hotel",
+                    "price_per_night": 9919
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Gorichen Peak",
+        "city_town": "Tawang",
+        "type": "Mountain Peak",
+        "hidden_gem": true,
+        "visit_duration": "2 days trek",
+        "budget_in_inr": 3000,
+        "latitude": 27.73,
+        "longitude": 92.47,
+        "budget_category": "Medium",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tawang Budget Stay",
+                    "price_per_night": 764
+                },
+                {
+                    "hotel_name": "Tawang Comfort Lodge",
+                    "price_per_night": 980
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tawang Grand Resort",
+                    "price_per_night": 9061
+                },
+                {
+                    "hotel_name": "Tawang Royal Palace Hotel",
+                    "price_per_night": 5973
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Kibithu",
+        "city_town": "Anjaw",
+        "type": "Border Village",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "latitude": 28.0167,
+        "longitude": 97.0167,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Anjaw Budget Stay",
+                    "price_per_night": 444
+                },
+                {
+                    "hotel_name": "Anjaw Comfort Lodge",
+                    "price_per_night": 517
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Anjaw Grand Resort",
+                    "price_per_night": 5018
+                },
+                {
+                    "hotel_name": "Anjaw Royal Palace Hotel",
+                    "price_per_night": 11413
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Walong",
+        "city_town": "Anjaw",
+        "type": "Historic Valley",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 2000,
+        "latitude": 27.9,
+        "longitude": 96.8,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Anjaw Budget Stay",
+                    "price_per_night": 534
+                },
+                {
+                    "hotel_name": "Anjaw Comfort Lodge",
+                    "price_per_night": 828
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Anjaw Grand Resort",
+                    "price_per_night": 11063
+                },
+                {
+                    "hotel_name": "Anjaw Royal Palace Hotel",
+                    "price_per_night": 11724
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Hayuliang",
+        "city_town": "Anjaw",
+        "type": "Scenic Town",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "latitude": 28.07,
+        "longitude": 96.54,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Anjaw Budget Stay",
+                    "price_per_night": 627
+                },
+                {
+                    "hotel_name": "Anjaw Comfort Lodge",
+                    "price_per_night": 708
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Anjaw Grand Resort",
+                    "price_per_night": 6707
+                },
+                {
+                    "hotel_name": "Anjaw Royal Palace Hotel",
+                    "price_per_night": 5938
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Seppa",
+        "city_town": "Seppa",
+        "type": "Town",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "latitude": 27.5333,
+        "longitude": 93.0167,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Seppa Budget Stay",
+                    "price_per_night": 865
+                },
+                {
+                    "hotel_name": "Seppa Comfort Lodge",
+                    "price_per_night": 978
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Seppa Grand Resort",
+                    "price_per_night": 9618
+                },
+                {
+                    "hotel_name": "Seppa Royal Palace Hotel",
+                    "price_per_night": 11718
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Bhismaknagar Fort",
+        "city_town": "Roing",
+        "type": "Archaeological Site",
+        "hidden_gem": true,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 500,
+        "latitude": 28.096,
+        "longitude": 95.783,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Roing Budget Stay",
+                    "price_per_night": 855
+                },
+                {
+                    "hotel_name": "Roing Comfort Lodge",
+                    "price_per_night": 682
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Roing Grand Resort",
+                    "price_per_night": 8650
+                },
+                {
+                    "hotel_name": "Roing Royal Palace Hotel",
+                    "price_per_night": 11578
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Golden Pagoda (Kongmu Kham)",
+        "city_town": "Namsai",
+        "type": "Buddhist Temple",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 500,
+        "latitude": 27.5006,
+        "longitude": 96.3781,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Namsai Budget Stay",
+                    "price_per_night": 949
+                },
+                {
+                    "hotel_name": "Namsai Comfort Lodge",
+                    "price_per_night": 579
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Namsai Grand Resort",
+                    "price_per_night": 6484
+                },
+                {
+                    "hotel_name": "Namsai Royal Palace Hotel",
+                    "price_per_night": 5580
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Nuranang Falls",
+        "city_town": "Tawang",
+        "type": "Waterfall",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 500,
+        "latitude": 27.495,
+        "longitude": 91.881,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tawang Budget Stay",
+                    "price_per_night": 457
+                },
+                {
+                    "hotel_name": "Tawang Comfort Lodge",
+                    "price_per_night": 468
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tawang Grand Resort",
+                    "price_per_night": 11710
+                },
+                {
+                    "hotel_name": "Tawang Royal Palace Hotel",
+                    "price_per_night": 9193
+                }
+            ]
+        }
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "place_name": "Sela Pass",
+        "city_town": "Tawang",
+        "type": "Mountain Pass",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 1000,
+        "latitude": 27.501,
+        "longitude": 92.113,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Tawang Budget Stay",
+                    "price_per_night": 525
+                },
+                {
+                    "hotel_name": "Tawang Comfort Lodge",
+                    "price_per_night": 698
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Tawang Grand Resort",
+                    "price_per_night": 6314
+                },
+                {
+                    "hotel_name": "Tawang Royal Palace Hotel",
+                    "price_per_night": 11635
+                }
+            ]
+        }
+    }
+]

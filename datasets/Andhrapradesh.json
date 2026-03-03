@@ -1,0 +1,1329 @@
+[
+  {
+    "state": "Andhra Pradesh",
+    "district": "Tirupati",
+    "place_name": "Tirumala",
+    "city_town": "Tirupati",
+    "type": "Pilgrimage",
+    "importance": "One of the world's most visited Hindu temples",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "best_season": "September to March",
+    "annual_visitors_est": 25000000,
+    "latitude": 13.6830,
+    "longitude": 79.3470,
+    "average_budget_in_inr": 6000,
+    "budget_category": "Medium",
+    "nearest_airport": "Tirupati Airport (TIR)",
+    "nearest_railway_station": "Tirupati",
+    "accommodation": {
+      "budget": [
+        { "name": "TTD Guest House", "avg_price_per_night": 800 }
+      ],
+      "mid_range": [
+        { "name": "Hotel Bliss", "avg_price_per_night": 3000 }
+      ],
+      "luxury": [
+        { "name": "Fortune Select Grand Ridge", "avg_price_per_night": 7500 }
+      ]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Tirupati",
+    "place_name": "Sri Kalahasti",
+    "city_town": "Srikalahasti",
+    "type": "Pilgrimage",
+    "importance": "Famous Vayu Lingam temple dedicated to Lord Shiva",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 4000000,
+    "latitude": 13.7498,
+    "longitude": 79.7036,
+    "average_budget_in_inr": 3500,
+    "budget_category": "Low",
+    "nearest_airport": "Tirupati Airport (TIR)",
+    "nearest_railway_station": "Srikalahasti",
+    "accommodation": {
+      "budget": [
+        { "name": "Kalahasti Residency", "avg_price_per_night": 1200 }
+      ],
+      "mid_range": [
+        { "name": "Hotel MGM Grand", "avg_price_per_night": 3000 }
+      ],
+      "luxury": [
+        { "name": "RVR Sarovar Portico", "avg_price_per_night": 6500 }
+      ]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Nandyal",
+    "place_name": "Srisailam",
+    "city_town": "Srisailam",
+    "type": "Pilgrimage / Nature",
+    "importance": "One of the 12 Jyotirlingas located in Nallamala Hills",
+    "hidden_gem": false,
+    "visit_duration": "2 Days",
+    "best_season": "September to March",
+    "annual_visitors_est": 10000000,
+    "latitude": 16.0728,
+    "longitude": 78.8684,
+    "average_budget_in_inr": 6000,
+    "budget_category": "Medium",
+    "nearest_airport": "Rajiv Gandhi International Airport (HYD)",
+    "nearest_railway_station": "Markapur Road",
+    "accommodation": {
+      "budget": [
+        { "name": "Haritha Hotel", "avg_price_per_night": 1500 }
+      ],
+      "mid_range": [
+        { "name": "Punnami Srisailam", "avg_price_per_night": 3500 }
+      ],
+      "luxury": [
+        { "name": "Mallikarjuna Residency", "avg_price_per_night": 7000 }
+      ]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Visakhapatnam",
+    "place_name": "Ramakrishna Beach",
+    "city_town": "Visakhapatnam",
+    "type": "Beach",
+    "importance": "Major urban beach along Bay of Bengal",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 5000000,
+    "latitude": 17.7149,
+    "longitude": 83.3237,
+    "average_budget_in_inr": 7000,
+    "budget_category": "Medium",
+    "nearest_airport": "Visakhapatnam Airport (VTZ)",
+    "nearest_railway_station": "Visakhapatnam",
+    "accommodation": {
+      "budget": [
+        { "name": "Hotel Meghalaya", "avg_price_per_night": 2000 }
+      ],
+      "mid_range": [
+        { "name": "Dolphin Hotel", "avg_price_per_night": 3500 }
+      ],
+      "luxury": [
+        { "name": "Novotel Visakhapatnam", "avg_price_per_night": 8500 }
+      ]
+    }
+  },
+
+  {
+    "state": "Andhra Pradesh",
+    "district": "Visakhapatnam",
+    "place_name": "Kailasagiri",
+    "city_town": "Visakhapatnam",
+    "type": "Hilltop / Viewpoint",
+    "importance": "Panoramic city and sea viewpoint with Shiva-Parvati statue",
+    "hidden_gem": false,
+    "visit_duration": "4-5 Hours",
+    "best_season": "October to March",
+    "annual_visitors_est": 1500000,
+    "latitude": 17.7498,
+    "longitude": 83.3453,
+    "average_budget_in_inr": 2000,
+    "budget_category": "Low",
+    "nearest_airport": "Visakhapatnam Airport (VTZ)",
+    "nearest_railway_station": "Visakhapatnam",
+    "accommodation": {
+      "budget": [
+        { "name": "Vizag Budget Inn", "avg_price_per_night": 1500 }
+      ],
+      "mid_range": [
+        { "name": "The Gateway Hotel", "avg_price_per_night": 4000 }
+      ],
+      "luxury": [
+        { "name": "Novotel Varun Beach", "avg_price_per_night": 9000 }
+      ]
+    }
+  },
+
+  {
+    "state": "Andhra Pradesh",
+    "district": "Alluri Sitharama Raju",
+    "place_name": "Araku Valley",
+    "city_town": "Araku",
+    "type": "Hill Station",
+    "importance": "Eastern Ghats valley known for tribal culture and coffee plantations",
+    "hidden_gem": false,
+    "visit_duration": "2 Days",
+    "best_season": "October to February",
+    "annual_visitors_est": 800000,
+    "latitude": 18.3270,
+    "longitude": 82.8800,
+    "average_budget_in_inr": 7000,
+    "budget_category": "Medium",
+    "nearest_airport": "Visakhapatnam Airport (VTZ)",
+    "nearest_railway_station": "Araku",
+    "accommodation": {
+      "budget": [
+        { "name": "Haritha Valley Resort", "avg_price_per_night": 1500 }
+      ],
+      "mid_range": [
+        { "name": "Casa Holiday Resort", "avg_price_per_night": 4000 }
+      ],
+      "luxury": [
+        { "name": "Dharani Resort", "avg_price_per_night": 6500 }
+      ]
+    }
+  },
+
+  {
+    "state": "Andhra Pradesh",
+    "district": "Alluri Sitharama Raju",
+    "place_name": "Borra Caves",
+    "city_town": "Borra",
+    "type": "Cave",
+    "importance": "One of India's largest limestone caves",
+    "hidden_gem": false,
+    "visit_duration": "3 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 500000,
+    "latitude": 18.2798,
+    "longitude": 83.0416,
+    "average_budget_in_inr": 2000,
+    "budget_category": "Low",
+    "nearest_airport": "Visakhapatnam Airport (VTZ)",
+    "nearest_railway_station": "Borra Guhalu",
+    "accommodation": {
+      "budget": [
+        { "name": "Araku Budget Stay", "avg_price_per_night": 1200 }
+      ],
+      "mid_range": [
+        { "name": "Haritha Resort", "avg_price_per_night": 3500 }
+      ],
+      "luxury": [
+        { "name": "Dharani Resort", "avg_price_per_night": 6500 }
+      ]
+    }
+  },
+
+  {
+    "state": "Andhra Pradesh",
+    "district": "YSR Kadapa",
+    "place_name": "Gandikota",
+    "city_town": "Gandikota",
+    "type": "Canyon / Heritage",
+    "importance": "Grand Canyon of India on Penna River gorge",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "best_season": "October to February",
+    "annual_visitors_est": 300000,
+    "latitude": 14.8167,
+    "longitude": 78.2833,
+    "average_budget_in_inr": 4000,
+    "budget_category": "Medium",
+    "nearest_airport": "Kadapa Airport (CDP)",
+    "nearest_railway_station": "Jammalamadugu",
+    "accommodation": {
+      "budget": [
+        { "name": "Haritha Resort Gandikota", "avg_price_per_night": 1500 }
+      ],
+      "mid_range": [
+        { "name": "Kadapa Residency", "avg_price_per_night": 3500 }
+      ],
+      "luxury": [
+        { "name": "Royal Comfort Inn", "avg_price_per_night": 6000 }
+      ]
+    }
+  }
+]
+[
+  {
+    "state": "Andhra Pradesh",
+    "district": "Visakhapatnam",
+    "place_name": "Rushikonda Beach",
+    "city_town": "Visakhapatnam",
+    "type": "Beach",
+    "importance": "Popular Blue Flag certified beach known for water sports",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 1200000,
+    "latitude": 17.7820,
+    "longitude": 83.3850,
+    "average_budget_in_inr": 6000,
+    "budget_category": "Medium",
+    "nearest_airport": "Visakhapatnam Airport (VTZ)",
+    "nearest_railway_station": "Visakhapatnam",
+    "accommodation": {
+      "budget": [{ "name": "Beach View Stay", "avg_price_per_night": 1800 }],
+      "mid_range": [{ "name": "Fairfield by Marriott", "avg_price_per_night": 4500 }],
+      "luxury": [{ "name": "Radisson Blu Resort", "avg_price_per_night": 9000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Visakhapatnam",
+    "place_name": "INS Kurusura Submarine Museum",
+    "city_town": "Visakhapatnam",
+    "type": "Museum",
+    "importance": "India's first submarine museum",
+    "hidden_gem": false,
+    "visit_duration": "2 Hours",
+    "best_season": "October to March",
+    "annual_visitors_est": 800000,
+    "latitude": 17.7126,
+    "longitude": 83.3235,
+    "average_budget_in_inr": 2500,
+    "budget_category": "Low",
+    "nearest_airport": "Visakhapatnam Airport (VTZ)",
+    "nearest_railway_station": "Visakhapatnam",
+    "accommodation": {
+      "budget": [{ "name": "Hotel Meghalaya", "avg_price_per_night": 2000 }],
+      "mid_range": [{ "name": "Dolphin Hotel", "avg_price_per_night": 3500 }],
+      "luxury": [{ "name": "Novotel Visakhapatnam", "avg_price_per_night": 8500 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Anakapalli",
+    "place_name": "Thotlakonda Buddhist Complex",
+    "city_town": "Bheemunipatnam",
+    "type": "Buddhist Heritage",
+    "importance": "Ancient Buddhist monastery dating to 3rd century BCE",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 150000,
+    "latitude": 17.8227,
+    "longitude": 83.4103,
+    "average_budget_in_inr": 2500,
+    "budget_category": "Low",
+    "nearest_airport": "Visakhapatnam Airport (VTZ)",
+    "nearest_railway_station": "Anakapalli",
+    "accommodation": {
+      "budget": [{ "name": "Bheemili Budget Stay", "avg_price_per_night": 1500 }],
+      "mid_range": [{ "name": "Daspalla Executive Court", "avg_price_per_night": 4000 }],
+      "luxury": [{ "name": "Radisson Blu Resort", "avg_price_per_night": 9000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kakinada",
+    "place_name": "Coringa Wildlife Sanctuary",
+    "city_town": "Kakinada",
+    "type": "Wildlife / Mangrove",
+    "importance": "Second largest mangrove forest in India",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "best_season": "November to February",
+    "annual_visitors_est": 200000,
+    "latitude": 16.8103,
+    "longitude": 82.2690,
+    "average_budget_in_inr": 4000,
+    "budget_category": "Medium",
+    "nearest_airport": "Rajahmundry Airport (RJA)",
+    "nearest_railway_station": "Kakinada Town",
+    "accommodation": {
+      "budget": [{ "name": "Kakinada Lodge", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Royal Park Hotel", "avg_price_per_night": 3500 }],
+      "luxury": [{ "name": "Grand Kakinada", "avg_price_per_night": 7000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Konaseema",
+    "place_name": "Dindi Backwaters",
+    "city_town": "Dindi",
+    "type": "Backwaters / Eco Tourism",
+    "importance": "Scenic Godavari delta backwater tourism hub",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "best_season": "October to February",
+    "annual_visitors_est": 120000,
+    "latitude": 16.6535,
+    "longitude": 82.1495,
+    "average_budget_in_inr": 8000,
+    "budget_category": "Medium",
+    "nearest_airport": "Rajahmundry Airport (RJA)",
+    "nearest_railway_station": "Palakollu",
+    "accommodation": {
+      "budget": [{ "name": "Dindi Haritha Resort", "avg_price_per_night": 2000 }],
+      "mid_range": [{ "name": "Backwater Resort", "avg_price_per_night": 5000 }],
+      "luxury": [{ "name": "Sterling Dindi", "avg_price_per_night": 9500 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "place_name": "Kondapalli Fort",
+    "city_town": "Kondapalli",
+    "type": "Fort / Heritage",
+    "importance": "Historic fort built during 14th century",
+    "hidden_gem": true,
+    "visit_duration": "3 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 100000,
+    "latitude": 16.6200,
+    "longitude": 80.5315,
+    "average_budget_in_inr": 2500,
+    "budget_category": "Low",
+    "nearest_airport": "Vijayawada Airport (VGA)",
+    "nearest_railway_station": "Vijayawada",
+    "accommodation": {
+      "budget": [{ "name": "Hotel Ilapuram", "avg_price_per_night": 1500 }],
+      "mid_range": [{ "name": "Quality Hotel DV Manor", "avg_price_per_night": 4000 }],
+      "luxury": [{ "name": "Novotel Vijayawada", "avg_price_per_night": 8500 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Bapatla",
+    "place_name": "Suryalanka Beach",
+    "city_town": "Bapatla",
+    "type": "Beach",
+    "importance": "Quiet coastal beach known for sunrise views",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 300000,
+    "latitude": 15.8415,
+    "longitude": 80.4660,
+    "average_budget_in_inr": 3500,
+    "budget_category": "Low",
+    "nearest_airport": "Vijayawada Airport (VGA)",
+    "nearest_railway_station": "Bapatla",
+    "accommodation": {
+      "budget": [{ "name": "Suryalanka Beach Stay", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Haritha Beach Resort", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Beach Resort Deluxe", "avg_price_per_night": 6000 }]
+    }
+  }
+]
+[
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "place_name": "Amaravati",
+    "city_town": "Amaravati",
+    "type": "Heritage / Buddhist",
+    "importance": "Ancient capital of Satavahana dynasty; major Buddhist site",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "best_season": "October to February",
+    "annual_visitors_est": 500000,
+    "latitude": 16.5722,
+    "longitude": 80.3570,
+    "average_budget_in_inr": 3500,
+    "budget_category": "Low",
+    "nearest_airport": "Vijayawada Airport (VGA)",
+    "nearest_railway_station": "Vijayawada",
+    "accommodation": {
+      "budget": [{ "name": "Amaravati Lodge", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Hotel Sai Leela", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Novotel Vijayawada", "avg_price_per_night": 8500 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "place_name": "Bhavani Island",
+    "city_town": "Vijayawada",
+    "type": "Island / Leisure",
+    "importance": "Island in Krishna River, popular for boating and entertainment",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "best_season": "October to February",
+    "annual_visitors_est": 400000,
+    "latitude": 16.5130,
+    "longitude": 80.6135,
+    "average_budget_in_inr": 3000,
+    "budget_category": "Medium",
+    "nearest_airport": "Vijayawada Airport (VGA)",
+    "nearest_railway_station": "Vijayawada",
+    "accommodation": {
+      "budget": [{ "name": "Budget Stay Vijayawada", "avg_price_per_night": 1500 }],
+      "mid_range": [{ "name": "Fortune Murali Park", "avg_price_per_night": 3500 }],
+      "luxury": [{ "name": "Novotel Vijayawada", "avg_price_per_night": 8500 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "place_name": "Coringa Mangrove Park",
+    "city_town": "Kakinada",
+    "type": "Nature / Eco Tourism",
+    "importance": "Part of Coringa Wildlife Sanctuary, rich in mangroves and migratory birds",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "best_season": "November to February",
+    "annual_visitors_est": 100000,
+    "latitude": 16.8230,
+    "longitude": 82.2900,
+    "average_budget_in_inr": 3000,
+    "budget_category": "Low",
+    "nearest_airport": "Rajahmundry Airport (RJA)",
+    "nearest_railway_station": "Kakinada Town",
+    "accommodation": {
+      "budget": [{ "name": "Coringa Guest House", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Haritha Resort", "avg_price_per_night": 3500 }],
+      "luxury": [{ "name": "Godavari Grand Resort", "avg_price_per_night": 7000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "place_name": "Dwaraka Tirumala",
+    "city_town": "Eluru",
+    "type": "Pilgrimage",
+    "importance": "Famous hill temple of Lord Venkateswara in West Godavari",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "best_season": "September to March",
+    "annual_visitors_est": 2000000,
+    "latitude": 16.8985,
+    "longitude": 81.1330,
+    "average_budget_in_inr": 4000,
+    "budget_category": "Medium",
+    "nearest_airport": "Vijayawada Airport (VGA)",
+    "nearest_railway_station": "Eluru",
+    "accommodation": {
+      "budget": [{ "name": "Haritha Guest House", "avg_price_per_night": 1500 }],
+      "mid_range": [{ "name": "Hotel Regency Eluru", "avg_price_per_night": 3500 }],
+      "luxury": [{ "name": "Grand Comfort Inn", "avg_price_per_night": 7000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "place_name": "Mangalagiri",
+    "city_town": "Mangalagiri",
+    "type": "Pilgrimage / Heritage",
+    "importance": "Ancient temple town famous for Panakala Narasimha Swamy Temple",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "best_season": "September to March",
+    "annual_visitors_est": 1500000,
+    "latitude": 16.4325,
+    "longitude": 80.6410,
+    "average_budget_in_inr": 3000,
+    "budget_category": "Low",
+    "nearest_airport": "Vijayawada Airport (VGA)",
+    "nearest_railway_station": "Vijayawada",
+    "accommodation": {
+      "budget": [{ "name": "Budget Inn Mangalagiri", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Hotel Bliss", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Fortune Inn", "avg_price_per_night": 6500 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "place_name": "Palakol",
+    "city_town": "Palakol",
+    "type": "Cultural / Heritage",
+    "importance": "Town famous for local temples and festivals",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 50000,
+    "latitude": 16.5660,
+    "longitude": 81.7000,
+    "average_budget_in_inr": 2000,
+    "budget_category": "Low",
+    "nearest_airport": "Vijayawada Airport (VGA)",
+    "nearest_railway_station": "Palakollu",
+    "accommodation": {
+      "budget": [{ "name": "Palakol Lodge", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Hotel Lakshmi", "avg_price_per_night": 2500 }],
+      "luxury": [{ "name": "River View Inn", "avg_price_per_night": 5000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "place_name": "Rajahmundry Godavari Bridge",
+    "city_town": "Rajahmundry",
+    "type": "Engineering / Landmark",
+    "importance": "Iconic bridge over Godavari River, popular sightseeing spot",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 300000,
+    "latitude": 16.9900,
+    "longitude": 81.7700,
+    "average_budget_in_inr": 2500,
+    "budget_category": "Low",
+    "nearest_airport": "Rajahmundry Airport (RJA)",
+    "nearest_railway_station": "Rajahmundry",
+    "accommodation": {
+      "budget": [{ "name": "Budget Stay Rajahmundry", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Hotel Haritha", "avg_price_per_night": 3500 }],
+      "luxury": [{ "name": "The Gateway Hotel Godavari", "avg_price_per_night": 7500 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "place_name": "Bhimavaram",
+    "city_town": "Bhimavaram",
+    "type": "Cultural / Pilgrimage",
+    "importance": "Known as 'Second Bardoli' for temples and local culture",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "best_season": "October to February",
+    "annual_visitors_est": 80000,
+    "latitude": 16.5440,
+    "longitude": 81.5230,
+    "average_budget_in_inr": 2000,
+    "budget_category": "Low",
+    "nearest_airport": "Vijayawada Airport (VGA)",
+    "nearest_railway_station": "Bhimavaram Town",
+    "accommodation": {
+      "budget": [{ "name": "Bhimavaram Budget Stay", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Hotel Grand Lakshmi", "avg_price_per_night": 2500 }],
+      "luxury": [{ "name": "Haritha Resort Deluxe", "avg_price_per_night": 6000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "place_name": "Papi Hills",
+    "city_town": "Rajahmundry",
+    "type": "Hill / Nature",
+    "importance": "Scenic hills along Godavari River, popular for cruises",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "best_season": "October to February",
+    "annual_visitors_est": 150000,
+    "latitude": 17.0000,
+    "longitude": 81.8000,
+    "average_budget_in_inr": 5000,
+    "budget_category": "Medium",
+    "nearest_airport": "Rajahmundry Airport (RJA)",
+    "nearest_railway_station": "Rajahmundry",
+    "accommodation": {
+      "budget": [{ "name": "Papi Hills Budget Stay", "avg_price_per_night": 1500 }],
+      "mid_range": [{ "name": "Hotel Godavari View", "avg_price_per_night": 4000 }],
+      "luxury": [{ "name": "Resort Papi Hills", "avg_price_per_night": 9000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "place_name": "Vijayawada Kanaka Durga Temple",
+    "city_town": "Vijayawada",
+    "type": "Pilgrimage",
+    "importance": "Famous temple dedicated to Goddess Durga on Indrakeeladri hill",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "best_season": "September to March",
+    "annual_visitors_est": 3000000,
+    "latitude": 16.5100,
+    "longitude": 80.6320,
+    "average_budget_in_inr": 3500,
+    "budget_category": "Medium",
+    "nearest_airport": "Vijayawada Airport (VGA)",
+    "nearest_railway_station": "Vijayawada",
+    "accommodation": {
+      "budget": [{ "name": "Budget Stay Vijayawada", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Hotel Bliss", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Fortune Inn", "avg_price_per_night": 6500 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "place_name": "Undavalli Caves",
+    "city_town": "Undavalli",
+    "type": "Heritage / Cave",
+    "importance": "Rock-cut caves from 4th-5th century, showcasing Gupta style architecture",
+    "hidden_gem": false,
+    "visit_duration": "2 Hours",
+    "best_season": "October to February",
+    "annual_visitors_est": 200000,
+    "latitude": 16.3260,
+    "longitude": 80.5870,
+    "average_budget_in_inr": 2000,
+    "budget_category": "Low",
+    "nearest_airport": "Vijayawada Airport (VGA)",
+    "nearest_railway_station": "Vijayawada",
+    "accommodation": {
+      "budget": [{ "name": "Undavalli Guest House", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Hotel Bliss", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Fortune Inn", "avg_price_per_night": 6500 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "place_name": "Prakasam Barrage",
+    "city_town": "Vijayawada",
+    "type": "Engineering / Landmark",
+    "importance": "Historic barrage over Krishna River, scenic viewpoint",
+    "hidden_gem": false,
+    "visit_duration": "1 Hour",
+    "best_season": "October to February",
+    "annual_visitors_est": 400000,
+    "latitude": 16.5170,
+    "longitude": 80.6190,
+    "average_budget_in_inr": 2500,
+    "budget_category": "Low",
+    "nearest_airport": "Vijayawada Airport (VGA)",
+    "nearest_railway_station": "Vijayawada",
+    "accommodation": {
+      "budget": [{ "name": "Budget Stay Vijayawada", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Fortune Inn", "avg_price_per_night": 3500 }],
+      "luxury": [{ "name": "Novotel Vijayawada", "avg_price_per_night": 8500 }]
+    }
+  }
+]
+[
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kadapa",
+    "place_name": "Belum Caves",
+    "city_town": "Kadapa",
+    "type": "Cave / Adventure",
+    "importance": "Second largest cave system in India; limestone stalactites and stalagmites",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "best_season": "October to March",
+    "annual_visitors_est": 200000,
+    "latitude": 14.7500,
+    "longitude": 78.4000,
+    "average_budget_in_inr": 3000,
+    "budget_category": "Medium",
+    "nearest_airport": "Kadapa Airport (CDP)",
+    "nearest_railway_station": "Kadapa",
+    "accommodation": {
+      "budget": [{ "name": "Belum Guest House", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Haritha Hotel Kadapa", "avg_price_per_night": 3500 }],
+      "luxury": [{ "name": "Royal Comfort Inn Kadapa", "avg_price_per_night": 6000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "place_name": "Ahobilam",
+    "city_town": "Kurnool",
+    "type": "Pilgrimage / Hills",
+    "importance": "Famous Narasimha Swamy temple complex in rugged hills",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "best_season": "September to March",
+    "annual_visitors_est": 500000,
+    "latitude": 15.1330,
+    "longitude": 78.5200,
+    "average_budget_in_inr": 4000,
+    "budget_category": "Medium",
+    "nearest_airport": "Kurnool Airport (KRNL)",
+    "nearest_railway_station": "Kurnool",
+    "accommodation": {
+      "budget": [{ "name": "Ahobilam Guest House", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Haritha Resort Ahobilam", "avg_price_per_night": 3500 }],
+      "luxury": [{ "name": "Hillside Resort Ahobilam", "avg_price_per_night": 7000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "place_name": "Kailasakona Waterfalls",
+    "city_town": "Kavali",
+    "type": "Nature / Waterfall",
+    "importance": "Scenic waterfall near Chittoor; ideal for short treks and picnic",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "best_season": "June to February",
+    "annual_visitors_est": 120000,
+    "latitude": 13.3500,
+    "longitude": 79.6000,
+    "average_budget_in_inr": 2000,
+    "budget_category": "Low",
+    "nearest_airport": "Tirupati Airport (TIR)",
+    "nearest_railway_station": "Puttur",
+    "accommodation": {
+      "budget": [{ "name": "Kailasakona Budget Stay", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Haritha Guest House", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Fortune Inn Chittoor", "avg_price_per_night": 6500 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Anantapur",
+    "place_name": "Gooty Fort",
+    "city_town": "Anantapur",
+    "type": "Heritage / Fort",
+    "importance": "Ancient hill fort with panoramic views; historical significance",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 50000,
+    "latitude": 14.7300,
+    "longitude": 77.2800,
+    "average_budget_in_inr": 2500,
+    "budget_category": "Low",
+    "nearest_airport": "Puttaparthi Airport (PUT)",
+    "nearest_railway_station": "Gooty",
+    "accommodation": {
+      "budget": [{ "name": "Gooty Budget Lodge", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Haritha Anantapur", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Fortune Gooty Resort", "avg_price_per_night": 6000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "place_name": "Talakona Waterfalls",
+    "city_town": "Pileru",
+    "type": "Nature / Waterfall",
+    "importance": "Tallest waterfall in Andhra Pradesh; part of Sri Venkateswara National Park",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "best_season": "June to February",
+    "annual_visitors_est": 300000,
+    "latitude": 13.5500,
+    "longitude": 79.4000,
+    "average_budget_in_inr": 3500,
+    "budget_category": "Medium",
+    "nearest_airport": "Tirupati Airport (TIR)",
+    "nearest_railway_station": "Pileru",
+    "accommodation": {
+      "budget": [{ "name": "Talakona Guest House", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Haritha Resort Talakona", "avg_price_per_night": 3500 }],
+      "luxury": [{ "name": "Talakona Hill Resort", "avg_price_per_night": 7000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "place_name": "Belum Caves Adventure Zone",
+    "city_town": "Kurnool",
+    "type": "Adventure / Caves",
+    "importance": "Adventure sports area near Belum Caves for trekking and spelunking",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 50000,
+    "latitude": 15.0100,
+    "longitude": 78.4000,
+    "average_budget_in_inr": 2000,
+    "budget_category": "Low",
+    "nearest_airport": "Kurnool Airport (KRNL)",
+    "nearest_railway_station": "Kurnool",
+    "accommodation": {
+      "budget": [{ "name": "Budget Stay Kurnool", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Haritha Kurnool", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Kurnool Comfort Inn", "avg_price_per_night": 6000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Anantapur",
+    "place_name": "Penukonda Fort",
+    "city_town": "Anantapur",
+    "type": "Heritage / Fort",
+    "importance": "Historical fort with strategic location and scenic surroundings",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "best_season": "October to March",
+    "annual_visitors_est": 100000,
+    "latitude": 14.0600,
+    "longitude": 77.4700,
+    "average_budget_in_inr": 2500,
+    "budget_category": "Low",
+    "nearest_airport": "Puttaparthi Airport (PUT)",
+    "nearest_railway_station": "Penukonda",
+    "accommodation": {
+      "budget": [{ "name": "Penukonda Budget Lodge", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Haritha Anantapur", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Fortune Penukonda Resort", "avg_price_per_night": 6000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kadapa",
+    "place_name": "Gandikota Fort",
+    "city_town": "Kadapa",
+    "type": "Heritage / Canyon",
+    "importance": "Known as the 'Grand Canyon of India'; historical fort atop gorge",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "best_season": "October to February",
+    "annual_visitors_est": 300000,
+    "latitude": 14.8167,
+    "longitude": 78.2833,
+    "average_budget_in_inr": 4000,
+    "budget_category": "Medium",
+    "nearest_airport": "Kadapa Airport (CDP)",
+    "nearest_railway_station": "Jammalamadugu",
+    "accommodation": {
+      "budget": [{ "name": "Haritha Resort Gandikota", "avg_price_per_night": 1500 }],
+      "mid_range": [{ "name": "Kadapa Residency", "avg_price_per_night": 3500 }],
+      "luxury": [{ "name": "Royal Comfort Inn", "avg_price_per_night": 6000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "place_name": "Veligonda Hills",
+    "city_town": "Chittoor",
+    "type": "Nature / Trekking",
+    "importance": "Scenic trekking destination with lush greenery and wildlife",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "best_season": "October to February",
+    "annual_visitors_est": 50000,
+    "latitude": 13.3500,
+    "longitude": 79.2000,
+    "average_budget_in_inr": 2000,
+    "budget_category": "Low",
+    "nearest_airport": "Tirupati Airport (TIR)",
+    "nearest_railway_station": "Chittoor",
+    "accommodation": {
+      "budget": [{ "name": "Veligonda Budget Stay", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Haritha Resort", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Fortune Inn Chittoor", "avg_price_per_night": 6000 }]
+    }
+  }
+]
+[
+  {
+    "state": "Andhra Pradesh",
+    "district": "Anantapur",
+    "place_name": "Lepakshi Temple",
+    "city_town": "Lepakshi",
+    "type": "Heritage / Pilgrimage",
+    "importance": "Famous for Veerabhadra temple and hanging pillar; Vijayanagara architecture",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 400000,
+    "latitude": 14.1833,
+    "longitude": 77.6833,
+    "average_budget_in_inr": 2500,
+    "budget_category": "Low",
+    "nearest_airport": "Puttaparthi Airport (PUT)",
+    "nearest_railway_station": "Guntakal",
+    "accommodation": {
+      "budget": [{ "name": "Lepakshi Guest House", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Haritha Anantapur", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Fortune Inn Lepakshi", "avg_price_per_night": 6000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "place_name": "Orvakal Rock Gardens",
+    "city_town": "Kurnool",
+    "type": "Nature / Rock Formation",
+    "importance": "Unique landscape of quartz and limestone rock formations",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "best_season": "October to February",
+    "annual_visitors_est": 80000,
+    "latitude": 15.3200,
+    "longitude": 78.0500,
+    "average_budget_in_inr": 2000,
+    "budget_category": "Low",
+    "nearest_airport": "Kurnool Airport (KRNL)",
+    "nearest_railway_station": "Kurnool",
+    "accommodation": {
+      "budget": [{ "name": "Orvakal Budget Stay", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Haritha Kurnool", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Kurnool Comfort Inn", "avg_price_per_night": 6000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "place_name": "Kondapuram Waterfalls",
+    "city_town": "Kondapuram",
+    "type": "Nature / Waterfall",
+    "importance": "Hidden waterfall in Chittoor district, serene and less crowded",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "best_season": "June to February",
+    "annual_visitors_est": 30000,
+    "latitude": 13.4000,
+    "longitude": 79.3000,
+    "average_budget_in_inr": 1500,
+    "budget_category": "Low",
+    "nearest_airport": "Tirupati Airport (TIR)",
+    "nearest_railway_station": "Pileru",
+    "accommodation": {
+      "budget": [{ "name": "Kondapuram Budget Lodge", "avg_price_per_night": 800 }],
+      "mid_range": [{ "name": "Haritha Resort", "avg_price_per_night": 2500 }],
+      "luxury": [{ "name": "Fortune Inn Chittoor", "avg_price_per_night": 5000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kadapa",
+    "place_name": "Mylavaram Reservoir",
+    "city_town": "Kadapa",
+    "type": "Nature / Reservoir",
+    "importance": "Scenic reservoir popular for boating and photography",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 50000,
+    "latitude": 14.7300,
+    "longitude": 78.3500,
+    "average_budget_in_inr": 1500,
+    "budget_category": "Low",
+    "nearest_airport": "Kadapa Airport (CDP)",
+    "nearest_railway_station": "Kadapa",
+    "accommodation": {
+      "budget": [{ "name": "Mylavaram Guest House", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Haritha Kadapa", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Royal Comfort Inn Kadapa", "avg_price_per_night": 6000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Anantapur",
+    "place_name": "Kalyandurg Fort",
+    "city_town": "Anantapur",
+    "type": "Heritage / Fort",
+    "importance": "Historical fort offering scenic views of surrounding plains",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 25000,
+    "latitude": 14.7333,
+    "longitude": 77.7333,
+    "average_budget_in_inr": 2000,
+    "budget_category": "Low",
+    "nearest_airport": "Puttaparthi Airport (PUT)",
+    "nearest_railway_station": "Kalyandurg",
+    "accommodation": {
+      "budget": [{ "name": "Kalyandurg Budget Stay", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Haritha Anantapur", "avg_price_per_night": 2500 }],
+      "luxury": [{ "name": "Fortune Inn Kalyandurg", "avg_price_per_night": 5000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "place_name": "Nagalapuram Hills",
+    "city_town": "Chittoor",
+    "type": "Nature / Trekking",
+    "importance": "Hilly trekking destination with caves, waterfalls, and natural pools",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 150000,
+    "latitude": 13.3667,
+    "longitude": 79.5667,
+    "average_budget_in_inr": 3500,
+    "budget_category": "Medium",
+    "nearest_airport": "Tirupati Airport (TIR)",
+    "nearest_railway_station": "Puttur",
+    "accommodation": {
+      "budget": [{ "name": "Nagalapuram Guest House", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Haritha Resort", "avg_price_per_night": 3500 }],
+      "luxury": [{ "name": "Fortune Inn Chittoor", "avg_price_per_night": 7000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kadapa",
+    "place_name": "Peddacheruvu Dam",
+    "city_town": "Kadapa",
+    "type": "Nature / Dam",
+    "importance": "Popular dam with serene surroundings; good for bird watching",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 40000,
+    "latitude": 14.8000,
+    "longitude": 78.3000,
+    "average_budget_in_inr": 1500,
+    "budget_category": "Low",
+    "nearest_airport": "Kadapa Airport (CDP)",
+    "nearest_railway_station": "Kadapa",
+    "accommodation": {
+      "budget": [{ "name": "Budget Lodge Kadapa", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Haritha Kadapa", "avg_price_per_night": 2500 }],
+      "luxury": [{ "name": "Royal Comfort Inn", "avg_price_per_night": 5000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Anantapur",
+    "place_name": "Bugga Hills",
+    "city_town": "Anantapur",
+    "type": "Nature / Hills",
+    "importance": "Scenic hills with ancient temples; ideal for trekking",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 30000,
+    "latitude": 14.6000,
+    "longitude": 77.8000,
+    "average_budget_in_inr": 2000,
+    "budget_category": "Low",
+    "nearest_airport": "Puttaparthi Airport (PUT)",
+    "nearest_railway_station": "Anantapur",
+    "accommodation": {
+      "budget": [{ "name": "Bugga Hills Budget Stay", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Haritha Anantapur", "avg_price_per_night": 2500 }],
+      "luxury": [{ "name": "Fortune Bugga Hills Resort", "avg_price_per_night": 5000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "place_name": "Belum Adventure Trek",
+    "city_town": "Kurnool",
+    "type": "Adventure / Trekking",
+    "importance": "Trekking routes connecting Belum Caves and surrounding hills",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "best_season": "October to February",
+    "annual_visitors_est": 40000,
+    "latitude": 15.0200,
+    "longitude": 78.4200,
+    "average_budget_in_inr": 2500,
+    "budget_category": "Low",
+    "nearest_airport": "Kurnool Airport (KRNL)",
+    "nearest_railway_station": "Kurnool",
+    "accommodation": {
+      "budget": [{ "name": "Budget Stay Kurnool", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Haritha Kurnool", "avg_price_per_night": 2500 }],
+      "luxury": [{ "name": "Kurnool Comfort Inn", "avg_price_per_night": 5000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "place_name": "Palamaner Hills",
+    "city_town": "Chittoor",
+    "type": "Nature / Hills",
+    "importance": "Quiet hills with trekking paths and scenic viewpoints",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "best_season": "October to February",
+    "annual_visitors_est": 20000,
+    "latitude": 13.2333,
+    "longitude": 78.7000,
+    "average_budget_in_inr": 1500,
+    "budget_category": "Low",
+    "nearest_airport": "Tirupati Airport (TIR)",
+    "nearest_railway_station": "Palamaner",
+    "accommodation": {
+      "budget": [{ "name": "Palamaner Budget Stay", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Haritha Resort", "avg_price_per_night": 2500 }],
+      "luxury": [{ "name": "Fortune Inn Chittoor", "avg_price_per_night": 5000 }]
+    }
+  }
+]
+[
+  {
+    "state": "Andhra Pradesh",
+    "district": "Visakhapatnam",
+    "place_name": "RK Beach",
+    "city_town": "Visakhapatnam",
+    "type": "Beach",
+    "importance": "Popular urban beach along Bay of Bengal; cultural events",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 5000000,
+    "latitude": 17.7149,
+    "longitude": 83.3237,
+    "average_budget_in_inr": 7000,
+    "budget_category": "Medium",
+    "nearest_airport": "Visakhapatnam Airport (VTZ)",
+    "nearest_railway_station": "Visakhapatnam",
+    "accommodation": {
+      "budget": [{ "name": "Hotel Meghalaya", "avg_price_per_night": 2000 }],
+      "mid_range": [{ "name": "Dolphin Hotel", "avg_price_per_night": 3500 }],
+      "luxury": [{ "name": "Novotel Visakhapatnam", "avg_price_per_night": 8500 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "place_name": "Coringa Wildlife Sanctuary",
+    "city_town": "Kakinada",
+    "type": "Nature / Sanctuary",
+    "importance": "Mangrove forest sanctuary with rare bird species and biodiversity",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 100000,
+    "latitude": 16.9333,
+    "longitude": 82.2333,
+    "average_budget_in_inr": 3000,
+    "budget_category": "Low",
+    "nearest_airport": "Rajahmundry Airport (RJA)",
+    "nearest_railway_station": "Kakinada",
+    "accommodation": {
+      "budget": [{ "name": "Coringa Guest House", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Haritha Kakinada", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Fortune Inn Kakinada", "avg_price_per_night": 7000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "place_name": "Dwaraka Tirumala",
+    "city_town": "Tadepalligudem",
+    "type": "Pilgrimage",
+    "importance": "Known as Chinna Tirupati, famous for Lord Venkateswara temple",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "best_season": "September to March",
+    "annual_visitors_est": 2000000,
+    "latitude": 16.8000,
+    "longitude": 81.5667,
+    "average_budget_in_inr": 4000,
+    "budget_category": "Medium",
+    "nearest_airport": "Rajahmundry Airport (RJA)",
+    "nearest_railway_station": "Tadepalligudem",
+    "accommodation": {
+      "budget": [{ "name": "Dwaraka Lodge", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Haritha Resort", "avg_price_per_night": 3500 }],
+      "luxury": [{ "name": "Fortune Inn Tadepalligudem", "avg_price_per_night": 6000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Visakhapatnam",
+    "place_name": "Borra Caves",
+    "city_town": "Ananthagiri",
+    "type": "Nature / Cave",
+    "importance": "Famous limestone caves with stalactites and stalagmites",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 250000,
+    "latitude": 18.3500,
+    "longitude": 83.2500,
+    "average_budget_in_inr": 3000,
+    "budget_category": "Medium",
+    "nearest_airport": "Visakhapatnam Airport (VTZ)",
+    "nearest_railway_station": "Visakhapatnam",
+    "accommodation": {
+      "budget": [{ "name": "Borra Caves Budget Stay", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Haritha Resort Borra", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Fortune Inn Visakhapatnam", "avg_price_per_night": 7000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "place_name": "Mangalagiri",
+    "city_town": "Vijayawada",
+    "type": "Pilgrimage / Heritage",
+    "importance": "Famous for Mangalagiri Temple and handwoven textiles",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 1500000,
+    "latitude": 16.4500,
+    "longitude": 80.5500,
+    "average_budget_in_inr": 3500,
+    "budget_category": "Medium",
+    "nearest_airport": "Vijayawada Airport (VGA)",
+    "nearest_railway_station": "Vijayawada",
+    "accommodation": {
+      "budget": [{ "name": "Mangalagiri Budget Lodge", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Haritha Mangalagiri", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Fortune Inn Vijayawada", "avg_price_per_night": 6000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "place_name": "Undavalli Caves",
+    "city_town": "Vijayawada",
+    "type": "Heritage / Cave",
+    "importance": "Ancient rock-cut cave temples with historic sculptures",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 1200000,
+    "latitude": 16.4500,
+    "longitude": 80.6500,
+    "average_budget_in_inr": 3000,
+    "budget_category": "Medium",
+    "nearest_airport": "Vijayawada Airport (VGA)",
+    "nearest_railway_station": "Vijayawada",
+    "accommodation": {
+      "budget": [{ "name": "Undavalli Guest House", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Haritha Resort Vijayawada", "avg_price_per_night": 3000 }],
+      "luxury": [{ "name": "Fortune Inn Vijayawada", "avg_price_per_night": 6000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "place_name": "Kolleru Lake",
+    "city_town": "Eluru",
+    "type": "Nature / Bird Sanctuary",
+    "importance": "Freshwater lake and bird sanctuary; migratory birds hotspot",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "best_season": "November to February",
+    "annual_visitors_est": 150000,
+    "latitude": 16.7000,
+    "longitude": 81.0000,
+    "average_budget_in_inr": 2500,
+    "budget_category": "Low",
+    "nearest_airport": "Rajahmundry Airport (RJA)",
+    "nearest_railway_station": "Eluru",
+    "accommodation": {
+      "budget": [{ "name": "Kolleru Budget Stay", "avg_price_per_night": 1200 }],
+      "mid_range": [{ "name": "Haritha Eluru", "avg_price_per_night": 2500 }],
+      "luxury": [{ "name": "Fortune Inn Eluru", "avg_price_per_night": 5000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "place_name": "Rajahmundry Godavari Bridge",
+    "city_town": "Rajahmundry",
+    "type": "Heritage / Landmark",
+    "importance": "Iconic bridge over Godavari River; engineering marvel",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 500000,
+    "latitude": 17.0000,
+    "longitude": 81.8000,
+    "average_budget_in_inr": 2000,
+    "budget_category": "Low",
+    "nearest_airport": "Rajahmundry Airport (RJA)",
+    "nearest_railway_station": "Rajahmundry",
+    "accommodation": {
+      "budget": [{ "name": "Rajahmundry Budget Stay", "avg_price_per_night": 1000 }],
+      "mid_range": [{ "name": "Haritha Rajahmundry", "avg_price_per_night": 2500 }],
+      "luxury": [{ "name": "Fortune Inn Rajahmundry", "avg_price_per_night": 5000 }]
+    }
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "place_name": "Papikondalu",
+    "city_town": "Rajahmundry",
+    "type": "Nature / River Cruise",
+    "importance": "Scenic hills along Godavari River; famous for boat cruises",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "best_season": "October to March",
+    "annual_visitors_est": 80000,
+    "latitude": 16.8000,
+    "longitude": 81.8000,
+    "average_budget_in_inr": 4000,
+    "budget_category": "Medium",
+    "nearest_airport": "Rajahmundry Airport (RJA)",
+    "nearest_railway_station": "Rajahmundry",
+    "accommodation": {
+      "budget": [{ "name": "Papikondalu Budget Stay", "avg_price_per_night": 1500 }],
+      "mid_range": [{ "name": "Haritha Resort Papikondalu", "avg_price_per_night": 3500 }],
+      "luxury": [{ "name": "Fortune Inn Rajahmundry", "avg_price_per_night": 7000 }]
+    }
+  }
+]

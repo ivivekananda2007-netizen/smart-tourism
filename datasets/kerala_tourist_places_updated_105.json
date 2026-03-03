@@ -1,0 +1,1997 @@
+[
+    {
+        "state": "Kerala",
+        "place_name": "Munnar",
+        "city": "Idukki",
+        "type": "Hill Station",
+        "hidden_gem": false,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 10.0892,
+        "longitude": 77.0596
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Wayanad",
+        "city": "Wayanad",
+        "type": "Hill/Nature",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.685,
+        "longitude": 76.104
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Kovalam",
+        "city": "Thiruvananthapuram",
+        "type": "Beach",
+        "hidden_gem": false,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 8.38,
+        "longitude": 76.97
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Varkala Beach",
+        "city": "Thiruvananthapuram",
+        "type": "Beach",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 8.7333,
+        "longitude": 76.7167
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Fort Kochi",
+        "city": "Ernakulam",
+        "type": "Historic",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.96,
+        "longitude": 76.244
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Alappuzha Backwaters",
+        "city": "Alappuzha",
+        "type": "Backwaters",
+        "hidden_gem": false,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.4981,
+        "longitude": 76.3388
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Kumarakom",
+        "city": "Kottayam",
+        "type": "Backwaters",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.6175,
+        "longitude": 76.43
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Thekkady",
+        "city": "Idukki",
+        "type": "Wildlife",
+        "hidden_gem": false,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.605,
+        "longitude": 77.161
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Athirappilly Waterfalls",
+        "city": "Thrissur",
+        "type": "Waterfall",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 10.285,
+        "longitude": 76.569
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Bekal Fort",
+        "city": "Kasaragod",
+        "type": "Historic",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 12.393,
+        "longitude": 75.034
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Ponmudi",
+        "city": "Thiruvananthapuram",
+        "type": "Hill Station",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 8.759,
+        "longitude": 77.115
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Gavi",
+        "city": "Pathanamthitta",
+        "type": "Eco Tourism",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.438,
+        "longitude": 77.164
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Thenmala",
+        "city": "Kollam",
+        "type": "Eco Tourism",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 8.998,
+        "longitude": 77.042
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Meesapulimala",
+        "city": "Idukki",
+        "type": "Trekking",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 10.0813,
+        "longitude": 77.2471
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Silent Valley",
+        "city": "Palakkad",
+        "type": "National Park",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.093,
+        "longitude": 76.43
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Chembra Peak",
+        "city": "Wayanad",
+        "type": "Trekking",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.55,
+        "longitude": 76.083
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Edakkal Caves",
+        "city": "Wayanad",
+        "type": "Historic",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.624,
+        "longitude": 76.232
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Marari Beach",
+        "city": "Alappuzha",
+        "type": "Beach",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.6,
+        "longitude": 76.3
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Cherai Beach",
+        "city": "Ernakulam",
+        "type": "Beach",
+        "hidden_gem": false,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 10.142,
+        "longitude": 76.178
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Kappad Beach",
+        "city": "Kozhikode",
+        "type": "Beach",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.382,
+        "longitude": 75.715
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Parambikulam",
+        "city": "Palakkad",
+        "type": "Wildlife",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 10.392,
+        "longitude": 76.704
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Nelliyampathy",
+        "city": "Palakkad",
+        "type": "Hill Station",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 10.535,
+        "longitude": 76.693
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Malampuzha Dam",
+        "city": "Palakkad",
+        "type": "Dam",
+        "hidden_gem": false,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 10.838,
+        "longitude": 76.69
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Vagamon",
+        "city": "Idukki",
+        "type": "Hill Station",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.688,
+        "longitude": 76.905
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Poovar",
+        "city": "Thiruvananthapuram",
+        "type": "Beach",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 8.32,
+        "longitude": 77.08
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Ashtamudi Lake",
+        "city": "Kollam",
+        "type": "Lake",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 8.967,
+        "longitude": 76.595
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Kozhikode Beach",
+        "city": "Kozhikode",
+        "type": "Beach",
+        "hidden_gem": false,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.2588,
+        "longitude": 75.7804
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Muzhappilangad Beach",
+        "city": "Kannur",
+        "type": "Beach",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.8,
+        "longitude": 75.46
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Thusharagiri Waterfalls",
+        "city": "Kozhikode",
+        "type": "Waterfall",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.475,
+        "longitude": 75.99
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Periyar Wildlife Sanctuary",
+        "city": "Idukki",
+        "type": "Wildlife",
+        "hidden_gem": false,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.6,
+        "longitude": 77.17
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Chinnar Wildlife Sanctuary",
+        "city": "Idukki",
+        "type": "Wildlife",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 10.35,
+        "longitude": 77.2
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Kuttanad",
+        "city": "Alappuzha",
+        "type": "Backwaters",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.35,
+        "longitude": 76.4
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Thrissur Zoo",
+        "city": "Thrissur",
+        "type": "Zoo",
+        "hidden_gem": false,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 10.52,
+        "longitude": 76.21
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Mattancherry Palace",
+        "city": "Ernakulam",
+        "type": "Historic",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.958,
+        "longitude": 76.259
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Hill Palace Museum",
+        "city": "Ernakulam",
+        "type": "Museum",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.94,
+        "longitude": 76.35
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Pookode Lake",
+        "city": "Wayanad",
+        "type": "Lake",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.55,
+        "longitude": 76.02
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Idukki Dam",
+        "city": "Idukki",
+        "type": "Dam",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.85,
+        "longitude": 76.97
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Valparai Viewpoint",
+        "city": "Palakkad",
+        "type": "Viewpoint",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 10.3,
+        "longitude": 76.95
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Azhimala",
+        "city": "Thiruvananthapuram",
+        "type": "Beach",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 8.36,
+        "longitude": 76.99
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Padmanabhaswamy Temple",
+        "city": "Thiruvananthapuram",
+        "type": "Temple",
+        "hidden_gem": false,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 8.4828,
+        "longitude": 76.9439
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Sabarimala",
+        "city": "Pathanamthitta",
+        "type": "Temple",
+        "hidden_gem": false,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.432,
+        "longitude": 77.094
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Vythiri",
+        "city": "Wayanad",
+        "type": "Hill Station",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.54,
+        "longitude": 76.04
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Mananchira Square",
+        "city": "Kozhikode",
+        "type": "Park",
+        "hidden_gem": false,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.255,
+        "longitude": 75.78
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Kadalundi Bird Sanctuary",
+        "city": "Kozhikode",
+        "type": "Bird Sanctuary",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.13,
+        "longitude": 75.82
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Ranipuram",
+        "city": "Kasaragod",
+        "type": "Hill Station",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 12.45,
+        "longitude": 75.45
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Anamudi Peak",
+        "city": "Idukki",
+        "type": "Trekking",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 10.1667,
+        "longitude": 77.0667
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Bolgatty Palace",
+        "city": "Ernakulam",
+        "type": "Historic",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.981,
+        "longitude": 76.268
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Banasura Sagar Dam",
+        "city": "Wayanad",
+        "type": "Dam",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.667,
+        "longitude": 76.083
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Perunthenaruvi Falls",
+        "city": "Pathanamthitta",
+        "type": "Waterfall",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.367,
+        "longitude": 76.9
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Vazhachal Falls",
+        "city": "Thrissur",
+        "type": "Waterfall",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 10.3,
+        "longitude": 76.65
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Illikkal Kallu",
+        "city": "Kottayam",
+        "type": "Trekking",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.716,
+        "longitude": 76.8
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Kottakkunnu",
+        "city": "Malappuram",
+        "type": "Park",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.04,
+        "longitude": 76.08
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Bekal Beach",
+        "city": "Kasaragod",
+        "type": "Beach",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 12.39,
+        "longitude": 75.03
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Payyambalam Beach",
+        "city": "Kannur",
+        "type": "Beach",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.88,
+        "longitude": 75.36
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Thirunelli Temple",
+        "city": "Wayanad",
+        "type": "Temple",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.95,
+        "longitude": 76.08
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Kumbalangi",
+        "city": "Ernakulam",
+        "type": "Village Tourism",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.9,
+        "longitude": 76.3
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Alleppey Lighthouse",
+        "city": "Alappuzha",
+        "type": "Historic",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.49,
+        "longitude": 76.32
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Aruvikkara Dam",
+        "city": "Thiruvananthapuram",
+        "type": "Dam",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 8.58,
+        "longitude": 77.02
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Chavakkad Beach",
+        "city": "Thrissur",
+        "type": "Beach",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 10.533,
+        "longitude": 76.05
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Kollam Beach",
+        "city": "Kollam",
+        "type": "Beach",
+        "hidden_gem": false,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 8.88,
+        "longitude": 76.59
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Dharmadam Island",
+        "city": "Kannur",
+        "type": "Island",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.77,
+        "longitude": 75.45
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Pathiramanal Island",
+        "city": "Alappuzha",
+        "type": "Island",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.62,
+        "longitude": 76.39
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Meenkunnu Beach",
+        "city": "Kannur",
+        "type": "Beach",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.91,
+        "longitude": 75.32
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Kakkayam Dam",
+        "city": "Kozhikode",
+        "type": "Dam",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.58,
+        "longitude": 75.93
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Palaruvi Falls",
+        "city": "Kollam",
+        "type": "Waterfall",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 8.952,
+        "longitude": 77.122
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Veli Lake",
+        "city": "Thiruvananthapuram",
+        "type": "Lake",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 8.5075,
+        "longitude": 76.885
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Shankumugham Beach",
+        "city": "Thiruvananthapuram",
+        "type": "Beach",
+        "hidden_gem": false,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 8.482,
+        "longitude": 76.912
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Peppara Wildlife Sanctuary",
+        "city": "Thiruvananthapuram",
+        "type": "Wildlife",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 8.65,
+        "longitude": 77.15
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Kovalam Art Gallery",
+        "city": "Thiruvananthapuram",
+        "type": "Museum",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 8.4,
+        "longitude": 76.978
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Anchuthengu Fort",
+        "city": "Thiruvananthapuram",
+        "type": "Historic",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 8.68,
+        "longitude": 76.82
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Chimmini Wildlife Sanctuary",
+        "city": "Thrissur",
+        "type": "Wildlife",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 10.39,
+        "longitude": 76.47
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Bible Tower",
+        "city": "Thrissur",
+        "type": "Historic",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 10.52,
+        "longitude": 76.21
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Vadakkunnathan Temple",
+        "city": "Thrissur",
+        "type": "Temple",
+        "hidden_gem": false,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 10.516,
+        "longitude": 76.214
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Marine Drive Kochi",
+        "city": "Ernakulam",
+        "type": "City Attraction",
+        "hidden_gem": false,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.9816,
+        "longitude": 76.275
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Thattekad Bird Sanctuary",
+        "city": "Ernakulam",
+        "type": "Bird Sanctuary",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 10.13,
+        "longitude": 76.68
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Areekkal Waterfalls",
+        "city": "Ernakulam",
+        "type": "Waterfall",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 10.05,
+        "longitude": 76.62
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Kottathavalam",
+        "city": "Idukki",
+        "type": "Trekking",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.84,
+        "longitude": 77.05
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Anchuruli Tunnel",
+        "city": "Idukki",
+        "type": "Adventure",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.84,
+        "longitude": 77.18
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Vagamon Pine Forest",
+        "city": "Idukki",
+        "type": "Nature",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.69,
+        "longitude": 76.9
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Aranmula",
+        "city": "Pathanamthitta",
+        "type": "Village Tourism",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.33,
+        "longitude": 76.68
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Konni Elephant Camp",
+        "city": "Pathanamthitta",
+        "type": "Wildlife",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 9.23,
+        "longitude": 76.86
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Thangassery Lighthouse",
+        "city": "Kollam",
+        "type": "Historic",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 8.884,
+        "longitude": 76.57
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Munroe Island",
+        "city": "Kollam",
+        "type": "Backwaters",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 8.965,
+        "longitude": 76.58
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Peechi Dam",
+        "city": "Thrissur",
+        "type": "Dam",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 10.53,
+        "longitude": 76.28
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Kurumalakotta Viewpoint",
+        "city": "Thrissur",
+        "type": "Viewpoint",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 10.6,
+        "longitude": 76.2
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Nilambur Teak Museum",
+        "city": "Malappuram",
+        "type": "Museum",
+        "hidden_gem": true,
+        "budget_category": "Low",
+        "estimated_daily_budget_inr": "500-1500",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.28,
+        "longitude": 76.22
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Adyanpara Waterfalls",
+        "city": "Malappuram",
+        "type": "Waterfall",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.25,
+        "longitude": 76.28
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Kadalundi River",
+        "city": "Malappuram",
+        "type": "Nature",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.14,
+        "longitude": 75.83
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Kottiyoor Temple",
+        "city": "Kannur",
+        "type": "Temple",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Grand Hyatt Kochi",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.9,
+        "longitude": 75.75
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Aralam Wildlife Sanctuary",
+        "city": "Kannur",
+        "type": "Wildlife",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "KTDC Budget Hotel",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.9,
+        "longitude": 75.9
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Chandragiri Fort",
+        "city": "Kasaragod",
+        "type": "Historic",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 12.5,
+        "longitude": 74.99
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Ananthapura Lake Temple",
+        "city": "Kasaragod",
+        "type": "Temple",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 12.6,
+        "longitude": 75.05
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Malom Wildlife Sanctuary",
+        "city": "Kasaragod",
+        "type": "Wildlife",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 12.45,
+        "longitude": 75.3
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Attappady",
+        "city": "Palakkad",
+        "type": "Hill/Nature",
+        "hidden_gem": true,
+        "budget_category": "Medium",
+        "estimated_daily_budget_inr": "1501-4000",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Green Leaf Lodge",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "The Leela Kovalam",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 11.12,
+        "longitude": 76.65
+    },
+    {
+        "state": "Kerala",
+        "place_name": "Meenvallam Waterfalls",
+        "city": "Palakkad",
+        "type": "Waterfall",
+        "hidden_gem": true,
+        "budget_category": "High",
+        "estimated_daily_budget_inr": "4001+",
+        "accommodation": {
+            "normal": {
+                "hotel_name": "Hotel Sea Pearl",
+                "price_per_night_inr": "400-1000"
+            },
+            "luxury": {
+                "hotel_name": "Taj Malabar Resort & Spa",
+                "price_per_night_inr": "4001-12000"
+            }
+        },
+        "latitude": 10.75,
+        "longitude": 76.55
+    }
+]

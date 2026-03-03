@@ -1,0 +1,1702 @@
+[
+    {
+        "state": "Mizoram",
+        "place_name": "Aizawl",
+        "city_town": "Aizawl",
+        "type": "Capital City / Hill Station",
+        "hidden_gem": false,
+        "visit_duration": "1-3 days",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 23.7271,
+        "longitude": 92.7176,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Aizawl Budget Stay",
+                    "price_per_night": 879
+                },
+                {
+                    "hotel_name": "Aizawl Comfort Lodge",
+                    "price_per_night": 452
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Aizawl Grand Resort",
+                    "price_per_night": 7027
+                },
+                {
+                    "hotel_name": "Aizawl Royal Palace Hotel",
+                    "price_per_night": 10913
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Reiek Tlang",
+        "city_town": "Aizawl District",
+        "type": "Hill / Viewpoint",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 23.65,
+        "longitude": 92.6,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Aizawl District Budget Stay",
+                    "price_per_night": 943
+                },
+                {
+                    "hotel_name": "Aizawl District Comfort Lodge",
+                    "price_per_night": 921
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Aizawl District Grand Resort",
+                    "price_per_night": 4851
+                },
+                {
+                    "hotel_name": "Aizawl District Royal Palace Hotel",
+                    "price_per_night": 9048
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Hmuifang",
+        "city_town": "Aizawl District",
+        "type": "Hill / Nature",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.55,
+        "longitude": 92.65,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Aizawl District Budget Stay",
+                    "price_per_night": 908
+                },
+                {
+                    "hotel_name": "Aizawl District Comfort Lodge",
+                    "price_per_night": 713
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Aizawl District Grand Resort",
+                    "price_per_night": 7791
+                },
+                {
+                    "hotel_name": "Aizawl District Royal Palace Hotel",
+                    "price_per_night": 5147
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Tamdil Lake",
+        "city_town": "Aizawl District",
+        "type": "Lake / Scenic",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 24.0,
+        "longitude": 92.9,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Aizawl District Budget Stay",
+                    "price_per_night": 744
+                },
+                {
+                    "hotel_name": "Aizawl District Comfort Lodge",
+                    "price_per_night": 531
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Aizawl District Grand Resort",
+                    "price_per_night": 5545
+                },
+                {
+                    "hotel_name": "Aizawl District Royal Palace Hotel",
+                    "price_per_night": 8682
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Vantawng Falls",
+        "city_town": "Thenzawl",
+        "type": "Waterfall",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 23.2,
+        "longitude": 92.9,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Thenzawl Budget Stay",
+                    "price_per_night": 947
+                },
+                {
+                    "hotel_name": "Thenzawl Comfort Lodge",
+                    "price_per_night": 784
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Thenzawl Grand Resort",
+                    "price_per_night": 8299
+                },
+                {
+                    "hotel_name": "Thenzawl Royal Palace Hotel",
+                    "price_per_night": 11827
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Tuirihiau Falls",
+        "city_town": "Serchhip District",
+        "type": "Waterfall / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.25,
+        "longitude": 92.9,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Serchhip District Budget Stay",
+                    "price_per_night": 927
+                },
+                {
+                    "hotel_name": "Serchhip District Comfort Lodge",
+                    "price_per_night": 921
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Serchhip District Grand Resort",
+                    "price_per_night": 5274
+                },
+                {
+                    "hotel_name": "Serchhip District Royal Palace Hotel",
+                    "price_per_night": 11376
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Phawngpui National Park",
+        "city_town": "Lawngtlai District",
+        "type": "National Park / Mountain",
+        "hidden_gem": false,
+        "visit_duration": "2-3 days",
+        "budget_in_inr": 6500,
+        "budget_category": "High",
+        "latitude": 21.9,
+        "longitude": 92.9,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Lawngtlai District Budget Stay",
+                    "price_per_night": 589
+                },
+                {
+                    "hotel_name": "Lawngtlai District Comfort Lodge",
+                    "price_per_night": 776
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Lawngtlai District Grand Resort",
+                    "price_per_night": 8147
+                },
+                {
+                    "hotel_name": "Lawngtlai District Royal Palace Hotel",
+                    "price_per_night": 10741
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Ngengpui Wildlife Sanctuary",
+        "city_town": "Lawngtlai District",
+        "type": "Wildlife Sanctuary",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 22.1,
+        "longitude": 92.8,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Lawngtlai District Budget Stay",
+                    "price_per_night": 453
+                },
+                {
+                    "hotel_name": "Lawngtlai District Comfort Lodge",
+                    "price_per_night": 870
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Lawngtlai District Grand Resort",
+                    "price_per_night": 6845
+                },
+                {
+                    "hotel_name": "Lawngtlai District Royal Palace Hotel",
+                    "price_per_night": 6003
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Dampa Tiger Reserve",
+        "city_town": "Mamit District",
+        "type": "Tiger Reserve / Wildlife",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 6500,
+        "budget_category": "High",
+        "latitude": 23.45,
+        "longitude": 92.45,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mamit District Budget Stay",
+                    "price_per_night": 921
+                },
+                {
+                    "hotel_name": "Mamit District Comfort Lodge",
+                    "price_per_night": 519
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mamit District Grand Resort",
+                    "price_per_night": 3671
+                },
+                {
+                    "hotel_name": "Mamit District Royal Palace Hotel",
+                    "price_per_night": 9301
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Mizoram State Museum",
+        "city_town": "Aizawl",
+        "type": "Museum / Cultural",
+        "hidden_gem": false,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 23.7272,
+        "longitude": 92.7177,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Aizawl Budget Stay",
+                    "price_per_night": 418
+                },
+                {
+                    "hotel_name": "Aizawl Comfort Lodge",
+                    "price_per_night": 749
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Aizawl Grand Resort",
+                    "price_per_night": 7926
+                },
+                {
+                    "hotel_name": "Aizawl Royal Palace Hotel",
+                    "price_per_night": 11888
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Solomon's Temple",
+        "city_town": "Aizawl",
+        "type": "Religious / Architecture",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 23.72,
+        "longitude": 92.7,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Aizawl Budget Stay",
+                    "price_per_night": 796
+                },
+                {
+                    "hotel_name": "Aizawl Comfort Lodge",
+                    "price_per_night": 948
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Aizawl Grand Resort",
+                    "price_per_night": 8092
+                },
+                {
+                    "hotel_name": "Aizawl Royal Palace Hotel",
+                    "price_per_night": 8159
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Lalsavunga Park",
+        "city_town": "South Hlimen",
+        "type": "Park / Recreation",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.62,
+        "longitude": 92.65,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "South Hlimen Budget Stay",
+                    "price_per_night": 474
+                },
+                {
+                    "hotel_name": "South Hlimen Comfort Lodge",
+                    "price_per_night": 858
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "South Hlimen Grand Resort",
+                    "price_per_night": 4172
+                },
+                {
+                    "hotel_name": "South Hlimen Royal Palace Hotel",
+                    "price_per_night": 4945
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Durtlang Hills",
+        "city_town": "Aizawl",
+        "type": "Hills / Viewpoint",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.74,
+        "longitude": 92.72,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Aizawl Budget Stay",
+                    "price_per_night": 795
+                },
+                {
+                    "hotel_name": "Aizawl Comfort Lodge",
+                    "price_per_night": 712
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Aizawl Grand Resort",
+                    "price_per_night": 8252
+                },
+                {
+                    "hotel_name": "Aizawl Royal Palace Hotel",
+                    "price_per_night": 11555
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Palak Dil (Palak Lake)",
+        "city_town": "Saiha District",
+        "type": "Lake / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 22.4786,
+        "longitude": 92.9661,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Saiha District Budget Stay",
+                    "price_per_night": 574
+                },
+                {
+                    "hotel_name": "Saiha District Comfort Lodge",
+                    "price_per_night": 939
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Saiha District Grand Resort",
+                    "price_per_night": 7195
+                },
+                {
+                    "hotel_name": "Saiha District Royal Palace Hotel",
+                    "price_per_night": 6096
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Lunglei",
+        "city_town": "Lunglei",
+        "type": "Town / Scenic",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 22.5344,
+        "longitude": 92.6676,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Lunglei Budget Stay",
+                    "price_per_night": 985
+                },
+                {
+                    "hotel_name": "Lunglei Comfort Lodge",
+                    "price_per_night": 735
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Lunglei Grand Resort",
+                    "price_per_night": 5346
+                },
+                {
+                    "hotel_name": "Lunglei Royal Palace Hotel",
+                    "price_per_night": 10476
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Rih Dil (near Mizoram-Myanmar border)",
+        "city_town": "Champhai District",
+        "type": "Lake / Cross-border Scenic",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.0064,
+        "longitude": 93.49,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Champhai District Budget Stay",
+                    "price_per_night": 961
+                },
+                {
+                    "hotel_name": "Champhai District Comfort Lodge",
+                    "price_per_night": 775
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Champhai District Grand Resort",
+                    "price_per_night": 5132
+                },
+                {
+                    "hotel_name": "Champhai District Royal Palace Hotel",
+                    "price_per_night": 5288
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Champhai",
+        "city_town": "Champhai",
+        "type": "Hill Town / Cultural",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 23.67,
+        "longitude": 93.33,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Champhai Budget Stay",
+                    "price_per_night": 993
+                },
+                {
+                    "hotel_name": "Champhai Comfort Lodge",
+                    "price_per_night": 495
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Champhai Grand Resort",
+                    "price_per_night": 7262
+                },
+                {
+                    "hotel_name": "Champhai Royal Palace Hotel",
+                    "price_per_night": 10824
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Berawtlang Lookout",
+        "city_town": "Aizawl",
+        "type": "Viewpoint",
+        "hidden_gem": true,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.73,
+        "longitude": 92.71,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Aizawl Budget Stay",
+                    "price_per_night": 597
+                },
+                {
+                    "hotel_name": "Aizawl Comfort Lodge",
+                    "price_per_night": 433
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Aizawl Grand Resort",
+                    "price_per_night": 5211
+                },
+                {
+                    "hotel_name": "Aizawl Royal Palace Hotel",
+                    "price_per_night": 8981
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Bara Bazaar",
+        "city_town": "Aizawl",
+        "type": "Market / Cultural",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 23.7275,
+        "longitude": 92.717,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Aizawl Budget Stay",
+                    "price_per_night": 460
+                },
+                {
+                    "hotel_name": "Aizawl Comfort Lodge",
+                    "price_per_night": 704
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Aizawl Grand Resort",
+                    "price_per_night": 8582
+                },
+                {
+                    "hotel_name": "Aizawl Royal Palace Hotel",
+                    "price_per_night": 5219
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Tlabung",
+        "city_town": "Lunglei District",
+        "type": "Riverside Town",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 22.4,
+        "longitude": 92.65,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Lunglei District Budget Stay",
+                    "price_per_night": 869
+                },
+                {
+                    "hotel_name": "Lunglei District Comfort Lodge",
+                    "price_per_night": 623
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Lunglei District Grand Resort",
+                    "price_per_night": 8152
+                },
+                {
+                    "hotel_name": "Lunglei District Royal Palace Hotel",
+                    "price_per_night": 11356
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Hnahthial",
+        "city_town": "Hnahthial",
+        "type": "Town / Gateway to South Mizoram",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 22.5,
+        "longitude": 92.9,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Hnahthial Budget Stay",
+                    "price_per_night": 879
+                },
+                {
+                    "hotel_name": "Hnahthial Comfort Lodge",
+                    "price_per_night": 794
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Hnahthial Grand Resort",
+                    "price_per_night": 5280
+                },
+                {
+                    "hotel_name": "Hnahthial Royal Palace Hotel",
+                    "price_per_night": 4461
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Vangtual Peak",
+        "city_town": "Aizawl District",
+        "type": "Mountain / Trek",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.78,
+        "longitude": 92.73,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Aizawl District Budget Stay",
+                    "price_per_night": 524
+                },
+                {
+                    "hotel_name": "Aizawl District Comfort Lodge",
+                    "price_per_night": 699
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Aizawl District Grand Resort",
+                    "price_per_night": 7844
+                },
+                {
+                    "hotel_name": "Aizawl District Royal Palace Hotel",
+                    "price_per_night": 8505
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Tuirihiau Cave Trails",
+        "city_town": "Serchhip District",
+        "type": "Cave / Nature",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.25,
+        "longitude": 92.9,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Serchhip District Budget Stay",
+                    "price_per_night": 965
+                },
+                {
+                    "hotel_name": "Serchhip District Comfort Lodge",
+                    "price_per_night": 898
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Serchhip District Grand Resort",
+                    "price_per_night": 3702
+                },
+                {
+                    "hotel_name": "Serchhip District Royal Palace Hotel",
+                    "price_per_night": 6810
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Murlen National Park",
+        "city_town": "Champhai District",
+        "type": "National Park / Wildlife",
+        "hidden_gem": false,
+        "visit_duration": "2-3 days",
+        "budget_in_inr": 6500,
+        "budget_category": "High",
+        "latitude": 23.65,
+        "longitude": 93.3,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Champhai District Budget Stay",
+                    "price_per_night": 804
+                },
+                {
+                    "hotel_name": "Champhai District Comfort Lodge",
+                    "price_per_night": 965
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Champhai District Grand Resort",
+                    "price_per_night": 8871
+                },
+                {
+                    "hotel_name": "Champhai District Royal Palace Hotel",
+                    "price_per_night": 4576
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Lungleng Wildlife Sanctuary",
+        "city_town": "Lunglei District",
+        "type": "Wildlife Sanctuary",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 22.6,
+        "longitude": 92.7,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Lunglei District Budget Stay",
+                    "price_per_night": 640
+                },
+                {
+                    "hotel_name": "Lunglei District Comfort Lodge",
+                    "price_per_night": 676
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Lunglei District Grand Resort",
+                    "price_per_night": 4024
+                },
+                {
+                    "hotel_name": "Lunglei District Royal Palace Hotel",
+                    "price_per_night": 5904
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Tlungvel",
+        "city_town": "Aizawl District",
+        "type": "Hill Town",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.65,
+        "longitude": 92.72,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Aizawl District Budget Stay",
+                    "price_per_night": 712
+                },
+                {
+                    "hotel_name": "Aizawl District Comfort Lodge",
+                    "price_per_night": 843
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Aizawl District Grand Resort",
+                    "price_per_night": 4645
+                },
+                {
+                    "hotel_name": "Aizawl District Royal Palace Hotel",
+                    "price_per_night": 11049
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Serchhip Town",
+        "city_town": "Serchhip",
+        "type": "Hillside Town",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.3333,
+        "longitude": 92.8,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Serchhip Budget Stay",
+                    "price_per_night": 747
+                },
+                {
+                    "hotel_name": "Serchhip Comfort Lodge",
+                    "price_per_night": 502
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Serchhip Grand Resort",
+                    "price_per_night": 7433
+                },
+                {
+                    "hotel_name": "Serchhip Royal Palace Hotel",
+                    "price_per_night": 10452
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Baktawng Village",
+        "city_town": "Serchhip District",
+        "type": "Heritage Village",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.3,
+        "longitude": 92.82,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Serchhip District Budget Stay",
+                    "price_per_night": 756
+                },
+                {
+                    "hotel_name": "Serchhip District Comfort Lodge",
+                    "price_per_night": 908
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Serchhip District Grand Resort",
+                    "price_per_night": 8766
+                },
+                {
+                    "hotel_name": "Serchhip District Royal Palace Hotel",
+                    "price_per_night": 6289
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Phullen",
+        "city_town": "Kolasib District",
+        "type": "Town / Cultural",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.1,
+        "longitude": 92.65,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kolasib District Budget Stay",
+                    "price_per_night": 973
+                },
+                {
+                    "hotel_name": "Kolasib District Comfort Lodge",
+                    "price_per_night": 925
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kolasib District Grand Resort",
+                    "price_per_night": 7574
+                },
+                {
+                    "hotel_name": "Kolasib District Royal Palace Hotel",
+                    "price_per_night": 7400
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Kolasib Town",
+        "city_town": "Kolasib",
+        "type": "Town / Nature",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.2,
+        "longitude": 92.65,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kolasib Budget Stay",
+                    "price_per_night": 923
+                },
+                {
+                    "hotel_name": "Kolasib Comfort Lodge",
+                    "price_per_night": 910
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kolasib Grand Resort",
+                    "price_per_night": 7635
+                },
+                {
+                    "hotel_name": "Kolasib Royal Palace Hotel",
+                    "price_per_night": 4753
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Sibuta Lake",
+        "city_town": "Serchhip District",
+        "type": "Lake / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.32,
+        "longitude": 92.82,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Serchhip District Budget Stay",
+                    "price_per_night": 450
+                },
+                {
+                    "hotel_name": "Serchhip District Comfort Lodge",
+                    "price_per_night": 968
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Serchhip District Grand Resort",
+                    "price_per_night": 5968
+                },
+                {
+                    "hotel_name": "Serchhip District Royal Palace Hotel",
+                    "price_per_night": 6178
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Rih Dil Viewpoint",
+        "city_town": "Champhai District",
+        "type": "Viewpoint / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.01,
+        "longitude": 93.5,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Champhai District Budget Stay",
+                    "price_per_night": 631
+                },
+                {
+                    "hotel_name": "Champhai District Comfort Lodge",
+                    "price_per_night": 915
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Champhai District Grand Resort",
+                    "price_per_night": 6531
+                },
+                {
+                    "hotel_name": "Champhai District Royal Palace Hotel",
+                    "price_per_night": 4628
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Hmuifang Village",
+        "city_town": "Aizawl District",
+        "type": "Heritage Village / Culture",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.54,
+        "longitude": 92.65,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Aizawl District Budget Stay",
+                    "price_per_night": 780
+                },
+                {
+                    "hotel_name": "Aizawl District Comfort Lodge",
+                    "price_per_night": 790
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Aizawl District Grand Resort",
+                    "price_per_night": 3558
+                },
+                {
+                    "hotel_name": "Aizawl District Royal Palace Hotel",
+                    "price_per_night": 7360
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Tuirial Dam",
+        "city_town": "Aizawl District",
+        "type": "Dam / Recreation",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.35,
+        "longitude": 92.68,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Aizawl District Budget Stay",
+                    "price_per_night": 707
+                },
+                {
+                    "hotel_name": "Aizawl District Comfort Lodge",
+                    "price_per_night": 574
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Aizawl District Grand Resort",
+                    "price_per_night": 7372
+                },
+                {
+                    "hotel_name": "Aizawl District Royal Palace Hotel",
+                    "price_per_night": 4110
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Zobawk North Viewpoint",
+        "city_town": "Aizawl District",
+        "type": "Viewpoint / Hills",
+        "hidden_gem": true,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.73,
+        "longitude": 92.7,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Aizawl District Budget Stay",
+                    "price_per_night": 972
+                },
+                {
+                    "hotel_name": "Aizawl District Comfort Lodge",
+                    "price_per_night": 850
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Aizawl District Grand Resort",
+                    "price_per_night": 4333
+                },
+                {
+                    "hotel_name": "Aizawl District Royal Palace Hotel",
+                    "price_per_night": 8466
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Bungtlang",
+        "city_town": "Mamit District",
+        "type": "Hill / Remote Village",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.75,
+        "longitude": 92.55,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Mamit District Budget Stay",
+                    "price_per_night": 950
+                },
+                {
+                    "hotel_name": "Mamit District Comfort Lodge",
+                    "price_per_night": 945
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Mamit District Grand Resort",
+                    "price_per_night": 5812
+                },
+                {
+                    "hotel_name": "Mamit District Royal Palace Hotel",
+                    "price_per_night": 5020
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Sailam Village",
+        "city_town": "Champhai District",
+        "type": "Heritage Village",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.65,
+        "longitude": 93.35,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Champhai District Budget Stay",
+                    "price_per_night": 849
+                },
+                {
+                    "hotel_name": "Champhai District Comfort Lodge",
+                    "price_per_night": 664
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Champhai District Grand Resort",
+                    "price_per_night": 4662
+                },
+                {
+                    "hotel_name": "Champhai District Royal Palace Hotel",
+                    "price_per_night": 4517
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Tuihnar Waterfalls",
+        "city_town": "Serchhip District",
+        "type": "Waterfall / Nature",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.33,
+        "longitude": 92.81,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Serchhip District Budget Stay",
+                    "price_per_night": 667
+                },
+                {
+                    "hotel_name": "Serchhip District Comfort Lodge",
+                    "price_per_night": 525
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Serchhip District Grand Resort",
+                    "price_per_night": 3757
+                },
+                {
+                    "hotel_name": "Serchhip District Royal Palace Hotel",
+                    "price_per_night": 11914
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Sairang Viewpoint",
+        "city_town": "Aizawl District",
+        "type": "Hills / Scenic View",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.75,
+        "longitude": 92.72,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Aizawl District Budget Stay",
+                    "price_per_night": 723
+                },
+                {
+                    "hotel_name": "Aizawl District Comfort Lodge",
+                    "price_per_night": 645
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Aizawl District Grand Resort",
+                    "price_per_night": 5122
+                },
+                {
+                    "hotel_name": "Aizawl District Royal Palace Hotel",
+                    "price_per_night": 7164
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Keitum Village",
+        "city_town": "Champhai District",
+        "type": "Heritage / Culture",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.68,
+        "longitude": 93.4,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Champhai District Budget Stay",
+                    "price_per_night": 435
+                },
+                {
+                    "hotel_name": "Champhai District Comfort Lodge",
+                    "price_per_night": 570
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Champhai District Grand Resort",
+                    "price_per_night": 7500
+                },
+                {
+                    "hotel_name": "Champhai District Royal Palace Hotel",
+                    "price_per_night": 4527
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Phullen Hills",
+        "city_town": "Kolasib District",
+        "type": "Hill / Nature",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.12,
+        "longitude": 92.65,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kolasib District Budget Stay",
+                    "price_per_night": 576
+                },
+                {
+                    "hotel_name": "Kolasib District Comfort Lodge",
+                    "price_per_night": 958
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kolasib District Grand Resort",
+                    "price_per_night": 3567
+                },
+                {
+                    "hotel_name": "Kolasib District Royal Palace Hotel",
+                    "price_per_night": 4456
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Khawbung Village",
+        "city_town": "Champhai District",
+        "type": "Heritage Village",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.65,
+        "longitude": 93.35,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Champhai District Budget Stay",
+                    "price_per_night": 785
+                },
+                {
+                    "hotel_name": "Champhai District Comfort Lodge",
+                    "price_per_night": 491
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Champhai District Grand Resort",
+                    "price_per_night": 7397
+                },
+                {
+                    "hotel_name": "Champhai District Royal Palace Hotel",
+                    "price_per_night": 4698
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Pukzing Village",
+        "city_town": "Lunglei District",
+        "type": "Cultural / Village",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 22.55,
+        "longitude": 92.67,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Lunglei District Budget Stay",
+                    "price_per_night": 885
+                },
+                {
+                    "hotel_name": "Lunglei District Comfort Lodge",
+                    "price_per_night": 902
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Lunglei District Grand Resort",
+                    "price_per_night": 8071
+                },
+                {
+                    "hotel_name": "Lunglei District Royal Palace Hotel",
+                    "price_per_night": 8721
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Tuivai River View",
+        "city_town": "Aizawl District",
+        "type": "River / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.73,
+        "longitude": 92.71,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Aizawl District Budget Stay",
+                    "price_per_night": 410
+                },
+                {
+                    "hotel_name": "Aizawl District Comfort Lodge",
+                    "price_per_night": 535
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Aizawl District Grand Resort",
+                    "price_per_night": 8889
+                },
+                {
+                    "hotel_name": "Aizawl District Royal Palace Hotel",
+                    "price_per_night": 7995
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Sibuta Waterfall",
+        "city_town": "Serchhip District",
+        "type": "Waterfall / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.32,
+        "longitude": 92.82,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Serchhip District Budget Stay",
+                    "price_per_night": 715
+                },
+                {
+                    "hotel_name": "Serchhip District Comfort Lodge",
+                    "price_per_night": 851
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Serchhip District Grand Resort",
+                    "price_per_night": 4323
+                },
+                {
+                    "hotel_name": "Serchhip District Royal Palace Hotel",
+                    "price_per_night": 11808
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Vancheng Viewpoint",
+        "city_town": "Aizawl District",
+        "type": "Hill / Viewpoint",
+        "hidden_gem": true,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.74,
+        "longitude": 92.72,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Aizawl District Budget Stay",
+                    "price_per_night": 847
+                },
+                {
+                    "hotel_name": "Aizawl District Comfort Lodge",
+                    "price_per_night": 853
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Aizawl District Grand Resort",
+                    "price_per_night": 6592
+                },
+                {
+                    "hotel_name": "Aizawl District Royal Palace Hotel",
+                    "price_per_night": 9790
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Hnahthial Village",
+        "city_town": "Hnahthial District",
+        "type": "Village / Nature",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 22.5,
+        "longitude": 92.9,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Hnahthial District Budget Stay",
+                    "price_per_night": 496
+                },
+                {
+                    "hotel_name": "Hnahthial District Comfort Lodge",
+                    "price_per_night": 882
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Hnahthial District Grand Resort",
+                    "price_per_night": 5609
+                },
+                {
+                    "hotel_name": "Hnahthial District Royal Palace Hotel",
+                    "price_per_night": 5682
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Chawngtlai Heritage Village",
+        "city_town": "Lawngtlai District",
+        "type": "Heritage / Culture",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 21.89,
+        "longitude": 92.9,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Lawngtlai District Budget Stay",
+                    "price_per_night": 632
+                },
+                {
+                    "hotel_name": "Lawngtlai District Comfort Lodge",
+                    "price_per_night": 567
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Lawngtlai District Grand Resort",
+                    "price_per_night": 3821
+                },
+                {
+                    "hotel_name": "Lawngtlai District Royal Palace Hotel",
+                    "price_per_night": 7432
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Sairang Picnic Spot",
+        "city_town": "Aizawl District",
+        "type": "Recreation / Nature",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.75,
+        "longitude": 92.72,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Aizawl District Budget Stay",
+                    "price_per_night": 488
+                },
+                {
+                    "hotel_name": "Aizawl District Comfort Lodge",
+                    "price_per_night": 634
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Aizawl District Grand Resort",
+                    "price_per_night": 5162
+                },
+                {
+                    "hotel_name": "Aizawl District Royal Palace Hotel",
+                    "price_per_night": 11703
+                }
+            ]
+        }
+    },
+    {
+        "state": "Mizoram",
+        "place_name": "Khawhai Village",
+        "city_town": "Champhai District",
+        "type": "Village / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.68,
+        "longitude": 93.35,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Champhai District Budget Stay",
+                    "price_per_night": 719
+                },
+                {
+                    "hotel_name": "Champhai District Comfort Lodge",
+                    "price_per_night": 882
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Champhai District Grand Resort",
+                    "price_per_night": 4398
+                },
+                {
+                    "hotel_name": "Champhai District Royal Palace Hotel",
+                    "price_per_night": 7364
+                }
+            ]
+        }
+    }
+]

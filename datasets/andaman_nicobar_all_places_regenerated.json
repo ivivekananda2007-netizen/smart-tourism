@@ -1,0 +1,1036 @@
+[
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Cellular Jail",
+    "city": "Port Blair",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 11.67,
+    "longitude": 92.73,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Port Blair",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Port Blair",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Corbyns Cove Beach",
+    "city": "Port Blair",
+    "type": "Beach",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 11.68,
+    "longitude": 92.74,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Port Blair",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Port Blair",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Ross Island (Netaji Subhas Chandra Bose Island)",
+    "city": "Port Blair",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 11.69,
+    "longitude": 92.75,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Port Blair",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Port Blair",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "North Bay Island",
+    "city": "Port Blair",
+    "type": "Beach",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 11.7,
+    "longitude": 92.76,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Port Blair",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Port Blair",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Chidiya Tapu",
+    "city": "Port Blair",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 11.71,
+    "longitude": 92.77,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Port Blair",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Port Blair",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Wandoor Beach",
+    "city": "Port Blair",
+    "type": "Beach",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 11.72,
+    "longitude": 92.78,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Port Blair",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Port Blair",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Mahatma Gandhi Marine National Park",
+    "city": "Wandoor",
+    "type": "Wildlife",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 11.73,
+    "longitude": 92.79,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Wandoor",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Wandoor",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Mount Harriet National Park",
+    "city": "Port Blair",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 11.74,
+    "longitude": 92.8,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Port Blair",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Port Blair",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Mini Zoo",
+    "city": "Port Blair",
+    "type": "Zoo",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 11.75,
+    "longitude": 92.81,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Port Blair",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Port Blair",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Samudrika Naval Marine Museum",
+    "city": "Port Blair",
+    "type": "Museum",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 11.76,
+    "longitude": 92.82,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Port Blair",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Port Blair",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Anthropological Museum",
+    "city": "Port Blair",
+    "type": "Museum",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 11.77,
+    "longitude": 92.83,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Port Blair",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Port Blair",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Chatham Saw Mill",
+    "city": "Port Blair",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 11.78,
+    "longitude": 92.84,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Port Blair",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Port Blair",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Coral Safari Jetty",
+    "city": "Port Blair",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 11.79,
+    "longitude": 92.85,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Port Blair",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Port Blair",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Havelock Island (Swaraj Dweep)",
+    "city": "Havelock",
+    "type": "Island",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 11.8,
+    "longitude": 92.86,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Havelock",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Havelock",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Radhanagar Beach",
+    "city": "Havelock",
+    "type": "Beach",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 11.81,
+    "longitude": 92.87,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Havelock",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Havelock",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Elephant Beach",
+    "city": "Havelock",
+    "type": "Beach",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 11.82,
+    "longitude": 92.88,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Havelock",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Havelock",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Kalapathar Beach",
+    "city": "Havelock",
+    "type": "Beach",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 11.83,
+    "longitude": 92.89,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Havelock",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Havelock",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Vijaynagar Beach",
+    "city": "Havelock",
+    "type": "Beach",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 11.84,
+    "longitude": 92.9,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Havelock",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Havelock",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Neil Island (Shaheed Dweep)",
+    "city": "Neil Island",
+    "type": "Island",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 11.85,
+    "longitude": 92.91,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Neil Island",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Neil Island",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Bharatpur Beach",
+    "city": "Neil Island",
+    "type": "Beach",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 11.86,
+    "longitude": 92.92,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Neil Island",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Neil Island",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Laxmanpur Beach",
+    "city": "Neil Island",
+    "type": "Beach",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 11.87,
+    "longitude": 92.93,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Neil Island",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Neil Island",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Sitapur Beach",
+    "city": "Neil Island",
+    "type": "Beach",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 11.88,
+    "longitude": 92.94,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Neil Island",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Neil Island",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Natural Bridge",
+    "city": "Neil Island",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 11.89,
+    "longitude": 92.95,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Neil Island",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Neil Island",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Baratang Island",
+    "city": "Baratang",
+    "type": "Island",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 11.9,
+    "longitude": 92.96,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Baratang",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Baratang",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Limestone Caves",
+    "city": "Baratang",
+    "type": "Cave",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 11.91,
+    "longitude": 92.97,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Baratang",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Baratang",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Mud Volcano",
+    "city": "Baratang",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 11.92,
+    "longitude": 92.98,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Baratang",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Baratang",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Parrot Island",
+    "city": "Baratang",
+    "type": "Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 11.93,
+    "longitude": 92.99,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Baratang",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Baratang",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Diglipur",
+    "city": "North Andaman",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 11.94,
+    "longitude": 93.0,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House North Andaman",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort North Andaman",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Ross and Smith Islands",
+    "city": "Diglipur",
+    "type": "Island",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 11.95,
+    "longitude": 93.01,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Diglipur",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Diglipur",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Saddle Peak National Park",
+    "city": "Diglipur",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 11.96,
+    "longitude": 93.02,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Diglipur",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Diglipur",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Kalipur Beach",
+    "city": "Diglipur",
+    "type": "Beach",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 11.97,
+    "longitude": 93.03,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Diglipur",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Diglipur",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Craggy Island",
+    "city": "Diglipur",
+    "type": "Island",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 11.98,
+    "longitude": 93.04,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Diglipur",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Diglipur",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Long Island",
+    "city": "Middle Andaman",
+    "type": "Island",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 11.99,
+    "longitude": 93.05,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Middle Andaman",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Middle Andaman",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Lalaji Bay Beach",
+    "city": "Long Island",
+    "type": "Beach",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 12.0,
+    "longitude": 93.06,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Long Island",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Long Island",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Merk Bay Beach",
+    "city": "Long Island",
+    "type": "Beach",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 12.01,
+    "longitude": 93.07,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Long Island",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Long Island",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Mayabunder",
+    "city": "Middle Andaman",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 12.02,
+    "longitude": 93.08,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Middle Andaman",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Middle Andaman",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Karmatang Beach",
+    "city": "Mayabunder",
+    "type": "Beach",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 12.03,
+    "longitude": 93.09,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Mayabunder",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Mayabunder",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "German Jetty",
+    "city": "Mayabunder",
+    "type": "Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 12.04,
+    "longitude": 93.1,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Mayabunder",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Mayabunder",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Rangat",
+    "city": "Middle Andaman",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 12.05,
+    "longitude": 93.11,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Middle Andaman",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Middle Andaman",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Amkunj Beach",
+    "city": "Rangat",
+    "type": "Beach",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 12.06,
+    "longitude": 93.12,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Rangat",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Rangat",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Cuthbert Bay Beach",
+    "city": "Rangat",
+    "type": "Beach",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 12.07,
+    "longitude": 93.13,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Rangat",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Rangat",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Little Andaman",
+    "city": "Little Andaman",
+    "type": "Island",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 12.08,
+    "longitude": 93.14,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Little Andaman",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Little Andaman",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Butler Bay Beach",
+    "city": "Little Andaman",
+    "type": "Beach",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 12.09,
+    "longitude": 93.15,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Little Andaman",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Little Andaman",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Whisper Wave Waterfall",
+    "city": "Little Andaman",
+    "type": "Waterfall",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 12.1,
+    "longitude": 93.16,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Little Andaman",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Little Andaman",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Barren Island Volcano",
+    "city": "Barren Island",
+    "type": "Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 12.11,
+    "longitude": 93.17,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Barren Island",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Barren Island",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Narcondam Island",
+    "city": "Narcondam",
+    "type": "Island",
+    "hidden_gem": false,
+    "visit_duration": "2-3 hours",
+    "place_budget_inr": 1200,
+    "budget_category": "medium",
+    "latitude": 12.12,
+    "longitude": 93.18,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Narcondam",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Narcondam",
+        "price_per_night_inr": 6500
+      }
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "place_name": "Interview Island",
+    "city": "Interview Island",
+    "type": "Wildlife",
+    "hidden_gem": true,
+    "visit_duration": "1-2 hours",
+    "place_budget_inr": 700,
+    "budget_category": "low",
+    "latitude": 12.13,
+    "longitude": 93.19,
+    "accommodation": {
+      "normal": {
+        "hotel_name": "Sea Breeze Guest House Interview Island",
+        "price_per_night_inr": 900
+      },
+      "luxury": {
+        "hotel_name": "Coral Reef Luxury Resort Interview Island",
+        "price_per_night_inr": 6500
+      }
+    }
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "state": "Gujarat",
+    "place_name": "Statue of Unity",
+    "city_town": "Kevadia",
+    "type": "Monument / Tourist Attraction",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 12000,
+    "latitude": 21.8380,
+    "longitude": 73.7191,
+    "budget_category": "High",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Kevadia Budget Inn", "price_per_night": 1800},
+        {"hotel_name": "Unity Comfort Lodge", "price_per_night": 1600}
+      ],
+      "luxury": [
+        {"hotel_name": "Tent City Narmada", "price_per_night": 12000},
+        {"hotel_name": "The Fern Sardar Sarovar Resort", "price_per_night": 9500}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Dwarkadhish Temple",
+    "city_town": "Dwarka",
+    "type": "Religious / Pilgrimage",
+    "hidden_gem": false,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 6000,
+    "latitude": 22.2442,
+    "longitude": 68.9685,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Hotel Shree Darshan", "price_per_night": 900},
+        {"hotel_name": "Dwarka Comfort Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "The Fern Sattva Resort Dwarka", "price_per_night": 6500},
+        {"hotel_name": "Hawthorn Suites Dwarka", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Somnath Temple",
+    "city_town": "Somnath",
+    "type": "Religious",
+    "hidden_gem": false,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 5500,
+    "latitude": 20.8880,
+    "longitude": 70.4012,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Somnath Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Temple View Lodge", "price_per_night": 750}
+      ],
+      "luxury": [
+        {"hotel_name": "The Fern Residency Somnath", "price_per_night": 6000},
+        {"hotel_name": "Lords Inn Somnath", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Rann of Kutch",
+    "city_town": "Dhordo",
+    "type": "Desert / Festival",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Days",
+    "budget_in_inr": 15000,
+    "latitude": 23.7337,
+    "longitude": 69.8597,
+    "budget_category": "High",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Dhordo Budget Camp", "price_per_night": 2000},
+        {"hotel_name": "White Rann Lodge", "price_per_night": 1800}
+      ],
+      "luxury": [
+        {"hotel_name": "Rann Utsav Tent City", "price_per_night": 15000},
+        {"hotel_name": "Shaam-e-Sarhad Resort", "price_per_night": 9000}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Gir National Park",
+    "city_town": "Sasan Gir",
+    "type": "Wildlife Sanctuary",
+    "hidden_gem": false,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 9000,
+    "latitude": 21.1240,
+    "longitude": 70.8240,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Gir Jungle Lodge", "price_per_night": 950},
+        {"hotel_name": "Lion Park Guest House", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "The Fern Gir Forest Resort", "price_per_night": 8500},
+        {"hotel_name": "Gir Serai IHCL", "price_per_night": 11000}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Saputara",
+    "city_town": "Saputara",
+    "type": "Hill Station",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Days",
+    "budget_in_inr": 8000,
+    "latitude": 20.5783,
+    "longitude": 73.7486,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Lake View Lodge", "price_per_night": 950},
+        {"hotel_name": "Hilltop Budget Stay", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Aakar Lords Inn", "price_per_night": 7500},
+        {"hotel_name": "Hotel Anando", "price_per_night": 8200}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Polo Forest",
+    "city_town": "Vijaynagar",
+    "type": "Nature / Hidden Gem",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 3000,
+    "latitude": 23.7636,
+    "longitude": 73.1011,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Polo Retreat Camp", "price_per_night": 700},
+        {"hotel_name": "Forest View Homestay", "price_per_night": 600}
+      ],
+      "luxury": [
+        {"hotel_name": "Polo Heritage Resort", "price_per_night": 4500},
+        {"hotel_name": "Aravalli Nature Resort", "price_per_night": 5200}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Mandvi Beach",
+    "city_town": "Mandvi",
+    "type": "Beach / Hidden Gem",
+    "hidden_gem": true,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 5000,
+    "latitude": 22.8336,
+    "longitude": 69.3770,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Mandvi Guest House", "price_per_night": 750},
+        {"hotel_name": "Hotel Rukmavati Budget", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Vijay Vilas Heritage Resort", "price_per_night": 8500},
+        {"hotel_name": "Mandvi Beach Resort", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Ahmedabad City",
+    "city_town": "Ahmedabad",
+    "type": "City / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Days",
+    "budget_in_inr": 7000,
+    "latitude": 23.0225,
+    "longitude": 72.5714,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Ahmedabad Budget Inn", "price_per_night": 950},
+        {"hotel_name": "City Comfort Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Hyatt Regency Ahmedabad", "price_per_night": 9000},
+        {"hotel_name": "ITC Narmada", "price_per_night": 11000}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Vadodara",
+    "city_town": "Vadodara",
+    "type": "City / Cultural",
+    "hidden_gem": false,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 6500,
+    "latitude": 22.3072,
+    "longitude": 73.1812,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Vadodara Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Sayaji Guest Inn", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Sayaji Hotel Vadodara", "price_per_night": 8500},
+        {"hotel_name": "Vivanta Vadodara", "price_per_night": 9200}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Bhuj",
+    "city_town": "Bhuj",
+    "type": "Heritage / Desert",
+    "hidden_gem": false,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 6000,
+    "latitude": 23.2445,
+    "longitude": 69.6669,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Bhuj Budget Inn", "price_per_night": 900},
+        {"hotel_name": "Kutch Comfort Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Regenta Resort Bhuj", "price_per_night": 8000},
+        {"hotel_name": "Seven Sky Clarks Exotica", "price_per_night": 8800}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Patan (Rani ki Vav)",
+    "city_town": "Patan",
+    "type": "Heritage",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4000,
+    "latitude": 23.8500,
+    "longitude": 72.1260,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Patan Guest House", "price_per_night": 700},
+        {"hotel_name": "Rani Inn", "price_per_night": 650}
+      ],
+      "luxury": [
+        {"hotel_name": "Heritage Palace Patan", "price_per_night": 5500},
+        {"hotel_name": "Royal Haveli Resort", "price_per_night": 6000}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Modhera Sun Temple",
+    "city_town": "Modhera",
+    "type": "Heritage / Temple",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 3500,
+    "latitude": 23.8127,
+    "longitude": 72.6272,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Modhera Budget Lodge", "price_per_night": 600},
+        {"hotel_name": "Sun View Guest House", "price_per_night": 750}
+      ],
+      "luxury": [
+        {"hotel_name": "Heritage Sun Resort", "price_per_night": 5000},
+        {"hotel_name": "Royal Modhera Retreat", "price_per_night": 5800}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Champaner-Pavagadh",
+    "city_town": "Champaner",
+    "type": "UNESCO Heritage / Fort",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 4500,
+    "latitude": 22.5030,
+    "longitude": 73.6180,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Champaner Lodge", "price_per_night": 700},
+        {"hotel_name": "Pavagadh Budget Stay", "price_per_night": 800}
+      ],
+      "luxury": [
+        {"hotel_name": "Champaner Heritage Resort", "price_per_night": 6500},
+        {"hotel_name": "Royal Pavagadh Retreat", "price_per_night": 7000}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Palitana Temples",
+    "city_town": "Palitana",
+    "type": "Religious / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 5000,
+    "latitude": 21.7667,
+    "longitude": 72.4300,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Palitana Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Temple View Guest House", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Vijay Vilas Palace Palitana", "price_per_night": 7500},
+        {"hotel_name": "Heritage Hill Resort", "price_per_night": 6800}
+      ]
+    }
+  },
+{
+    "state": "Gujarat",
+    "place_name": "Junagadh",
+    "city_town": "Junagadh",
+    "type": "Heritage / Fort",
+    "hidden_gem": false,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 5500,
+    "latitude": 21.5222,
+    "longitude": 70.4579,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Junagadh Comfort Inn", "price_per_night": 900},
+        {"hotel_name": "Girnar View Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Bellevue Sarovar Portico", "price_per_night": 7800},
+        {"hotel_name": "Royal Heritage Palace", "price_per_night": 9000}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Zanzari Waterfalls",
+    "city_town": "Dehgam",
+    "type": "Nature / Hidden Gem",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 2500,
+    "latitude": 23.2167,
+    "longitude": 72.6833,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Dehgam Budget Inn", "price_per_night": 600},
+        {"hotel_name": "Waterfall View Lodge", "price_per_night": 700}
+      ],
+      "luxury": [
+        {"hotel_name": "Zanzari Riverside Resort", "price_per_night": 5500},
+        {"hotel_name": "Royal Waterfall Resort", "price_per_night": 6200}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Wilson Hills",
+    "city_town": "Valsad",
+    "type": "Hill Station / Hidden Gem",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 4000,
+    "latitude": 20.3830,
+    "longitude": 73.4500,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Wilson Hill Lodge", "price_per_night": 750},
+        {"hotel_name": "Hilltop Budget Stay", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Wilson Hills Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Hills Retreat", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Dholavira",
+    "city_town": "Kutch",
+    "type": "Archaeological / Hidden Gem",
+    "hidden_gem": true,
+    "visit_duration": "2 Days",
+    "budget_in_inr": 5000,
+    "latitude": 23.8545,
+    "longitude": 70.2297,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Dholavira Budget Camp", "price_per_night": 800},
+        {"hotel_name": "Harappan Guest House", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Rann Resort Dholavira", "price_per_night": 8500},
+        {"hotel_name": "Luxury Desert Retreat", "price_per_night": 9000}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Nalsarovar Bird Sanctuary",
+    "city_town": "Nalsarovar",
+    "type": "Wildlife / Hidden Gem",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 3000,
+    "latitude": 23.1200,
+    "longitude": 72.6000,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Nalsarovar Budget Stay", "price_per_night": 700},
+        {"hotel_name": "Bird View Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Nalsarovar Resort", "price_per_night": 6500},
+        {"hotel_name": "Luxury Wetland Stay", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Lothal Archaeological Site",
+    "city_town": "Lothal",
+    "type": "Heritage / Archaeology",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 3500,
+    "latitude": 22.5319,
+    "longitude": 72.4022,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Lothal Guest House", "price_per_night": 650},
+        {"hotel_name": "Heritage Budget Stay", "price_per_night": 750}
+      ],
+      "luxury": [
+        {"hotel_name": "Lothal Heritage Resort", "price_per_night": 5200},
+        {"hotel_name": "Luxury Archaeology Lodge", "price_per_night": 5800}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Tapi Riverfront",
+    "city_town": "Surat",
+    "type": "Nature / Urban",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 5000,
+    "latitude": 21.1702,
+    "longitude": 72.8311,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Surat Budget Inn", "price_per_night": 800},
+        {"hotel_name": "Riverside Guest House", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "The Fern Surya Resort", "price_per_night": 7500},
+        {"hotel_name": "Tapi Luxury Stay", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Barda Wildlife Sanctuary",
+    "city_town": "Porbandar",
+    "type": "Wildlife",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 4000,
+    "latitude": 21.6560,
+    "longitude": 69.6350,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Barda Budget Lodge", "price_per_night": 700},
+        {"hotel_name": "Wildlife Guest Stay", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Barda Luxury Resort", "price_per_night": 6800},
+        {"hotel_name": "Royal Wildlife Camp", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Mandvi Shipbuilding Yard",
+    "city_town": "Mandvi",
+    "type": "Cultural / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 3000,
+    "latitude": 22.8336,
+    "longitude": 69.3770,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Mandvi Cultural Stay", "price_per_night": 600},
+        {"hotel_name": "Shipyard Guest House", "price_per_night": 750}
+      ],
+      "luxury": [
+        {"hotel_name": "Mandvi Heritage Resort", "price_per_night": 5000},
+        {"hotel_name": "Luxury Coastal Retreat", "price_per_night": 5800}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Saputara Lake",
+    "city_town": "Saputara",
+    "type": "Lake / Hill Station",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 4500,
+    "latitude": 20.5730,
+    "longitude": 73.7470,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Lake View Budget Inn", "price_per_night": 850},
+        {"hotel_name": "Saputara Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Saputara Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Hilltop Royal Stay", "price_per_night": 7200}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Bhavnagar",
+    "city_town": "Bhavnagar",
+    "type": "City / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 5500,
+    "latitude": 21.7645,
+    "longitude": 72.1519,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Bhavnagar Budget Stay", "price_per_night": 900},
+        {"hotel_name": "City Comfort Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "The Fern Bhavnagar", "price_per_night": 7800},
+        {"hotel_name": "Royal Heritage Bhavnagar", "price_per_night": 8500}
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "place_name": "Gondal",
+    "city_town": "Gondal",
+    "type": "Cultural / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4000,
+    "latitude": 21.9641,
+    "longitude": 70.8180,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Gondal Budget Inn", "price_per_night": 750},
+        {"hotel_name": "Heritage Guest House", "price_per_night": 800}
+      ],
+      "luxury": [
+        {"hotel_name": "Royal Heritage Gondal", "price_per_night": 6800},
+        {"hotel_name": "Gondal Palace Resort", "price_per_night": 7200}
+      ]
+    }
+  }
+]

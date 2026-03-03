@@ -1,0 +1,728 @@
+[
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Khajuraho Temples",
+    "city_town": "Khajuraho",
+    "type": "Heritage / Religious",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 6000,
+    "latitude": 24.8316,
+    "longitude": 79.9196,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Khajuraho Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Temple View Lodge", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Radisson Khajuraho", "price_per_night": 7500},
+        {"hotel_name": "Ramada Khajuraho", "price_per_night": 8200}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Bandhavgarh National Park",
+    "city_town": "Umaria",
+    "type": "Wildlife / Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Days",
+    "budget_in_inr": 7000,
+    "latitude": 23.6772,
+    "longitude": 81.0096,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Bandhavgarh Budget Lodge", "price_per_night": 950},
+        {"hotel_name": "Tiger Safari Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Bandhavgarh Jungle Lodge", "price_per_night": 8000},
+        {"hotel_name": "Mahua Kothi Resort", "price_per_night": 8500}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Kanha National Park",
+    "city_town": "Kanha",
+    "type": "Wildlife / Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Days",
+    "budget_in_inr": 7500,
+    "latitude": 22.3343,
+    "longitude": 81.3500,
+    "budget_category": "High",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Kanha Budget Lodge", "price_per_night": 1000},
+        {"hotel_name": "Wildlife Inn Kanha", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Banjaar Tola Resort", "price_per_night": 9000},
+        {"hotel_name": "Kanha Jungle Retreat", "price_per_night": 9500}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Sanchi Stupa",
+    "city_town": "Sanchi",
+    "type": "Heritage / Religious",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 4500,
+    "latitude": 23.4860,
+    "longitude": 77.7380,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Sanchi Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Heritage Lodge Sanchi", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Sanchi Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Heritage Stay", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Gwalior Fort",
+    "city_town": "Gwalior",
+    "type": "Heritage / Fort",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 5000,
+    "latitude": 26.2183,
+    "longitude": 78.1828,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Gwalior Budget Stay", "price_per_night": 850},
+        {"hotel_name": "Fort View Lodge Gwalior", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Clarks Inn Gwalior", "price_per_night": 7200},
+        {"hotel_name": "Royal Heritage Resort Gwalior", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Orchha",
+    "city_town": "Orchha",
+    "type": "Heritage / Town",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 4500,
+    "latitude": 26.4940,
+    "longitude": 78.6160,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Orchha Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Heritage Lodge Orchha", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Orchha Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Heritage Stay Orchha", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Bhimbetka Rock Shelters",
+    "city_town": "Raisen",
+    "type": "Heritage / Archeology",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 4000,
+    "latitude": 23.6820,
+    "longitude": 77.4890,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Raisen Budget Stay", "price_per_night": 750},
+        {"hotel_name": "Rock Shelter Lodge", "price_per_night": 800}
+      ],
+      "luxury": [
+        {"hotel_name": "Bhimbetka Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Heritage Stay Raisen", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Jabalpur – Dhuandhar Falls",
+    "city_town": "Jabalpur",
+    "type": "Nature / Waterfall",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 5000,
+    "latitude": 23.1660,
+    "longitude": 79.9380,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Jabalpur Budget Stay", "price_per_night": 850},
+        {"hotel_name": "Falls View Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Luxury Resort Jabalpur", "price_per_night": 7200},
+        {"hotel_name": "Royal Stay Jabalpur", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Pachmarhi",
+    "city_town": "Pachmarhi",
+    "type": "Hill Station / Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Days",
+    "budget_in_inr": 7000,
+    "latitude": 22.4660,
+    "longitude": 78.2630,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Pachmarhi Budget Lodge", "price_per_night": 900},
+        {"hotel_name": "Hilltop Guest House Pachmarhi", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "WelcomHeritage Pachmarhi", "price_per_night": 8000},
+        {"hotel_name": "Pachmarhi Royal Retreat", "price_per_night": 8500}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Mandu (Mandavgarh)",
+    "city_town": "Mandu",
+    "type": "Heritage / Fort",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 5000,
+    "latitude": 22.0240,
+    "longitude": 75.3160,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Mandu Budget Stay", "price_per_night": 850},
+        {"hotel_name": "Fort View Lodge Mandu", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Royal Heritage Resort Mandu", "price_per_night": 7200},
+        {"hotel_name": "Luxury Stay Mandu", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Chitrakoot",
+    "city_town": "Chitrakoot",
+    "type": "Religious / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 4500,
+    "latitude": 25.2000,
+    "longitude": 80.8750,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Chitrakoot Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Riverside Lodge Chitrakoot", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Chitrakoot Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Heritage Stay Chitrakoot", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Gandhi Sagar Dam",
+    "city_town": "Mandsaur",
+    "type": "Nature / Dam",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 4000,
+    "latitude": 24.5250,
+    "longitude": 75.7120,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Mandsaur Budget Stay", "price_per_night": 750},
+        {"hotel_name": "Dam View Lodge", "price_per_night": 800}
+      ],
+      "luxury": [
+        {"hotel_name": "Gandhi Sagar Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Stay Dam View", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Omkareshwar",
+    "city_town": "Omkareshwar",
+    "type": "Religious / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4500,
+    "latitude": 22.2167,
+    "longitude": 76.1667,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Omkareshwar Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Riverside Lodge Omkareshwar", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Omkareshwar Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Heritage Stay Omkareshwar", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Pachmarhi – Bee Falls",
+    "city_town": "Pachmarhi",
+    "type": "Nature / Waterfall",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 5000,
+    "latitude": 22.4660,
+    "longitude": 78.2660,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Pachmarhi Budget Lodge", "price_per_night": 850},
+        {"hotel_name": "Falls View Inn", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Pachmarhi Luxury Resort", "price_per_night": 7200},
+        {"hotel_name": "Royal Stay Pachmarhi", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Raisen Fort",
+    "city_town": "Raisen",
+    "type": "Heritage / Fort",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 4500,
+    "latitude": 23.4330,
+    "longitude": 77.5000,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Raisen Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Fort View Lodge Raisen", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Raisen Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Heritage Stay Raisen", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Mandu – Jahaz Mahal",
+    "city_town": "Mandu",
+    "type": "Heritage / Palace",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 5000,
+    "latitude": 22.0220,
+    "longitude": 75.3180,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Mandu Budget Stay", "price_per_night": 850},
+        {"hotel_name": "Palace View Lodge", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Mandu Luxury Palace Stay", "price_per_night": 7200},
+        {"hotel_name": "Royal Heritage Resort Mandu", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Kanha – Kisli Village",
+    "city_town": "Kanha",
+    "type": "Nature / Village",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4500,
+    "latitude": 22.3500,
+    "longitude": 81.3500,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Kisli Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Village Lodge Kanha", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Kanha Luxury Retreat", "price_per_night": 7000},
+        {"hotel_name": "Royal Jungle Stay Kanha", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Bhopal – Upper Lake",
+    "city_town": "Bhopal",
+    "type": "Nature / Scenic",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 5500,
+    "latitude": 23.2433,
+    "longitude": 77.4256,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Bhopal Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Lake View Lodge Bhopal", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Bhopal Luxury Resort", "price_per_night": 8500},
+        {"hotel_name": "Royal Seaview Stay Bhopal", "price_per_night": 9000}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Ujjain – Mahakaleshwar Temple",
+    "city_town": "Ujjain",
+    "type": "Religious / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 5000,
+    "latitude": 23.1767,
+    "longitude": 75.7880,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Ujjain Budget Stay", "price_per_night": 850},
+        {"hotel_name": "Temple View Lodge Ujjain", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Mahakaleshwar Luxury Stay", "price_per_night": 7200},
+        {"hotel_name": "Royal Heritage Resort Ujjain", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Khajuraho – Western Group of Temples",
+    "city_town": "Khajuraho",
+    "type": "Heritage / Religious",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 6000,
+    "latitude": 24.8310,
+    "longitude": 79.9185,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Khajuraho Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Temple View Lodge", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Radisson Khajuraho", "price_per_night": 7500},
+        {"hotel_name": "Ramada Khajuraho", "price_per_night": 8200}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Gwalior – Jai Vilas Palace",
+    "city_town": "Gwalior",
+    "type": "Heritage / Palace",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 5500,
+    "latitude": 26.2235,
+    "longitude": 78.1820,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Gwalior Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Palace View Lodge Gwalior", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Clarks Inn Gwalior", "price_per_night": 8500},
+        {"hotel_name": "Royal Heritage Palace Stay", "price_per_night": 9000}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Sanchi – Great Stupa",
+    "city_town": "Sanchi",
+    "type": "Heritage / Religious",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 5000,
+    "latitude": 23.4860,
+    "longitude": 77.7380,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Sanchi Budget Stay", "price_per_night": 850},
+        {"hotel_name": "Heritage Lodge Sanchi", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Sanchi Luxury Resort", "price_per_night": 7200},
+        {"hotel_name": "Royal Heritage Stay", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Panchmarhi – Apsara Vihar",
+    "city_town": "Pachmarhi",
+    "type": "Nature / Waterfall",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 4500,
+    "latitude": 22.4700,
+    "longitude": 78.2700,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Pachmarhi Budget Lodge", "price_per_night": 800},
+        {"hotel_name": "Falls View Inn Pachmarhi", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Pachmarhi Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Stay Pachmarhi", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Rewa – Rani Durgavati Fort",
+    "city_town": "Rewa",
+    "type": "Heritage / Fort",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 4500,
+    "latitude": 24.5320,
+    "longitude": 81.3340,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Rewa Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Fort View Lodge Rewa", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Rewa Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Fort Stay Rewa", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Omkareshwar – Mandhata Island",
+    "city_town": "Omkareshwar",
+    "type": "Religious / Island",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4500,
+    "latitude": 22.2160,
+    "longitude": 76.1670,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Omkareshwar Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Island View Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Omkareshwar Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Island Retreat", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Khajuraho – Eastern Group of Temples",
+    "city_town": "Khajuraho",
+    "type": "Heritage / Religious",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 5000,
+    "latitude": 24.8330,
+    "longitude": 79.9210,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Khajuraho Budget Stay", "price_per_night": 850},
+        {"hotel_name": "Temple View Lodge East", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Radisson Khajuraho East", "price_per_night": 7200},
+        {"hotel_name": "Ramada Luxury Stay Khajuraho", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Chanderi",
+    "city_town": "Chanderi",
+    "type": "Heritage / Town",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4500,
+    "latitude": 24.7200,
+    "longitude": 78.0700,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Chanderi Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Heritage Lodge Chanderi", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Chanderi Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Heritage Stay Chanderi", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Maheshwar Fort",
+    "city_town": "Maheshwar",
+    "type": "Heritage / Fort",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 4500,
+    "latitude": 22.1490,
+    "longitude": 76.0350,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Maheshwar Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Fort View Lodge Maheshwar", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Maheshwar Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Heritage Stay Maheshwar", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Panna National Park",
+    "city_town": "Panna",
+    "type": "Wildlife / Nature",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Days",
+    "budget_in_inr": 7000,
+    "latitude": 24.7140,
+    "longitude": 80.0090,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Panna Budget Lodge", "price_per_night": 900},
+        {"hotel_name": "Wildlife Inn Panna", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Panna Luxury Safari Resort", "price_per_night": 8000},
+        {"hotel_name": "Royal Jungle Stay Panna", "price_per_night": 8500}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Gwalior – Sas Bahu Temples",
+    "city_town": "Gwalior",
+    "type": "Heritage / Religious",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 5000,
+    "latitude": 26.2180,
+    "longitude": 78.1825,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Gwalior Budget Stay", "price_per_night": 850},
+        {"hotel_name": "Temple View Lodge Gwalior", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Royal Heritage Stay Gwalior", "price_per_night": 7200},
+        {"hotel_name": "Luxury Resort Gwalior", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Bhedaghat – Marble Rocks",
+    "city_town": "Jabalpur",
+    "type": "Nature / Scenic",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 5500,
+    "latitude": 23.1080,
+    "longitude": 79.9330,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Jabalpur Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Marble View Lodge", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Luxury Resort Jabalpur", "price_per_night": 8500},
+        {"hotel_name": "Royal Stay Bhedaghat", "price_per_night": 9000}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Indore – Rajwada Palace",
+    "city_town": "Indore",
+    "type": "Heritage / Palace",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 5000,
+    "latitude": 22.7196,
+    "longitude": 75.8577,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Indore Budget Stay", "price_per_night": 850},
+        {"hotel_name": "Palace View Lodge Indore", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Royal Heritage Stay Indore", "price_per_night": 7200},
+        {"hotel_name": "Luxury Palace Resort Indore", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "place_name": "Chhatarpur – Jejak Bharti",
+    "city_town": "Chhatarpur",
+    "type": "Heritage / Temple",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 4500,
+    "latitude": 24.8500,
+    "longitude": 79.6000,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Chhatarpur Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Temple View Lodge Chhatarpur", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Chhatarpur Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Heritage Stay Chhatarpur", "price_per_night": 7500}
+      ]
+    }
+  }
+]

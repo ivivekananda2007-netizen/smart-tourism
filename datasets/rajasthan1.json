@@ -1,0 +1,644 @@
+[
+  {
+    "state": "Rajasthan",
+    "place_name": "Amber Fort",
+    "city_town": "Jaipur",
+    "type": "Historical Fort / Palace",
+    "hidden_gem": false,
+    "visit_duration": "3-4 Hours",
+    "budget_in_inr": 1200,
+    "latitude": 26.9855,
+    "longitude": 75.8513,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Jaipur Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Jaipur Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Jaipur Grand Resort", "price_per_night": 7500 },
+        { "hotel_name": "Jaipur Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "City Palace",
+    "city_town": "Jaipur",
+    "type": "Palace / Museum",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 800,
+    "latitude": 26.9258,
+    "longitude": 75.8267,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Jaipur Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Jaipur Comfort Lodge", "price_per_night": 1250 }
+      ],
+      "luxury": [
+        { "hotel_name": "Jaipur Grand Resort", "price_per_night": 7600 },
+        { "hotel_name": "Jaipur Royal Palace Hotel", "price_per_night": 8700 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Hawa Mahal",
+    "city_town": "Jaipur",
+    "type": "Historical Palace / Landmark",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 600,
+    "latitude": 26.9239,
+    "longitude": 75.8267,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Jaipur Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Jaipur Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Jaipur Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Jaipur Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Jantar Mantar",
+    "city_town": "Jaipur",
+    "type": "Historical / Astronomical",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 500,
+    "latitude": 26.9240,
+    "longitude": 75.8267,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Jaipur Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Jaipur Comfort Lodge", "price_per_night": 1150 }
+      ],
+      "luxury": [
+        { "hotel_name": "Jaipur Grand Resort", "price_per_night": 7500 },
+        { "hotel_name": "Jaipur Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Nahargarh Fort",
+    "city_town": "Jaipur",
+    "type": "Historical Fort",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 1000,
+    "latitude": 26.9811,
+    "longitude": 75.8410,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Jaipur Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Jaipur Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Jaipur Grand Resort", "price_per_night": 7500 },
+        { "hotel_name": "Jaipur Royal Palace Hotel", "price_per_night": 8700 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Mehrangarh Fort",
+    "city_town": "Jodhpur",
+    "type": "Historical Fort / Museum",
+    "hidden_gem": false,
+    "visit_duration": "3-4 Hours",
+    "budget_in_inr": 1200,
+    "latitude": 26.2950,
+    "longitude": 73.0350,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Jodhpur Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Jodhpur Comfort Lodge", "price_per_night": 1250 }
+      ],
+      "luxury": [
+        { "hotel_name": "Jodhpur Grand Resort", "price_per_night": 7800 },
+        { "hotel_name": "Jodhpur Royal Palace Hotel", "price_per_night": 8800 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Umaid Bhawan Palace",
+    "city_town": "Jodhpur",
+    "type": "Palace / Museum",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 2000,
+    "latitude": 26.2958,
+    "longitude": 73.0360,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Jodhpur Budget Stay", "price_per_night": 1000 },
+        { "hotel_name": "Jodhpur Comfort Lodge", "price_per_night": 1300 }
+      ],
+      "luxury": [
+        { "hotel_name": "Jodhpur Grand Resort", "price_per_night": 9000 },
+        { "hotel_name": "Jodhpur Royal Palace Hotel", "price_per_night": 9800 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Jaswant Thada",
+    "city_town": "Jodhpur",
+    "type": "Memorial / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 600,
+    "latitude": 26.3010,
+    "longitude": 73.0340,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Jodhpur Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Jodhpur Comfort Lodge", "price_per_night": 1150 }
+      ],
+      "luxury": [
+        { "hotel_name": "Jodhpur Grand Resort", "price_per_night": 7800 },
+        { "hotel_name": "Jodhpur Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "City Palace",
+    "city_town": "Udaipur",
+    "type": "Palace / Museum",
+    "hidden_gem": false,
+    "visit_duration": "3-4 Hours",
+    "budget_in_inr": 1200,
+    "latitude": 24.5761,
+    "longitude": 73.6835,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Udaipur Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Udaipur Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Udaipur Grand Resort", "price_per_night": 7600 },
+        { "hotel_name": "Udaipur Royal Palace Hotel", "price_per_night": 8800 }
+      ]
+    }
+  }
+]
+[
+  {
+    "state": "Rajasthan",
+    "place_name": "Jaisalmer Fort",
+    "city_town": "Jaisalmer",
+    "type": "Historical Fort / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "3-4 Hours",
+    "budget_in_inr": 1200,
+    "latitude": 26.9157,
+    "longitude": 70.9083,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Jaisalmer Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Jaisalmer Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Jaisalmer Grand Resort", "price_per_night": 7500 },
+        { "hotel_name": "Jaisalmer Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Patwon Ki Haveli",
+    "city_town": "Jaisalmer",
+    "type": "Heritage Palace",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 800,
+    "latitude": 26.9150,
+    "longitude": 70.9070,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Jaisalmer Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Jaisalmer Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Jaisalmer Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Jaisalmer Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Sam Sand Dunes",
+    "city_town": "Jaisalmer",
+    "type": "Desert / Nature",
+    "hidden_gem": false,
+    "visit_duration": "Half Day - Full Day",
+    "budget_in_inr": 1500,
+    "latitude": 26.9150,
+    "longitude": 70.9100,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Jaisalmer Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Jaisalmer Comfort Lodge", "price_per_night": 1300 }
+      ],
+      "luxury": [
+        { "hotel_name": "Jaisalmer Grand Resort", "price_per_night": 7600 },
+        { "hotel_name": "Jaisalmer Royal Palace Hotel", "price_per_night": 8800 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Gadisar Lake",
+    "city_town": "Jaisalmer",
+    "type": "Lake / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 600,
+    "latitude": 26.9180,
+    "longitude": 70.9060,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Jaisalmer Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Jaisalmer Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Jaisalmer Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Jaisalmer Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Ranthambore National Park",
+    "city_town": "Sawai Madhopur",
+    "type": "Wildlife / Nature",
+    "hidden_gem": false,
+    "visit_duration": "1 Day - 2 Days",
+    "budget_in_inr": 2500,
+    "latitude": 26.0171,
+    "longitude": 76.5026,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Sawai Madhopur Budget Stay", "price_per_night": 1200 },
+        { "hotel_name": "Sawai Madhopur Comfort Lodge", "price_per_night": 1500 }
+      ],
+      "luxury": [
+        { "hotel_name": "Sawai Madhopur Grand Resort", "price_per_night": 8000 },
+        { "hotel_name": "Sawai Madhopur Royal Palace Hotel", "price_per_night": 9200 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Pushkar Lake",
+    "city_town": "Pushkar",
+    "type": "Religious / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 1000,
+    "latitude": 26.4900,
+    "longitude": 74.5550,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Pushkar Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Pushkar Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Pushkar Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Pushkar Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Brahma Temple",
+    "city_town": "Pushkar",
+    "type": "Religious Temple",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 600,
+    "latitude": 26.4850,
+    "longitude": 74.5555,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Pushkar Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Pushkar Comfort Lodge", "price_per_night": 1050 }
+      ],
+      "luxury": [
+        { "hotel_name": "Pushkar Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Pushkar Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Mount Abu",
+    "city_town": "Mount Abu",
+    "type": "Hill Station / Nature",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 2500,
+    "latitude": 24.5933,
+    "longitude": 72.7156,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Mount Abu Budget Stay", "price_per_night": 1200 },
+        { "hotel_name": "Mount Abu Comfort Lodge", "price_per_night": 1500 }
+      ],
+      "luxury": [
+        { "hotel_name": "Mount Abu Grand Resort", "price_per_night": 8500 },
+        { "hotel_name": "Mount Abu Royal Palace Hotel", "price_per_night": 9500 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Dilwara Temples",
+    "city_town": "Mount Abu",
+    "type": "Religious / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 1000,
+    "latitude": 24.5925,
+    "longitude": 72.7120,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Mount Abu Budget Stay", "price_per_night": 1000 },
+        { "hotel_name": "Mount Abu Comfort Lodge", "price_per_night": 1400 }
+      ],
+      "luxury": [
+        { "hotel_name": "Mount Abu Grand Resort", "price_per_night": 8800 },
+        { "hotel_name": "Mount Abu Royal Palace Hotel", "price_per_night": 9500 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Kumbhalgarh Fort",
+    "city_town": "Kumbhalgarh",
+    "type": "Historical Fort / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "3-4 Hours",
+    "budget_in_inr": 1500,
+    "latitude": 25.1570,
+    "longitude": 73.5800,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Kumbhalgarh Budget Stay", "price_per_night": 1100 },
+        { "hotel_name": "Kumbhalgarh Comfort Lodge", "price_per_night": 1400 }
+      ],
+      "luxury": [
+        { "hotel_name": "Kumbhalgarh Grand Resort", "price_per_night": 8000 },
+        { "hotel_name": "Kumbhalgarh Royal Palace Hotel", "price_per_night": 9000 }
+      ]
+    }
+  }
+]
+[
+  {
+    "state": "Rajasthan",
+    "place_name": "Chittorgarh Fort",
+    "city_town": "Chittorgarh",
+    "type": "Historical Fort / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "3-4 Hours",
+    "budget_in_inr": 1200,
+    "latitude": 24.8883,
+    "longitude": 74.6269,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Chittorgarh Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Chittorgarh Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Chittorgarh Grand Resort", "price_per_night": 7500 },
+        { "hotel_name": "Chittorgarh Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Fateh Sagar Lake",
+    "city_town": "Udaipur",
+    "type": "Lake / Leisure",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 800,
+    "latitude": 24.5825,
+    "longitude": 73.6723,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Udaipur Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Udaipur Comfort Lodge", "price_per_night": 1250 }
+      ],
+      "luxury": [
+        { "hotel_name": "Udaipur Grand Resort", "price_per_night": 7600 },
+        { "hotel_name": "Udaipur Royal Palace Hotel", "price_per_night": 8800 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Lake Pichola",
+    "city_town": "Udaipur",
+    "type": "Lake / Leisure / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 1000,
+    "latitude": 24.5770,
+    "longitude": 73.6800,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Udaipur Budget Stay", "price_per_night": 1000 },
+        { "hotel_name": "Udaipur Comfort Lodge", "price_per_night": 1400 }
+      ],
+      "luxury": [
+        { "hotel_name": "Udaipur Grand Resort", "price_per_night": 7800 },
+        { "hotel_name": "Udaipur Royal Palace Hotel", "price_per_night": 8800 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Jagdish Temple",
+    "city_town": "Udaipur",
+    "type": "Religious / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 500,
+    "latitude": 24.5850,
+    "longitude": 73.6820,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Udaipur Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Udaipur Comfort Lodge", "price_per_night": 1150 }
+      ],
+      "luxury": [
+        { "hotel_name": "Udaipur Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Udaipur Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Junagarh Fort",
+    "city_town": "Bikaner",
+    "type": "Historical Fort",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 1200,
+    "latitude": 28.0220,
+    "longitude": 73.3110,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Bikaner Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Bikaner Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Bikaner Grand Resort", "price_per_night": 7500 },
+        { "hotel_name": "Bikaner Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Lalgarh Palace",
+    "city_town": "Bikaner",
+    "type": "Palace / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 1500,
+    "latitude": 28.0225,
+    "longitude": 73.3120,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Bikaner Budget Stay", "price_per_night": 1000 },
+        { "hotel_name": "Bikaner Comfort Lodge", "price_per_night": 1300 }
+      ],
+      "luxury": [
+        { "hotel_name": "Bikaner Grand Resort", "price_per_night": 7800 },
+        { "hotel_name": "Bikaner Royal Palace Hotel", "price_per_night": 8800 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Karni Mata Temple",
+    "city_town": "Deshnok",
+    "type": "Religious / Unique",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 600,
+    "latitude": 27.0010,
+    "longitude": 73.3250,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Bikaner Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Bikaner Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Bikaner Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Bikaner Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Ajmer Sharif Dargah",
+    "city_town": "Ajmer",
+    "type": "Religious / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 1000,
+    "latitude": 26.4600,
+    "longitude": 74.6399,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Ajmer Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Ajmer Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Ajmer Grand Resort", "price_per_night": 7500 },
+        { "hotel_name": "Ajmer Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Ana Sagar Lake",
+    "city_town": "Ajmer",
+    "type": "Lake / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 700,
+    "latitude": 26.4630,
+    "longitude": 74.6280,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Ajmer Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Ajmer Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Ajmer Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Ajmer Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "place_name": "Sariska Tiger Reserve",
+    "city_town": "Alwar",
+    "type": "Wildlife / Nature",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 2000,
+    "latitude": 27.3580,
+    "longitude": 76.5820,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Alwar Budget Stay", "price_per_night": 1200 },
+        { "hotel_name": "Alwar Comfort Lodge", "price_per_night": 1500 }
+      ],
+      "luxury": [
+        { "hotel_name": "Alwar Grand Resort", "price_per_night": 8500 },
+        { "hotel_name": "Alwar Royal Palace Hotel", "price_per_night": 9500 }
+      ]
+    }
+  }
+]

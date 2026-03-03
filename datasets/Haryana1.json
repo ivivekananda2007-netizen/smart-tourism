@@ -1,0 +1,998 @@
+[
+  {
+    "state": "Haryana",
+    "place_name": "Surajkund Mela",
+    "city_town": "Faridabad",
+    "type": "Cultural Event / Fair",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 1200,
+    "latitude": 28.4761,
+    "longitude": 77.3052,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Faridabad Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Faridabad Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Faridabad Grand Resort", "price_per_night": 7500 },
+        { "hotel_name": "Faridabad Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Pinjore Gardens",
+    "city_town": "Pinjore",
+    "type": "Mughal Garden / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 800,
+    "latitude": 30.8442,
+    "longitude": 76.9270,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Pinjore Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Pinjore Comfort Lodge", "price_per_night": 1250 }
+      ],
+      "luxury": [
+        { "hotel_name": "Pinjore Grand Resort", "price_per_night": 7600 },
+        { "hotel_name": "Pinjore Royal Palace Hotel", "price_per_night": 8800 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Kurukshetra Panorama & Science Centre",
+    "city_town": "Kurukshetra",
+    "type": "Museum / Educational",
+    "hidden_gem": true,
+    "visit_duration": "2 Hours",
+    "budget_in_inr": 500,
+    "latitude": 29.9690,
+    "longitude": 76.8780,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Kurukshetra Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Kurukshetra Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Kurukshetra Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Kurukshetra Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Bhindawas Bird Sanctuary",
+    "city_town": "Jhajjar",
+    "type": "Nature / Bird Sanctuary",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 400,
+    "latitude": 28.8000,
+    "longitude": 76.5830,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Jhajjar Budget Stay", "price_per_night": 750 },
+        { "hotel_name": "Jhajjar Comfort Lodge", "price_per_night": 950 }
+      ],
+      "luxury": [
+        { "hotel_name": "Jhajjar Grand Resort", "price_per_night": 7000 },
+        { "hotel_name": "Jhajjar Royal Palace Hotel", "price_per_night": 8200 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Rakhigarhi Archaeological Site",
+    "city_town": "Hisar",
+    "type": "Historical / Archaeological",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 600,
+    "latitude": 29.2800,
+    "longitude": 76.2200,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Hisar Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Hisar Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Hisar Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Hisar Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Sultanpur National Park",
+    "city_town": "Gurugram",
+    "type": "Nature / Bird Sanctuary",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 500,
+    "latitude": 28.5200,
+    "longitude": 77.0900,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Gurugram Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Gurugram Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Gurugram Grand Resort", "price_per_night": 7500 },
+        { "hotel_name": "Gurugram Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Pinjore Heritage Walk",
+    "city_town": "Pinjore",
+    "type": "Heritage / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 400,
+    "latitude": 30.8435,
+    "longitude": 76.9275,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Pinjore Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Pinjore Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Pinjore Grand Resort", "price_per_night": 7400 },
+        { "hotel_name": "Pinjore Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Fatehabad Fort",
+    "city_town": "Fatehabad",
+    "type": "Historical Fort",
+    "hidden_gem": true,
+    "visit_duration": "2 Hours",
+    "budget_in_inr": 450,
+    "latitude": 29.5200,
+    "longitude": 75.4500,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Fatehabad Budget Stay", "price_per_night": 750 },
+        { "hotel_name": "Fatehabad Comfort Lodge", "price_per_night": 950 }
+      ],
+      "luxury": [
+        { "hotel_name": "Fatehabad Grand Resort", "price_per_night": 7000 },
+        { "hotel_name": "Fatehabad Royal Palace Hotel", "price_per_night": 8200 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Badkhal Lake",
+    "city_town": "Faridabad",
+    "type": "Nature / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 500,
+    "latitude": 28.4140,
+    "longitude": 77.3210,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Faridabad Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Faridabad Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Faridabad Grand Resort", "price_per_night": 7500 },
+        { "hotel_name": "Faridabad Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Adjoining Gurgaon Heritage Walk",
+    "city_town": "Gurugram",
+    "type": "Heritage / Cultural",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 600,
+    "latitude": 28.4595,
+    "longitude": 77.0266,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Gurugram Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Gurugram Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Gurugram Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Gurugram Royal Palace Hotel", "price_per_night": 8500 }
+      ]
+    }
+  }
+]
+[
+  {
+    "state": "Haryana",
+    "place_name": "Raja Nahar Singh Fort",
+    "city_town": "Ballabgarh",
+    "type": "Historical Fort",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 500,
+    "latitude": 28.4010,
+    "longitude": 77.3240,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Ballabgarh Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Ballabgarh Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Ballabgarh Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Ballabgarh Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Sheesh Mahal",
+    "city_town": "Gurugram",
+    "type": "Historical Palace",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 800,
+    "latitude": 28.4600,
+    "longitude": 77.0300,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Gurugram Budget Stay", "price_per_night": 900 },
+        { "hotel_name": "Gurugram Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Gurugram Grand Resort", "price_per_night": 7500 },
+        { "hotel_name": "Gurugram Royal Palace Hotel", "price_per_night": 8600 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Tilyar Lake & Zoo",
+    "city_town": "Rohtak",
+    "type": "Nature / Leisure / Zoo",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 600,
+    "latitude": 28.8950,
+    "longitude": 76.6050,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Rohtak Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Rohtak Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Rohtak Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Rohtak Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Devi Mandir / Baba Mastnath Temple",
+    "city_town": "Rohtak",
+    "type": "Religious / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 400,
+    "latitude": 28.8955,
+    "longitude": 76.6060,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Rohtak Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Rohtak Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Rohtak Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Rohtak Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Mata Mansa Devi Temple",
+    "city_town": "Panchkula",
+    "type": "Religious / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 500,
+    "latitude": 30.7300,
+    "longitude": 76.8550,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Panchkula Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Panchkula Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Panchkula Grand Resort", "price_per_night": 7600 },
+        { "hotel_name": "Panchkula Royal Palace Hotel", "price_per_night": 8800 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Karna Lake",
+    "city_town": "Kurukshetra",
+    "type": "Nature / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 400,
+    "latitude": 29.9695,
+    "longitude": 76.8790,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Kurukshetra Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Kurukshetra Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Kurukshetra Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Kurukshetra Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Ferozepur Jhirka Historical Site",
+    "city_town": "Ferozepur Jhirka",
+    "type": "Historical / Cultural",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 450,
+    "latitude": 27.9000,
+    "longitude": 77.0500,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Ferozepur Jhirka Budget Stay", "price_per_night": 750 },
+        { "hotel_name": "Ferozepur Jhirka Comfort Lodge", "price_per_night": 950 }
+      ],
+      "luxury": [
+        { "hotel_name": "Ferozepur Jhirka Grand Resort", "price_per_night": 7000 },
+        { "hotel_name": "Ferozepur Jhirka Royal Palace Hotel", "price_per_night": 8200 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Sheetal Kund Waterfall",
+    "city_town": "Faridabad",
+    "type": "Nature / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 400,
+    "latitude": 28.4200,
+    "longitude": 77.3100,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Faridabad Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Faridabad Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Faridabad Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Faridabad Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Kalesar National Park",
+    "city_town": "Yamunanagar",
+    "type": "Nature / Wildlife",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 600,
+    "latitude": 30.1280,
+    "longitude": 77.2900,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Yamunanagar Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Yamunanagar Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Yamunanagar Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Yamunanagar Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Sheetal Kund Forest Trail",
+    "city_town": "Faridabad",
+    "type": "Nature / Hiking",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 400,
+    "latitude": 28.4210,
+    "longitude": 77.3120,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Faridabad Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Faridabad Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Faridabad Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Faridabad Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  }
+]
+[
+  {
+    "state": "Haryana",
+    "place_name": "Morni Hills",
+    "city_town": "Panchkula",
+    "type": "Hill Station / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 2000,
+    "latitude": 30.7350,
+    "longitude": 76.8120,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Panchkula Budget Stay", "price_per_night": 1200 },
+        { "hotel_name": "Panchkula Comfort Lodge", "price_per_night": 1500 }
+      ],
+      "luxury": [
+        { "hotel_name": "Panchkula Grand Resort", "price_per_night": 8500 },
+        { "hotel_name": "Panchkula Royal Palace Hotel", "price_per_night": 9600 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Raipur Rani Fort",
+    "city_town": "Raipur Rani",
+    "type": "Historical Fort",
+    "hidden_gem": true,
+    "visit_duration": "2 Hours",
+    "budget_in_inr": 500,
+    "latitude": 30.5700,
+    "longitude": 76.7700,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Raipur Rani Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Raipur Rani Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Raipur Rani Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Raipur Rani Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Fatehabad Archaeological Site",
+    "city_town": "Fatehabad",
+    "type": "Historical / Archaeological",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 450,
+    "latitude": 29.5205,
+    "longitude": 75.4510,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Fatehabad Budget Stay", "price_per_night": 750 },
+        { "hotel_name": "Fatehabad Comfort Lodge", "price_per_night": 950 }
+      ],
+      "luxury": [
+        { "hotel_name": "Fatehabad Grand Resort", "price_per_night": 7000 },
+        { "hotel_name": "Fatehabad Royal Palace Hotel", "price_per_night": 8200 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Tauru Temple",
+    "city_town": "Gurugram",
+    "type": "Religious / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 400,
+    "latitude": 28.4250,
+    "longitude": 77.0300,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Gurugram Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Gurugram Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Gurugram Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Gurugram Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Firoz Shah Palace",
+    "city_town": "Palwal",
+    "type": "Historical Palace",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 600,
+    "latitude": 28.1400,
+    "longitude": 77.3250,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Palwal Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Palwal Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Palwal Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Palwal Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Badkhal Hills Trek",
+    "city_town": "Faridabad",
+    "type": "Nature / Adventure",
+    "hidden_gem": true,
+    "visit_duration": "3-4 Hours",
+    "budget_in_inr": 500,
+    "latitude": 28.4150,
+    "longitude": 77.3220,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Faridabad Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Faridabad Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Faridabad Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Faridabad Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Rakhigarhi Museum",
+    "city_town": "Hisar",
+    "type": "Historical Museum / Archaeological",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 450,
+    "latitude": 29.2810,
+    "longitude": 76.2210,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Hisar Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Hisar Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Hisar Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Hisar Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Jatayu Park",
+    "city_town": "Panipat",
+    "type": "Nature / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 400,
+    "latitude": 29.3900,
+    "longitude": 76.9700,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Panipat Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Panipat Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Panipat Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Panipat Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Bhondsi Fort",
+    "city_town": "Gurugram",
+    "type": "Historical Fort",
+    "hidden_gem": true,
+    "visit_duration": "2 Hours",
+    "budget_in_inr": 450,
+    "latitude": 28.4500,
+    "longitude": 77.0200,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Gurugram Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Gurugram Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Gurugram Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Gurugram Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Ancient Baoli / Stepwell",
+    "city_town": "Rewari",
+    "type": "Historical / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1 Hour",
+    "budget_in_inr": 300,
+    "latitude": 28.1900,
+    "longitude": 76.6200,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Rewari Budget Stay", "price_per_night": 750 },
+        { "hotel_name": "Rewari Comfort Lodge", "price_per_night": 950 }
+      ],
+      "luxury": [
+        { "hotel_name": "Rewari Grand Resort", "price_per_night": 7000 },
+        { "hotel_name": "Rewari Royal Palace Hotel", "price_per_night": 8200 }
+      ]
+    }
+  }
+]
+[
+  {
+    "state": "Haryana",
+    "place_name": "Saket Fort",
+    "city_town": "Mahendragarh",
+    "type": "Historical Fort",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 500,
+    "latitude": 28.2800,
+    "longitude": 76.1500,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Mahendragarh Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Mahendragarh Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Mahendragarh Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Mahendragarh Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Dhosi Hill",
+    "city_town": "Narnaul",
+    "type": "Religious / Nature",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 400,
+    "latitude": 28.0500,
+    "longitude": 76.1400,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Narnaul Budget Stay", "price_per_night": 750 },
+        { "hotel_name": "Narnaul Comfort Lodge", "price_per_night": 950 }
+      ],
+      "luxury": [
+        { "hotel_name": "Narnaul Grand Resort", "price_per_night": 7000 },
+        { "hotel_name": "Narnaul Royal Palace Hotel", "price_per_night": 8200 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Blue Bird Lake",
+    "city_town": "Hisar",
+    "type": "Nature / Leisure",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 500,
+    "latitude": 29.1600,
+    "longitude": 75.7200,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Hisar Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Hisar Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Hisar Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Hisar Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Sarai Rohilla Heritage Site",
+    "city_town": "Rewari",
+    "type": "Historical / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 400,
+    "latitude": 28.1905,
+    "longitude": 76.6205,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Rewari Budget Stay", "price_per_night": 750 },
+        { "hotel_name": "Rewari Comfort Lodge", "price_per_night": 950 }
+      ],
+      "luxury": [
+        { "hotel_name": "Rewari Grand Resort", "price_per_night": 7000 },
+        { "hotel_name": "Rewari Royal Palace Hotel", "price_per_night": 8200 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Rao Tula Ram Memorial",
+    "city_town": "Rewari",
+    "type": "Historical / Memorial",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 350,
+    "latitude": 28.1908,
+    "longitude": 76.6210,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Rewari Budget Stay", "price_per_night": 750 },
+        { "hotel_name": "Rewari Comfort Lodge", "price_per_night": 950 }
+      ],
+      "luxury": [
+        { "hotel_name": "Rewari Grand Resort", "price_per_night": 7000 },
+        { "hotel_name": "Rewari Royal Palace Hotel", "price_per_night": 8200 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Jhajjar Fort",
+    "city_town": "Jhajjar",
+    "type": "Historical Fort",
+    "hidden_gem": true,
+    "visit_duration": "2 Hours",
+    "budget_in_inr": 450,
+    "latitude": 28.6070,
+    "longitude": 76.6570,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Jhajjar Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Jhajjar Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Jhajjar Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Jhajjar Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Town Park, Gurugram",
+    "city_town": "Gurugram",
+    "type": "Leisure / Nature",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 400,
+    "latitude": 28.4590,
+    "longitude": 77.0260,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Gurugram Budget Stay", "price_per_night": 850 },
+        { "hotel_name": "Gurugram Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Gurugram Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Gurugram Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Adi Badri Temple Complex",
+    "city_town": "Yamunanagar",
+    "type": "Religious / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "2-3 Hours",
+    "budget_in_inr": 500,
+    "latitude": 30.2500,
+    "longitude": 77.1800,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Yamunanagar Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Yamunanagar Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Yamunanagar Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Yamunanagar Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Indri Fort",
+    "city_town": "Karnal",
+    "type": "Historical Fort",
+    "hidden_gem": true,
+    "visit_duration": "2 Hours",
+    "budget_in_inr": 450,
+    "latitude": 29.7000,
+    "longitude": 76.9700,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Karnal Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Karnal Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Karnal Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Karnal Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Harsh Ka Tila",
+    "city_town": "Hisar",
+    "type": "Historical / Archaeological",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 400,
+    "latitude": 29.1605,
+    "longitude": 75.7205,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Hisar Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Hisar Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Hisar Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Hisar Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Mughal Road Heritage Walk",
+    "city_town": "Panipat",
+    "type": "Heritage / Cultural",
+    "hidden_gem": true,
+    "visit_duration": "2 Hours",
+    "budget_in_inr": 450,
+    "latitude": 29.3905,
+    "longitude": 76.9705,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Panipat Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Panipat Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Panipat Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Panipat Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Jahaj Kothi Museum",
+    "city_town": "Hisar",
+    "type": "Historical Museum",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 400,
+    "latitude": 29.1608,
+    "longitude": 75.7210,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Hisar Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Hisar Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Hisar Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Hisar Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Panchkula Rock Garden",
+    "city_town": "Panchkula",
+    "type": "Art / Sculpture Garden",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 500,
+    "latitude": 30.7305,
+    "longitude": 76.8555,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Panchkula Budget Stay", "price_per_night": 950 },
+        { "hotel_name": "Panchkula Comfort Lodge", "price_per_night": 1200 }
+      ],
+      "luxury": [
+        { "hotel_name": "Panchkula Grand Resort", "price_per_night": 7600 },
+        { "hotel_name": "Panchkula Royal Palace Hotel", "price_per_night": 8800 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Mangeshwar Mahadev Temple",
+    "city_town": "Kurukshetra",
+    "type": "Religious / Heritage",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Hours",
+    "budget_in_inr": 400,
+    "latitude": 29.9700,
+    "longitude": 76.8800,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Kurukshetra Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Kurukshetra Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Kurukshetra Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Kurukshetra Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "place_name": "Haridwarika Wetlands",
+    "city_town": "Yamunanagar",
+    "type": "Nature / Bird Sanctuary",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 400,
+    "latitude": 30.1290,
+    "longitude": 77.2910,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        { "hotel_name": "Yamunanagar Budget Stay", "price_per_night": 800 },
+        { "hotel_name": "Yamunanagar Comfort Lodge", "price_per_night": 1100 }
+      ],
+      "luxury": [
+        { "hotel_name": "Yamunanagar Grand Resort", "price_per_night": 7200 },
+        { "hotel_name": "Yamunanagar Royal Palace Hotel", "price_per_night": 8400 }
+      ]
+    }
+  }
+]

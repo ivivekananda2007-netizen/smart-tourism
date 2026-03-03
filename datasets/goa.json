@@ -1,0 +1,662 @@
+[
+  {
+    "state": "Goa",
+    "place_name": "Baga Beach",
+    "city_town": "Baga",
+    "type": "Beach / Nature",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 5000,
+    "latitude": 15.5585,
+    "longitude": 73.7478,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Baga Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Beachside Lodge Baga", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Taj Fort Aguada Resort", "price_per_night": 7500},
+        {"hotel_name": "Marriott Goa Resort", "price_per_night": 8200}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Calangute Beach",
+    "city_town": "Calangute",
+    "type": "Beach / Nature",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 5500,
+    "latitude": 15.5453,
+    "longitude": 73.7497,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Calangute Budget Inn", "price_per_night": 850},
+        {"hotel_name": "Seaside Lodge Calangute", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Park Hyatt Goa Resort", "price_per_night": 7800},
+        {"hotel_name": "Resort Rio", "price_per_night": 8200}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Anjuna Beach",
+    "city_town": "Anjuna",
+    "type": "Beach / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4000,
+    "latitude": 15.6096,
+    "longitude": 73.7410,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Anjuna Budget Stay", "price_per_night": 750},
+        {"hotel_name": "Anjuna Lodge", "price_per_night": 800}
+      ],
+      "luxury": [
+        {"hotel_name": "W Goa Resort", "price_per_night": 7200},
+        {"hotel_name": "Marriott Goa Anjuna", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Fort Aguada",
+    "city_town": "Sinquerim",
+    "type": "Heritage / Fort",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 6000,
+    "latitude": 15.4950,
+    "longitude": 73.7791,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Sinquerim Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Fort View Lodge", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Taj Fort Aguada Resort & Spa", "price_per_night": 9000},
+        {"hotel_name": "Vivanta Goa", "price_per_night": 8500}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Dudhsagar Waterfalls",
+    "city_town": "Sonaulim",
+    "type": "Nature / Waterfall",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4500,
+    "latitude": 15.3143,
+    "longitude": 74.3130,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Dudhsagar Budget Inn", "price_per_night": 800},
+        {"hotel_name": "Waterfall Lodge Sonaulim", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Luxury Eco Resort Dudhsagar", "price_per_night": 7000},
+        {"hotel_name": "Heritage Nature Stay", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Colva Beach",
+    "city_town": "Colva",
+    "type": "Beach / Nature",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 5000,
+    "latitude": 15.2836,
+    "longitude": 73.9233,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Colva Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Beachside Lodge Colva", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Radisson Blu Resort Goa", "price_per_night": 7200},
+        {"hotel_name": "Colva Luxury Resort", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Basilica of Bom Jesus",
+    "city_town": "Old Goa",
+    "type": "Religious / Heritage",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 6000,
+    "latitude": 15.4989,
+    "longitude": 73.9110,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Old Goa Budget Inn", "price_per_night": 900},
+        {"hotel_name": "Heritage Lodge Goa", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Taj Goa Resort", "price_per_night": 8500},
+        {"hotel_name": "Heritage Luxury Stay", "price_per_night": 9000}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Candolim Beach",
+    "city_town": "Candolim",
+    "type": "Beach / Nature",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 5500,
+    "latitude": 15.5400,
+    "longitude": 73.7510,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Candolim Budget Stay", "price_per_night": 850},
+        {"hotel_name": "Sea View Lodge Candolim", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Marriott Resort Candolim", "price_per_night": 7800},
+        {"hotel_name": "Luxury Beachfront Stay", "price_per_night": 8200}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Vagator Beach",
+    "city_town": "Vagator",
+    "type": "Beach / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4000,
+    "latitude": 15.6095,
+    "longitude": 73.7432,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Vagator Budget Inn", "price_per_night": 750},
+        {"hotel_name": "Cliff View Lodge", "price_per_night": 800}
+      ],
+      "luxury": [
+        {"hotel_name": "Luxury Cliff Resort Vagator", "price_per_night": 7000},
+        {"hotel_name": "Royal Beach Retreat", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Arambol Beach",
+    "city_town": "Arambol",
+    "type": "Beach / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 4500,
+    "latitude": 15.7193,
+    "longitude": 73.7350,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Arambol Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Beachside Lodge Arambol", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Arambol Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Beach Retreat Arambol", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Morjim Beach",
+    "city_town": "Morjim",
+    "type": "Beach / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4000,
+    "latitude": 15.6589,
+    "longitude": 73.7595,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Morjim Budget Stay", "price_per_night": 750},
+        {"hotel_name": "Beach View Lodge", "price_per_night": 800}
+      ],
+      "luxury": [
+        {"hotel_name": "Morjim Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Seaside Retreat", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Palolem Beach",
+    "city_town": "Canacona",
+    "type": "Beach / Nature",
+    "hidden_gem": false,
+    "visit_duration": "1-2 Days",
+    "budget_in_inr": 5000,
+    "latitude": 15.0120,
+    "longitude": 73.9840,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Palolem Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Seaside Lodge Palolem", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Palolem Luxury Resort", "price_per_night": 7200},
+        {"hotel_name": "Royal Beachfront Stay", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Cola Beach",
+    "city_town": "Canacona",
+    "type": "Beach / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4000,
+    "latitude": 14.9875,
+    "longitude": 74.0470,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Cola Budget Stay", "price_per_night": 750},
+        {"hotel_name": "Beach Lodge Cola", "price_per_night": 800}
+      ],
+      "luxury": [
+        {"hotel_name": "Cola Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Cliff Retreat", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Basilica of Bom Jesus",
+    "city_town": "Old Goa",
+    "type": "Heritage / Religious",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 5500,
+    "latitude": 15.4989,
+    "longitude": 73.9110,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Old Goa Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Heritage Lodge Goa", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Taj Goa Resort", "price_per_night": 8500},
+        {"hotel_name": "Heritage Luxury Stay", "price_per_night": 9000}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Se Cathedral",
+    "city_town": "Old Goa",
+    "type": "Heritage / Religious",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 5500,
+    "latitude": 15.4980,
+    "longitude": 73.9115,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Old Goa Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Cathedral Lodge Goa", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Taj Heritage Resort", "price_per_night": 8500},
+        {"hotel_name": "Royal Heritage Stay", "price_per_night": 9000}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Chapora Fort",
+    "city_town": "Vagator",
+    "type": "Heritage / Fort",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 4000,
+    "latitude": 15.6080,
+    "longitude": 73.7400,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Vagator Budget Stay", "price_per_night": 750},
+        {"hotel_name": "Fort View Lodge", "price_per_night": 800}
+      ],
+      "luxury": [
+        {"hotel_name": "Luxury Cliff Resort Vagator", "price_per_night": 7000},
+        {"hotel_name": "Royal Fort Retreat", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Arvalem Caves",
+    "city_town": "Sanquelim",
+    "type": "Heritage / Nature",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 4500,
+    "latitude": 15.6390,
+    "longitude": 74.0480,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Sanquelim Budget Inn", "price_per_night": 800},
+        {"hotel_name": "Cave View Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Arvalem Luxury Stay", "price_per_night": 7000},
+        {"hotel_name": "Royal Heritage Resort", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Dona Paula",
+    "city_town": "Panaji",
+    "type": "Nature / Scenic View",
+    "hidden_gem": false,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 6000,
+    "latitude": 15.4750,
+    "longitude": 73.8220,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Panaji Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Scenic View Lodge", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Dona Paula Luxury Resort", "price_per_night": 8500},
+        {"hotel_name": "Royal Seaview Stay", "price_per_night": 9000}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Miramar Beach",
+    "city_town": "Panaji",
+    "type": "Beach / Nature",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 5000,
+    "latitude": 15.4900,
+    "longitude": 73.8200,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Miramar Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Beachside Lodge Miramar", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Miramar Luxury Resort", "price_per_night": 7200},
+        {"hotel_name": "Royal Seaside Retreat", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Majorda Beach",
+    "city_town": "Majorda",
+    "type": "Beach / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4500,
+    "latitude": 15.2950,
+    "longitude": 73.9150,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Majorda Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Beach Lodge Majorda", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Majorda Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Beach Retreat Majorda", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Mobor Beach",
+    "city_town": "Cavelossim",
+    "type": "Beach / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4500,
+    "latitude": 15.1600,
+    "longitude": 73.9850,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Mobor Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Seaside Lodge Mobor", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Mobor Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Beachfront Stay Mobor", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Benaulim Beach",
+    "city_town": "Benaulim",
+    "type": "Beach / Nature",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 5000,
+    "latitude": 15.2750,
+    "longitude": 73.9500,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Benaulim Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Beach Lodge Benaulim", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Benaulim Luxury Resort", "price_per_night": 7200},
+        {"hotel_name": "Royal Beach Stay Benaulim", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Cabo de Rama Fort",
+    "city_town": "Cabo de Rama",
+    "type": "Heritage / Fort",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 4500,
+    "latitude": 15.0333,
+    "longitude": 74.0270,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Cabo Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Fort View Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Cabo Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Fort Retreat Cabo", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Sinquerim Beach",
+    "city_town": "Sinquerim",
+    "type": "Beach / Nature",
+    "hidden_gem": false,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 5500,
+    "latitude": 15.4940,
+    "longitude": 73.7760,
+    "budget_category": "Medium",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Sinquerim Budget Stay", "price_per_night": 900},
+        {"hotel_name": "Beach Lodge Sinquerim", "price_per_night": 950}
+      ],
+      "luxury": [
+        {"hotel_name": "Taj Fort Aguada Resort", "price_per_night": 8500},
+        {"hotel_name": "Luxury Beachfront Stay Sinquerim", "price_per_night": 9000}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Palacio do Deao",
+    "city_town": "Fontainhas",
+    "type": "Heritage / Museum",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 5000,
+    "latitude": 15.4955,
+    "longitude": 73.8250,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Fontainhas Budget Stay", "price_per_night": 850},
+        {"hotel_name": "Heritage Lodge Goa", "price_per_night": 900}
+      ],
+      "luxury": [
+        {"hotel_name": "Palacio Luxury Stay", "price_per_night": 7200},
+        {"hotel_name": "Royal Heritage Retreat", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Reis Magos Fort",
+    "city_town": "Morjim",
+    "type": "Heritage / Fort",
+    "hidden_gem": true,
+    "visit_duration": "Half Day",
+    "budget_in_inr": 4500,
+    "latitude": 15.6440,
+    "longitude": 73.7700,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Morjim Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Fort View Lodge", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Reis Magos Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Fort Retreat", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Divar Island",
+    "city_town": "Divar",
+    "type": "Island / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 5000,
+    "latitude": 15.5200,
+    "longitude": 73.8530,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Divar Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Island Lodge Divar", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Divar Luxury Resort", "price_per_night": 7200},
+        {"hotel_name": "Royal Island Retreat", "price_per_night": 7800}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Chapora Beach",
+    "city_town": "Chapora",
+    "type": "Beach / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4500,
+    "latitude": 15.6100,
+    "longitude": 73.7420,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Chapora Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Beachside Lodge Chapora", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Chapora Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Seaside Stay Chapora", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Majorda Beach",
+    "city_town": "Majorda",
+    "type": "Beach / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4500,
+    "latitude": 15.2950,
+    "longitude": 73.9150,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Majorda Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Beach Lodge Majorda", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Majorda Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Beach Retreat Majorda", "price_per_night": 7500}
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "place_name": "Bogmalo Beach",
+    "city_town": "Bogmalo",
+    "type": "Beach / Nature",
+    "hidden_gem": true,
+    "visit_duration": "1 Day",
+    "budget_in_inr": 4500,
+    "latitude": 15.3800,
+    "longitude": 73.8290,
+    "budget_category": "Low",
+    "accommodation": {
+      "normal": [
+        {"hotel_name": "Bogmalo Budget Stay", "price_per_night": 800},
+        {"hotel_name": "Seaside Lodge Bogmalo", "price_per_night": 850}
+      ],
+      "luxury": [
+        {"hotel_name": "Bogmalo Luxury Resort", "price_per_night": 7000},
+        {"hotel_name": "Royal Beachfront Stay Bogmalo", "price_per_night": 7500}
+      ]
+    }
+  }
+]

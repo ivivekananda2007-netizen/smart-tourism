@@ -1,0 +1,1770 @@
+[
+    {
+        "state": "Tripura",
+        "place_name": "Agartala",
+        "city_town": "Agartala",
+        "type": "Capital City / Cultural",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 23.8315,
+        "longitude": 91.2868,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Agartala Budget Stay",
+                    "price_per_night": 597
+                },
+                {
+                    "hotel_name": "Agartala Comfort Lodge",
+                    "price_per_night": 697
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Agartala Grand Resort",
+                    "price_per_night": 7045
+                },
+                {
+                    "hotel_name": "Agartala Royal Palace Hotel",
+                    "price_per_night": 7726
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Neermahal",
+        "city_town": "Melaghar",
+        "type": "Palace / Lake",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 23.583,
+        "longitude": 91.541,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Melaghar Budget Stay",
+                    "price_per_night": 868
+                },
+                {
+                    "hotel_name": "Melaghar Comfort Lodge",
+                    "price_per_night": 404
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Melaghar Grand Resort",
+                    "price_per_night": 8501
+                },
+                {
+                    "hotel_name": "Melaghar Royal Palace Hotel",
+                    "price_per_night": 5692
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Ujjayanta Palace",
+        "city_town": "Agartala",
+        "type": "Palace / Museum",
+        "hidden_gem": false,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 23.837,
+        "longitude": 91.275,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Agartala Budget Stay",
+                    "price_per_night": 971
+                },
+                {
+                    "hotel_name": "Agartala Comfort Lodge",
+                    "price_per_night": 775
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Agartala Grand Resort",
+                    "price_per_night": 3619
+                },
+                {
+                    "hotel_name": "Agartala Royal Palace Hotel",
+                    "price_per_night": 7304
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Tripura Sundari Temple",
+        "city_town": "Udaipur",
+        "type": "Temple / Heritage",
+        "hidden_gem": false,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 23.506,
+        "longitude": 91.491,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Udaipur Budget Stay",
+                    "price_per_night": 942
+                },
+                {
+                    "hotel_name": "Udaipur Comfort Lodge",
+                    "price_per_night": 737
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Udaipur Grand Resort",
+                    "price_per_night": 4388
+                },
+                {
+                    "hotel_name": "Udaipur Royal Palace Hotel",
+                    "price_per_night": 4703
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Jampui Hills",
+        "city_town": "Kanchanpur",
+        "type": "Hill Station / Nature",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.14,
+        "longitude": 91.72,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kanchanpur Budget Stay",
+                    "price_per_night": 682
+                },
+                {
+                    "hotel_name": "Kanchanpur Comfort Lodge",
+                    "price_per_night": 739
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kanchanpur Grand Resort",
+                    "price_per_night": 5594
+                },
+                {
+                    "hotel_name": "Kanchanpur Royal Palace Hotel",
+                    "price_per_night": 5806
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Dumboor Lake",
+        "city_town": "Dumboor",
+        "type": "Lake / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.9,
+        "longitude": 91.58,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Dumboor Budget Stay",
+                    "price_per_night": 806
+                },
+                {
+                    "hotel_name": "Dumboor Comfort Lodge",
+                    "price_per_night": 893
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Dumboor Grand Resort",
+                    "price_per_night": 7357
+                },
+                {
+                    "hotel_name": "Dumboor Royal Palace Hotel",
+                    "price_per_night": 5819
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Neerchar Waterfalls",
+        "city_town": "Amarpur",
+        "type": "Waterfall / Nature",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.617,
+        "longitude": 91.603,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Amarpur Budget Stay",
+                    "price_per_night": 484
+                },
+                {
+                    "hotel_name": "Amarpur Comfort Lodge",
+                    "price_per_night": 751
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Amarpur Grand Resort",
+                    "price_per_night": 8092
+                },
+                {
+                    "hotel_name": "Amarpur Royal Palace Hotel",
+                    "price_per_night": 6641
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Sepahijala Wildlife Sanctuary",
+        "city_town": "Sepahijala",
+        "type": "Wildlife / Nature",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget_in_inr": 6000,
+        "budget_category": "High",
+        "latitude": 23.55,
+        "longitude": 91.277,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Sepahijala Budget Stay",
+                    "price_per_night": 779
+                },
+                {
+                    "hotel_name": "Sepahijala Comfort Lodge",
+                    "price_per_night": 668
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Sepahijala Grand Resort",
+                    "price_per_night": 8425
+                },
+                {
+                    "hotel_name": "Sepahijala Royal Palace Hotel",
+                    "price_per_night": 7925
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Sundari Hills",
+        "city_town": "Udaipur",
+        "type": "Hills / Trekking",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.51,
+        "longitude": 91.485,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Udaipur Budget Stay",
+                    "price_per_night": 674
+                },
+                {
+                    "hotel_name": "Udaipur Comfort Lodge",
+                    "price_per_night": 679
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Udaipur Grand Resort",
+                    "price_per_night": 8142
+                },
+                {
+                    "hotel_name": "Udaipur Royal Palace Hotel",
+                    "price_per_night": 10007
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Pilak Archaeological Site",
+        "city_town": "Pilak",
+        "type": "Heritage / Archaeology",
+        "hidden_gem": true,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.6,
+        "longitude": 91.56,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Pilak Budget Stay",
+                    "price_per_night": 485
+                },
+                {
+                    "hotel_name": "Pilak Comfort Lodge",
+                    "price_per_night": 400
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Pilak Grand Resort",
+                    "price_per_night": 3943
+                },
+                {
+                    "hotel_name": "Pilak Royal Palace Hotel",
+                    "price_per_night": 10857
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Trishna Wildlife Sanctuary",
+        "city_town": "Amarpur",
+        "type": "Wildlife / Nature",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 6000,
+        "budget_category": "High",
+        "latitude": 23.58,
+        "longitude": 91.6,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Amarpur Budget Stay",
+                    "price_per_night": 763
+                },
+                {
+                    "hotel_name": "Amarpur Comfort Lodge",
+                    "price_per_night": 708
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Amarpur Grand Resort",
+                    "price_per_night": 4032
+                },
+                {
+                    "hotel_name": "Amarpur Royal Palace Hotel",
+                    "price_per_night": 11891
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Boxanagar",
+        "city_town": "Boxanagar",
+        "type": "Cultural / Historical",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.82,
+        "longitude": 91.32,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Boxanagar Budget Stay",
+                    "price_per_night": 822
+                },
+                {
+                    "hotel_name": "Boxanagar Comfort Lodge",
+                    "price_per_night": 549
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Boxanagar Grand Resort",
+                    "price_per_night": 3941
+                },
+                {
+                    "hotel_name": "Boxanagar Royal Palace Hotel",
+                    "price_per_night": 4994
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Chabimura",
+        "city_town": "Amarpur",
+        "type": "Rock Carvings / Heritage",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.62,
+        "longitude": 91.605,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Amarpur Budget Stay",
+                    "price_per_night": 629
+                },
+                {
+                    "hotel_name": "Amarpur Comfort Lodge",
+                    "price_per_night": 754
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Amarpur Grand Resort",
+                    "price_per_night": 3947
+                },
+                {
+                    "hotel_name": "Amarpur Royal Palace Hotel",
+                    "price_per_night": 4523
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Rajnagar Palace",
+        "city_town": "Rajnagar",
+        "type": "Palace / Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.52,
+        "longitude": 91.495,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Rajnagar Budget Stay",
+                    "price_per_night": 552
+                },
+                {
+                    "hotel_name": "Rajnagar Comfort Lodge",
+                    "price_per_night": 545
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Rajnagar Grand Resort",
+                    "price_per_night": 7844
+                },
+                {
+                    "hotel_name": "Rajnagar Royal Palace Hotel",
+                    "price_per_night": 9438
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Atharamura Hills",
+        "city_town": "Kumarghat",
+        "type": "Hills / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.18,
+        "longitude": 91.73,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kumarghat Budget Stay",
+                    "price_per_night": 932
+                },
+                {
+                    "hotel_name": "Kumarghat Comfort Lodge",
+                    "price_per_night": 403
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kumarghat Grand Resort",
+                    "price_per_night": 4653
+                },
+                {
+                    "hotel_name": "Kumarghat Royal Palace Hotel",
+                    "price_per_night": 8073
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Belonia",
+        "city_town": "Belonia",
+        "type": "Town / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.276,
+        "longitude": 91.459,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Belonia Budget Stay",
+                    "price_per_night": 978
+                },
+                {
+                    "hotel_name": "Belonia Comfort Lodge",
+                    "price_per_night": 696
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Belonia Grand Resort",
+                    "price_per_night": 5767
+                },
+                {
+                    "hotel_name": "Belonia Royal Palace Hotel",
+                    "price_per_night": 9791
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Boxanagar Rock Paintings",
+        "city_town": "Boxanagar",
+        "type": "Heritage / Archaeology",
+        "hidden_gem": true,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.82,
+        "longitude": 91.32,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Boxanagar Budget Stay",
+                    "price_per_night": 410
+                },
+                {
+                    "hotel_name": "Boxanagar Comfort Lodge",
+                    "price_per_night": 572
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Boxanagar Grand Resort",
+                    "price_per_night": 8543
+                },
+                {
+                    "hotel_name": "Boxanagar Royal Palace Hotel",
+                    "price_per_night": 11206
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Udaipur Palace",
+        "city_town": "Udaipur",
+        "type": "Palace / Heritage",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 23.502,
+        "longitude": 91.49,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Udaipur Budget Stay",
+                    "price_per_night": 762
+                },
+                {
+                    "hotel_name": "Udaipur Comfort Lodge",
+                    "price_per_night": 416
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Udaipur Grand Resort",
+                    "price_per_night": 5140
+                },
+                {
+                    "hotel_name": "Udaipur Royal Palace Hotel",
+                    "price_per_night": 9577
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Rajnagar Palace Gardens",
+        "city_town": "Rajnagar",
+        "type": "Garden / Heritage",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.52,
+        "longitude": 91.495,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Rajnagar Budget Stay",
+                    "price_per_night": 838
+                },
+                {
+                    "hotel_name": "Rajnagar Comfort Lodge",
+                    "price_per_night": 758
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Rajnagar Grand Resort",
+                    "price_per_night": 3717
+                },
+                {
+                    "hotel_name": "Rajnagar Royal Palace Hotel",
+                    "price_per_night": 9287
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Amarpur Hills",
+        "city_town": "Amarpur",
+        "type": "Hills / Nature",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.61,
+        "longitude": 91.6,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Amarpur Budget Stay",
+                    "price_per_night": 643
+                },
+                {
+                    "hotel_name": "Amarpur Comfort Lodge",
+                    "price_per_night": 790
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Amarpur Grand Resort",
+                    "price_per_night": 6425
+                },
+                {
+                    "hotel_name": "Amarpur Royal Palace Hotel",
+                    "price_per_night": 10869
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Chawmanu",
+        "city_town": "Chawmanu",
+        "type": "Town / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.0,
+        "longitude": 91.75,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Chawmanu Budget Stay",
+                    "price_per_night": 953
+                },
+                {
+                    "hotel_name": "Chawmanu Comfort Lodge",
+                    "price_per_night": 866
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Chawmanu Grand Resort",
+                    "price_per_night": 4590
+                },
+                {
+                    "hotel_name": "Chawmanu Royal Palace Hotel",
+                    "price_per_night": 5228
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Boxanagar Hills",
+        "city_town": "Boxanagar",
+        "type": "Hills / Trekking",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.825,
+        "longitude": 91.325,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Boxanagar Budget Stay",
+                    "price_per_night": 930
+                },
+                {
+                    "hotel_name": "Boxanagar Comfort Lodge",
+                    "price_per_night": 560
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Boxanagar Grand Resort",
+                    "price_per_night": 7730
+                },
+                {
+                    "hotel_name": "Boxanagar Royal Palace Hotel",
+                    "price_per_night": 10116
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Sepahijala Park",
+        "city_town": "Sepahijala",
+        "type": "Botanical / Wildlife",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 6000,
+        "budget_category": "High",
+        "latitude": 23.55,
+        "longitude": 91.278,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Sepahijala Budget Stay",
+                    "price_per_night": 911
+                },
+                {
+                    "hotel_name": "Sepahijala Comfort Lodge",
+                    "price_per_night": 414
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Sepahijala Grand Resort",
+                    "price_per_night": 8161
+                },
+                {
+                    "hotel_name": "Sepahijala Royal Palace Hotel",
+                    "price_per_night": 10392
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Teliamura",
+        "city_town": "Teliamura",
+        "type": "Town / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.7,
+        "longitude": 91.32,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Teliamura Budget Stay",
+                    "price_per_night": 880
+                },
+                {
+                    "hotel_name": "Teliamura Comfort Lodge",
+                    "price_per_night": 802
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Teliamura Grand Resort",
+                    "price_per_night": 6475
+                },
+                {
+                    "hotel_name": "Teliamura Royal Palace Hotel",
+                    "price_per_night": 7140
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Udaipur Lake",
+        "city_town": "Udaipur",
+        "type": "Lake / Nature",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.51,
+        "longitude": 91.485,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Udaipur Budget Stay",
+                    "price_per_night": 932
+                },
+                {
+                    "hotel_name": "Udaipur Comfort Lodge",
+                    "price_per_night": 525
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Udaipur Grand Resort",
+                    "price_per_night": 7653
+                },
+                {
+                    "hotel_name": "Udaipur Royal Palace Hotel",
+                    "price_per_night": 9323
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Jogmaya Temple",
+        "city_town": "Agartala",
+        "type": "Temple / Heritage",
+        "hidden_gem": true,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.831,
+        "longitude": 91.287,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Agartala Budget Stay",
+                    "price_per_night": 924
+                },
+                {
+                    "hotel_name": "Agartala Comfort Lodge",
+                    "price_per_night": 911
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Agartala Grand Resort",
+                    "price_per_night": 7662
+                },
+                {
+                    "hotel_name": "Agartala Royal Palace Hotel",
+                    "price_per_night": 8767
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Amarpur River",
+        "city_town": "Amarpur",
+        "type": "River / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.615,
+        "longitude": 91.602,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Amarpur Budget Stay",
+                    "price_per_night": 688
+                },
+                {
+                    "hotel_name": "Amarpur Comfort Lodge",
+                    "price_per_night": 556
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Amarpur Grand Resort",
+                    "price_per_night": 7652
+                },
+                {
+                    "hotel_name": "Amarpur Royal Palace Hotel",
+                    "price_per_night": 7783
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Kanchanpur Hill Station",
+        "city_town": "Kanchanpur",
+        "type": "Hill Station / Nature",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.14,
+        "longitude": 91.72,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kanchanpur Budget Stay",
+                    "price_per_night": 408
+                },
+                {
+                    "hotel_name": "Kanchanpur Comfort Lodge",
+                    "price_per_night": 923
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kanchanpur Grand Resort",
+                    "price_per_night": 4304
+                },
+                {
+                    "hotel_name": "Kanchanpur Royal Palace Hotel",
+                    "price_per_night": 10878
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Bhuvaneswari Temple",
+        "city_town": "Agartala",
+        "type": "Temple / Heritage",
+        "hidden_gem": false,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 3500,
+        "budget_category": "Medium",
+        "latitude": 23.8312,
+        "longitude": 91.2865,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Agartala Budget Stay",
+                    "price_per_night": 899
+                },
+                {
+                    "hotel_name": "Agartala Comfort Lodge",
+                    "price_per_night": 879
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Agartala Grand Resort",
+                    "price_per_night": 3786
+                },
+                {
+                    "hotel_name": "Agartala Royal Palace Hotel",
+                    "price_per_night": 7846
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Durlavpur",
+        "city_town": "Agartala",
+        "type": "Historical / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.835,
+        "longitude": 91.29,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Agartala Budget Stay",
+                    "price_per_night": 486
+                },
+                {
+                    "hotel_name": "Agartala Comfort Lodge",
+                    "price_per_night": 793
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Agartala Grand Resort",
+                    "price_per_night": 4969
+                },
+                {
+                    "hotel_name": "Agartala Royal Palace Hotel",
+                    "price_per_night": 7484
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Chabimura Rock Carvings",
+        "city_town": "Amarpur",
+        "type": "Heritage / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.62,
+        "longitude": 91.605,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Amarpur Budget Stay",
+                    "price_per_night": 577
+                },
+                {
+                    "hotel_name": "Amarpur Comfort Lodge",
+                    "price_per_night": 858
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Amarpur Grand Resort",
+                    "price_per_night": 4453
+                },
+                {
+                    "hotel_name": "Amarpur Royal Palace Hotel",
+                    "price_per_night": 9321
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Rajnagar Lake",
+        "city_town": "Rajnagar",
+        "type": "Lake / Nature",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.52,
+        "longitude": 91.495,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Rajnagar Budget Stay",
+                    "price_per_night": 562
+                },
+                {
+                    "hotel_name": "Rajnagar Comfort Lodge",
+                    "price_per_night": 853
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Rajnagar Grand Resort",
+                    "price_per_night": 5871
+                },
+                {
+                    "hotel_name": "Rajnagar Royal Palace Hotel",
+                    "price_per_night": 6362
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Bhuvaneswari Hill",
+        "city_town": "Agartala",
+        "type": "Hill / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.835,
+        "longitude": 91.285,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Agartala Budget Stay",
+                    "price_per_night": 531
+                },
+                {
+                    "hotel_name": "Agartala Comfort Lodge",
+                    "price_per_night": 514
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Agartala Grand Resort",
+                    "price_per_night": 6121
+                },
+                {
+                    "hotel_name": "Agartala Royal Palace Hotel",
+                    "price_per_night": 9663
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Amarpur Waterfalls",
+        "city_town": "Amarpur",
+        "type": "Waterfall / Nature",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.618,
+        "longitude": 91.605,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Amarpur Budget Stay",
+                    "price_per_night": 664
+                },
+                {
+                    "hotel_name": "Amarpur Comfort Lodge",
+                    "price_per_night": 568
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Amarpur Grand Resort",
+                    "price_per_night": 8771
+                },
+                {
+                    "hotel_name": "Amarpur Royal Palace Hotel",
+                    "price_per_night": 6669
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Jirania Palace",
+        "city_town": "Jirania",
+        "type": "Palace / Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.88,
+        "longitude": 91.25,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Jirania Budget Stay",
+                    "price_per_night": 916
+                },
+                {
+                    "hotel_name": "Jirania Comfort Lodge",
+                    "price_per_night": 556
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Jirania Grand Resort",
+                    "price_per_night": 6623
+                },
+                {
+                    "hotel_name": "Jirania Royal Palace Hotel",
+                    "price_per_night": 9347
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Belonia Hills",
+        "city_town": "Belonia",
+        "type": "Hill / Nature",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.27,
+        "longitude": 91.46,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Belonia Budget Stay",
+                    "price_per_night": 718
+                },
+                {
+                    "hotel_name": "Belonia Comfort Lodge",
+                    "price_per_night": 566
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Belonia Grand Resort",
+                    "price_per_night": 8098
+                },
+                {
+                    "hotel_name": "Belonia Royal Palace Hotel",
+                    "price_per_night": 5248
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Teliamura Waterfalls",
+        "city_town": "Teliamura",
+        "type": "Waterfall / Nature",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.7,
+        "longitude": 91.32,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Teliamura Budget Stay",
+                    "price_per_night": 674
+                },
+                {
+                    "hotel_name": "Teliamura Comfort Lodge",
+                    "price_per_night": 812
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Teliamura Grand Resort",
+                    "price_per_night": 6227
+                },
+                {
+                    "hotel_name": "Teliamura Royal Palace Hotel",
+                    "price_per_night": 6729
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Ganganagar Lake",
+        "city_town": "Agartala",
+        "type": "Lake / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.835,
+        "longitude": 91.28,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Agartala Budget Stay",
+                    "price_per_night": 615
+                },
+                {
+                    "hotel_name": "Agartala Comfort Lodge",
+                    "price_per_night": 703
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Agartala Grand Resort",
+                    "price_per_night": 8944
+                },
+                {
+                    "hotel_name": "Agartala Royal Palace Hotel",
+                    "price_per_night": 10043
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Chhura Village",
+        "city_town": "Amarpur",
+        "type": "Heritage / Village",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.615,
+        "longitude": 91.6,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Amarpur Budget Stay",
+                    "price_per_night": 906
+                },
+                {
+                    "hotel_name": "Amarpur Comfort Lodge",
+                    "price_per_night": 824
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Amarpur Grand Resort",
+                    "price_per_night": 7714
+                },
+                {
+                    "hotel_name": "Amarpur Royal Palace Hotel",
+                    "price_per_night": 8868
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Rajnagar Hills",
+        "city_town": "Rajnagar",
+        "type": "Hills / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.52,
+        "longitude": 91.495,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Rajnagar Budget Stay",
+                    "price_per_night": 781
+                },
+                {
+                    "hotel_name": "Rajnagar Comfort Lodge",
+                    "price_per_night": 908
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Rajnagar Grand Resort",
+                    "price_per_night": 6052
+                },
+                {
+                    "hotel_name": "Rajnagar Royal Palace Hotel",
+                    "price_per_night": 4191
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Boxanagar Jungle Trek",
+        "city_town": "Boxanagar",
+        "type": "Forest / Trekking",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.825,
+        "longitude": 91.325,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Boxanagar Budget Stay",
+                    "price_per_night": 956
+                },
+                {
+                    "hotel_name": "Boxanagar Comfort Lodge",
+                    "price_per_night": 446
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Boxanagar Grand Resort",
+                    "price_per_night": 8109
+                },
+                {
+                    "hotel_name": "Boxanagar Royal Palace Hotel",
+                    "price_per_night": 10921
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Amarpur Eco Park",
+        "city_town": "Amarpur",
+        "type": "Park / Nature",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.615,
+        "longitude": 91.603,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Amarpur Budget Stay",
+                    "price_per_night": 482
+                },
+                {
+                    "hotel_name": "Amarpur Comfort Lodge",
+                    "price_per_night": 779
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Amarpur Grand Resort",
+                    "price_per_night": 3850
+                },
+                {
+                    "hotel_name": "Amarpur Royal Palace Hotel",
+                    "price_per_night": 4135
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Kumarghat Hills",
+        "city_town": "Kumarghat",
+        "type": "Hills / Nature",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.18,
+        "longitude": 91.73,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kumarghat Budget Stay",
+                    "price_per_night": 874
+                },
+                {
+                    "hotel_name": "Kumarghat Comfort Lodge",
+                    "price_per_night": 770
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kumarghat Grand Resort",
+                    "price_per_night": 3827
+                },
+                {
+                    "hotel_name": "Kumarghat Royal Palace Hotel",
+                    "price_per_night": 9276
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Kanchanpur Lake",
+        "city_town": "Kanchanpur",
+        "type": "Lake / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 24.14,
+        "longitude": 91.72,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kanchanpur Budget Stay",
+                    "price_per_night": 420
+                },
+                {
+                    "hotel_name": "Kanchanpur Comfort Lodge",
+                    "price_per_night": 556
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Kanchanpur Grand Resort",
+                    "price_per_night": 4980
+                },
+                {
+                    "hotel_name": "Kanchanpur Royal Palace Hotel",
+                    "price_per_night": 10079
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Ramnagar Village",
+        "city_town": "Rajnagar",
+        "type": "Village / Cultural",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.525,
+        "longitude": 91.497,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Rajnagar Budget Stay",
+                    "price_per_night": 541
+                },
+                {
+                    "hotel_name": "Rajnagar Comfort Lodge",
+                    "price_per_night": 652
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Rajnagar Grand Resort",
+                    "price_per_night": 5760
+                },
+                {
+                    "hotel_name": "Rajnagar Royal Palace Hotel",
+                    "price_per_night": 8773
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Trishna River View",
+        "city_town": "Amarpur",
+        "type": "River / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.582,
+        "longitude": 91.601,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Amarpur Budget Stay",
+                    "price_per_night": 859
+                },
+                {
+                    "hotel_name": "Amarpur Comfort Lodge",
+                    "price_per_night": 744
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Amarpur Grand Resort",
+                    "price_per_night": 5542
+                },
+                {
+                    "hotel_name": "Amarpur Royal Palace Hotel",
+                    "price_per_night": 6601
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Dumboor Eco Village",
+        "city_town": "Dumboor",
+        "type": "Village / Nature",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.9,
+        "longitude": 91.58,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Dumboor Budget Stay",
+                    "price_per_night": 895
+                },
+                {
+                    "hotel_name": "Dumboor Comfort Lodge",
+                    "price_per_night": 572
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Dumboor Grand Resort",
+                    "price_per_night": 4411
+                },
+                {
+                    "hotel_name": "Dumboor Royal Palace Hotel",
+                    "price_per_night": 11737
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Udaipur Hills",
+        "city_town": "Udaipur",
+        "type": "Hills / Trekking",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.51,
+        "longitude": 91.485,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Udaipur Budget Stay",
+                    "price_per_night": 788
+                },
+                {
+                    "hotel_name": "Udaipur Comfort Lodge",
+                    "price_per_night": 444
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Udaipur Grand Resort",
+                    "price_per_night": 4500
+                },
+                {
+                    "hotel_name": "Udaipur Royal Palace Hotel",
+                    "price_per_night": 8723
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Sepahijala Viewpoint",
+        "city_town": "Sepahijala",
+        "type": "Hill / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.55,
+        "longitude": 91.278,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Sepahijala Budget Stay",
+                    "price_per_night": 676
+                },
+                {
+                    "hotel_name": "Sepahijala Comfort Lodge",
+                    "price_per_night": 993
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Sepahijala Grand Resort",
+                    "price_per_night": 7300
+                },
+                {
+                    "hotel_name": "Sepahijala Royal Palace Hotel",
+                    "price_per_night": 10313
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Pilak Eco Trail",
+        "city_town": "Pilak",
+        "type": "Forest / Heritage",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.6,
+        "longitude": 91.56,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Pilak Budget Stay",
+                    "price_per_night": 837
+                },
+                {
+                    "hotel_name": "Pilak Comfort Lodge",
+                    "price_per_night": 704
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Pilak Grand Resort",
+                    "price_per_night": 3510
+                },
+                {
+                    "hotel_name": "Pilak Royal Palace Hotel",
+                    "price_per_night": 7559
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Amarpur Sunset Point",
+        "city_town": "Amarpur",
+        "type": "Scenic / Hills",
+        "hidden_gem": true,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.618,
+        "longitude": 91.603,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Amarpur Budget Stay",
+                    "price_per_night": 534
+                },
+                {
+                    "hotel_name": "Amarpur Comfort Lodge",
+                    "price_per_night": 669
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Amarpur Grand Resort",
+                    "price_per_night": 8363
+                },
+                {
+                    "hotel_name": "Amarpur Royal Palace Hotel",
+                    "price_per_night": 8500
+                }
+            ]
+        }
+    },
+    {
+        "state": "Tripura",
+        "place_name": "Belonia Eco Park",
+        "city_town": "Belonia",
+        "type": "Park / Nature",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 23.276,
+        "longitude": 91.459,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Belonia Budget Stay",
+                    "price_per_night": 586
+                },
+                {
+                    "hotel_name": "Belonia Comfort Lodge",
+                    "price_per_night": 980
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Belonia Grand Resort",
+                    "price_per_night": 4406
+                },
+                {
+                    "hotel_name": "Belonia Royal Palace Hotel",
+                    "price_per_night": 9324
+                }
+            ]
+        }
+    }
+]

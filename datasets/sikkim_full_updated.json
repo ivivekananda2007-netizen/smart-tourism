@@ -1,0 +1,1668 @@
+[
+    {
+        "state": "Sikkim",
+        "place_name": "Gangtok",
+        "city_town": "Gangtok",
+        "type": "Capital City / Cultural",
+        "hidden_gem": false,
+        "visit_duration": "2-3 days",
+        "budget_in_inr": 4000,
+        "budget_category": "Medium",
+        "latitude": 27.3314,
+        "longitude": 88.6135,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Gangtok Budget Stay",
+                    "price_per_night": 627
+                },
+                {
+                    "hotel_name": "Gangtok Comfort Lodge",
+                    "price_per_night": 982
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Gangtok Grand Resort",
+                    "price_per_night": 5811
+                },
+                {
+                    "hotel_name": "Gangtok Royal Palace Hotel",
+                    "price_per_night": 5879
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Rumtek Monastery",
+        "city_town": "Gangtok",
+        "type": "Monastery / Cultural",
+        "hidden_gem": false,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 4000,
+        "budget_category": "Medium",
+        "latitude": 27.334,
+        "longitude": 88.638,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Gangtok Budget Stay",
+                    "price_per_night": 544
+                },
+                {
+                    "hotel_name": "Gangtok Comfort Lodge",
+                    "price_per_night": 847
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Gangtok Grand Resort",
+                    "price_per_night": 5288
+                },
+                {
+                    "hotel_name": "Gangtok Royal Palace Hotel",
+                    "price_per_night": 4374
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Enchey Monastery",
+        "city_town": "Gangtok",
+        "type": "Monastery",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 4000,
+        "budget_category": "Medium",
+        "latitude": 27.326,
+        "longitude": 88.613,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Gangtok Budget Stay",
+                    "price_per_night": 418
+                },
+                {
+                    "hotel_name": "Gangtok Comfort Lodge",
+                    "price_per_night": 436
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Gangtok Grand Resort",
+                    "price_per_night": 4453
+                },
+                {
+                    "hotel_name": "Gangtok Royal Palace Hotel",
+                    "price_per_night": 11645
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Tsomgo Lake (Changu Lake)",
+        "city_town": "Gangtok",
+        "type": "Glacial Lake",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 4000,
+        "budget_category": "Medium",
+        "latitude": 27.504,
+        "longitude": 88.593,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Gangtok Budget Stay",
+                    "price_per_night": 592
+                },
+                {
+                    "hotel_name": "Gangtok Comfort Lodge",
+                    "price_per_night": 613
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Gangtok Grand Resort",
+                    "price_per_night": 4811
+                },
+                {
+                    "hotel_name": "Gangtok Royal Palace Hotel",
+                    "price_per_night": 10894
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Nathula Pass",
+        "city_town": "East Sikkim",
+        "type": "Mountain Pass / Adventure",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget_in_inr": 7000,
+        "budget_category": "High",
+        "latitude": 27.497,
+        "longitude": 88.955,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "East Sikkim Budget Stay",
+                    "price_per_night": 597
+                },
+                {
+                    "hotel_name": "East Sikkim Comfort Lodge",
+                    "price_per_night": 737
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "East Sikkim Grand Resort",
+                    "price_per_night": 4462
+                },
+                {
+                    "hotel_name": "East Sikkim Royal Palace Hotel",
+                    "price_per_night": 11087
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "MG Marg",
+        "city_town": "Gangtok",
+        "type": "Market / Cultural",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 4000,
+        "budget_category": "Medium",
+        "latitude": 27.338,
+        "longitude": 88.608,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Gangtok Budget Stay",
+                    "price_per_night": 516
+                },
+                {
+                    "hotel_name": "Gangtok Comfort Lodge",
+                    "price_per_night": 919
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Gangtok Grand Resort",
+                    "price_per_night": 4446
+                },
+                {
+                    "hotel_name": "Gangtok Royal Palace Hotel",
+                    "price_per_night": 5505
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Namgyal Institute of Tibetology",
+        "city_town": "Gangtok",
+        "type": "Museum / Cultural",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 4000,
+        "budget_category": "Medium",
+        "latitude": 27.331,
+        "longitude": 88.619,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Gangtok Budget Stay",
+                    "price_per_night": 641
+                },
+                {
+                    "hotel_name": "Gangtok Comfort Lodge",
+                    "price_per_night": 762
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Gangtok Grand Resort",
+                    "price_per_night": 4055
+                },
+                {
+                    "hotel_name": "Gangtok Royal Palace Hotel",
+                    "price_per_night": 5434
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Saramsa Garden",
+        "city_town": "Gangtok / Pakyong",
+        "type": "Botanical Garden",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 4000,
+        "budget_category": "Medium",
+        "latitude": 27.323,
+        "longitude": 88.56,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Gangtok / Pakyong Budget Stay",
+                    "price_per_night": 786
+                },
+                {
+                    "hotel_name": "Gangtok / Pakyong Comfort Lodge",
+                    "price_per_night": 642
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Gangtok / Pakyong Grand Resort",
+                    "price_per_night": 3588
+                },
+                {
+                    "hotel_name": "Gangtok / Pakyong Royal Palace Hotel",
+                    "price_per_night": 11171
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Lachung",
+        "city_town": "North Sikkim",
+        "type": "Hill Town / Nature",
+        "hidden_gem": false,
+        "visit_duration": "2 days",
+        "budget_in_inr": 4000,
+        "budget_category": "Medium",
+        "latitude": 28.626,
+        "longitude": 89.66,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "North Sikkim Budget Stay",
+                    "price_per_night": 993
+                },
+                {
+                    "hotel_name": "North Sikkim Comfort Lodge",
+                    "price_per_night": 799
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "North Sikkim Grand Resort",
+                    "price_per_night": 8233
+                },
+                {
+                    "hotel_name": "North Sikkim Royal Palace Hotel",
+                    "price_per_night": 6155
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Yumthang Valley",
+        "city_town": "North Sikkim",
+        "type": "Valley / Nature",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 4000,
+        "budget_category": "Medium",
+        "latitude": 27.944,
+        "longitude": 88.715,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "North Sikkim Budget Stay",
+                    "price_per_night": 532
+                },
+                {
+                    "hotel_name": "North Sikkim Comfort Lodge",
+                    "price_per_night": 966
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "North Sikkim Grand Resort",
+                    "price_per_night": 5688
+                },
+                {
+                    "hotel_name": "North Sikkim Royal Palace Hotel",
+                    "price_per_night": 6321
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Zero Point (Yumesamdong)",
+        "city_town": "North Sikkim",
+        "type": "Scenic / Snow View",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget_in_inr": 4000,
+        "budget_category": "Medium",
+        "latitude": 28.051,
+        "longitude": 88.63,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "North Sikkim Budget Stay",
+                    "price_per_night": 533
+                },
+                {
+                    "hotel_name": "North Sikkim Comfort Lodge",
+                    "price_per_night": 565
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "North Sikkim Grand Resort",
+                    "price_per_night": 5572
+                },
+                {
+                    "hotel_name": "North Sikkim Royal Palace Hotel",
+                    "price_per_night": 5072
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Gurudongmar Lake",
+        "city_town": "North Sikkim",
+        "type": "High Altitude Lake",
+        "hidden_gem": false,
+        "visit_duration": "1 day",
+        "budget_in_inr": 7000,
+        "budget_category": "High",
+        "latitude": 28.011,
+        "longitude": 88.633,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "North Sikkim Budget Stay",
+                    "price_per_night": 661
+                },
+                {
+                    "hotel_name": "North Sikkim Comfort Lodge",
+                    "price_per_night": 444
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "North Sikkim Grand Resort",
+                    "price_per_night": 6325
+                },
+                {
+                    "hotel_name": "North Sikkim Royal Palace Hotel",
+                    "price_per_night": 6581
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Pelling",
+        "city_town": "West Sikkim",
+        "type": "Hill Station / Scenic",
+        "hidden_gem": false,
+        "visit_duration": "2 days",
+        "budget_in_inr": 4000,
+        "budget_category": "Medium",
+        "latitude": 27.292,
+        "longitude": 88.271,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "West Sikkim Budget Stay",
+                    "price_per_night": 659
+                },
+                {
+                    "hotel_name": "West Sikkim Comfort Lodge",
+                    "price_per_night": 586
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "West Sikkim Grand Resort",
+                    "price_per_night": 7926
+                },
+                {
+                    "hotel_name": "West Sikkim Royal Palace Hotel",
+                    "price_per_night": 4345
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Pemayangtse Monastery",
+        "city_town": "Pelling",
+        "type": "Monastery",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 4000,
+        "budget_category": "Medium",
+        "latitude": 27.306,
+        "longitude": 88.269,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Pelling Budget Stay",
+                    "price_per_night": 711
+                },
+                {
+                    "hotel_name": "Pelling Comfort Lodge",
+                    "price_per_night": 565
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Pelling Grand Resort",
+                    "price_per_night": 3646
+                },
+                {
+                    "hotel_name": "Pelling Royal Palace Hotel",
+                    "price_per_night": 5637
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Rabdentse Ruins",
+        "city_town": "Pelling",
+        "type": "Heritage / Ruins",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 4000,
+        "budget_category": "Medium",
+        "latitude": 27.312,
+        "longitude": 88.272,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Pelling Budget Stay",
+                    "price_per_night": 587
+                },
+                {
+                    "hotel_name": "Pelling Comfort Lodge",
+                    "price_per_night": 888
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Pelling Grand Resort",
+                    "price_per_night": 8881
+                },
+                {
+                    "hotel_name": "Pelling Royal Palace Hotel",
+                    "price_per_night": 5936
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Chenrezig Statue and Skywalk",
+        "city_town": "Pelling",
+        "type": "Monument / Scenic",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 4000,
+        "budget_category": "Medium",
+        "latitude": 27.301,
+        "longitude": 88.273,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Pelling Budget Stay",
+                    "price_per_night": 695
+                },
+                {
+                    "hotel_name": "Pelling Comfort Lodge",
+                    "price_per_night": 468
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Pelling Grand Resort",
+                    "price_per_night": 3584
+                },
+                {
+                    "hotel_name": "Pelling Royal Palace Hotel",
+                    "price_per_night": 10294
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Khecheopalri Lake",
+        "city_town": "West Sikkim",
+        "type": "Sacred Lake",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 4000,
+        "budget_category": "Medium",
+        "latitude": 27.312,
+        "longitude": 88.259,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "West Sikkim Budget Stay",
+                    "price_per_night": 910
+                },
+                {
+                    "hotel_name": "West Sikkim Comfort Lodge",
+                    "price_per_night": 815
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "West Sikkim Grand Resort",
+                    "price_per_night": 4818
+                },
+                {
+                    "hotel_name": "West Sikkim Royal Palace Hotel",
+                    "price_per_night": 9902
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Yuksom",
+        "city_town": "West Sikkim",
+        "type": "Historic Town",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.326,
+        "longitude": 88.246,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "West Sikkim Budget Stay",
+                    "price_per_night": 671
+                },
+                {
+                    "hotel_name": "West Sikkim Comfort Lodge",
+                    "price_per_night": 442
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "West Sikkim Grand Resort",
+                    "price_per_night": 5731
+                },
+                {
+                    "hotel_name": "West Sikkim Royal Palace Hotel",
+                    "price_per_night": 5907
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Ravangla",
+        "city_town": "South Sikkim",
+        "type": "Hill Town / Scenic",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 4000,
+        "budget_category": "Medium",
+        "latitude": 27.176,
+        "longitude": 88.295,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "South Sikkim Budget Stay",
+                    "price_per_night": 530
+                },
+                {
+                    "hotel_name": "South Sikkim Comfort Lodge",
+                    "price_per_night": 439
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "South Sikkim Grand Resort",
+                    "price_per_night": 4545
+                },
+                {
+                    "hotel_name": "South Sikkim Royal Palace Hotel",
+                    "price_per_night": 9952
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Buddha Park (Tathagata Tsal)",
+        "city_town": "Ravangla",
+        "type": "Park / Cultural",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 4000,
+        "budget_category": "Medium",
+        "latitude": 27.182,
+        "longitude": 88.3,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Ravangla Budget Stay",
+                    "price_per_night": 773
+                },
+                {
+                    "hotel_name": "Ravangla Comfort Lodge",
+                    "price_per_night": 609
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Ravangla Grand Resort",
+                    "price_per_night": 5054
+                },
+                {
+                    "hotel_name": "Ravangla Royal Palace Hotel",
+                    "price_per_night": 6379
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Samdruptse Hill",
+        "city_town": "Namchi",
+        "type": "Hill / Temple Complex",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 4000,
+        "budget_category": "Medium",
+        "latitude": 27.118,
+        "longitude": 88.404,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Namchi Budget Stay",
+                    "price_per_night": 729
+                },
+                {
+                    "hotel_name": "Namchi Comfort Lodge",
+                    "price_per_night": 898
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Namchi Grand Resort",
+                    "price_per_night": 6331
+                },
+                {
+                    "hotel_name": "Namchi Royal Palace Hotel",
+                    "price_per_night": 7986
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Namchi Rock Garden",
+        "city_town": "Namchi",
+        "type": "Garden / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.116,
+        "longitude": 88.41,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Namchi Budget Stay",
+                    "price_per_night": 598
+                },
+                {
+                    "hotel_name": "Namchi Comfort Lodge",
+                    "price_per_night": 937
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Namchi Grand Resort",
+                    "price_per_night": 6709
+                },
+                {
+                    "hotel_name": "Namchi Royal Palace Hotel",
+                    "price_per_night": 10399
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Char Dham (Siddhesvara Dham)",
+        "city_town": "Namchi",
+        "type": "Pilgrimage / Cultural",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 4000,
+        "budget_category": "Medium",
+        "latitude": 27.115,
+        "longitude": 88.402,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Namchi Budget Stay",
+                    "price_per_night": 981
+                },
+                {
+                    "hotel_name": "Namchi Comfort Lodge",
+                    "price_per_night": 743
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Namchi Grand Resort",
+                    "price_per_night": 3596
+                },
+                {
+                    "hotel_name": "Namchi Royal Palace Hotel",
+                    "price_per_night": 9327
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Temi Tea Garden",
+        "city_town": "Namchi",
+        "type": "Tea Estate / Nature",
+        "hidden_gem": false,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 4000,
+        "budget_category": "Medium",
+        "latitude": 27.115,
+        "longitude": 88.395,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Namchi Budget Stay",
+                    "price_per_night": 554
+                },
+                {
+                    "hotel_name": "Namchi Comfort Lodge",
+                    "price_per_night": 687
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Namchi Grand Resort",
+                    "price_per_night": 7332
+                },
+                {
+                    "hotel_name": "Namchi Royal Palace Hotel",
+                    "price_per_night": 10561
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Zuluk",
+        "city_town": "East Sikkim",
+        "type": "Hill Village / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.323,
+        "longitude": 88.9,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "East Sikkim Budget Stay",
+                    "price_per_night": 511
+                },
+                {
+                    "hotel_name": "East Sikkim Comfort Lodge",
+                    "price_per_night": 983
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "East Sikkim Grand Resort",
+                    "price_per_night": 4901
+                },
+                {
+                    "hotel_name": "East Sikkim Royal Palace Hotel",
+                    "price_per_night": 6611
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Tendong Hill",
+        "city_town": "Ravangla",
+        "type": "Hill / Trekking",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.18,
+        "longitude": 88.295,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Ravangla Budget Stay",
+                    "price_per_night": 734
+                },
+                {
+                    "hotel_name": "Ravangla Comfort Lodge",
+                    "price_per_night": 702
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Ravangla Grand Resort",
+                    "price_per_night": 8888
+                },
+                {
+                    "hotel_name": "Ravangla Royal Palace Hotel",
+                    "price_per_night": 8022
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Phamrong Waterfalls",
+        "city_town": "Martam",
+        "type": "Waterfall / Nature",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.245,
+        "longitude": 88.65,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Martam Budget Stay",
+                    "price_per_night": 643
+                },
+                {
+                    "hotel_name": "Martam Comfort Lodge",
+                    "price_per_night": 837
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Martam Grand Resort",
+                    "price_per_night": 8710
+                },
+                {
+                    "hotel_name": "Martam Royal Palace Hotel",
+                    "price_per_night": 4176
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Lingdum Monastery",
+        "city_town": "Ravangla",
+        "type": "Monastery / Cultural",
+        "hidden_gem": true,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.18,
+        "longitude": 88.3,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Ravangla Budget Stay",
+                    "price_per_night": 661
+                },
+                {
+                    "hotel_name": "Ravangla Comfort Lodge",
+                    "price_per_night": 539
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Ravangla Grand Resort",
+                    "price_per_night": 8050
+                },
+                {
+                    "hotel_name": "Ravangla Royal Palace Hotel",
+                    "price_per_night": 9857
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Tashiding Monastery",
+        "city_town": "West Sikkim",
+        "type": "Monastery / Heritage",
+        "hidden_gem": true,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.223,
+        "longitude": 88.246,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "West Sikkim Budget Stay",
+                    "price_per_night": 429
+                },
+                {
+                    "hotel_name": "West Sikkim Comfort Lodge",
+                    "price_per_night": 442
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "West Sikkim Grand Resort",
+                    "price_per_night": 8388
+                },
+                {
+                    "hotel_name": "West Sikkim Royal Palace Hotel",
+                    "price_per_night": 5661
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Ralong Monastery",
+        "city_town": "South Sikkim",
+        "type": "Monastery / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.17,
+        "longitude": 88.292,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "South Sikkim Budget Stay",
+                    "price_per_night": 921
+                },
+                {
+                    "hotel_name": "South Sikkim Comfort Lodge",
+                    "price_per_night": 578
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "South Sikkim Grand Resort",
+                    "price_per_night": 7574
+                },
+                {
+                    "hotel_name": "South Sikkim Royal Palace Hotel",
+                    "price_per_night": 8589
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Bara Pathar",
+        "city_town": "North Sikkim",
+        "type": "Scenic / Village",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 28.1,
+        "longitude": 88.65,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "North Sikkim Budget Stay",
+                    "price_per_night": 645
+                },
+                {
+                    "hotel_name": "North Sikkim Comfort Lodge",
+                    "price_per_night": 865
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "North Sikkim Grand Resort",
+                    "price_per_night": 3668
+                },
+                {
+                    "hotel_name": "North Sikkim Royal Palace Hotel",
+                    "price_per_night": 6106
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Lachen",
+        "city_town": "North Sikkim",
+        "type": "Hill Town / Nature",
+        "hidden_gem": false,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 4000,
+        "budget_category": "Medium",
+        "latitude": 28.58,
+        "longitude": 89.63,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "North Sikkim Budget Stay",
+                    "price_per_night": 411
+                },
+                {
+                    "hotel_name": "North Sikkim Comfort Lodge",
+                    "price_per_night": 446
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "North Sikkim Grand Resort",
+                    "price_per_night": 8932
+                },
+                {
+                    "hotel_name": "North Sikkim Royal Palace Hotel",
+                    "price_per_night": 5090
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Chopta Valley",
+        "city_town": "North Sikkim",
+        "type": "Valley / Trekking",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.95,
+        "longitude": 88.71,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "North Sikkim Budget Stay",
+                    "price_per_night": 749
+                },
+                {
+                    "hotel_name": "North Sikkim Comfort Lodge",
+                    "price_per_night": 468
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "North Sikkim Grand Resort",
+                    "price_per_night": 7532
+                },
+                {
+                    "hotel_name": "North Sikkim Royal Palace Hotel",
+                    "price_per_night": 6019
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Thangu",
+        "city_town": "North Sikkim",
+        "type": "Hill Village / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 28.07,
+        "longitude": 88.63,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "North Sikkim Budget Stay",
+                    "price_per_night": 786
+                },
+                {
+                    "hotel_name": "North Sikkim Comfort Lodge",
+                    "price_per_night": 958
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "North Sikkim Grand Resort",
+                    "price_per_night": 6689
+                },
+                {
+                    "hotel_name": "North Sikkim Royal Palace Hotel",
+                    "price_per_night": 11605
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Samiti Lake",
+        "city_town": "North Sikkim",
+        "type": "High Altitude Lake",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 7000,
+        "budget_category": "High",
+        "latitude": 27.85,
+        "longitude": 88.61,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "North Sikkim Budget Stay",
+                    "price_per_night": 644
+                },
+                {
+                    "hotel_name": "North Sikkim Comfort Lodge",
+                    "price_per_night": 635
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "North Sikkim Grand Resort",
+                    "price_per_night": 7512
+                },
+                {
+                    "hotel_name": "North Sikkim Royal Palace Hotel",
+                    "price_per_night": 10129
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Goecha La Trek",
+        "city_town": "South Sikkim",
+        "type": "Trekking / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "3-5 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.36,
+        "longitude": 88.55,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "South Sikkim Budget Stay",
+                    "price_per_night": 892
+                },
+                {
+                    "hotel_name": "South Sikkim Comfort Lodge",
+                    "price_per_night": 703
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "South Sikkim Grand Resort",
+                    "price_per_night": 4057
+                },
+                {
+                    "hotel_name": "South Sikkim Royal Palace Hotel",
+                    "price_per_night": 10605
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Phodong Monastery",
+        "city_town": "North Sikkim",
+        "type": "Monastery / Cultural",
+        "hidden_gem": true,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.865,
+        "longitude": 88.625,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "North Sikkim Budget Stay",
+                    "price_per_night": 960
+                },
+                {
+                    "hotel_name": "North Sikkim Comfort Lodge",
+                    "price_per_night": 812
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "North Sikkim Grand Resort",
+                    "price_per_night": 4434
+                },
+                {
+                    "hotel_name": "North Sikkim Royal Palace Hotel",
+                    "price_per_night": 6977
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Lingee Village",
+        "city_town": "East Sikkim",
+        "type": "Village / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.335,
+        "longitude": 88.685,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "East Sikkim Budget Stay",
+                    "price_per_night": 530
+                },
+                {
+                    "hotel_name": "East Sikkim Comfort Lodge",
+                    "price_per_night": 958
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "East Sikkim Grand Resort",
+                    "price_per_night": 7476
+                },
+                {
+                    "hotel_name": "East Sikkim Royal Palace Hotel",
+                    "price_per_night": 11427
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Namchi Skywalk",
+        "city_town": "Namchi",
+        "type": "Scenic / Cultural",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.115,
+        "longitude": 88.405,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Namchi Budget Stay",
+                    "price_per_night": 705
+                },
+                {
+                    "hotel_name": "Namchi Comfort Lodge",
+                    "price_per_night": 641
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Namchi Grand Resort",
+                    "price_per_night": 7696
+                },
+                {
+                    "hotel_name": "Namchi Royal Palace Hotel",
+                    "price_per_night": 5279
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Ralong Tea Garden",
+        "city_town": "Ravangla",
+        "type": "Tea Estate / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.18,
+        "longitude": 88.297,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Ravangla Budget Stay",
+                    "price_per_night": 508
+                },
+                {
+                    "hotel_name": "Ravangla Comfort Lodge",
+                    "price_per_night": 631
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Ravangla Grand Resort",
+                    "price_per_night": 4946
+                },
+                {
+                    "hotel_name": "Ravangla Royal Palace Hotel",
+                    "price_per_night": 5821
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Pakyong Monastery",
+        "city_town": "Pakyong",
+        "type": "Monastery / Cultural",
+        "hidden_gem": true,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.326,
+        "longitude": 88.556,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Pakyong Budget Stay",
+                    "price_per_night": 563
+                },
+                {
+                    "hotel_name": "Pakyong Comfort Lodge",
+                    "price_per_night": 844
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Pakyong Grand Resort",
+                    "price_per_night": 5420
+                },
+                {
+                    "hotel_name": "Pakyong Royal Palace Hotel",
+                    "price_per_night": 6634
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Tashiding Hill",
+        "city_town": "West Sikkim",
+        "type": "Hill / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.223,
+        "longitude": 88.245,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "West Sikkim Budget Stay",
+                    "price_per_night": 792
+                },
+                {
+                    "hotel_name": "West Sikkim Comfort Lodge",
+                    "price_per_night": 824
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "West Sikkim Grand Resort",
+                    "price_per_night": 7088
+                },
+                {
+                    "hotel_name": "West Sikkim Royal Palace Hotel",
+                    "price_per_night": 10276
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Rimbi Waterfall",
+        "city_town": "North Sikkim",
+        "type": "Waterfall / Nature",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.96,
+        "longitude": 88.705,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "North Sikkim Budget Stay",
+                    "price_per_night": 867
+                },
+                {
+                    "hotel_name": "North Sikkim Comfort Lodge",
+                    "price_per_night": 802
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "North Sikkim Grand Resort",
+                    "price_per_night": 5185
+                },
+                {
+                    "hotel_name": "North Sikkim Royal Palace Hotel",
+                    "price_per_night": 9593
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Dzongu Valley",
+        "city_town": "North Sikkim",
+        "type": "Valley / Tribal Village",
+        "hidden_gem": true,
+        "visit_duration": "1-2 days",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.95,
+        "longitude": 88.66,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "North Sikkim Budget Stay",
+                    "price_per_night": 483
+                },
+                {
+                    "hotel_name": "North Sikkim Comfort Lodge",
+                    "price_per_night": 683
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "North Sikkim Grand Resort",
+                    "price_per_night": 5085
+                },
+                {
+                    "hotel_name": "North Sikkim Royal Palace Hotel",
+                    "price_per_night": 6764
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Ravangla Buddha Park Viewpoint",
+        "city_town": "Ravangla",
+        "type": "Scenic / Cultural",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.183,
+        "longitude": 88.302,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Ravangla Budget Stay",
+                    "price_per_night": 809
+                },
+                {
+                    "hotel_name": "Ravangla Comfort Lodge",
+                    "price_per_night": 507
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Ravangla Grand Resort",
+                    "price_per_night": 3597
+                },
+                {
+                    "hotel_name": "Ravangla Royal Palace Hotel",
+                    "price_per_night": 11911
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Singshore Bridge",
+        "city_town": "Pelling",
+        "type": "Bridge / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.298,
+        "longitude": 88.266,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Pelling Budget Stay",
+                    "price_per_night": 486
+                },
+                {
+                    "hotel_name": "Pelling Comfort Lodge",
+                    "price_per_night": 428
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Pelling Grand Resort",
+                    "price_per_night": 4544
+                },
+                {
+                    "hotel_name": "Pelling Royal Palace Hotel",
+                    "price_per_night": 10015
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Rabong Village",
+        "city_town": "West Sikkim",
+        "type": "Village / Scenic",
+        "hidden_gem": true,
+        "visit_duration": "Half-1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.31,
+        "longitude": 88.27,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "West Sikkim Budget Stay",
+                    "price_per_night": 677
+                },
+                {
+                    "hotel_name": "West Sikkim Comfort Lodge",
+                    "price_per_night": 970
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "West Sikkim Grand Resort",
+                    "price_per_night": 6739
+                },
+                {
+                    "hotel_name": "West Sikkim Royal Palace Hotel",
+                    "price_per_night": 8294
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Barsey Rhododendron Sanctuary",
+        "city_town": "West Sikkim",
+        "type": "Forest / Nature",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.3,
+        "longitude": 88.26,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "West Sikkim Budget Stay",
+                    "price_per_night": 647
+                },
+                {
+                    "hotel_name": "West Sikkim Comfort Lodge",
+                    "price_per_night": 945
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "West Sikkim Grand Resort",
+                    "price_per_night": 4488
+                },
+                {
+                    "hotel_name": "West Sikkim Royal Palace Hotel",
+                    "price_per_night": 5992
+                }
+            ]
+        }
+    },
+    {
+        "state": "Sikkim",
+        "place_name": "Yoksum Bamboo Camp",
+        "city_town": "West Sikkim",
+        "type": "Village / Nature",
+        "hidden_gem": true,
+        "visit_duration": "1 day",
+        "budget_in_inr": 1500,
+        "budget_category": "Low",
+        "latitude": 27.328,
+        "longitude": 88.247,
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "West Sikkim Budget Stay",
+                    "price_per_night": 532
+                },
+                {
+                    "hotel_name": "West Sikkim Comfort Lodge",
+                    "price_per_night": 653
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "West Sikkim Grand Resort",
+                    "price_per_night": 7558
+                },
+                {
+                    "hotel_name": "West Sikkim Royal Palace Hotel",
+                    "price_per_night": 6726
+                }
+            ]
+        }
+    }
+]

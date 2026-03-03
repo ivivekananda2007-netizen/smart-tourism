@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hidden Gems - Status Check</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { 
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+      padding: 40px 20px;
+    }
+    .container { max-width: 1000px; margin: 0 auto; }
+    .header {
+      color: white;
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    .header h1 { font-size: 2.5em; margin-bottom: 10px; }
+    .header p { font-size: 1.1em; opacity: 0.9; }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+      margin-bottom: 40px;
+    }
+    .stat-card {
+      background: white;
+      padding: 25px;
+      border-radius: 12px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+      text-align: center;
+    }
+    .stat-number {
+      font-size: 3em;
+      font-weight: bold;
+      color: #667eea;
+      margin: 10px 0;
+    }
+    .stat-label { color: #666; font-size: 0.95em; }
+    .gems-container {
+      background: white;
+      border-radius: 12px;
+      padding: 30px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+      margin-bottom: 30px;
+    }
+    .gems-container h2 { color: #333; margin-bottom: 20px; }
+    .gems-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 20px;
+    }
+    .gem-card {
+      border: 1px solid #eee;
+      border-radius: 8px;
+      padding: 20px;
+      transition: all 0.3s ease;
+      background: #f9f9f9;
+    }
+    .gem-card:hover {
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+      transform: translateY(-2px);
+    }
+    .gem-card h3 { color: #667eea; margin-bottom: 8px; }
+    .gem-card p { color: #666; font-size: 0.9em; margin: 5px 0; }
+    .location { color: #764ba2; font-weight: 600; }
+    .status-good { color: #22c55e; font-weight: bold; }
+    .status-bad { color: #ef4444; font-weight: bold; }
+    .loading {
+      text-align: center;
+      padding: 40px;
+      color: #666;
+    }
+    .spinner {
+      display: inline-block;
+      animation: spin 1s linear infinite;
+    }
+    @keyframes spin {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>🗺️ Hidden Gems Dashboard</h1>
+      <p>Your dataset is loaded and ready to explore</p>
+    </div>
+
+    <div class="stats">
+      <div class="stat-card">
+        <div class="stat-label">Total Hidden Gems</div>
+        <div class="stat-number" id="total-gems">-</div>
+        <div class="stat-label" id="status-gems" class="status-good">Loading...</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">States Covered</div>
+        <div class="stat-number" id="total-states">-</div>
+        <div class="stat-label" id="status-states" class="status-good">Loading...</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">API Status</div>
+        <div class="stat-number" id="api-status" style="font-size: 1.5em; color: #22c55e;">✓</div>
+        <div class="stat-label" id="status-api" class="status-good">Connected</div>
+      </div>
+    </div>
+
+    <div class="gems-container">
+      <h2>Sample Hidden Gems</h2>
+      <div id="gems-grid" class="loading">
+        <div class="spinner">⏳</div> Loading gems...
+      </div>
+    </div>
+
+    <div class="gems-container" style="background: #f0f9ff; border-left: 4px solid #667eea;">
+      <h2>📍 Next Steps</h2>
+      <p style="margin-bottom: 10px;">
+        <strong>Your hidden gems are ready!</strong> Here's where to find them:
+      </p>
+      <ul style="margin-left: 20px; color: #555;">
+        <li><strong>Frontend:</strong> <a href="http://localhost:5177/hidden-gems" target="_blank">http://localhost:5177/hidden-gems</a></li>
+        <li><strong>API:</strong> <a href="http://localhost:5000/api/places/hidden-gems" target="_blank">http://localhost:5000/api/places/hidden-gems</a></li>
+        <li><strong>Total Places in DB:</strong> 1,508 (943 are hidden gems)</li>
+      </ul>
+    </div>
+  </div>
+
+  <script>
+    const API = 'http://localhost:5000/api';
+
+    async function loadData() {
+      try {
+        // Load hidden gems
+        const gemsRes = await fetch(`${API}/places/hidden-gems`);
+        const gems = await gemsRes.json();
+        document.getElementById('total-gems').textContent = gems.length.toLocaleString();
+        document.getElementById('status-gems').textContent = '✓ Loaded';
+
+        // Load states
+        const statesRes = await fetch(`${API}/places/states`);
+        const states = await statesRes.json();
+        document.getElementById('total-states').textContent = states.length;
+        document.getElementById('status-states').textContent = '✓ Loaded';
+
+        // Display samples
+        const gemsGrid = document.getElementById('gems-grid');
+        gemsGrid.innerHTML = gems.slice(0, 9).map(gem => `
+          <div class="gem-card">
+            <h3>${gem.placeTown}</h3>
+            <p class="location">📍 ${gem.cityTown}, ${gem.state}</p>
+            <p><strong>${gem.type}</strong></p>
+            <p>Crowd Level: ${gem.crowdLevel}</p>
+            <p>Budget: ₹${gem.budgetINR.toLocaleString()}</p>
+            <p>Duration: ${gem.visitDuration} hours</p>
+          </div>
+        `).join('');
+
+      } catch (err) {
+        document.getElementById('api-status').textContent = '✗';
+        document.getElementById('api-status').style.color = '#ef4444';
+        document.getElementById('status-api').textContent = 'Error: ' + err.message;
+        document.getElementById('status-api').className = 'status-bad';
+        document.getElementById('gems-grid').innerHTML = `<p class="status-bad">Error loading data: ${err.message}</p>`;
+      }
+    }
+
+    loadData();
+  </script>
+</body>
+</html>

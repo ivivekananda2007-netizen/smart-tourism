@@ -1,0 +1,406 @@
+[
+    {
+        "state": "Puducherry",
+        "place_name": "Promenade Beach",
+        "city_town": "Puducherry",
+        "type": "Beach",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 0,
+        "latitude": 11.9365,
+        "longitude": 79.8353,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Hotel Coramandal Heritage",
+                    "price_per_night": 1800
+                },
+                {
+                    "hotel_name": "Anandha Inn",
+                    "price_per_night": 2200
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "The Promenade",
+                    "price_per_night": 8500
+                },
+                {
+                    "hotel_name": "Le Pondy",
+                    "price_per_night": 12000
+                }
+            ]
+        }
+    },
+    {
+        "state": "Puducherry",
+        "place_name": "Sri Aurobindo Ashram",
+        "city_town": "Puducherry",
+        "type": "Spiritual Centre",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 0,
+        "latitude": 11.9416,
+        "longitude": 79.8083,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Hotel Atithi",
+                    "price_per_night": 2500
+                },
+                {
+                    "hotel_name": "Sunway Manor",
+                    "price_per_night": 3000
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Palais de Mahe",
+                    "price_per_night": 14000
+                },
+                {
+                    "hotel_name": "The Residency Towers",
+                    "price_per_night": 9000
+                }
+            ]
+        }
+    },
+    {
+        "state": "Puducherry",
+        "place_name": "Paradise Beach",
+        "city_town": "Puducherry",
+        "type": "Beach",
+        "hidden_gem": false,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 300,
+        "latitude": 11.876,
+        "longitude": 79.8145,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Treebo Grace Inn",
+                    "price_per_night": 2000
+                },
+                {
+                    "hotel_name": "Hotel Surguru",
+                    "price_per_night": 1700
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Le Pondy",
+                    "price_per_night": 12000
+                },
+                {
+                    "hotel_name": "Radisson Resort",
+                    "price_per_night": 15000
+                }
+            ]
+        }
+    },
+    {
+        "state": "Puducherry",
+        "place_name": "Auroville",
+        "city_town": "Puducherry",
+        "type": "Township / Spiritual",
+        "hidden_gem": false,
+        "visit_duration": "Half day",
+        "budget_in_inr": 200,
+        "latitude": 12.0067,
+        "longitude": 79.8103,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Auroville Guest House",
+                    "price_per_night": 1800
+                },
+                {
+                    "hotel_name": "Green Meadows Resort",
+                    "price_per_night": 2500
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Le Pondy",
+                    "price_per_night": 12000
+                },
+                {
+                    "hotel_name": "Palais de Mahe",
+                    "price_per_night": 14000
+                }
+            ]
+        }
+    },
+    {
+        "state": "Puducherry",
+        "place_name": "Karaikal Beach",
+        "city_town": "Karaikal",
+        "type": "Beach",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 0,
+        "latitude": 10.9157,
+        "longitude": 79.838,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Kumaran Residency",
+                    "price_per_night": 1500
+                },
+                {
+                    "hotel_name": "Hotel Royal Park",
+                    "price_per_night": 2000
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Subasree Cottage",
+                    "price_per_night": 6000
+                },
+                {
+                    "hotel_name": "The Grand Karaikal",
+                    "price_per_night": 7500
+                }
+            ]
+        }
+    },
+    {
+        "state": "Puducherry",
+        "place_name": "Thirunallar Temple",
+        "city_town": "Karaikal",
+        "type": "Temple",
+        "hidden_gem": false,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 200,
+        "latitude": 10.9106,
+        "longitude": 79.837,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Hotel Nandha",
+                    "price_per_night": 1200
+                },
+                {
+                    "hotel_name": "RK Residency",
+                    "price_per_night": 1500
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "The Grand Karaikal",
+                    "price_per_night": 7500
+                },
+                {
+                    "hotel_name": "Subasree Cottage",
+                    "price_per_night": 6000
+                }
+            ]
+        }
+    },
+    {
+        "state": "Puducherry",
+        "place_name": "Mahe Beach",
+        "city_town": "Mahe",
+        "type": "Beach",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 0,
+        "latitude": 11.7006,
+        "longitude": 75.534,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Hotel Anugraha",
+                    "price_per_night": 1500
+                },
+                {
+                    "hotel_name": "Sea View Residency",
+                    "price_per_night": 2000
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Abad Brookside",
+                    "price_per_night": 8000
+                },
+                {
+                    "hotel_name": "The Pearl Mahe",
+                    "price_per_night": 9500
+                }
+            ]
+        }
+    },
+    {
+        "state": "Puducherry",
+        "place_name": "Yanam Beach",
+        "city_town": "Yanam",
+        "type": "Beach / Riverside",
+        "hidden_gem": true,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 0,
+        "latitude": 16.7333,
+        "longitude": 82.2167,
+        "budget_category": "Low",
+        "accommodation": {
+            "normal": [
+                {
+                    "hotel_name": "Hotel Atchaya",
+                    "price_per_night": 1500
+                },
+                {
+                    "hotel_name": "River View Residency",
+                    "price_per_night": 1800
+                }
+            ],
+            "luxury": [
+                {
+                    "hotel_name": "Palm Beach Hotel",
+                    "price_per_night": 7000
+                },
+                {
+                    "hotel_name": "Godavari Grand",
+                    "price_per_night": 8500
+                }
+            ]
+        }
+    },
+    {
+        "state": "Puducherry",
+        "place_name": "Rock Beach",
+        "city_town": "Puducherry",
+        "type": "Beach",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 0,
+        "latitude": 11.9359,
+        "longitude": 79.8347,
+        "budget_category": "Low"
+    },
+    {
+        "state": "Puducherry",
+        "place_name": "Serenity Beach",
+        "city_town": "Puducherry",
+        "type": "Beach",
+        "hidden_gem": true,
+        "visit_duration": "2 hours",
+        "budget_in_inr": 0,
+        "latitude": 11.964,
+        "longitude": 79.8443,
+        "budget_category": "Low"
+    },
+    {
+        "state": "Puducherry",
+        "place_name": "Botanical Garden",
+        "city_town": "Puducherry",
+        "type": "Garden",
+        "hidden_gem": false,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 30,
+        "latitude": 11.933,
+        "longitude": 79.8145,
+        "budget_category": "Low"
+    },
+    {
+        "state": "Puducherry",
+        "place_name": "Chunnambar Boat House",
+        "city_town": "Puducherry",
+        "type": "Backwater / Boating",
+        "hidden_gem": false,
+        "visit_duration": "2-3 hours",
+        "budget_in_inr": 350,
+        "latitude": 11.8765,
+        "longitude": 79.814,
+        "budget_category": "Medium"
+    },
+    {
+        "state": "Puducherry",
+        "place_name": "Arikamedu",
+        "city_town": "Puducherry",
+        "type": "Archaeological Site",
+        "hidden_gem": true,
+        "visit_duration": "1-2 hours",
+        "budget_in_inr": 0,
+        "latitude": 11.9139,
+        "longitude": 79.8306,
+        "budget_category": "Low"
+    },
+    {
+        "state": "Puducherry",
+        "place_name": "Basilica of the Sacred Heart of Jesus",
+        "city_town": "Puducherry",
+        "type": "Church",
+        "hidden_gem": false,
+        "visit_duration": "1 hour",
+        "budget_in_inr": 0,
+        "latitude": 11.9312,
+        "longitude": 79.8128,
+        "budget_category": "Low"
+    },
+    {
+        "state": "Puducherry",
+        "place_name": "French War Memorial",
+        "city_town": "Puducherry",
+        "type": "Memorial",
+        "hidden_gem": true,
+        "visit_duration": "30 minutes",
+        "budget_in_inr": 0,
+        "latitude": 11.9361,
+        "longitude": 79.835,
+        "budget_category": "Low"
+    },
+    {
+        "state": "Puducherry",
+        "place_name": "Raj Niwas",
+        "city_town": "Puducherry",
+        "type": "Heritage Building",
+        "hidden_gem": true,
+        "visit_duration": "1 hour",
+        "budget_in_inr": 0,
+        "latitude": 11.9396,
+        "longitude": 79.8365,
+        "budget_category": "Low"
+    },
+    {
+        "state": "Puducherry",
+        "place_name": "Our Lady of Angels Church",
+        "city_town": "Puducherry",
+        "type": "Church",
+        "hidden_gem": true,
+        "visit_duration": "45 minutes",
+        "budget_in_inr": 0,
+        "latitude": 11.9375,
+        "longitude": 79.8338,
+        "budget_category": "Low"
+    },
+    {
+        "state": "Puducherry",
+        "place_name": "Yanam Tower Clock",
+        "city_town": "Yanam",
+        "type": "Heritage Landmark",
+        "hidden_gem": true,
+        "visit_duration": "30 minutes",
+        "budget_in_inr": 0,
+        "latitude": 16.7345,
+        "longitude": 82.2158,
+        "budget_category": "Low"
+    },
+    {
+        "state": "Puducherry",
+        "place_name": "St. Teresa's Shrine",
+        "city_town": "Mahe",
+        "type": "Church",
+        "hidden_gem": false,
+        "visit_duration": "1 hour",
+        "budget_in_inr": 0,
+        "latitude": 11.7001,
+        "longitude": 75.5335,
+        "budget_category": "Low"
+    }
+]
