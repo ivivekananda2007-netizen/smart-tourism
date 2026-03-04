@@ -12,7 +12,7 @@ export default function HelpSupportPage() {
       <section className="cards">
         <article className="card trip-card">
           <h3>How to plan a trip</h3>
-          <p>Use Plan Trip, enter destination, dates, budget, and interests to generate your itinerary.</p>
+          <p>Use Plan Trip, enter destination, dates, budget, and interests to generate your trip plan.</p>
         </article>
         <article className="card trip-card">
           <h3>Save places for later</h3>

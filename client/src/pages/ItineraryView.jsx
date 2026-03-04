@@ -37,7 +37,7 @@ export default function ItineraryView() {
   };
 
   useEffect(() => {
-    load().catch(() => toast.error("Failed to load itinerary"));
+    load().catch(() => toast.error("Failed to load trip plan"));
   }, [id]);
 
   const day = useMemo(() => trip?.itinerary?.find((x) => x.day === activeDay), [trip, activeDay]);
@@ -70,14 +70,14 @@ export default function ItineraryView() {
     <main className="container page">
       <section className="section-head">
         <div>
-          <p className="kicker">Trip Itinerary</p>
+          <p className="kicker">Trip Plan</p>
           <h2>{trip.destination}</h2>
           <p className="muted">
             {trip.startDate} to {trip.endDate}
           </p>
         </div>
         <button className="btn" onClick={weatherReplan}>
-          Auto Re-plan (Weather)
+          Auto Update for Weather
         </button>
       </section>
 

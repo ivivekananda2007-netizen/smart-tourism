@@ -83,7 +83,7 @@ export default function PlannerWizard() {
         </label>
 
         <button disabled={loading} className="btn" type="submit">
-          {loading ? "Generating..." : "Generate Itinerary"}
+          {loading ? "Generating..." : "Generate Trip Plan"}
         </button>
       </form>
     </main>

@@ -65,6 +65,7 @@ app.get("/api/health", (req, res) => {
 app.use("/api/auth", require("./routes/auth"));
 app.use("/api/trips", require("./routes/trips"));
 app.use("/api/places", require("./routes/places"));
+app.use("/api/hotels", require("./routes/hotels"));
 app.use("/api/weather", require("./routes/weather"));
 
 app.use(notFound);

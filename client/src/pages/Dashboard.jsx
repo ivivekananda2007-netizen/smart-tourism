@@ -49,7 +49,7 @@ export default function Dashboard() {
             <p>Budget: INR {trip.budget}</p>
             <div className="row">
               <button className="btn" onClick={() => navigate(`/itinerary/${trip._id}`)}>
-                View Itinerary
+                View Trip Plan
               </button>
               <button className="btn secondary" onClick={() => navigate(`/budget/${trip._id}`)}>
                 Budget
@@ -62,7 +62,7 @@ export default function Dashboard() {
       {trips.length === 0 && (
         <section className="card empty-state">
           <h3>No trips yet</h3>
-          <p>Start by creating your first AI-generated itinerary.</p>
+          <p>Start by creating your first AI-generated trip plan.</p>
           <Link className="btn" to="/plan">
             Create First Trip
           </Link>

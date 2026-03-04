@@ -1,5 +1,6 @@
 import { Navigate, Route, Routes } from "react-router-dom";
 import Navbar from "./components/Navbar";
+import BackgroundVideo from "./components/BackgroundVideo";
 import { useAuth } from "./context/AuthContext";
 import LandingPage from "./pages/LandingPage";
 import LoginPage from "./pages/LoginPage";
@@ -23,6 +24,7 @@ function PrivateRoute({ children }) {
 export default function App() {
   return (
     <div className="app-shell">
+      <BackgroundVideo />
       <Navbar />
       <Routes>
         <Route path="/" element={<LandingPage />} />

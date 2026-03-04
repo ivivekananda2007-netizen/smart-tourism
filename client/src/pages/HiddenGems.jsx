@@ -1,20 +1,26 @@
 import { useEffect, useState } from "react";
 import toast from "react-hot-toast";
+import { useSearchParams } from "react-router-dom";
 import api from "../api";
+import HotelsNearby from "../components/HotelsNearby";
+import { useTripForm } from "../context/TripContext";
 
 export default function HiddenGems() {
+  const [searchParams] = useSearchParams();
+  const { tripForm } = useTripForm();
   const [items, setItems] = useState([]);
   const [states, setStates] = useState([]);
   const [recommendations, setRecommendations] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-  const [filters, setFilters] = useState({
-    state: "",
-    type: "",
+  const [selectedGem, setSelectedGem] = useState(null);
+  const [filters, setFilters] = useState(() => ({
+    state: searchParams.get("state") || "",
+    type: searchParams.get("type") || "",
     hiddenGem: true,
-    search: "",
-    preset: ""
-  });
+    search: searchParams.get("search") || "",
+    preset: searchParams.get("preset") || ""
+  }));
 
   const load = async (retryCount = 0) => {
     try {
@@ -195,7 +201,11 @@ export default function HiddenGems() {
 
       <section className="cards">
         {items.map((p) => (
-          <article key={p._id} className="card trip-card">
+          <article 
+            key={p._id} 
+            className={`card trip-card ${selectedGem?._id === p._id ? "selected" : ""}`}
+            onClick={() => setSelectedGem(selectedGem?._id === p._id ? null : p)}
+          >
             <h3>{p.placeTown}</h3>
             <p>
               {p.cityTown}, {p.state}
@@ -203,6 +213,29 @@ export default function HiddenGems() {
             <p>
               {p.type} | Budget: ₹{p.budgetINR} | Duration: {p.visitDuration}h
             </p>
+            <div style={{ fontSize: "12px", color: "#7f8c8d", marginTop: "8px" }}>
+              ⭐ Rating: {p.rating}
+            </div>
+            {p.description && (
+              <p style={{ fontSize: "13px", color: "#555", marginTop: "10px", fontStyle: "italic" }}>
+                {p.description}
+              </p>
+            )}
+            
+            {/* Hotels section for selected gem */}
+            {selectedGem?._id === p._id && (
+              <div
+                style={{ marginTop: "20px", paddingTop: "20px", borderTop: "2px solid #ecf0f1" }}
+                onPointerDown={(e) => e.stopPropagation()}
+                onMouseDown={(e) => e.stopPropagation()}
+                onClick={(e) => e.stopPropagation()}
+              >
+                <HotelsNearby 
+                  gem={p} 
+                  budget={Number(tripForm.budget) || 50000} 
+                />
+              </div>
+            )}
           </article>
         ))}
       </section>

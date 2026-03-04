@@ -41,7 +41,6 @@ export default function Navbar() {
           <Link to="/hidden-gems">Hidden Gems</Link>
           <Link to={securePath("/saved-places")}>Saved Places</Link>
           <Link to={securePath("/weather")}>Weather</Link>
-          <Link to={securePath("/profile")}>Profile</Link>
           <Link to={securePath("/settings")}>Settings</Link>
           <Link to="/help">Help</Link>
           {!user && (
