@@ -797,6 +797,23 @@ select:focus {
   gap: 12px;
 }
 
+.section-head .kicker {
+  color: #ffffff;
+  font-weight: 800;
+}
+
+.section-head h1,
+.section-head h2,
+.section-head h3 {
+  color: #ffffff;
+  font-weight: 800;
+}
+
+.section-head .muted {
+  color: #ffffff;
+  font-weight: 700;
+}
+
 .stats-row {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));

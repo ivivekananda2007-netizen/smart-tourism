@@ -3,6 +3,7 @@ const jwt = require("jsonwebtoken");
 const User = require("../models/User");
 const Trip = require("../models/Trip");
 const { protect } = require("../middleware/auth");
+const { sendPasswordResetEmail } = require("../utils/emailService");
 
 const router = express.Router();
 
@@ -69,6 +70,95 @@ router.post("/login", async (req, res, next) => {
       notificationSettings: user.notificationSettings,
       token: tokenFor(user._id)
     });
+  } catch (e) {
+    next(e);
+  }
+});
+
+router.post("/forgot-password", async (req, res, next) => {
+  try {
+    const email = String(req.body.email || "").trim().toLowerCase();
+    if (!email || !isValidEmail(email)) {
+      res.status(400);
+      throw new Error("Please provide a valid registered email");
+    }
+
+    const user = await User.findOne({ email });
+    if (!user) {
+      res.status(404);
+      throw new Error("No account found with this email");
+    }
+
+    const resetToken = jwt.sign(
+      { email: user.email, type: "password_reset" },
+      process.env.JWT_SECRET,
+      { expiresIn: process.env.RESET_TOKEN_EXPIRES_IN || "15m" }
+    );
+    const frontendBase = String(process.env.FRONTEND_URL || "http://localhost:5173").replace(/\/+$/, "");
+    const resetLink = `${frontendBase}/reset-password/${resetToken}`;
+
+    await sendPasswordResetEmail({
+      email: user.email,
+      name: user.name,
+      resetLink
+    });
+
+    res.json({ message: "Password reset link sent to your email" });
+  } catch (e) {
+    if (e?.message === "Gmail not configured in .env") {
+      res.status(500);
+    }
+    next(e);
+  }
+});
+
+router.post("/reset-password/:token", async (req, res, next) => {
+  try {
+    const token = String(req.params.token || "").trim();
+    const newPassword = String(req.body.newPassword || "");
+    const confirmPassword = String(req.body.confirmPassword || "");
+
+    if (!token) {
+      res.status(400);
+      throw new Error("Invalid reset token");
+    }
+    if (!newPassword || !confirmPassword) {
+      res.status(400);
+      throw new Error("New password and confirm password are required");
+    }
+    if (newPassword.length < 6) {
+      res.status(400);
+      throw new Error("Password must be at least 6 characters");
+    }
+    if (newPassword !== confirmPassword) {
+      res.status(400);
+      throw new Error("Passwords do not match");
+    }
+
+    let payload = null;
+    try {
+      payload = jwt.verify(token, process.env.JWT_SECRET);
+    } catch (_) {
+      res.status(400);
+      throw new Error("Reset link is invalid or expired");
+    }
+
+    if (!payload?.email || payload.type !== "password_reset") {
+      res.status(400);
+      throw new Error("Reset link is invalid or expired");
+    }
+
+    const user = await User.findOne({ email: String(payload.email).toLowerCase() });
+
+    if (!user) {
+      res.status(400);
+      throw new Error("Reset link is invalid or expired");
+    }
+
+    user.password = newPassword;
+    await user.save();
+
+    res.json({ message: "Password reset successful" });
   } catch (e) {
     next(e);
   }

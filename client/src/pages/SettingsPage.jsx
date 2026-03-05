@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import toast from "react-hot-toast";
 import api from "../api";
 import { useAuth } from "../context/AuthContext";
@@ -21,11 +21,15 @@ export default function SettingsPage() {
     newPassword: "",
     confirmPassword: ""
   });
+  const [gmailConfigured, setGmailConfigured] = useState(null);
 
   useEffect(() => {
     const loadProfile = async () => {
       try {
-        const { data } = await api.get("/auth/profile");
+        const [{ data }, { data: emailStatus }] = await Promise.all([
+          api.get("/auth/profile"),
+          api.get("/settings/email-status")
+        ]);
         setProfile({
           name: data?.name || "",
           phone: data?.phone || "",
@@ -37,6 +41,7 @@ export default function SettingsPage() {
           hiddenGemsAlerts: Boolean(data?.notificationSettings?.hiddenGemsAlerts),
           nearbyHotelsAlerts: Boolean(data?.notificationSettings?.nearbyHotelsAlerts)
         });
+        setGmailConfigured(Boolean(emailStatus?.gmailConfigured));
       } catch (error) {
         toast.error(error.response?.data?.message || "Failed to load settings");
       } finally {
@@ -209,6 +214,15 @@ export default function SettingsPage() {
           Save Notification Settings
         </button>
 
+        <h3>Email Service Status</h3>
+        {gmailConfigured === null ? (
+          <p className="muted">Checking Gmail configuration...</p>
+        ) : gmailConfigured ? (
+          <p style={{ color: "#128a5a", fontWeight: 700 }}>✔ Gmail Connected</p>
+        ) : (
+          <p style={{ color: "#b42334", fontWeight: 700 }}>✖ Gmail Not Configured</p>
+        )}
+
         <h3>Change Password</h3>
         <label>
           Current Password
@@ -218,6 +232,9 @@ export default function SettingsPage() {
             onChange={(e) => setPasswordForm({ ...passwordForm, currentPassword: e.target.value })}
           />
         </label>
+        <Link to="/forgot-password" style={{ color: "#1f5ca9", fontWeight: 700, textDecoration: "underline" }}>
+          Forgot Password?
+        </Link>
         <label>
           New Password
           <input

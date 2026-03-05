@@ -1,6 +1,18 @@
 import { Link, useNavigate } from "react-router-dom";
 import { useState } from "react";
 import { useAuth } from "../context/AuthContext";
+import {
+  FaBookmark,
+  FaCircleQuestion,
+  FaCloudSun,
+  FaCompass,
+  FaGear,
+  FaHouse,
+  FaRightFromBracket,
+  FaRoute,
+  FaSuitcaseRolling,
+  FaUser
+} from "react-icons/fa6";
 import logo from "./Smarte_ai_पर्यटन_डिज़ाइन-removebg-preview.png";
 
 export default function Navbar() {
@@ -32,26 +44,68 @@ export default function Navbar() {
         <nav className="nav-links">
           <Link to="/">
             <span className="nav-symbol" aria-hidden="true">
-              {"\u2302"}
+              <FaHouse />
             </span>{" "}
             Home
           </Link>
-          <Link to={securePath("/plan")}>Plan Trip</Link>
-          <Link to={securePath("/my-trips")}>My Trips</Link>
-          <Link to="/hidden-gems">Hidden Gems</Link>
-          <Link to={securePath("/saved-places")}>Saved Places</Link>
-          <Link to={securePath("/weather")}>Weather</Link>
-          <Link to={securePath("/settings")}>Settings</Link>
-          <Link to="/help">Help</Link>
+          <Link to={securePath("/plan")}>
+            <span className="nav-symbol" aria-hidden="true">
+              <FaRoute />
+            </span>{" "}
+            Plan Trip
+          </Link>
+          <Link to={securePath("/my-trips")}>
+            <span className="nav-symbol" aria-hidden="true">
+              <FaSuitcaseRolling />
+            </span>{" "}
+            My Trips
+          </Link>
+          <Link to="/hidden-gems">
+            <span className="nav-symbol" aria-hidden="true">
+              <FaCompass />
+            </span>{" "}
+            Hidden Gems
+          </Link>
+          <Link to={securePath("/saved-places")}>
+            <span className="nav-symbol" aria-hidden="true">
+              <FaBookmark />
+            </span>{" "}
+            Saved Places
+          </Link>
+          <Link to={securePath("/weather")}>
+            <span className="nav-symbol" aria-hidden="true">
+              <FaCloudSun />
+            </span>{" "}
+            Weather
+          </Link>
+          <Link to={securePath("/settings")}>
+            <span className="nav-symbol" aria-hidden="true">
+              <FaGear />
+            </span>{" "}
+            Settings
+          </Link>
+          <Link to="/help">
+            <span className="nav-symbol" aria-hidden="true">
+              <FaCircleQuestion />
+            </span>{" "}
+            Help
+          </Link>
           {!user && (
             <Link to="/login">
               <span className="nav-symbol" aria-hidden="true">
-                {"\u21AA"}
+                <FaRightFromBracket />
               </span>{" "}
               Sign In
             </Link>
           )}
-          {user && <span className="user-pill">{user.name || user.email}</span>}
+          {user && (
+            <span className="user-pill">
+              <span className="nav-symbol" aria-hidden="true">
+                <FaUser />
+              </span>{" "}
+              {user.name || user.email}
+            </span>
+          )}
           {user && (
             <button
               className="btn btn-text"
@@ -60,6 +114,9 @@ export default function Navbar() {
                 navigate("/");
               }}
             >
+              <span className="nav-symbol" aria-hidden="true">
+                <FaRightFromBracket />
+              </span>{" "}
               Logout
             </button>
           )}

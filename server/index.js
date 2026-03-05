@@ -70,6 +70,7 @@ app.use("/api", (req, res, next) => {
 });
 
 app.use("/api/auth", require("./routes/auth"));
+app.use("/api/settings", require("./routes/settings"));
 app.use("/api/trips", require("./routes/trips"));
 app.use("/api/places", require("./routes/places"));
 app.use("/api/hotels", require("./routes/hotels"));
