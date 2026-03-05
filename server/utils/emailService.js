@@ -1,7 +1,15 @@
 const nodemailer = require("nodemailer");
 
+function getNormalizedGmailUser() {
+  return String(process.env.GMAIL_USER || "").trim();
+}
+
+function getNormalizedGmailAppPassword() {
+  return String(process.env.GMAIL_APP_PASSWORD || "").replace(/\s+/g, "").trim();
+}
+
 function isGmailConfigured() {
-  return Boolean(String(process.env.GMAIL_USER || "").trim() && String(process.env.GMAIL_APP_PASSWORD || "").trim());
+  return Boolean(getNormalizedGmailUser() && getNormalizedGmailAppPassword());
 }
 
 function getTransporter() {
@@ -12,8 +20,8 @@ function getTransporter() {
   return nodemailer.createTransport({
     service: "gmail",
     auth: {
-      user: String(process.env.GMAIL_USER).trim(),
-      pass: String(process.env.GMAIL_APP_PASSWORD).trim()
+      user: getNormalizedGmailUser(),
+      pass: getNormalizedGmailAppPassword()
     }
   });
 }
@@ -21,7 +29,7 @@ function getTransporter() {
 async function sendPasswordResetEmail({ email, name, resetLink }) {
   const transporter = getTransporter();
   await transporter.sendMail({
-    from: `"Trip Genius" <${String(process.env.GMAIL_USER).trim()}>`,
+    from: `"Trip Genius" <${getNormalizedGmailUser()}>`,
     to: email,
     subject: "Password Reset - Trip Genius",
     html: `

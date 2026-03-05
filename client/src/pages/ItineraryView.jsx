@@ -6,6 +6,12 @@ import { SortableContext, useSortable, arrayMove, verticalListSortingStrategy } 
 import { CSS } from "@dnd-kit/utilities";
 import api from "../api";
 
+function renderStars(ratingValue) {
+  const rating = Number(ratingValue || 0);
+  const rounded = Math.max(0, Math.min(5, Math.round(rating)));
+  return `${"★".repeat(rounded)}${"☆".repeat(5 - rounded)}`;
+}
+
 function SortablePlace({ p }) {
   const { attributes, listeners, setNodeRef, transform, transition } = useSortable({ id: String(p.placeId) });
   const style = {
@@ -148,17 +154,29 @@ export default function ItineraryView() {
             <p className="muted">Hotels are filtered for your destination and trip budget.</p>
             <div className="cards">
               {trip.recommendedHotels.map((hotel, idx) => (
-                <article key={`${hotel.hotelId || hotel.name}-${idx}`} className="card trip-card">
-                  <h4>{hotel.name}</h4>
+                <article
+                  key={`${hotel.hotelId || hotel.name}-${idx}`}
+                  className="card trip-card"
+                  style={{
+                    borderRadius: "20px",
+                    border: "1px solid rgba(178, 207, 229, 0.9)",
+                    background: "linear-gradient(180deg, rgba(255,255,255,0.96), rgba(244,251,255,0.92))",
+                    boxShadow: "0 14px 30px rgba(11, 64, 103, 0.12)"
+                  }}
+                >
+                  <h4 style={{ marginBottom: "4px" }}>{hotel.name}</h4>
                   <p className="muted">
-                    {hotel.city}, {hotel.state}
+                    📍 {hotel.city}, {hotel.state}
                   </p>
-                  <p>
-                    INR {hotel.pricePerNight}/night | Rating {hotel.rating}
+                  <p style={{ display: "flex", flexWrap: "wrap", gap: "8px", alignItems: "center", marginTop: "2px" }}>
+                    <span style={{ fontWeight: 700 }}>💸 INR {hotel.pricePerNight}/night</span>
+                    <span style={{ color: "#7a8aa3" }}>|</span>
+                    <span style={{ color: "#c37a00", fontWeight: 700 }}>⭐ {Number(hotel.rating || 0).toFixed(1)}</span>
+                    <span style={{ letterSpacing: "0.03em", color: "#c37a00", fontSize: "0.95rem" }}>{renderStars(hotel.rating)}</span>
                   </p>
-                  <p className="muted">Category: {hotel.category}</p>
+                  <p className="muted">🏨 Category: {hotel.category}</p>
                   {Array.isArray(hotel.amenities) && hotel.amenities.length > 0 && (
-                    <p className="muted">{hotel.amenities.slice(0, 4).join(" | ")}</p>
+                    <p className="muted">✨ {hotel.amenities.slice(0, 4).join(" | ")}</p>
                   )}
                 </article>
               ))}

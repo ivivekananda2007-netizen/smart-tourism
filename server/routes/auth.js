@@ -107,6 +107,10 @@ router.post("/forgot-password", async (req, res, next) => {
   } catch (e) {
     if (e?.message === "Gmail not configured in .env") {
       res.status(500);
+      e.message = "Email service is not configured. Please set GMAIL_USER and GMAIL_APP_PASSWORD.";
+    } else if (e?.code === "EAUTH" || /BadCredentials|Username and Password not accepted/i.test(String(e?.message || ""))) {
+      res.status(500);
+      e.message = "Gmail authentication failed. Verify Gmail address, App Password, and 2-Step Verification.";
     }
     next(e);
   }
