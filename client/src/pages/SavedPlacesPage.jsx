@@ -16,6 +16,7 @@ export default function SavedPlacesPage() {
   const [saved, setSaved] = useState(() => readSavedPlaces());
   const [results, setResults] = useState([]);
   const [search, setSearch] = useState("");
+  const [expandedPlaceId, setExpandedPlaceId] = useState(null);
 
   const savedIds = useMemo(() => new Set(saved.map((x) => String(x._id))), [saved]);
 
@@ -42,6 +43,9 @@ export default function SavedPlacesPage() {
   const removePlace = (id) => {
     persist(saved.filter((p) => String(p._id) !== String(id)));
     toast.success("Removed from saved places");
+    if (String(expandedPlaceId) === String(id)) {
+      setExpandedPlaceId(null);
+    }
   };
 
   return (
@@ -76,15 +80,36 @@ export default function SavedPlacesPage() {
 
       <section className="cards">
         {saved.map((place) => (
-          <article key={place._id} className="card trip-card">
+          <article
+            key={place._id}
+            className="card trip-card"
+            role="button"
+            tabIndex={0}
+            onClick={() =>
+              setExpandedPlaceId((prev) => (String(prev) === String(place._id) ? null : String(place._id)))
+            }
+            onKeyDown={(e) => {
+              if (e.key === "Enter" || e.key === " ") {
+                e.preventDefault();
+                setExpandedPlaceId((prev) => (String(prev) === String(place._id) ? null : String(place._id)));
+              }
+            }}
+          >
             <h3>{place.placeTown}</h3>
             <p>
               {place.cityTown}, {place.state}
             </p>
-            <p>
-              {place.type} | Crowd: {place.crowdLevel}
-            </p>
-            <button className="btn secondary" onClick={() => removePlace(place._id)}>
+            <p>{place.type}</p>
+            {String(expandedPlaceId) === String(place._id) && (
+              <p>{place.description?.trim() || "No description available for this place yet."}</p>
+            )}
+            <button
+              className="btn secondary"
+              onClick={(e) => {
+                e.stopPropagation();
+                removePlace(place._id);
+              }}
+            >
               Remove
             </button>
           </article>

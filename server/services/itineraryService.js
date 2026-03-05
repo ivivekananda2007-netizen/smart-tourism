@@ -91,7 +91,65 @@ function formatTime(hours) {
   return `${String(h).padStart(2, "0")}:${String(m).padStart(2, "0")}`;
 }
 
-function generateItinerary(places, totalDays, interests, startDate) {
+function recalcDayMetrics(day) {
+  const placesInDay = Array.isArray(day.places) ? day.places : [];
+  let travelDistance = 0;
+
+  for (let i = 0; i < placesInDay.length; i += 1) {
+    placesInDay[i].sequence = i + 1;
+    if (i > 0) {
+      travelDistance += getDistance(
+        placesInDay[i - 1].latitude,
+        placesInDay[i - 1].longitude,
+        placesInDay[i].latitude,
+        placesInDay[i].longitude
+      );
+    }
+  }
+
+  day.travelDistance = Math.round(travelDistance);
+  day.travelTimeMinutes = Math.round((travelDistance / 38) * 60);
+  day.dayBudget = placesInDay.reduce((sum, p) => sum + Number(p.budgetINR || 0), 0);
+  return day;
+}
+
+function enforceTotalBudgetCap(itinerary, totalBudget) {
+  if (!Array.isArray(itinerary)) return [];
+  if (!Number.isFinite(totalBudget) || totalBudget <= 0) {
+    return itinerary.map((day) => recalcDayMetrics(day));
+  }
+
+  const days = itinerary.map((day) => recalcDayMetrics(day));
+  let plannedTotal = days.reduce((sum, day) => sum + Number(day.dayBudget || 0), 0);
+  if (plannedTotal <= totalBudget) return days;
+
+  const candidates = [];
+  days.forEach((day, dayIdx) => {
+    day.places.forEach((place, placeIdx) => {
+      candidates.push({
+        dayIdx,
+        placeIdx,
+        budgetINR: Number(place.budgetINR || 0)
+      });
+    });
+  });
+
+  // Remove highest-cost stops first until itinerary fits within user's budget.
+  candidates.sort((a, b) => b.budgetINR - a.budgetINR);
+
+  for (const c of candidates) {
+    if (plannedTotal <= totalBudget) break;
+    const day = days[c.dayIdx];
+    if (!day || !day.places[c.placeIdx]) continue;
+    const removed = day.places.splice(c.placeIdx, 1)[0];
+    plannedTotal -= Number(removed?.budgetINR || 0);
+    recalcDayMetrics(day);
+  }
+
+  return days;
+}
+
+function generateItinerary(places, totalDays, interests, startDate, totalBudget) {
   const monthTag = new Date(startDate).toLocaleDateString("en-US", { month: "short" });
   const scored = places
     .map((p) => ({ ...p.toObject(), score: scorePlace(p, interests, monthTag), type: normalizeType(p.type) }))
@@ -101,7 +159,7 @@ function generateItinerary(places, totalDays, interests, startDate) {
   let totalDistanceKm = 0;
   let totalTravelMinutes = 0;
 
-  const itinerary = grouped.map((dayPlaces, dayIdx) => {
+  let itinerary = grouped.map((dayPlaces, dayIdx) => {
     const ordered = nearestNeighborOrder(dayPlaces);
     const date = new Date(startDate);
     date.setDate(date.getDate() + dayIdx);
@@ -152,6 +210,11 @@ function generateItinerary(places, totalDays, interests, startDate) {
       weatherNote: ""
     };
   });
+
+  itinerary = enforceTotalBudgetCap(itinerary, Number(totalBudget));
+
+  totalDistanceKm = itinerary.reduce((sum, day) => sum + Number(day.travelDistance || 0), 0);
+  totalTravelMinutes = itinerary.reduce((sum, day) => sum + Number(day.travelTimeMinutes || 0), 0);
 
   return {
     itinerary,

@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import toast from "react-hot-toast";
 import api from "../api";
 import "../styles/HotelsNearby.css";
@@ -10,6 +10,7 @@ export default function HotelsNearby({ gem, budget }) {
   const [selectedHotel, setSelectedHotel] = useState(null);
   const [categoryFilter, setCategoryFilter] = useState("");
   const [sortBy, setSortBy] = useState("distance");
+  const hotelsCacheRef = useRef(new Map());
 
   const queryString = useMemo(() => {
     if (!gem || !gem.latitude || !gem.longitude) {
@@ -33,41 +34,63 @@ export default function HotelsNearby({ gem, budget }) {
     }
 
     return params.toString();
-  }, [gem, budget, categoryFilter, sortBy]);
+  }, [gem?.latitude, gem?.longitude, budget, categoryFilter, sortBy]);
+
+  useEffect(() => {
+    setSelectedHotel(null);
+  }, [gem?._id]);
 
   useEffect(() => {
     if (!gem || !gem.latitude || !gem.longitude) {
       setError("Invalid gem location data");
-      console.warn("❌ Invalid gem:", gem);
       return;
     }
 
+    if (!queryString) {
+      return;
+    }
+
+    const controller = new AbortController();
+
     const loadHotels = async () => {
+      const cached = hotelsCacheRef.current.get(queryString);
+      if (cached) {
+        setError(null);
+        setHotels(cached);
+        return;
+      }
+
       try {
         setLoading(true);
         setError(null);
 
-        console.log(`🏨 Fetching hotels near ${gem.placeTown}...`);
-        const { data } = await api.get(`/hotels/near-gem?${queryString}`);
+        const { data } = await api.get(`/hotels/near-gem?${queryString}`, {
+          signal: controller.signal
+        });
 
-        console.log(`✅ Found ${data.length} hotels`);
+        hotelsCacheRef.current.set(queryString, data);
         setHotels(data);
 
         if (data.length === 0) {
           toast.error("No hotels found within budget near this gem");
         }
       } catch (err) {
-        console.error("❌ Error loading hotels:", err.message);
-        console.error("📋 Error details:", err.response?.data || err.config);
+        if (err?.code === "ERR_CANCELED") return;
         setError("Failed to load hotels. Please try again.");
         toast.error("Failed to load hotels");
       } finally {
-        setLoading(false);
+        if (!controller.signal.aborted) {
+          setLoading(false);
+        }
       }
     };
 
     loadHotels();
-  }, [gem, queryString]);
+
+    return () => {
+      controller.abort();
+    };
+  }, [gem?._id, gem?.latitude, gem?.longitude, queryString]);
 
   if (!gem) {
     return null;
@@ -76,19 +99,28 @@ export default function HotelsNearby({ gem, budget }) {
   return (
     <div className="hotels-nearby-section">
       <div className="hotels-header">
-        <h3>🏨 Hotels Near {gem.placeTown}</h3>
-        <p className="hotels-subtitle">Within ₹{Math.floor(budget * 0.3)}/night budget, within 15km radius</p>
+        <h3>
+          {"\uD83C\uDFE8"} Hotels Near {gem.placeTown}
+        </h3>
+        <p className="hotels-subtitle">
+          Within {"\u20B9"}
+          {Math.floor(budget * 0.3)}/night budget, within 15km radius
+        </p>
       </div>
 
       {error && (
         <div className="hotels-error">
-          <p>⚠️ {error}</p>
+          <p>
+            {"\u26A0\uFE0F"} {error}
+          </p>
         </div>
       )}
 
       {loading && (
         <div className="hotels-loading">
-          <p>🔄 Finding hotels near {gem.placeTown}...</p>
+          <p>
+            {"\uD83D\uDD04"} Finding hotels near {gem.placeTown}...
+          </p>
         </div>
       )}
 
@@ -140,7 +172,9 @@ export default function HotelsNearby({ gem, budget }) {
                 <span className={`category-badge ${hotel.category}`}>{hotel.category}</span>
               </div>
               <div className="hotel-rating">
-                <span className="stars">⭐ {hotel.rating}</span>
+                <span className="stars">
+                  {"\u2B50"} {hotel.rating}
+                </span>
               </div>
             </div>
 
@@ -151,7 +185,10 @@ export default function HotelsNearby({ gem, budget }) {
               </div>
               <div className="info-item">
                 <span className="label">Price/Night:</span>
-                <span className="value price">₹{hotel.pricePerNight}</span>
+                <span className="value price">
+                  {"\u20B9"}
+                  {hotel.pricePerNight}
+                </span>
               </div>
               <div className="info-item">
                 <span className="label">Location:</span>
@@ -181,7 +218,10 @@ export default function HotelsNearby({ gem, budget }) {
                       {hotel.roomTypes.map((room, i) => (
                         <div key={i} className="room-type">
                           <span className="room-name">{room.type}</span>
-                          <span className="room-price">₹{room.basePrice}</span>
+                          <span className="room-price">
+                            {"\u20B9"}
+                            {room.basePrice}
+                          </span>
                           <span className="room-capacity">2-{room.capacity} guests</span>
                         </div>
                       ))}
@@ -194,7 +234,9 @@ export default function HotelsNearby({ gem, budget }) {
                     <h5>Amenities:</h5>
                     <div className="amenities-list">
                       {hotel.amenities.map((amenity, i) => (
-                        <span key={i}>✓ {amenity}</span>
+                        <span key={i}>
+                          {"\u2713"} {amenity}
+                        </span>
                       ))}
                     </div>
                   </div>
@@ -203,17 +245,17 @@ export default function HotelsNearby({ gem, budget }) {
                 <div className="hotel-actions">
                   {hotel.phone && (
                     <a href={`tel:${hotel.phone}`} className="btn btn-small">
-                      📞 Call
+                      {"\uD83D\uDCDE"} Call
                     </a>
                   )}
                   {hotel.email && (
                     <a href={`mailto:${hotel.email}`} className="btn btn-small">
-                      📧 Email
+                      {"\uD83D\uDCE7"} Email
                     </a>
                   )}
                   {hotel.website && (
                     <a href={hotel.website} target="_blank" rel="noopener noreferrer" className="btn btn-small">
-                      🌐 Website
+                      {"\uD83C\uDF10"} Website
                     </a>
                   )}
                 </div>

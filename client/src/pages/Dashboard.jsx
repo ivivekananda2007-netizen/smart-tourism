@@ -51,9 +51,6 @@ export default function Dashboard() {
               <button className="btn" onClick={() => navigate(`/itinerary/${trip._id}`)}>
                 View Trip Plan
               </button>
-              <button className="btn secondary" onClick={() => navigate(`/budget/${trip._id}`)}>
-                Budget
-              </button>
             </div>
           </article>
         ))}

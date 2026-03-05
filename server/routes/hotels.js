@@ -1,4 +1,6 @@
 const express = require("express");
+const fs = require("fs");
+const path = require("path");
 const Hotel = require("../models/Hotel");
 
 const router = express.Router();
@@ -247,24 +249,221 @@ function sortHotels(hotels, sortBy) {
   }
 }
 
+function valueFromKeys(obj, keys) {
+  for (const key of keys) {
+    const val = obj?.[key];
+    if (val !== undefined && val !== null && String(val).trim() !== "") return val;
+  }
+  return "";
+}
+
+function parsePriceToNumber(value, fallback = 2000) {
+  const nums = String(value || "")
+    .match(/\d+(\.\d+)?/g);
+  if (!nums || nums.length === 0) return fallback;
+  const parts = nums.map(Number).filter(Number.isFinite);
+  if (parts.length === 0) return fallback;
+  if (parts.length === 1) return Math.round(parts[0]);
+  return Math.round(parts.reduce((a, b) => a + b, 0) / parts.length);
+}
+
+function parseRecordsFromFile(raw) {
+  try {
+    const parsed = JSON.parse(raw);
+    if (Array.isArray(parsed)) return parsed;
+    if (parsed && typeof parsed === "object") return [parsed];
+    return [];
+  } catch (_) {
+    const chunks = [];
+    let depth = 0;
+    let start = -1;
+    for (let i = 0; i < raw.length; i += 1) {
+      if (raw[i] === "{") {
+        if (depth === 0) start = i;
+        depth += 1;
+      } else if (raw[i] === "}") {
+        depth -= 1;
+        if (depth === 0 && start >= 0) {
+          chunks.push(raw.slice(start, i + 1));
+          start = -1;
+        }
+      }
+    }
+    const records = [];
+    for (const chunk of chunks) {
+      try {
+        records.push(JSON.parse(chunk));
+      } catch (_) {
+        // ignore malformed object chunks
+      }
+    }
+    return records;
+  }
+}
+
+function inferCategoryFromTier(tierKey, price) {
+  const t = String(tierKey || "").toLowerCase();
+  if (t.includes("luxury") || price >= 8000) return "luxury-plus";
+  if (t.includes("premium") || t.includes("deluxe") || price >= 5000) return "luxury";
+  if (t.includes("normal") || t.includes("standard") || price >= 2200) return "mid-range";
+  return "budget";
+}
+
+function ratingFromCategory(category) {
+  if (category === "luxury-plus") return 4.8;
+  if (category === "luxury") return 4.6;
+  if (category === "mid-range") return 4.3;
+  return 3.9;
+}
+
+function extractHotelsFromAccommodation(accommodation) {
+  if (!accommodation || typeof accommodation !== "object") return [];
+  const out = [];
+
+  for (const [tier, info] of Object.entries(accommodation)) {
+    if (Array.isArray(info)) {
+      info.forEach((entry) => {
+        const name = String(valueFromKeys(entry, ["hotel_name", "hotelName", "name"])).trim();
+        if (!name) return;
+        const price = parsePriceToNumber(
+          valueFromKeys(entry, ["price_per_night_inr", "avg_price_per_night", "price", "pricePerNight"]),
+          2200
+        );
+        out.push({ tier, name, price });
+      });
+      continue;
+    }
+
+    const name = String(valueFromKeys(info, ["hotel_name", "hotelName", "name"])).trim();
+    if (!name) continue;
+    const price = parsePriceToNumber(
+      valueFromKeys(info, ["price_per_night_inr", "avg_price_per_night", "price", "pricePerNight"]),
+      2200
+    );
+    out.push({ tier, name, price });
+  }
+
+  return out;
+}
+
+function hashOffset(seed, min, max) {
+  let h = 0;
+  const text = String(seed || "");
+  for (let i = 0; i < text.length; i += 1) h = (h * 31 + text.charCodeAt(i)) | 0;
+  const normalized = Math.abs(h % 100000) / 100000;
+  return min + (max - min) * normalized;
+}
+
+let datasetHotelsCache = null;
+let datasetHotelsCacheTs = 0;
+
+function loadDatasetHotels() {
+  const now = Date.now();
+  if (datasetHotelsCache && now - datasetHotelsCacheTs < 10 * 60 * 1000) {
+    return datasetHotelsCache;
+  }
+
+  const datasetDir = path.resolve(__dirname, "../../datasets");
+  let files = [];
+  try {
+    files = fs.readdirSync(datasetDir).filter((f) => f.toLowerCase().endsWith(".json"));
+  } catch (error) {
+    console.warn("Dataset folder not readable for hotels extraction:", error.message);
+    datasetHotelsCache = [];
+    datasetHotelsCacheTs = now;
+    return datasetHotelsCache;
+  }
+
+  const dedupe = new Map();
+
+  for (const file of files) {
+    let records = [];
+    try {
+      const raw = fs.readFileSync(path.join(datasetDir, file), "utf8");
+      records = parseRecordsFromFile(raw);
+    } catch (_) {
+      continue;
+    }
+
+    for (const rec of records) {
+      const state = String(valueFromKeys(rec, ["state", "State"])).trim();
+      const city = String(valueFromKeys(rec, ["city", "city_town", "cityTown", "CityTown", "town"])).trim();
+      const baseLat = Number(valueFromKeys(rec, ["latitude", "Latitude"]));
+      const baseLon = Number(valueFromKeys(rec, ["longitude", "Longitude"]));
+      const accommodation = rec?.accommodation;
+      if (!state || !city || !accommodation || typeof accommodation !== "object") continue;
+      if (!Number.isFinite(baseLat) || !Number.isFinite(baseLon)) continue;
+
+      const extractedHotels = extractHotelsFromAccommodation(accommodation);
+      for (const h of extractedHotels) {
+        const hotelName = h.name;
+        const price = h.price;
+        const tier = h.tier;
+        const category = inferCategoryFromTier(tier, price);
+        const key = `${state}|${city}|${hotelName}`.toLowerCase();
+
+        const existing = dedupe.get(key);
+        if (existing) {
+          existing.pricePerNight = Math.round((existing.pricePerNight + price) / 2);
+          continue;
+        }
+
+        const lat = baseLat + hashOffset(`${hotelName}:lat`, -0.03, 0.03);
+        const lon = baseLon + hashOffset(`${hotelName}:lon`, -0.03, 0.03);
+
+        dedupe.set(key, {
+          _id: `dataset-${Buffer.from(key).toString("base64").replace(/=+$/g, "").slice(0, 24)}`,
+          name: hotelName,
+          city,
+          state,
+          location: { latitude: lat, longitude: lon },
+          pricePerNight: price,
+          rating: ratingFromCategory(category),
+          category,
+          amenities: ["WiFi", "AC"],
+          roomTypes: [{ type: "Standard", basePrice: price, capacity: 2, available: true }],
+          description: `Hotel in ${city}, ${state}`
+        });
+      }
+    }
+  }
+
+  datasetHotelsCache = Array.from(dedupe.values());
+  datasetHotelsCacheTs = now;
+  return datasetHotelsCache;
+}
+
 async function getHotelsData() {
+  const datasetHotels = loadDatasetHotels();
+
   if (Hotel?.db?.readyState === 1) {
     try {
       const hotels = await Hotel.find({}).lean();
       if (Array.isArray(hotels) && hotels.length > 0) {
-        return hotels;
+        const merged = new Map();
+        [...datasetHotels, ...hotels].forEach((h) => {
+          const key = `${h.name}|${h.city}|${h.state}`.toLowerCase();
+          merged.set(key, h);
+        });
+        return Array.from(merged.values());
       }
     } catch (error) {
       console.warn("Using fallback hotel dataset due to DB read error:", error.message);
     }
   }
-  return FALLBACK_HOTELS;
+
+  const merged = new Map();
+  [...datasetHotels, ...FALLBACK_HOTELS].forEach((h) => {
+    const key = `${h.name}|${h.city}|${h.state}`.toLowerCase();
+    merged.set(key, h);
+  });
+  return Array.from(merged.values());
 }
 
 // Get hotels near a specific location (hidden gem)
 router.get("/near-gem", async (req, res, next) => {
+  const { latitude, longitude, maxDistance = 15, maxPrice, minRating = 3, category, sortBy = "distance" } = req.query;
   try {
-    const { latitude, longitude, maxDistance = 15, maxPrice, minRating = 3, category, sortBy = "distance" } = req.query;
 
     if (!latitude || !longitude) {
       return res.status(400).json({ message: "Latitude and longitude required" });
@@ -277,8 +476,8 @@ router.get("/near-gem", async (req, res, next) => {
     const minRatingValue = parseFloat(minRating);
     const allHotels = await getHotelsData();
 
-    // Calculate distance and filter using hotel dataset
-    const hotelsNearby = allHotels
+    // Pass 1: strict filter (distance + budget + rating + category)
+    let hotelsNearby = allHotels
       .map((hotel) => ({
         ...hotel,
         distance: calculateDistance(lat, lon, hotel.location.latitude, hotel.location.longitude)
@@ -289,10 +488,48 @@ router.get("/near-gem", async (req, res, next) => {
         const withinRating = hotel.rating >= minRatingValue;
         const withinCategory = !category || hotel.category === category.toLowerCase();
         return withinDistance && withinBudget && withinRating && withinCategory;
-      })
-      ;
+      });
+
+    // Pass 2: relax budget if strict filter returns empty.
+    if (hotelsNearby.length === 0) {
+      hotelsNearby = allHotels
+        .map((hotel) => ({
+          ...hotel,
+          distance: calculateDistance(lat, lon, hotel.location.latitude, hotel.location.longitude)
+        }))
+        .filter((hotel) => {
+          const withinDistance = hotel.distance <= maxDist;
+          const withinRating = hotel.rating >= minRatingValue;
+          const withinCategory = !category || hotel.category === category.toLowerCase();
+          return withinDistance && withinRating && withinCategory;
+        });
+    }
+
+    // Pass 3: widen radius so nearby city hotels are included for sparse areas.
+    if (hotelsNearby.length === 0) {
+      const expandedDistance = Math.max(maxDist * 6, 120);
+      hotelsNearby = allHotels
+        .map((hotel) => ({
+          ...hotel,
+          distance: calculateDistance(lat, lon, hotel.location.latitude, hotel.location.longitude)
+        }))
+        .filter((hotel) => {
+          const withinDistance = hotel.distance <= expandedDistance;
+          const withinCategory = !category || hotel.category === category.toLowerCase();
+          return withinDistance && withinCategory;
+        });
+    }
+
+    // Final fallback: return nearest hotels overall to avoid empty UI responses.
+    if (hotelsNearby.length === 0) {
+      hotelsNearby = allHotels.map((hotel) => ({
+        ...hotel,
+        distance: calculateDistance(lat, lon, hotel.location.latitude, hotel.location.longitude)
+      }));
+    }
 
     sortHotels(hotelsNearby, sortBy);
+    hotelsNearby = hotelsNearby.slice(0, 20);
 
     console.log(`✅ Found ${hotelsNearby.length} hotels within ${maxDist}km and ₹${maxBudget} budget`);
     console.log(`   Details: ${hotelsNearby.map(h => `${h.name}(${h.distance.toFixed(1)}km)`).join(", ") || "No hotels found"}`);

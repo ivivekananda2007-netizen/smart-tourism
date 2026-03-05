@@ -111,31 +111,18 @@ export default function LandingPage() {
 
   return (
     <main className="container page">
-      <section className="hero">
-        <div className="hero-art" aria-hidden="true">
-          <img
-            className="hero-backdrop-image"
-            src="/images/hero-banner.jpeg"
-            alt=""
-            loading="eager"
-          />
-          <div className="hero-art-fade" />
-        </div>
-        <div className="hero-copy">
-          <p className="kicker">India Smart Travel Planner</p>
-          <h1 className="hero-title-icons">
-            <FlightHeroIcon /> Plan your perfect trip to India easily and smartly!
-          </h1>
-          <p className="lead">
-            Create an easy <strong>day-by-day itinerary</strong> with local attractions, a trip budget, and live weather forecasts.
-          </p>
-          <div className="row">
-            <button className="btn" type="button" onClick={() => handleProtectedNavigation("/plan")}>
-              Start Planning
-            </button>
-            <Link className="btn secondary" to={user ? "/dashboard" : "/login"}>
-              Open Dashboard
-            </Link>
+      <section className="tour-hero">
+        <div className="tour-hero-shade" />
+        <div className="tour-hero-inner">
+          <div className="tour-hero-content">
+            <div className="tour-hero-actions">
+              <button className="btn" type="button" onClick={() => handleProtectedNavigation("/plan")}>
+                Start Planning
+              </button>
+              <button className="btn secondary" type="button" onClick={() => handleProtectedNavigation("/dashboard")}>
+                Open Dashboard
+              </button>
+            </div>
           </div>
         </div>
       </section>

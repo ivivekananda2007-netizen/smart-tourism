@@ -1,9 +1,44 @@
-import { useEffect, useState } from "react";
+import { memo, useCallback, useEffect, useRef, useState } from "react";
 import toast from "react-hot-toast";
 import { useSearchParams } from "react-router-dom";
 import api from "../api";
 import HotelsNearby from "../components/HotelsNearby";
 import { useTripForm } from "../context/TripContext";
+
+const SELECTED_GEM_HOTELS_STYLE = { marginTop: "20px", paddingTop: "20px", borderTop: "2px solid #ecf0f1" };
+const GEM_META_STYLE = { fontSize: "12px", color: "#7f8c8d", marginTop: "8px" };
+const GEM_DESC_STYLE = { fontSize: "13px", color: "#555", marginTop: "10px", fontStyle: "italic" };
+
+const HiddenGemCard = memo(function HiddenGemCard({ gem, isSelected, tripBudget }) {
+  return (
+    <article data-gem-id={gem._id} className={`card trip-card ${isSelected ? "selected" : ""}`}>
+      <h3>{gem.placeTown}</h3>
+      <p>
+        {gem.cityTown}, {gem.state}
+      </p>
+      <p>
+        {gem.type} | Budget: {"\u20B9"}
+        {gem.budgetINR} | Duration: {gem.visitDuration}h
+      </p>
+      <div style={GEM_META_STYLE}>
+        {"\u2B50"} Rating: {gem.rating}
+      </div>
+      {gem.description && <p style={GEM_DESC_STYLE}>{gem.description}</p>}
+
+      {isSelected && (
+        <div
+          style={SELECTED_GEM_HOTELS_STYLE}
+          data-stop-gem-toggle="true"
+          onPointerDown={(e) => e.stopPropagation()}
+          onMouseDown={(e) => e.stopPropagation()}
+          onClick={(e) => e.stopPropagation()}
+        >
+          <HotelsNearby gem={gem} budget={tripBudget} />
+        </div>
+      )}
+    </article>
+  );
+});
 
 export default function HiddenGems() {
   const [searchParams] = useSearchParams();
@@ -13,7 +48,9 @@ export default function HiddenGems() {
   const [recommendations, setRecommendations] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-  const [selectedGem, setSelectedGem] = useState(null);
+  const [selectedGemId, setSelectedGemId] = useState(null);
+  const [searchInput, setSearchInput] = useState(searchParams.get("search") || "");
+  const activeRequestRef = useRef(null);
   const [filters, setFilters] = useState(() => ({
     state: searchParams.get("state") || "",
     type: searchParams.get("type") || "",
@@ -22,77 +59,85 @@ export default function HiddenGems() {
     preset: searchParams.get("preset") || ""
   }));
 
-  const load = async (retryCount = 0) => {
-    try {
-      setLoading(true);
-      setError(null);
-      const q = new URLSearchParams();
-      Object.entries(filters).forEach(([k, v]) => {
-        if (v !== "" && v !== false) q.set(k, String(v));
-      });
-      console.log(`📍 Fetching hidden gems (attempt ${retryCount + 1})...`);
-      console.log(`🔗 API URL: ${api.defaults.baseURL}/places/hidden-gems?${q.toString()}`);
-      
-      const { data } = await api.get(`/places/hidden-gems?${q.toString()}`, {
-        timeout: 10000
-      });
-      
-      console.log(`✅ Got hidden gems data:`, data);
-      console.log(`📊 Total gems: ${data?.length || 0}`);
-      
-      setItems(Array.isArray(data) ? data : []);
-      
-      if (filters.search || filters.state) {
-        const target = filters.search || filters.state;
-        try {
-          const r = await api.get(`/places/by-destination/${encodeURIComponent(target)}`);
-          setRecommendations(r.data.recommendations || []);
-        } catch (recError) {
-          console.warn("Could not load recommendations:", recError.message);
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setFilters((prev) => (prev.search === searchInput ? prev : { ...prev, search: searchInput }));
+    }, 300);
+    return () => clearTimeout(timer);
+  }, [searchInput]);
+
+  const load = useCallback(
+    async (retryCount = 0) => {
+      if (activeRequestRef.current) {
+        activeRequestRef.current.abort();
+      }
+      const controller = new AbortController();
+      activeRequestRef.current = controller;
+
+      try {
+        setLoading(true);
+        setError(null);
+        const q = new URLSearchParams();
+        Object.entries(filters).forEach(([k, v]) => {
+          if (v !== "" && v !== false) q.set(k, String(v));
+        });
+
+        const { data } = await api.get(`/places/hidden-gems?${q.toString()}`, {
+          timeout: 10000,
+          signal: controller.signal
+        });
+
+        setItems(Array.isArray(data) ? data : []);
+
+        if (filters.search || filters.state) {
+          const target = filters.search || filters.state;
+          try {
+            const r = await api.get(`/places/by-destination/${encodeURIComponent(target)}`, {
+              signal: controller.signal
+            });
+            setRecommendations(r.data.recommendations || []);
+          } catch (recError) {
+            if (recError?.code === "ERR_CANCELED") return;
+            console.warn("Could not load recommendations:", recError.message);
+            setRecommendations([]);
+          }
+        } else {
           setRecommendations([]);
         }
-      } else {
-        setRecommendations([]);
+        setLoading(false);
+      } catch (loadError) {
+        if (loadError?.code === "ERR_CANCELED") return;
+
+        if (retryCount < 2 && (loadError.code === "ECONNABORTED" || loadError.code === "ERR_NETWORK")) {
+          setTimeout(() => load(retryCount + 1), 1000);
+          return;
+        }
+
+        let errorMsg = "Failed to load gems";
+
+        if (loadError.code === "ERR_NETWORK") {
+          errorMsg =
+            "Network error: Cannot reach server at " + api.defaults.baseURL + " - Make sure backend is running on port 5000";
+        } else if (loadError.response?.status === 404) {
+          errorMsg = "API endpoint not found - Backend may not be running";
+        } else if (loadError.response?.status === 500) {
+          errorMsg = "Server error: " + (loadError.response?.data?.message || "Check backend logs");
+        } else if (loadError.message === "timeout of 10000ms exceeded") {
+          errorMsg = "Request timeout - Server is too slow or not responding";
+        } else {
+          errorMsg = loadError.response?.data?.message || loadError.message || errorMsg;
+        }
+
+        setError(errorMsg);
+        setLoading(false);
+
+        if (retryCount === 0) {
+          toast.error(errorMsg, { duration: 5000 });
+        }
       }
-      setLoading(false);
-    } catch (error) {
-      console.error("❌ Error loading gems:", {
-        message: error.message,
-        status: error.response?.status,
-        statusText: error.response?.statusText,
-        data: error.response?.data,
-        code: error.code
-      });
-      
-      // Retry logic for network errors
-      if (retryCount < 2 && (error.code === 'ECONNABORTED' || error.code === 'ERR_NETWORK')) {
-        console.log(`🔄 Retrying... (${retryCount + 1}/2)`);
-        setTimeout(() => load(retryCount + 1), 1000);
-        return;
-      }
-      
-      let errorMsg = "Failed to load gems";
-      
-      if (error.code === 'ERR_NETWORK') {
-        errorMsg = "Network error: Cannot reach server at " + api.defaults.baseURL + " - Make sure backend is running on port 5000";
-      } else if (error.response?.status === 404) {
-        errorMsg = "API endpoint not found - Backend may not be running";
-      } else if (error.response?.status === 500) {
-        errorMsg = "Server error: " + (error.response?.data?.message || "Check backend logs");
-      } else if (error.message === 'timeout of 10000ms exceeded') {
-        errorMsg = "Request timeout - Server is too slow or not responding";
-      } else {
-        errorMsg = error.response?.data?.message || error.message || errorMsg;
-      }
-      
-      setError(errorMsg);
-      setLoading(false);
-      
-      if (retryCount === 0) {
-        toast.error(errorMsg, { duration: 5000 });
-      }
-    }
-  };
+    },
+    [filters]
+  );
 
   useEffect(() => {
     api
@@ -105,7 +150,30 @@ export default function HiddenGems() {
 
   useEffect(() => {
     load();
-  }, [filters]);
+    return () => {
+      if (activeRequestRef.current) {
+        activeRequestRef.current.abort();
+      }
+    };
+  }, [load]);
+
+  useEffect(() => {
+    if (!selectedGemId) return;
+    if (!items.some((item) => item._id === selectedGemId)) {
+      setSelectedGemId(null);
+    }
+  }, [items, selectedGemId]);
+
+  const handleCardsClick = useCallback((event) => {
+    if (event.target.closest("[data-stop-gem-toggle]")) return;
+    const card = event.target.closest("[data-gem-id]");
+    if (!card) return;
+    const clickedGemId = card.getAttribute("data-gem-id");
+    if (!clickedGemId) return;
+    setSelectedGemId((prev) => (prev === clickedGemId ? null : clickedGemId));
+  }, []);
+
+  const tripBudget = Number(tripForm.budget) || 50000;
 
   return (
     <main className="container page">
@@ -120,11 +188,11 @@ export default function HiddenGems() {
         <div className="field-grid">
           <label>
             Search
-            <input placeholder="Search place/city/state" value={filters.search} onChange={(e) => setFilters({ ...filters, search: e.target.value })} />
+            <input placeholder="Search place/city/state" value={searchInput} onChange={(e) => setSearchInput(e.target.value)} />
           </label>
           <label>
             State
-            <select value={filters.state} onChange={(e) => setFilters({ ...filters, state: e.target.value })}>
+            <select value={filters.state} onChange={(e) => setFilters((prev) => ({ ...prev, state: e.target.value }))}>
               <option value="">All states</option>
               {states.map((s) => (
                 <option key={s} value={s}>
@@ -135,7 +203,7 @@ export default function HiddenGems() {
           </label>
           <label>
             Preset
-            <select value={filters.preset} onChange={(e) => setFilters({ ...filters, preset: e.target.value })}>
+            <select value={filters.preset} onChange={(e) => setFilters((prev) => ({ ...prev, preset: e.target.value }))}>
               <option value="">No preset</option>
               <option value="quiet">Quiet</option>
               <option value="photography">Photography</option>
@@ -159,7 +227,7 @@ export default function HiddenGems() {
       {error && (
         <section className="card" style={{ backgroundColor: "#fee", padding: "20px", borderRadius: "8px", marginBottom: "20px" }}>
           <p style={{ color: "#c00", margin: "0 0 10px 0" }}>
-            <strong>⚠️ Error:</strong> {error}
+            <strong>{"\u26A0\uFE0F"} Error:</strong> {error}
           </p>
           <p style={{ color: "#666", margin: "0 0 10px 0", fontSize: "14px" }}>
             <strong>Troubleshooting:</strong>
@@ -170,7 +238,7 @@ export default function HiddenGems() {
             <li>Check if MongoDB is connected</li>
             <li>Check browser console (F12) for more details</li>
           </ul>
-          <button 
+          <button
             onClick={() => load()}
             style={{
               padding: "8px 16px",
@@ -181,7 +249,7 @@ export default function HiddenGems() {
               cursor: "pointer"
             }}
           >
-            🔄 Retry Loading
+            {"\uD83D\uDD04"} Retry Loading
           </button>
         </section>
       )}
@@ -199,44 +267,9 @@ export default function HiddenGems() {
         </section>
       )}
 
-      <section className="cards">
+      <section className="cards gems-cards" onClick={handleCardsClick}>
         {items.map((p) => (
-          <article 
-            key={p._id} 
-            className={`card trip-card ${selectedGem?._id === p._id ? "selected" : ""}`}
-            onClick={() => setSelectedGem(selectedGem?._id === p._id ? null : p)}
-          >
-            <h3>{p.placeTown}</h3>
-            <p>
-              {p.cityTown}, {p.state}
-            </p>
-            <p>
-              {p.type} | Budget: ₹{p.budgetINR} | Duration: {p.visitDuration}h
-            </p>
-            <div style={{ fontSize: "12px", color: "#7f8c8d", marginTop: "8px" }}>
-              ⭐ Rating: {p.rating}
-            </div>
-            {p.description && (
-              <p style={{ fontSize: "13px", color: "#555", marginTop: "10px", fontStyle: "italic" }}>
-                {p.description}
-              </p>
-            )}
-            
-            {/* Hotels section for selected gem */}
-            {selectedGem?._id === p._id && (
-              <div
-                style={{ marginTop: "20px", paddingTop: "20px", borderTop: "2px solid #ecf0f1" }}
-                onPointerDown={(e) => e.stopPropagation()}
-                onMouseDown={(e) => e.stopPropagation()}
-                onClick={(e) => e.stopPropagation()}
-              >
-                <HotelsNearby 
-                  gem={p} 
-                  budget={Number(tripForm.budget) || 50000} 
-                />
-              </div>
-            )}
-          </article>
+          <HiddenGemCard key={p._id} gem={p} isSelected={selectedGemId === p._id} tripBudget={tripBudget} />
         ))}
       </section>
     </main>

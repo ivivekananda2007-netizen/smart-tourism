@@ -45,6 +45,21 @@ const tripSchema = new mongoose.Schema(
     travelStyle: { type: String, enum: ["luxury", "budget", "solo", "family"], default: "budget" },
     interests: [String],
     itinerary: [dayPlanSchema],
+    recommendedHotels: [
+      {
+        hotelId: String,
+        name: String,
+        city: String,
+        state: String,
+        pricePerNight: Number,
+        rating: Number,
+        category: String,
+        amenities: [String],
+        website: String,
+        phone: String,
+        email: String
+      }
+    ],
     budgetBreakdown: {
       accommodation: Number,
       food: Number,

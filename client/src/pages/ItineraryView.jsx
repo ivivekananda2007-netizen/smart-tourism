@@ -29,11 +29,29 @@ export default function ItineraryView() {
   const { id } = useParams();
   const [trip, setTrip] = useState(null);
   const [activeDay, setActiveDay] = useState(1);
+  const [hotelLoading, setHotelLoading] = useState(false);
 
   const load = async () => {
     const { data } = await api.get(`/trips/${id}`);
-    setTrip(data);
-    setActiveDay(1);
+    let nextTrip = data;
+
+    // Backfill hotels for older trips that were generated before hotel recommendations existed.
+    if (!Array.isArray(data.recommendedHotels) || data.recommendedHotels.length === 0) {
+      try {
+        setHotelLoading(true);
+        const { data: hotelData } = await api.post(`/trips/${id}/recommend-hotels`);
+        nextTrip = { ...data, recommendedHotels: hotelData.recommendedHotels || [] };
+      } catch (_) {
+        nextTrip = { ...data, recommendedHotels: [] };
+      } finally {
+        setHotelLoading(false);
+      }
+    } else {
+      setHotelLoading(false);
+    }
+
+    setTrip(nextTrip);
+    setActiveDay((prev) => (prev > 0 ? prev : 1));
   };
 
   useEffect(() => {
@@ -118,6 +136,36 @@ export default function ItineraryView() {
           </DndContext>
         </section>
       )}
+
+      <section className="card">
+        <h3>Recommended Hotels</h3>
+        {hotelLoading && <p className="muted">Finding best hotels for your destination and budget...</p>}
+        {!hotelLoading && Array.isArray(trip.recommendedHotels) && trip.recommendedHotels.length === 0 && (
+          <p className="muted">No direct hotel mapping found for this exact place. Try generating a new trip or a nearby destination name.</p>
+        )}
+        {!hotelLoading && Array.isArray(trip.recommendedHotels) && trip.recommendedHotels.length > 0 && (
+          <>
+            <p className="muted">Hotels are filtered for your destination and trip budget.</p>
+            <div className="cards">
+              {trip.recommendedHotels.map((hotel, idx) => (
+                <article key={`${hotel.hotelId || hotel.name}-${idx}`} className="card trip-card">
+                  <h4>{hotel.name}</h4>
+                  <p className="muted">
+                    {hotel.city}, {hotel.state}
+                  </p>
+                  <p>
+                    INR {hotel.pricePerNight}/night | Rating {hotel.rating}
+                  </p>
+                  <p className="muted">Category: {hotel.category}</p>
+                  {Array.isArray(hotel.amenities) && hotel.amenities.length > 0 && (
+                    <p className="muted">{hotel.amenities.slice(0, 4).join(" | ")}</p>
+                  )}
+                </article>
+              ))}
+            </div>
+          </>
+        )}
+      </section>
     </main>
   );
 }
