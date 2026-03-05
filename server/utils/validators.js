@@ -2,7 +2,9 @@ function validateTripGenerationInput(body) {
   const required = ["destination", "startDate", "endDate", "budget"];
   const missing = required.filter((k) => !body[k]);
   if (missing.length > 0) return `Missing required fields: ${missing.join(", ")}`;
-  if (Number(body.budget) <= 0) return "Budget must be greater than zero";
+  const budget = Number(body.budget);
+  if (!Number.isFinite(budget) || budget <= 0) return "Budget must be greater than zero";
+  if (budget < 5000) return "Please enter an amount above ₹5000.";
   const start = new Date(body.startDate);
   const end = new Date(body.endDate);
   if (Number.isNaN(start.getTime()) || Number.isNaN(end.getTime())) return "Invalid date input";

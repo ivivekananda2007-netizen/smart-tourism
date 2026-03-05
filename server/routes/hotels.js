@@ -1,7 +1,7 @@
 const express = require("express");
-const fs = require("fs");
-const path = require("path");
 const Hotel = require("../models/Hotel");
+const { fetchOverpassHotelsAround, fetchHotelsByDestination } = require("../services/osmHotelService");
+const { getDatasetHotels } = require("../services/localHotelsService");
 
 const router = express.Router();
 
@@ -249,193 +249,8 @@ function sortHotels(hotels, sortBy) {
   }
 }
 
-function valueFromKeys(obj, keys) {
-  for (const key of keys) {
-    const val = obj?.[key];
-    if (val !== undefined && val !== null && String(val).trim() !== "") return val;
-  }
-  return "";
-}
-
-function parsePriceToNumber(value, fallback = 2000) {
-  const nums = String(value || "")
-    .match(/\d+(\.\d+)?/g);
-  if (!nums || nums.length === 0) return fallback;
-  const parts = nums.map(Number).filter(Number.isFinite);
-  if (parts.length === 0) return fallback;
-  if (parts.length === 1) return Math.round(parts[0]);
-  return Math.round(parts.reduce((a, b) => a + b, 0) / parts.length);
-}
-
-function parseRecordsFromFile(raw) {
-  try {
-    const parsed = JSON.parse(raw);
-    if (Array.isArray(parsed)) return parsed;
-    if (parsed && typeof parsed === "object") return [parsed];
-    return [];
-  } catch (_) {
-    const chunks = [];
-    let depth = 0;
-    let start = -1;
-    for (let i = 0; i < raw.length; i += 1) {
-      if (raw[i] === "{") {
-        if (depth === 0) start = i;
-        depth += 1;
-      } else if (raw[i] === "}") {
-        depth -= 1;
-        if (depth === 0 && start >= 0) {
-          chunks.push(raw.slice(start, i + 1));
-          start = -1;
-        }
-      }
-    }
-    const records = [];
-    for (const chunk of chunks) {
-      try {
-        records.push(JSON.parse(chunk));
-      } catch (_) {
-        // ignore malformed object chunks
-      }
-    }
-    return records;
-  }
-}
-
-function inferCategoryFromTier(tierKey, price) {
-  const t = String(tierKey || "").toLowerCase();
-  if (t.includes("luxury") || price >= 8000) return "luxury-plus";
-  if (t.includes("premium") || t.includes("deluxe") || price >= 5000) return "luxury";
-  if (t.includes("normal") || t.includes("standard") || price >= 2200) return "mid-range";
-  return "budget";
-}
-
-function ratingFromCategory(category) {
-  if (category === "luxury-plus") return 4.8;
-  if (category === "luxury") return 4.6;
-  if (category === "mid-range") return 4.3;
-  return 3.9;
-}
-
-function extractHotelsFromAccommodation(accommodation) {
-  if (!accommodation || typeof accommodation !== "object") return [];
-  const out = [];
-
-  for (const [tier, info] of Object.entries(accommodation)) {
-    if (Array.isArray(info)) {
-      info.forEach((entry) => {
-        const name = String(valueFromKeys(entry, ["hotel_name", "hotelName", "name"])).trim();
-        if (!name) return;
-        const price = parsePriceToNumber(
-          valueFromKeys(entry, ["price_per_night_inr", "avg_price_per_night", "price", "pricePerNight"]),
-          2200
-        );
-        out.push({ tier, name, price });
-      });
-      continue;
-    }
-
-    const name = String(valueFromKeys(info, ["hotel_name", "hotelName", "name"])).trim();
-    if (!name) continue;
-    const price = parsePriceToNumber(
-      valueFromKeys(info, ["price_per_night_inr", "avg_price_per_night", "price", "pricePerNight"]),
-      2200
-    );
-    out.push({ tier, name, price });
-  }
-
-  return out;
-}
-
-function hashOffset(seed, min, max) {
-  let h = 0;
-  const text = String(seed || "");
-  for (let i = 0; i < text.length; i += 1) h = (h * 31 + text.charCodeAt(i)) | 0;
-  const normalized = Math.abs(h % 100000) / 100000;
-  return min + (max - min) * normalized;
-}
-
-let datasetHotelsCache = null;
-let datasetHotelsCacheTs = 0;
-
-function loadDatasetHotels() {
-  const now = Date.now();
-  if (datasetHotelsCache && now - datasetHotelsCacheTs < 10 * 60 * 1000) {
-    return datasetHotelsCache;
-  }
-
-  const datasetDir = path.resolve(__dirname, "../../datasets");
-  let files = [];
-  try {
-    files = fs.readdirSync(datasetDir).filter((f) => f.toLowerCase().endsWith(".json"));
-  } catch (error) {
-    console.warn("Dataset folder not readable for hotels extraction:", error.message);
-    datasetHotelsCache = [];
-    datasetHotelsCacheTs = now;
-    return datasetHotelsCache;
-  }
-
-  const dedupe = new Map();
-
-  for (const file of files) {
-    let records = [];
-    try {
-      const raw = fs.readFileSync(path.join(datasetDir, file), "utf8");
-      records = parseRecordsFromFile(raw);
-    } catch (_) {
-      continue;
-    }
-
-    for (const rec of records) {
-      const state = String(valueFromKeys(rec, ["state", "State"])).trim();
-      const city = String(valueFromKeys(rec, ["city", "city_town", "cityTown", "CityTown", "town"])).trim();
-      const baseLat = Number(valueFromKeys(rec, ["latitude", "Latitude"]));
-      const baseLon = Number(valueFromKeys(rec, ["longitude", "Longitude"]));
-      const accommodation = rec?.accommodation;
-      if (!state || !city || !accommodation || typeof accommodation !== "object") continue;
-      if (!Number.isFinite(baseLat) || !Number.isFinite(baseLon)) continue;
-
-      const extractedHotels = extractHotelsFromAccommodation(accommodation);
-      for (const h of extractedHotels) {
-        const hotelName = h.name;
-        const price = h.price;
-        const tier = h.tier;
-        const category = inferCategoryFromTier(tier, price);
-        const key = `${state}|${city}|${hotelName}`.toLowerCase();
-
-        const existing = dedupe.get(key);
-        if (existing) {
-          existing.pricePerNight = Math.round((existing.pricePerNight + price) / 2);
-          continue;
-        }
-
-        const lat = baseLat + hashOffset(`${hotelName}:lat`, -0.03, 0.03);
-        const lon = baseLon + hashOffset(`${hotelName}:lon`, -0.03, 0.03);
-
-        dedupe.set(key, {
-          _id: `dataset-${Buffer.from(key).toString("base64").replace(/=+$/g, "").slice(0, 24)}`,
-          name: hotelName,
-          city,
-          state,
-          location: { latitude: lat, longitude: lon },
-          pricePerNight: price,
-          rating: ratingFromCategory(category),
-          category,
-          amenities: ["WiFi", "AC"],
-          roomTypes: [{ type: "Standard", basePrice: price, capacity: 2, available: true }],
-          description: `Hotel in ${city}, ${state}`
-        });
-      }
-    }
-  }
-
-  datasetHotelsCache = Array.from(dedupe.values());
-  datasetHotelsCacheTs = now;
-  return datasetHotelsCache;
-}
-
 async function getHotelsData() {
-  const datasetHotels = loadDatasetHotels();
-
+  const datasetHotels = getDatasetHotels();
   if (Hotel?.db?.readyState === 1) {
     try {
       const hotels = await Hotel.find({}).lean();
@@ -448,10 +263,9 @@ async function getHotelsData() {
         return Array.from(merged.values());
       }
     } catch (error) {
-      console.warn("Using fallback hotel dataset due to DB read error:", error.message);
+      console.warn("Using fallback hotels due to DB read error:", error.message);
     }
   }
-
   const merged = new Map();
   [...datasetHotels, ...FALLBACK_HOTELS].forEach((h) => {
     const key = `${h.name}|${h.city}|${h.state}`.toLowerCase();
@@ -474,7 +288,18 @@ router.get("/near-gem", async (req, res, next) => {
     const maxDist = parseFloat(maxDistance);
     const maxBudget = maxPrice ? parseFloat(maxPrice) : 10000;
     const minRatingValue = parseFloat(minRating);
-    const allHotels = await getHotelsData();
+    const useDynamicHotels = String(process.env.HOTELS_SOURCE || "local").toLowerCase() === "dynamic";
+    let allHotels = await getHotelsData();
+    if (useDynamicHotels) {
+      const dynamicHotels = await fetchOverpassHotelsAround({
+        latitude: lat,
+        longitude: lon,
+        radiusMeters: Math.round(maxDist * 1000)
+      }).catch(() => []);
+      if (Array.isArray(dynamicHotels) && dynamicHotels.length > 0) {
+        allHotels = dynamicHotels;
+      }
+    }
 
     // Pass 1: strict filter (distance + budget + rating + category)
     let hotelsNearby = allHotels
@@ -557,7 +382,14 @@ router.get("/by-city", async (req, res, next) => {
     const minRatingValue = parseFloat(minRating);
     const cityRegex = new RegExp(city, "i");
     const stateRegex = state ? new RegExp(state, "i") : null;
-    const allHotels = await getHotelsData();
+    const useDynamicHotels = String(process.env.HOTELS_SOURCE || "local").toLowerCase() === "dynamic";
+    let allHotels = await getHotelsData();
+    if (useDynamicHotels) {
+      const dynamicHotels = await fetchHotelsByDestination(`${city}${state ? `, ${state}` : ""}`, 30000).catch(() => []);
+      if (Array.isArray(dynamicHotels) && dynamicHotels.length > 0) {
+        allHotels = dynamicHotels;
+      }
+    }
 
     // Filter using hotel dataset
     const hotels = allHotels.filter(h => {
@@ -583,7 +415,15 @@ router.get("/by-city", async (req, res, next) => {
 router.get("/", async (req, res, next) => {
   try {
     const { city, state, maxPrice, minRating = 3, category, search, sortBy = "rating" } = req.query;
-    const allHotels = await getHotelsData();
+    let allHotels = await getHotelsData();
+    const useDynamicHotels = String(process.env.HOTELS_SOURCE || "local").toLowerCase() === "dynamic";
+    if (useDynamicHotels && (city || search)) {
+      const q = city || search;
+      const dynamicHotels = await fetchHotelsByDestination(q, 32000).catch(() => []);
+      if (Array.isArray(dynamicHotels) && dynamicHotels.length > 0) {
+        allHotels = dynamicHotels;
+      }
+    }
 
     // Filter using hotel dataset
     let hotels = allHotels.filter(h => {

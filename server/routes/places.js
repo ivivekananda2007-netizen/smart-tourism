@@ -1,7 +1,12 @@
 const express = require("express");
 const Place = require("../models/Place");
+const { enrichPlacesWithWikipedia } = require("../services/wikipediaService");
 
 const router = express.Router();
+const hiddenGemsCache = new Map();
+const HIDDEN_GEMS_CACHE_TTL_MS = 120000;
+const DEFAULT_HIDDEN_GEMS_LIMIT = 120;
+const MAX_HIDDEN_GEMS_LIMIT = 200;
 
 function hiddenGemScore(p) {
   const crowdWeight = p.crowdLevel === "low" ? 1 : p.crowdLevel === "medium" ? 0.5 : 0.2;
@@ -11,8 +16,17 @@ function hiddenGemScore(p) {
 router.get("/hidden-gems", async (req, res, next) => {
   try {
     const { state, type, crowdLevel, search, preset } = req.query;
-    console.log("🔍 /hidden-gems request:", { state, type, crowdLevel, search, preset });
-    
+    const requestedLimit = Number(req.query.limit);
+    const limit = Number.isFinite(requestedLimit)
+      ? Math.max(20, Math.min(MAX_HIDDEN_GEMS_LIMIT, Math.floor(requestedLimit)))
+      : DEFAULT_HIDDEN_GEMS_LIMIT;
+
+    const cacheKey = JSON.stringify({ state, type, crowdLevel, search, preset, limit });
+    const cached = hiddenGemsCache.get(cacheKey);
+    if (cached && Date.now() - cached.ts < HIDDEN_GEMS_CACHE_TTL_MS) {
+      return res.json(cached.data);
+    }
+
     const filter = { hiddenGem: true, crowdLevel: { $in: ["low", "medium"] } };
     if (state) filter.state = new RegExp(String(state), "i");
     if (type) filter.type = String(type).toLowerCase();
@@ -30,17 +44,17 @@ router.get("/hidden-gems", async (req, res, next) => {
       filter.type = "food";
     }
 
-    console.log("📋 Applying filter:", JSON.stringify(filter));
     const places = await Place.find(filter).lean();
-    console.log(`✅ Found ${places.length} places`);
-    
     if (!places || places.length === 0) {
-      console.warn("⚠️ No hidden gems found with filter:", filter);
+      hiddenGemsCache.set(cacheKey, { ts: Date.now(), data: [] });
       return res.json([]);
     }
-    res.json(places.sort((a, b) => hiddenGemScore(b) - hiddenGemScore(a)));
+
+    const sorted = places.sort((a, b) => hiddenGemScore(b) - hiddenGemScore(a)).slice(0, limit);
+    const enriched = await enrichPlacesWithWikipedia(sorted, { blocking: false });
+    hiddenGemsCache.set(cacheKey, { ts: Date.now(), data: enriched });
+    res.json(enriched);
   } catch (e) {
-    console.error("❌ Error in hidden-gems endpoint:", e.message);
     next(e);
   }
 });
@@ -72,7 +86,8 @@ router.get("/", async (req, res, next) => {
 
     const places = await Place.find(filter).lean();
     const sorted = places.sort((a, b) => hiddenGemScore(b) - hiddenGemScore(a));
-    res.json(sorted);
+    const enriched = await enrichPlacesWithWikipedia(sorted);
+    res.json(enriched);
   } catch (e) {
     next(e);
   }
@@ -115,7 +130,9 @@ router.get("/by-destination/:destination", async (req, res, next) => {
       }
     });
 
-    res.json({ places: items.sort((a, b) => hiddenGemScore(b) - hiddenGemScore(a)), recommendations });
+    const sortedPlaces = items.sort((a, b) => hiddenGemScore(b) - hiddenGemScore(a));
+    const enrichedPlaces = await enrichPlacesWithWikipedia(sortedPlaces);
+    res.json({ places: enrichedPlaces, recommendations });
   } catch (e) {
     next(e);
   }

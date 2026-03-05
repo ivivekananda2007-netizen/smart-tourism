@@ -55,8 +55,7 @@ export default function HiddenGems() {
     state: searchParams.get("state") || "",
     type: searchParams.get("type") || "",
     hiddenGem: true,
-    search: searchParams.get("search") || "",
-    preset: searchParams.get("preset") || ""
+    search: searchParams.get("search") || ""
   }));
 
   useEffect(() => {
@@ -199,15 +198,6 @@ export default function HiddenGems() {
                   {s}
                 </option>
               ))}
-            </select>
-          </label>
-          <label>
-            Preset
-            <select value={filters.preset} onChange={(e) => setFilters((prev) => ({ ...prev, preset: e.target.value }))}>
-              <option value="">No preset</option>
-              <option value="quiet">Quiet</option>
-              <option value="photography">Photography</option>
-              <option value="local-food">Local food</option>
             </select>
           </label>
         </div>

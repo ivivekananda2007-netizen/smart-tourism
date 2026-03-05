@@ -6,11 +6,13 @@ import { useTripForm } from "../context/TripContext";
 
 const INTERESTS = ["nature", "food", "adventure", "culture", "photography", "historical", "religious", "beach", "wildlife", "hill"];
 const STYLES = ["budget", "solo", "family", "luxury"];
+const MIN_BUDGET_INR = 5000;
 
 export default function PlannerWizard() {
   const [loading, setLoading] = useState(false);
   const [progress, setProgress] = useState(0);
   const [messageIndex, setMessageIndex] = useState(0);
+  const [budgetError, setBudgetError] = useState("");
   const { tripForm, updateForm, resetForm } = useTripForm();
   const navigate = useNavigate();
   const loadingMessages = [
@@ -50,8 +52,23 @@ export default function PlannerWizard() {
     updateForm({ interests: has ? tripForm.interests.filter((i) => i !== x) : [...tripForm.interests, x] });
   };
 
+  const handleBudgetChange = (value) => {
+    updateForm({ budget: value });
+    const numericBudget = Number(value);
+    if (value && Number.isFinite(numericBudget) && numericBudget < MIN_BUDGET_INR) {
+      setBudgetError("Please enter an amount above ₹5000.");
+      return;
+    }
+    setBudgetError("");
+  };
+
   const onSubmit = async (e) => {
     e.preventDefault();
+    const numericBudget = Number(tripForm.budget);
+    if (!Number.isFinite(numericBudget) || numericBudget < MIN_BUDGET_INR) {
+      setBudgetError("Please enter an amount above ₹5000.");
+      return;
+    }
     try {
       setLoading(true);
       const { data } = await api.post("/trips/generate", tripForm);
@@ -199,7 +216,21 @@ export default function PlannerWizard() {
             </label>
             <label>
               Total budget (INR)
-              <input type="number" placeholder="50000" value={tripForm.budget} onChange={(e) => updateForm({ budget: e.target.value })} />
+              <input
+                type="number"
+                min={MIN_BUDGET_INR}
+                placeholder="50000"
+                value={tripForm.budget}
+                onChange={(e) => handleBudgetChange(e.target.value)}
+                aria-invalid={Boolean(budgetError)}
+                aria-describedby="budget-error"
+              />
+              <span className="muted">Minimum budget: ₹5000</span>
+              {budgetError && (
+                <span id="budget-error" style={{ color: "#b42334", fontWeight: 700 }}>
+                  {budgetError}
+                </span>
+              )}
             </label>
           </div>
 
@@ -225,7 +256,7 @@ export default function PlannerWizard() {
             </select>
           </label>
 
-          <button disabled={loading} className="btn" type="submit">
+          <button disabled={loading || Boolean(budgetError)} className="btn" type="submit">
             {loading ? "Generating..." : "Generate Trip Plan"}
           </button>
         </form>

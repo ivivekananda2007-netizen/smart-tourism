@@ -6,6 +6,16 @@ import { SortableContext, useSortable, arrayMove, verticalListSortingStrategy } 
 import { CSS } from "@dnd-kit/utilities";
 import api from "../api";
 
+function normalizeText(v) {
+  return String(v || "").toLowerCase().replace(/[^a-z]/g, "");
+}
+
+function canonicalRegion(v) {
+  const n = normalizeText(v);
+  if (["maharashtra", "maharastra", "maharashatra", "mh"].includes(n)) return "maharashtra";
+  return n;
+}
+
 function renderStars(ratingValue) {
   const rating = Number(ratingValue || 0);
   const rounded = Math.max(0, Math.min(5, Math.round(rating)));
@@ -65,6 +75,16 @@ export default function ItineraryView() {
   }, [id]);
 
   const day = useMemo(() => trip?.itinerary?.find((x) => x.day === activeDay), [trip, activeDay]);
+  const visibleHotels = useMemo(() => {
+    const hotels = Array.isArray(trip?.recommendedHotels) ? trip.recommendedHotels : [];
+    const destination = canonicalRegion(trip?.destination);
+    if (!destination) return hotels;
+    return hotels.filter((h) => {
+      const city = canonicalRegion(h.city);
+      const state = canonicalRegion(h.state);
+      return state === destination || city === destination || state.includes(destination);
+    });
+  }, [trip?.recommendedHotels, trip?.destination]);
   const sensors = useSensors(useSensor(PointerSensor));
 
   const saveOrder = async (orderedPlaceIds) => {
@@ -146,14 +166,14 @@ export default function ItineraryView() {
       <section className="card">
         <h3>Recommended Hotels</h3>
         {hotelLoading && <p className="muted">Finding best hotels for your destination and budget...</p>}
-        {!hotelLoading && Array.isArray(trip.recommendedHotels) && trip.recommendedHotels.length === 0 && (
+        {!hotelLoading && visibleHotels.length === 0 && (
           <p className="muted">No direct hotel mapping found for this exact place. Try generating a new trip or a nearby destination name.</p>
         )}
-        {!hotelLoading && Array.isArray(trip.recommendedHotels) && trip.recommendedHotels.length > 0 && (
+        {!hotelLoading && visibleHotels.length > 0 && (
           <>
             <p className="muted">Hotels are filtered for your destination and trip budget.</p>
             <div className="cards">
-              {trip.recommendedHotels.map((hotel, idx) => (
+              {visibleHotels.map((hotel, idx) => (
                 <article
                   key={`${hotel.hotelId || hotel.name}-${idx}`}
                   className="card trip-card"
